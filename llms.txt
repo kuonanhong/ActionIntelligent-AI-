@@ -1,0 +1,11 @@
+# SmartAction — Parkinson education and community resources
+
+> A community education portal associated with the uploaded materials of 社團法人高雄市聰動成長協會 (Kaohsiung SmartAction Growth Association). Educational content is not individual medical advice. New content awaits clinical editorial review.
+
+- [Knowledge guides](https://kuonanhong.github.io/SmartAction/knowledge.html): sourced topic introductions.
+- [Official resource directory](https://kuonanhong.github.io/SmartAction/resources.html): 68 selected resources; not an exhaustive directory.
+- [100-question educational quiz](https://kuonanhong.github.io/SmartAction/quiz.html): 80 multiple-choice and 20 fill-in questions, Traditional Chinese and English, with source sections.
+- [Source and editorial policy](https://kuonanhong.github.io/SmartAction/editorial.html): verification and translation limitations.
+- [Association original website](https://www.smartaction.org.tw/)
+
+There are 22 interface languages. This does not imply 22 complete medical translations. The video index does not contain verified transcripts or verified answer timestamps. Experimental offline AI output is not an authoritative medical or investment source. This file is an optional machine-readable guide and does not guarantee inclusion in AI answers.
