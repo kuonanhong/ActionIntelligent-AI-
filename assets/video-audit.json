@@ -1,0 +1,1136 @@
+{
+  "auditVersion": 1,
+  "auditDate": "2026-10-09",
+  "timezone": "Asia/Taipei",
+  "scope": "Uploaded 20261007 website snapshot HTML/JS/MJS/JSON; original site homepage and two article pages; 12-page and 44-page request PDFs. This is a source inventory, not a claim to have watched every video.",
+  "baseline": {
+    "fileCount": 586,
+    "htmlCount": 413,
+    "uncompressedBytes": 31420536,
+    "articleCount": 48
+  },
+  "channel": "https://www.youtube.com/@聰動成長協會",
+  "uniqueVideoCount": 14,
+  "manifestVideoCount": 10,
+  "rawUrlOccurrences": 468,
+  "videos": [
+    {
+      "id": "-gxM2f04fjk",
+      "title": "聰動成長協會紀錄片【不夠溫柔】",
+      "url": "https://www.youtube.com/watch?v=-gxM2f04fjk",
+      "titleEvidence": "uploaded_html_or_article_context",
+      "metadataVerifiedOnline": false,
+      "fullVideoReviewed": false,
+      "transcriptStatus": "unavailable_in_this_session",
+      "chaptersVerified": false,
+      "verifiedStartSeconds": null,
+      "verifiedTimestamps": [],
+      "originalUrlOffsets": [],
+      "offsetWarning": "Original link offsets are navigational metadata only; they are not verified answer timestamps.",
+      "sourcePaths": [
+        "en/index.html",
+        "en/社團法人高雄市聰動成長協會.html",
+        "es/index.html",
+        "es/社團法人高雄市聰動成長協會.html",
+        "fr/index.html",
+        "fr/社團法人高雄市聰動成長協會.html",
+        "index.html",
+        "ja/index.html",
+        "ja/社團法人高雄市聰動成長協會.html",
+        "zh-CN/index.html",
+        "zh-CN/社團法人高雄市聰動成長協會.html",
+        "社團法人高雄市聰動成長協會.html"
+      ],
+      "sourceUrls": [
+        "https://www.youtube-nocookie.com/embed/-gxM2f04fjk",
+        "https://www.youtube.com/watch?v=-gxM2f04fjk"
+      ],
+      "rawUrlOccurrences": 36,
+      "legacyDisplayedTitles": [
+        "Documentaire de l’Association SmartAction 【Pas assez de douceur】",
+        "Documental de la Asociación SmartAction «No soy lo bastante tierno»",
+        "SmartAction Growth Association documentary 【Not Gentle Enough】",
+        "Ver en YouTube: Documental de la Asociación SmartAction «No soy lo bastante tierno»",
+        "Voir sur YouTube : documentaire de l’Association SmartAction 【Pas assez de douceur】",
+        "Watch on YouTube: SmartAction Growth Association documentary 【Not Gentle Enough】",
+        "YouTubeで見る：聰動成長協会ドキュメンタリー『十分に優しくない』",
+        "在 YouTube 觀看：聰動成長協會紀錄片【不夠溫柔】",
+        "在 YouTube 观看：聪动成长协会纪录片【不够温柔】",
+        "聪动成长协会纪录片【不够温柔】",
+        "聰動成長協会ドキュメンタリー『十分に優しくない』",
+        "聰動成長協會紀錄片【不夠溫柔】"
+      ]
+    },
+    {
+      "id": "1ZQsvOc_i9I",
+      "title": "聰動成長協會紀錄片【愛不怕】",
+      "url": "https://www.youtube.com/watch?v=1ZQsvOc_i9I",
+      "titleEvidence": "uploaded_html_or_article_context",
+      "metadataVerifiedOnline": false,
+      "fullVideoReviewed": false,
+      "transcriptStatus": "unavailable_in_this_session",
+      "chaptersVerified": false,
+      "verifiedStartSeconds": null,
+      "verifiedTimestamps": [],
+      "originalUrlOffsets": [],
+      "offsetWarning": "Original link offsets are navigational metadata only; they are not verified answer timestamps.",
+      "sourcePaths": [
+        "en/index.html",
+        "en/社團法人高雄市聰動成長協會.html",
+        "es/index.html",
+        "es/社團法人高雄市聰動成長協會.html",
+        "fr/index.html",
+        "fr/社團法人高雄市聰動成長協會.html",
+        "index.html",
+        "ja/index.html",
+        "ja/社團法人高雄市聰動成長協會.html",
+        "zh-CN/index.html",
+        "zh-CN/社團法人高雄市聰動成長協會.html",
+        "社團法人高雄市聰動成長協會.html"
+      ],
+      "sourceUrls": [
+        "https://www.youtube-nocookie.com/embed/1ZQsvOc_i9I",
+        "https://www.youtube.com/watch?v=1ZQsvOc_i9I"
+      ],
+      "rawUrlOccurrences": 24,
+      "legacyDisplayedTitles": [
+        "Documentaire de l’Association SmartAction 【L’amour sans peur】",
+        "Documental de la Asociación SmartAction «El amor no tiene miedo»",
+        "SmartAction Growth Association documentary 【Love Without Fear】",
+        "Ver en YouTube: Documental de la Asociación SmartAction «El amor no tiene miedo»",
+        "Voir sur YouTube : documentaire de l’Association SmartAction 【L’amour sans peur】",
+        "Watch on YouTube: SmartAction Growth Association documentary 【Love Without Fear】",
+        "YouTubeで見る：聰動成長協会ドキュメンタリー『愛は恐れない』",
+        "在 YouTube 觀看：聰動成長協會紀錄片【愛不怕】",
+        "在 YouTube 观看：聪动成长协会纪录片【爱不怕】",
+        "聪动成长协会纪录片【爱不怕】",
+        "聰動成長協会ドキュメンタリー『愛は恐れない』",
+        "聰動成長協會紀錄片【愛不怕】"
+      ]
+    },
+    {
+      "id": "8pFRiPK925o",
+      "title": "巴金森氏病藥效波動（依首頁連結說明）",
+      "url": "https://www.youtube.com/watch?v=8pFRiPK925o",
+      "titleEvidence": "uploaded_html_or_article_context",
+      "metadataVerifiedOnline": false,
+      "fullVideoReviewed": false,
+      "transcriptStatus": "unavailable_in_this_session",
+      "chaptersVerified": false,
+      "verifiedStartSeconds": null,
+      "verifiedTimestamps": [],
+      "originalUrlOffsets": [],
+      "offsetWarning": "Original link offsets are navigational metadata only; they are not verified answer timestamps.",
+      "sourcePaths": [
+        "en/index.html",
+        "en/社團法人高雄市聰動成長協會.html",
+        "es/index.html",
+        "es/社團法人高雄市聰動成長協會.html",
+        "fr/index.html",
+        "fr/社團法人高雄市聰動成長協會.html",
+        "index.html",
+        "ja/index.html",
+        "ja/社團法人高雄市聰動成長協會.html",
+        "zh-CN/index.html",
+        "zh-CN/社團法人高雄市聰動成長協會.html",
+        "社團法人高雄市聰動成長協會.html"
+      ],
+      "sourceUrls": [
+        "https://youtu.be/8pFRiPK925o?si=uTbPgB5oZskbATNx"
+      ],
+      "rawUrlOccurrences": 12,
+      "legacyDisplayedTitles": [
+        "Abrir",
+        "Click here",
+        "Cliquer ici",
+        "こちらをクリック",
+        "点我"
+      ]
+    },
+    {
+      "id": "DnsLnUcrbUI",
+      "title": "2025/07/05 營養活動文章內嵌影片（原始影片標題未取得）",
+      "url": "https://www.youtube.com/watch?v=DnsLnUcrbUI",
+      "titleEvidence": "uploaded_html_or_article_context",
+      "metadataVerifiedOnline": false,
+      "fullVideoReviewed": false,
+      "transcriptStatus": "unavailable_in_this_session",
+      "chaptersVerified": false,
+      "verifiedStartSeconds": null,
+      "verifiedTimestamps": [],
+      "originalUrlOffsets": [],
+      "offsetWarning": "Original link offsets are navigational metadata only; they are not verified answer timestamps.",
+      "sourcePaths": [
+        "blog/activity-1140705.html",
+        "en/blog/activity-1140705.html",
+        "es/blog/activity-1140705.html",
+        "fr/blog/activity-1140705.html",
+        "ja/blog/activity-1140705.html",
+        "zh-CN/blog/activity-1140705.html"
+      ],
+      "sourceUrls": [
+        "https://www.youtube-nocookie.com/embed/DnsLnUcrbUI",
+        "https://www.youtube.com/watch?v=DnsLnUcrbUI"
+      ],
+      "rawUrlOccurrences": 12,
+      "legacyDisplayedTitles": [
+        "Regarder sur YouTube : Vidéo",
+        "Ver en YouTube: vídeo",
+        "Video",
+        "Vidéo",
+        "Vídeo",
+        "Watch on YouTube: Video",
+        "YouTubeで見る：動画",
+        "動画",
+        "在 YouTube 觀看：影片",
+        "在 YouTube 观看：影片",
+        "影片"
+      ]
+    },
+    {
+      "id": "EOcoXNcFNh0",
+      "title": "0217高雄市聰動成長協會   YouTube 720p",
+      "url": "https://www.youtube.com/watch?v=EOcoXNcFNh0",
+      "titleEvidence": "uploaded_html_or_article_context",
+      "metadataVerifiedOnline": false,
+      "fullVideoReviewed": false,
+      "transcriptStatus": "unavailable_in_this_session",
+      "chaptersVerified": false,
+      "verifiedStartSeconds": null,
+      "verifiedTimestamps": [],
+      "originalUrlOffsets": [],
+      "offsetWarning": "Original link offsets are navigational metadata only; they are not verified answer timestamps.",
+      "sourcePaths": [
+        "en/index.html",
+        "en/社團法人高雄市聰動成長協會.html",
+        "es/index.html",
+        "es/社團法人高雄市聰動成長協會.html",
+        "fr/index.html",
+        "fr/社團法人高雄市聰動成長協會.html",
+        "index.html",
+        "ja/index.html",
+        "ja/社團法人高雄市聰動成長協會.html",
+        "zh-CN/index.html",
+        "zh-CN/社團法人高雄市聰動成長協會.html",
+        "社團法人高雄市聰動成長協會.html"
+      ],
+      "sourceUrls": [
+        "https://www.youtube-nocookie.com/embed/EOcoXNcFNh0",
+        "https://www.youtube.com/watch?v=EOcoXNcFNh0"
+      ],
+      "rawUrlOccurrences": 36,
+      "legacyDisplayedTitles": [
+        "0217 Asociación SmartAction de Kaohsiung — YouTube 720p",
+        "0217 Association SmartAction pour le développement de Kaohsiung — YouTube 720p",
+        "0217 Kaohsiung SmartAction Growth Association — YouTube 720p",
+        "0217 高雄市聰動成長協会 YouTube 720p",
+        "0217高雄市聪动成长协会   YouTube 720p",
+        "0217高雄市聰動成長協會   YouTube 720p",
+        "Ver en YouTube: 0217 Asociación SmartAction de Kaohsiung — YouTube 720p",
+        "Voir sur YouTube : 0217 Association SmartAction pour le développement de Kaohsiung — YouTube 720p",
+        "Watch on YouTube: 0217 Kaohsiung SmartAction Growth Association — YouTube 720p",
+        "YouTubeで見る：0217 高雄市聰動成長協会 YouTube 720p",
+        "在 YouTube 觀看：0217高雄市聰動成長協會   YouTube 720p",
+        "在 YouTube 观看：0217高雄市聪动成长协会   YouTube 720p"
+      ]
+    },
+    {
+      "id": "PV2QZ1o9wz4",
+      "title": "聰動成長協會紀錄片【記得愛】",
+      "url": "https://www.youtube.com/watch?v=PV2QZ1o9wz4",
+      "titleEvidence": "uploaded_html_or_article_context",
+      "metadataVerifiedOnline": false,
+      "fullVideoReviewed": false,
+      "transcriptStatus": "unavailable_in_this_session",
+      "chaptersVerified": false,
+      "verifiedStartSeconds": null,
+      "verifiedTimestamps": [],
+      "originalUrlOffsets": [
+        "52s"
+      ],
+      "offsetWarning": "Original link offsets are navigational metadata only; they are not verified answer timestamps.",
+      "sourcePaths": [
+        "en/index.html",
+        "en/社團法人高雄市聰動成長協會.html",
+        "es/index.html",
+        "es/社團法人高雄市聰動成長協會.html",
+        "fr/index.html",
+        "fr/社團法人高雄市聰動成長協會.html",
+        "index.html",
+        "ja/index.html",
+        "ja/社團法人高雄市聰動成長協會.html",
+        "zh-CN/index.html",
+        "zh-CN/社團法人高雄市聰動成長協會.html",
+        "社團法人高雄市聰動成長協會.html"
+      ],
+      "sourceUrls": [
+        "https://www.youtube-nocookie.com/embed/PV2QZ1o9wz4",
+        "https://www.youtube.com/watch?v=PV2QZ1o9wz4",
+        "https://www.youtube.com/watch?v=PV2QZ1o9wz4&t=52s"
+      ],
+      "rawUrlOccurrences": 36,
+      "legacyDisplayedTitles": [
+        "Documentaire de l’Association SmartAction 【Se souvenir de l’amour】",
+        "Documental de la Asociación SmartAction «Recuerda el amor»",
+        "SmartAction Growth Association documentary 【Remember Love】",
+        "Ver en YouTube: Documental de la Asociación SmartAction «Recuerda el amor»",
+        "Voir sur YouTube : documentaire de l’Association SmartAction 【Se souvenir de l’amour】",
+        "Watch on YouTube: SmartAction Growth Association documentary 【Remember Love】",
+        "YouTubeで見る：聰動成長協会ドキュメンタリー『愛を覚えている』",
+        "在 YouTube 觀看：聰動成長協會紀錄片【記得愛】",
+        "在 YouTube 观看：聪动成长协会纪录片【记得爱】",
+        "聪动成长协会纪录片【记得爱】",
+        "聰動成長協会ドキュメンタリー『愛を覚えている』",
+        "聰動成長協會紀錄片【記得愛】"
+      ]
+    },
+    {
+      "id": "ci3Y687ZkVk",
+      "title": "聰動千歲打擊樂隊",
+      "url": "https://www.youtube.com/watch?v=ci3Y687ZkVk",
+      "titleEvidence": "uploaded_html_or_article_context",
+      "metadataVerifiedOnline": false,
+      "fullVideoReviewed": false,
+      "transcriptStatus": "unavailable_in_this_session",
+      "chaptersVerified": false,
+      "verifiedStartSeconds": null,
+      "verifiedTimestamps": [],
+      "originalUrlOffsets": [],
+      "offsetWarning": "Original link offsets are navigational metadata only; they are not verified answer timestamps.",
+      "sourcePaths": [
+        "en/index.html",
+        "en/社團法人高雄市聰動成長協會.html",
+        "es/index.html",
+        "es/社團法人高雄市聰動成長協會.html",
+        "fr/index.html",
+        "fr/社團法人高雄市聰動成長協會.html",
+        "index.html",
+        "ja/index.html",
+        "ja/社團法人高雄市聰動成長協會.html",
+        "zh-CN/index.html",
+        "zh-CN/社團法人高雄市聰動成長協會.html",
+        "社團法人高雄市聰動成長協會.html"
+      ],
+      "sourceUrls": [
+        "https://www.youtube-nocookie.com/embed/ci3Y687ZkVk",
+        "https://www.youtube.com/watch?v=ci3Y687ZkVk",
+        "https://youtu.be/ci3Y687ZkVk"
+      ],
+      "rawUrlOccurrences": 60,
+      "legacyDisplayedTitles": [
+        "Banda de percusión milenaria de SmartAction",
+        "Ensemble de percussions « Mille ans » de SmartAction",
+        "SmartAction Thousand-Year Percussion Ensemble",
+        "Ver en YouTube: Banda de percusión milenaria de SmartAction",
+        "Voir sur YouTube : ensemble de percussions « Mille ans » de SmartAction",
+        "Watch on YouTube: SmartAction Thousand-Year Percussion Ensemble",
+        "YouTubeで見る：聰動千歳打楽器バンド",
+        "在 YouTube 觀看：聰動千歲打擊樂隊",
+        "在 YouTube 观看：聪动千岁打击乐队",
+        "聪动千岁打击乐队",
+        "聰動千歲打擊樂隊",
+        "聰動千歳打楽器バンド"
+      ]
+    },
+    {
+      "id": "hGQP-BI_tws",
+      "title": "聰動成長協會紀錄片【追風高手】",
+      "url": "https://www.youtube.com/watch?v=hGQP-BI_tws",
+      "titleEvidence": "uploaded_html_or_article_context",
+      "metadataVerifiedOnline": false,
+      "fullVideoReviewed": false,
+      "transcriptStatus": "unavailable_in_this_session",
+      "chaptersVerified": false,
+      "verifiedStartSeconds": null,
+      "verifiedTimestamps": [],
+      "originalUrlOffsets": [],
+      "offsetWarning": "Original link offsets are navigational metadata only; they are not verified answer timestamps.",
+      "sourcePaths": [
+        "en/index.html",
+        "en/社團法人高雄市聰動成長協會.html",
+        "es/index.html",
+        "es/社團法人高雄市聰動成長協會.html",
+        "fr/index.html",
+        "fr/社團法人高雄市聰動成長協會.html",
+        "index.html",
+        "ja/index.html",
+        "ja/社團法人高雄市聰動成長協會.html",
+        "zh-CN/index.html",
+        "zh-CN/社團法人高雄市聰動成長協會.html",
+        "社團法人高雄市聰動成長協會.html"
+      ],
+      "sourceUrls": [
+        "https://www.youtube-nocookie.com/embed/hGQP-BI_tws",
+        "https://www.youtube.com/watch?v=hGQP-BI_tws"
+      ],
+      "rawUrlOccurrences": 36,
+      "legacyDisplayedTitles": [
+        "Documentaire de l’Association SmartAction 【À la poursuite du vent】",
+        "Documental de la Asociación SmartAction «Maestros del viento»",
+        "SmartAction Growth Association documentary 【Chasing the Wind】",
+        "Ver en YouTube: Documental de la Asociación SmartAction «Maestros del viento»",
+        "Voir sur YouTube : documentaire de l’Association SmartAction 【À la poursuite du vent】",
+        "Watch on YouTube: SmartAction Growth Association documentary 【Chasing the Wind】",
+        "YouTubeで見る：聰動成長協会ドキュメンタリー『風を追う達人』",
+        "在 YouTube 觀看：聰動成長協會紀錄片【追風高手】",
+        "在 YouTube 观看：聪动成长协会纪录片【追风高手】",
+        "聪动成长协会纪录片【追风高手】",
+        "聰動成長協会ドキュメンタリー『風を追う達人』",
+        "聰動成長協會紀錄片【追風高手】"
+      ]
+    },
+    {
+      "id": "hpmYN4xfUu0",
+      "title": "聰動協會社交舞106.09.13學員練習[買賣愛情]",
+      "url": "https://www.youtube.com/watch?v=hpmYN4xfUu0",
+      "titleEvidence": "uploaded_html_or_article_context",
+      "metadataVerifiedOnline": false,
+      "fullVideoReviewed": false,
+      "transcriptStatus": "unavailable_in_this_session",
+      "chaptersVerified": false,
+      "verifiedStartSeconds": null,
+      "verifiedTimestamps": [],
+      "originalUrlOffsets": [],
+      "offsetWarning": "Original link offsets are navigational metadata only; they are not verified answer timestamps.",
+      "sourcePaths": [
+        "en/index.html",
+        "en/社團法人高雄市聰動成長協會.html",
+        "es/index.html",
+        "es/社團法人高雄市聰動成長協會.html",
+        "fr/index.html",
+        "fr/社團法人高雄市聰動成長協會.html",
+        "index.html",
+        "ja/index.html",
+        "ja/社團法人高雄市聰動成長協會.html",
+        "zh-CN/index.html",
+        "zh-CN/社團法人高雄市聰動成長協會.html",
+        "社團法人高雄市聰動成長協會.html"
+      ],
+      "sourceUrls": [
+        "https://www.youtube-nocookie.com/embed/hpmYN4xfUu0",
+        "https://www.youtube.com/watch?v=hpmYN4xfUu0"
+      ],
+      "rawUrlOccurrences": 24,
+      "legacyDisplayedTitles": [
+        "Baile de salón de SmartAction, práctica de alumnos 106.09.13 [Compraventa de amor]",
+        "Danse de salon SmartAction, répétition des élèves le 106.09.13 (calendrier de la République de Chine) [Acheter et vendre l’amour]",
+        "SmartAction social dance, student practice ROC 106.09.13 [Buying and Selling Love]",
+        "Ver en YouTube: Baile de salón de SmartAction, práctica de alumnos 106.09.13 [Compraventa de amor]",
+        "Voir sur YouTube : danse de salon SmartAction, répétition des élèves le 106.09.13 (calendrier de la République de Chine) [Acheter et vendre l’amour]",
+        "Watch on YouTube: SmartAction social dance, student practice ROC 106.09.13 [Buying and Selling Love]",
+        "YouTubeで見る：聰動協会の社交ダンス 106.09.13 受講者練習［愛の売買］",
+        "在 YouTube 觀看：聰動協會社交舞106.09.13學員練習[買賣愛情]",
+        "在 YouTube 观看：聪动协会社交舞106.09.13学员练习[买卖爱情]",
+        "聪动协会社交舞106.09.13学员练习[买卖爱情]",
+        "聰動協会の社交ダンス 106.09.13 受講者練習［愛の売買］",
+        "聰動協會社交舞106.09.13學員練習[買賣愛情]"
+      ]
+    },
+    {
+      "id": "ji1aQPlE9kw",
+      "title": "20170125 公視手語新聞 巴金森病友打擊樂團 療癒心靈兼復健",
+      "url": "https://www.youtube.com/watch?v=ji1aQPlE9kw",
+      "titleEvidence": "uploaded_html_or_article_context",
+      "metadataVerifiedOnline": false,
+      "fullVideoReviewed": false,
+      "transcriptStatus": "unavailable_in_this_session",
+      "chaptersVerified": false,
+      "verifiedStartSeconds": null,
+      "verifiedTimestamps": [],
+      "originalUrlOffsets": [
+        "44"
+      ],
+      "offsetWarning": "Original link offsets are navigational metadata only; they are not verified answer timestamps.",
+      "sourcePaths": [
+        "en/index.html",
+        "en/社團法人高雄市聰動成長協會.html",
+        "es/index.html",
+        "es/社團法人高雄市聰動成長協會.html",
+        "fr/index.html",
+        "fr/社團法人高雄市聰動成長協會.html",
+        "index.html",
+        "ja/index.html",
+        "ja/社團法人高雄市聰動成長協會.html",
+        "zh-CN/index.html",
+        "zh-CN/社團法人高雄市聰動成長協會.html",
+        "社團法人高雄市聰動成長協會.html"
+      ],
+      "sourceUrls": [
+        "https://www.youtube-nocookie.com/embed/ji1aQPlE9kw",
+        "https://www.youtube.com/watch?v=ji1aQPlE9kw",
+        "https://youtu.be/ji1aQPlE9kw?t=44"
+      ],
+      "rawUrlOccurrences": 36,
+      "legacyDisplayedTitles": [
+        "20170125 Journal en langue des signes de PTS — un ensemble de percussions de personnes atteintes de Parkinson allie réconfort et rééducation",
+        "20170125 Noticias en lengua de signos de PTS — banda de percusión de personas con Parkinson; bienestar emocional y rehabilitación",
+        "20170125 PTS Sign Language News — Parkinson’s patients’ percussion ensemble offers emotional healing and rehabilitation",
+        "20170125 公視手話ニュース パーキンソン病患者の打楽器バンド、心の癒やしとリハビリ",
+        "20170125 公視手語新聞 巴金森病友打擊樂團 療癒心靈兼復健",
+        "20170125 公视手语新闻 巴金森病友打击乐团 疗愈心灵兼复健",
+        "Ver en YouTube: 20170125 Noticias en lengua de signos de PTS — banda de percusión de personas con Parkinson; bienestar emocional y rehabilitación",
+        "Voir sur YouTube : 20170125 Journal en langue des signes de PTS — un ensemble de percussions de personnes atteintes de Parkinson allie réconfort et rééducation",
+        "Watch on YouTube: 20170125 PTS Sign Language News — Parkinson’s patients’ percussion ensemble offers emotional healing and rehabilitation",
+        "YouTubeで見る：20170125 公視手話ニュース パーキンソン病患者の打楽器バンド、心の癒やしとリハビリ",
+        "在 YouTube 觀看：20170125 公視手語新聞 巴金森病友打擊樂團 療癒心靈兼復健",
+        "在 YouTube 观看：20170125 公视手语新闻 巴金森病友打击乐团 疗愈心灵兼复健"
+      ]
+    },
+    {
+      "id": "kHyaJUp2o8o",
+      "title": "0130 發現新台灣 高雄市聰動成長協會",
+      "url": "https://www.youtube.com/watch?v=kHyaJUp2o8o",
+      "titleEvidence": "uploaded_html_or_article_context",
+      "metadataVerifiedOnline": false,
+      "fullVideoReviewed": false,
+      "transcriptStatus": "unavailable_in_this_session",
+      "chaptersVerified": false,
+      "verifiedStartSeconds": null,
+      "verifiedTimestamps": [],
+      "originalUrlOffsets": [],
+      "offsetWarning": "Original link offsets are navigational metadata only; they are not verified answer timestamps.",
+      "sourcePaths": [
+        "en/index.html",
+        "en/社團法人高雄市聰動成長協會.html",
+        "es/index.html",
+        "es/社團法人高雄市聰動成長協會.html",
+        "fr/index.html",
+        "fr/社團法人高雄市聰動成長協會.html",
+        "index.html",
+        "ja/index.html",
+        "ja/社團法人高雄市聰動成長協會.html",
+        "zh-CN/index.html",
+        "zh-CN/社團法人高雄市聰動成長協會.html",
+        "社團法人高雄市聰動成長協會.html"
+      ],
+      "sourceUrls": [
+        "https://www.youtube-nocookie.com/embed/kHyaJUp2o8o",
+        "https://www.youtube.com/watch?v=kHyaJUp2o8o"
+      ],
+      "rawUrlOccurrences": 24,
+      "legacyDisplayedTitles": [
+        "0130 Descubriendo el nuevo Taiwán — Asociación SmartAction de Kaohsiung",
+        "0130 Discovering a New Taiwan — Kaohsiung SmartAction Growth Association",
+        "0130 Découvrir un nouveau Taïwan — Association SmartAction pour le développement de Kaohsiung",
+        "0130 发现新台湾 高雄市聪动成长协会",
+        "0130 新しい台湾を発見 高雄市聰動成長協会",
+        "0130 發現新台灣 高雄市聰動成長協會",
+        "Ver en YouTube: 0130 Descubriendo el nuevo Taiwán — Asociación SmartAction de Kaohsiung",
+        "Voir sur YouTube : 0130 Découvrir un nouveau Taïwan — Association SmartAction pour le développement de Kaohsiung",
+        "Watch on YouTube: 0130 Discovering a New Taiwan — Kaohsiung SmartAction Growth Association",
+        "YouTubeで見る：0130 新しい台湾を発見 高雄市聰動成長協会",
+        "在 YouTube 觀看：0130 發現新台灣 高雄市聰動成長協會",
+        "在 YouTube 观看：0130 发现新台湾 高雄市聪动成长协会"
+      ]
+    },
+    {
+      "id": "vZjpBRH6y34",
+      "title": "社團法人高雄市聰動成長協會協會會歌 合唱版",
+      "url": "https://www.youtube.com/watch?v=vZjpBRH6y34",
+      "titleEvidence": "uploaded_html_or_article_context",
+      "metadataVerifiedOnline": false,
+      "fullVideoReviewed": false,
+      "transcriptStatus": "unavailable_in_this_session",
+      "chaptersVerified": false,
+      "verifiedStartSeconds": null,
+      "verifiedTimestamps": [],
+      "originalUrlOffsets": [],
+      "offsetWarning": "Original link offsets are navigational metadata only; they are not verified answer timestamps.",
+      "sourcePaths": [
+        "en/index.html",
+        "en/社團法人高雄市聰動成長協會.html",
+        "es/index.html",
+        "es/社團法人高雄市聰動成長協會.html",
+        "fr/index.html",
+        "fr/社團法人高雄市聰動成長協會.html",
+        "index.html",
+        "ja/index.html",
+        "ja/社團法人高雄市聰動成長協會.html",
+        "zh-CN/index.html",
+        "zh-CN/社團法人高雄市聰動成長協會.html",
+        "社團法人高雄市聰動成長協會.html"
+      ],
+      "sourceUrls": [
+        "https://www.youtube-nocookie.com/embed/vZjpBRH6y34",
+        "https://www.youtube.com/watch?v=vZjpBRH6y34"
+      ],
+      "rawUrlOccurrences": 24,
+      "legacyDisplayedTitles": [
+        "Himno de la Asociación SmartAction para el Desarrollo de Kaohsiung — versión coral",
+        "Hymne de l’Association SmartAction pour le développement de Kaohsiung — version chorale",
+        "Kaohsiung SmartAction Growth Association anthem — choir version",
+        "Ver en YouTube: Himno de la Asociación SmartAction para el Desarrollo de Kaohsiung — versión coral",
+        "Voir sur YouTube : hymne de l’Association SmartAction pour le développement de Kaohsiung — version chorale",
+        "Watch on YouTube: Kaohsiung SmartAction Growth Association anthem — choir version",
+        "YouTubeで見る：社団法人高雄市聰動成長協会の会歌・合唱版",
+        "在 YouTube 觀看：社團法人高雄市聰動成長協會協會會歌 合唱版",
+        "在 YouTube 观看：社团法人高雄市聪动成长协会协会会歌 合唱版",
+        "社团法人高雄市聪动成长协会协会会歌 合唱版",
+        "社団法人高雄市聰動成長協会の会歌・合唱版",
+        "社團法人高雄市聰動成長協會協會會歌 合唱版"
+      ]
+    },
+    {
+      "id": "wOPCyV281rU",
+      "title": "2026/04/11 世界巴金森日講座：動起來，改寫巴金森氏病的未來（依文章標題）",
+      "url": "https://www.youtube.com/watch?v=wOPCyV281rU",
+      "titleEvidence": "uploaded_html_or_article_context",
+      "metadataVerifiedOnline": false,
+      "fullVideoReviewed": false,
+      "transcriptStatus": "unavailable_in_this_session",
+      "chaptersVerified": false,
+      "verifiedStartSeconds": null,
+      "verifiedTimestamps": [],
+      "originalUrlOffsets": [],
+      "offsetWarning": "Original link offsets are navigational metadata only; they are not verified answer timestamps.",
+      "sourcePaths": [
+        "blog/33cb605cf06.html",
+        "en/blog/33cb605cf06.html",
+        "es/blog/33cb605cf06.html",
+        "fr/blog/33cb605cf06.html",
+        "ja/blog/33cb605cf06.html",
+        "zh-CN/blog/33cb605cf06.html"
+      ],
+      "sourceUrls": [
+        "https://www.youtube-nocookie.com/embed/wOPCyV281rU",
+        "https://www.youtube.com/live/wOPCyV281rU",
+        "https://www.youtube.com/watch?v=wOPCyV281rU"
+      ],
+      "rawUrlOccurrences": 72,
+      "legacyDisplayedTitles": [
+        "Regarder sur YouTube : YouTube video player",
+        "Ver en YouTube: reproductor de vídeo de YouTube",
+        "Watch on YouTube: YouTube video player",
+        "YouTubeで見る：YouTube動画プレーヤー",
+        "在 YouTube 觀看：YouTube video player",
+        "在 YouTube 观看：YouTube video player"
+      ]
+    },
+    {
+      "id": "wudNZpDE7cE",
+      "title": "聰動成長協會紀錄片【木頭人】",
+      "url": "https://www.youtube.com/watch?v=wudNZpDE7cE",
+      "titleEvidence": "uploaded_html_or_article_context",
+      "metadataVerifiedOnline": false,
+      "fullVideoReviewed": false,
+      "transcriptStatus": "unavailable_in_this_session",
+      "chaptersVerified": false,
+      "verifiedStartSeconds": null,
+      "verifiedTimestamps": [],
+      "originalUrlOffsets": [],
+      "offsetWarning": "Original link offsets are navigational metadata only; they are not verified answer timestamps.",
+      "sourcePaths": [
+        "en/index.html",
+        "en/社團法人高雄市聰動成長協會.html",
+        "es/index.html",
+        "es/社團法人高雄市聰動成長協會.html",
+        "fr/index.html",
+        "fr/社團法人高雄市聰動成長協會.html",
+        "index.html",
+        "ja/index.html",
+        "ja/社團法人高雄市聰動成長協會.html",
+        "zh-CN/index.html",
+        "zh-CN/社團法人高雄市聰動成長協會.html",
+        "社團法人高雄市聰動成長協會.html"
+      ],
+      "sourceUrls": [
+        "https://www.youtube-nocookie.com/embed/wudNZpDE7cE",
+        "https://www.youtube.com/watch?v=wudNZpDE7cE"
+      ],
+      "rawUrlOccurrences": 36,
+      "legacyDisplayedTitles": [
+        "Documentaire de l’Association SmartAction 【L’homme de bois】",
+        "Documental de la Asociación SmartAction «El hombre de madera»",
+        "SmartAction Growth Association documentary 【Wooden Man】",
+        "Ver en YouTube: Documental de la Asociación SmartAction «El hombre de madera»",
+        "Voir sur YouTube : documentaire de l’Association SmartAction 【L’homme de bois】",
+        "Watch on YouTube: SmartAction Growth Association documentary 【Wooden Man】",
+        "YouTubeで見る：聰動成長協会ドキュメンタリー『木の人』",
+        "在 YouTube 觀看：聰動成長協會紀錄片【木頭人】",
+        "在 YouTube 观看：聪动成长协会纪录片【木头人】",
+        "聪动成长协会纪录片【木头人】",
+        "聰動成長協会ドキュメンタリー『木の人』",
+        "聰動成長協會紀錄片【木頭人】"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "path": "blog/081e9814498.html",
+      "title": "腸道順心~森活開心",
+      "baselineSha256": "2800b3ec1ad3a3da2089637c747a492e62e57a6c62d27245c91d647673501bb7",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 282
+    },
+    {
+      "path": "blog/0de305e00f7.html",
+      "title": "六、七月聰動會員歌唱聯誼活動",
+      "baselineSha256": "c33b16ab8b97b979687e51db3a766a658ca5f2129c900c249ca0aef147612027",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 359
+    },
+    {
+      "path": "blog/1140508.html",
+      "title": "1140508基本救命術 及緊急傷口照護",
+      "baselineSha256": "d429fa189b5daed567da5f1298997c9bf24b3bf74313cc7c89024bdb4a065cb1",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 464
+    },
+    {
+      "path": "blog/1140527.html",
+      "title": "1140527失智精油與按摩的互動體驗",
+      "baselineSha256": "07253e66e63f0bdf0b21bfe3296bd0bad8e8de11e6397fa75ccb144ca5714097",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 385
+    },
+    {
+      "path": "blog/1140607.html",
+      "title": "1140607樂動樂唱-音樂治療於巴金森病照護",
+      "baselineSha256": "c83cdcfeebf9dd841d89331fe2817f505264fa20e8d2775dfefce005f57799cc",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 520
+    },
+    {
+      "path": "blog/1140705.html",
+      "title": "1140705巴金森患者與失智症的營養指南如何預防肌少症",
+      "baselineSha256": "75f1915aa756eaa7eb9d8d7126b845b558f2387f0d6eed9a8b48fabb32fb0bae",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 372
+    },
+    {
+      "path": "blog/1140722.html",
+      "title": "1140722四肢放鬆與心情安定的精油旅程",
+      "baselineSha256": "ec516dfa60273f244d47e5a4e755a1a8fec7dea9a04a727b8bd28b17583bb4d7",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 482
+    },
+    {
+      "path": "blog/1140809.html",
+      "title": "1140809巴金森的精神狀況及處理",
+      "baselineSha256": "efc5cdbd25a554c923cec984721626c6ee5b27dcc929d9aba7366d538ad1cf3f",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 438
+    },
+    {
+      "path": "blog/1140819.html",
+      "title": "1140819建立安全與信任的照護關係：與失智者的互動藝術",
+      "baselineSha256": "530b0e4674b7f51a7da96cae04131a3a46f8beb2558ab9971c66ada058ae5974",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 450
+    },
+    {
+      "path": "blog/1140823.html",
+      "title": "1140823巴金森病患的睡眠障礙",
+      "baselineSha256": "95fe785724e1c50d6599eb1e30d19ca87b79928fe01230f4ccf23f747ab11f47",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 488
+    },
+    {
+      "path": "blog/1140826.html",
+      "title": "1140826巴金森友善的放鬆精油應用",
+      "baselineSha256": "6293caf797dc44459c7e1c535700138ca2f2fe654a3a700756be258b592dbb8e",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 475
+    },
+    {
+      "path": "blog/1140902-diy.html",
+      "title": "1140902鄰里香香好生活：萬用膏精油DIY",
+      "baselineSha256": "e8f3b6f2526f69034f9eaf4cb654c0671e5cedbfc41c6299fc27517063864f04",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 492
+    },
+    {
+      "path": "blog/1140920.html",
+      "title": "1140920樂唱咱心聲－音樂治療於失智症照護",
+      "baselineSha256": "4da855f4e655eba33e5edd2ab6fa1e42ebcfe2555087452a7465717d9fa6ca43",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 344
+    },
+    {
+      "path": "blog/2026.html",
+      "title": "2026高雄市運動資源介紹",
+      "baselineSha256": "16f86f34f5769c96bef6c7549e4f0055170cdea2767b109a1c7095007ff50738",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 230
+    },
+    {
+      "path": "blog/20478397518.html",
+      "title": "協會文章",
+      "baselineSha256": "7e49567980916578c14f4d6b2d3cd9b257233fad60a76fb5d52c35c3e0249c10",
+      "status": "placeholder_missing_full_text",
+      "textCharacters": 36
+    },
+    {
+      "path": "blog/33cb605cf06.html",
+      "title": "動起來，改寫巴金森氏病的未來",
+      "baselineSha256": "23b4bc6dfe83cb9ce2b4c0dfd2830533483f33d45f9702d9c65fe803fc089355",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 992
+    },
+    {
+      "path": "blog/445cc624575.html",
+      "title": "四、五月聰動會員歌唱聯誼活動",
+      "baselineSha256": "633a83e4239b7d50cd7ebcefdd39231716043ed5ed73ac8d35740fe7fb518f47",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 253
+    },
+    {
+      "path": "blog/4f9ab696101.html",
+      "title": "協會文章",
+      "baselineSha256": "04a3f2da57945bb9600acd2678f0f1f2fa8430787519f76e4bc8185b088e890e",
+      "status": "placeholder_missing_full_text",
+      "textCharacters": 36
+    },
+    {
+      "path": "blog/7ce89166493.html",
+      "title": "聰動小團體--正念初級班",
+      "baselineSha256": "aa76c0653a74186fdac027280371dae46564d93b5cb54b58155272b43ed4e053",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 224
+    },
+    {
+      "path": "blog/8494322ddbf.html",
+      "title": "活動改期精油防護力：天然防蚊噴霧ＤＩＹ",
+      "baselineSha256": "9c90f99067abb9ae5e71dd4b2d93e9b0796c57bc1140fc78684e8b015e9674ce",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 316
+    },
+    {
+      "path": "blog/a63f966cedc.html",
+      "title": "運動與體能活動 在巴金森病的過去、現在與未來",
+      "baselineSha256": "f340afdd492aced65bba60e141445d20436f986d970aa0325ee26c0565a191cf",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 271
+    },
+    {
+      "path": "blog/activity-114-02-20-part3.html",
+      "title": "聰動會員歌唱聯誼活動",
+      "baselineSha256": "6f34561f6d9062e9ba70f1cf7398e1e06834ab0f3434e07fddf73934f38261fb",
+      "status": "placeholder_missing_full_text",
+      "textCharacters": 42
+    },
+    {
+      "path": "blog/activity-1140215.html",
+      "title": "以物理治療觀點思考如何提升巴金森病與失智症之平衡靈活度",
+      "baselineSha256": "304ac2c8290744afc6d03d7dc2ac752b16c35ed5ae68b214e612a10f3b02fe39",
+      "status": "placeholder_missing_full_text",
+      "textCharacters": 59
+    },
+    {
+      "path": "blog/activity-1140308.html",
+      "title": "聰動會員衛武營健走聯誼活動",
+      "baselineSha256": "02211acfcc89fd6ba6a49ab68d28eadb3c5d813c10f8a59c71a9d1322b45b7d6",
+      "status": "placeholder_missing_full_text",
+      "textCharacters": 45
+    },
+    {
+      "path": "blog/activity-1140315.html",
+      "title": "神波刀在治療顫抖與巴金森病的現況",
+      "baselineSha256": "179eb95019a9ea7dc53a6d3ec7421ee5a5c73eaf9e15c0ba1db2c819b1181b30",
+      "status": "placeholder_missing_full_text",
+      "textCharacters": 48
+    },
+    {
+      "path": "blog/activity-1140412.html",
+      "title": "聰動世界巴金森日「聽見!巴金森氏病」",
+      "baselineSha256": "6ecc90ad3ff4d6343de6975277ea847502656d6d3e0bb386fa105e64ece1431e",
+      "status": "placeholder_missing_full_text",
+      "textCharacters": 50
+    },
+    {
+      "path": "blog/activity-1140508.html",
+      "title": "基本救命術及緊急傷口照護",
+      "baselineSha256": "c65744288dbd153ac06f45d003b0d04856fe881469f00ca92cabfbac0b396b73",
+      "status": "placeholder_missing_full_text",
+      "textCharacters": 44
+    },
+    {
+      "path": "blog/activity-1140527.html",
+      "title": "失智精油與按摩的互動體驗",
+      "baselineSha256": "f98128cc06323badfe4b9920be1aad65d5ca4aa9c02b651a7bc20a12add8d8d8",
+      "status": "placeholder_missing_full_text",
+      "textCharacters": 44
+    },
+    {
+      "path": "blog/activity-1140529.html",
+      "title": "歡慶端午節",
+      "baselineSha256": "5f4b14a209f76b531422b91f0cba7acdedd3c1ebca2cef24cb7126d2f54f08df",
+      "status": "placeholder_missing_full_text",
+      "textCharacters": 37
+    },
+    {
+      "path": "blog/activity-1140607.html",
+      "title": "音樂治療於巴金森病與失智症照護Ⅰ",
+      "baselineSha256": "781ce82b128af8221f171466f1cc1a628126041d1279b8d0be4c6e456fd95951",
+      "status": "placeholder_missing_full_text",
+      "textCharacters": 48
+    },
+    {
+      "path": "blog/activity-1140705.html",
+      "title": "1140705巴金森患者與失智症的營養指南如何預防肌少症",
+      "baselineSha256": "b76106681712515470df7644fdd9ec027ca7130515d4bd1d7c9693f86cb76242",
+      "status": "original_activity_record_medical_review_needed",
+      "textCharacters": 878
+    },
+    {
+      "path": "blog/activity-466f10c3451.html",
+      "title": "據點開心農場收成囉",
+      "baselineSha256": "2bb5c36e0233ec9b2f285edbbbbfdd32feb04196abd177327c53518d9581ccfa",
+      "status": "placeholder_missing_full_text",
+      "textCharacters": 41
+    },
+    {
+      "path": "blog/activity-6.html",
+      "title": "6月份長輩慶生活動",
+      "baselineSha256": "587a3fc6f123dceb352b4366b5b5653e5644ac781ff8ae400f305d10fa013f3e",
+      "status": "placeholder_missing_full_text",
+      "textCharacters": 41
+    },
+    {
+      "path": "blog/b127aee8859.html",
+      "title": "協會文章",
+      "baselineSha256": "d9f56de8f2fef2d828e0816dbc70044e2c5fe87ae89712e39bfd2aaa359bed39",
+      "status": "placeholder_missing_full_text",
+      "textCharacters": 36
+    },
+    {
+      "path": "blog/dc2c10fc11a.html",
+      "title": "巴金森病的陪伴！社交心理支持的重要性！！！",
+      "baselineSha256": "014cd67f86f76b0ea21246bfc452c167e5eb70845e56528db00c23415e6ebc4b",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 160
+    },
+    {
+      "path": "blog/parkinson-0fa1925b25d.html",
+      "title": "病史",
+      "baselineSha256": "4d4e351bca69d39ae524041e9a64ffded44fbe61b2d7ab6a4d343fd32b411c13",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 172
+    },
+    {
+      "path": "blog/parkinson-2024-2025.html",
+      "title": "巴金森病藥物分類參考 (2024-2025)",
+      "baselineSha256": "51fea261addf54eec59e0829e9e1d194d05278bf5c2e4bed010073d50c27d125",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 54
+    },
+    {
+      "path": "blog/parkinson-2b4a029033f.html",
+      "title": "第一次使用?",
+      "baselineSha256": "b9725481d7ebc20e7d8e670a0f9af7c7ad5fdd97fe6d2f08dd590409003c4dfe",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 284
+    },
+    {
+      "path": "blog/parkinson-362f7dfda29.html",
+      "title": "回診--醫病溝通使用說明",
+      "baselineSha256": "6968ad49290ba64244413f9e67be501b1d18aafcb106f35e1069bece5de375eb",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 62
+    },
+    {
+      "path": "blog/parkinson-38a7a983588.html",
+      "title": "近期網頁版輸入『醫師查看驗證碼』登入失敗問題解決方法",
+      "baselineSha256": "f41d90c49082c461097c7a81d1538b2999253691ed3560ef863de0bdd11e036e",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 193
+    },
+    {
+      "path": "blog/parkinson-97a2b32d43c.html",
+      "title": "用藥時刻表設定",
+      "baselineSha256": "4bcf0e66de5cb328cf16d7568de03febff204d4cc876ff6d66196f058909a577",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 511
+    },
+    {
+      "path": "blog/parkinson-a92e4e924f9.html",
+      "title": "[總結說明] 病患使用說明 圖文教學",
+      "baselineSha256": "57779b776bf5e04434ab01f945f6523c566f4137a68a3f3c125de117e6f0e4bb",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 116
+    },
+    {
+      "path": "blog/parkinson-app-a907c769-defb-4568-a4c3-90004c48a842.html",
+      "title": "【醫病溝通】醫師使用網頁版及app版登入更新，只要醫師查看驗證碼",
+      "baselineSha256": "eeadba8a7be4ed8156bd3b0a42bc3f4e2b014435dcb9afbac75d2de7c564b0c7",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 216
+    },
+    {
+      "path": "blog/parkinson-app.html",
+      "title": "推薦好用app：巴金森寶典",
+      "baselineSha256": "1312a859c273510604517add0192f2672e2f1a8e93a86dbc2febdaf306e9a3d6",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 45
+    },
+    {
+      "path": "blog/parkinson-bd084d246b1.html",
+      "title": "醫護常用藥物設定",
+      "baselineSha256": "bda3ba8270068fbd1958228b4fe26234c8b233e9b5691eb28a81afcfed339fcd",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 49
+    },
+    {
+      "path": "blog/parkinson-drug-induced-parkinsonism-movement-disorders.html",
+      "title": "Drug induced Parkinsonism & Movement Disorders",
+      "baselineSha256": "d1c2774885b8cacac5335b79b632512f769cb6e63a981cdb2751ab4fbd56b83d",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 88
+    },
+    {
+      "path": "blog/parkinson-pd.html",
+      "title": "PD日記",
+      "baselineSha256": "6d192eb8327e16a45a89366de77c8c03db9661c9566e8581a329dda0b90d7c2e",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 232
+    },
+    {
+      "path": "blog/parkinson-qr-code.html",
+      "title": "宣傳QR code連結--下載/使用說明/網頁版連結，統統在這！",
+      "baselineSha256": "d2a361406392669ccf583262648e0cda6a65ed560715be7fe72da4142dfa042f",
+      "status": "saved_summary_missing_full_text",
+      "textCharacters": 165
+    }
+  ],
+  "accessLimitations": [
+    {
+      "result": "Parent retrieval failed; private conversation contents not accessible.",
+      "sourceLabel": "User-provided conversation reference 1"
+    },
+    {
+      "result": "Parent retrieval failed (DisabledError). No claim to have read this conversation.",
+      "sourceLabel": "User-provided conversation reference 2"
+    },
+    {
+      "result": "Parent retrieval failed (DisabledError). No claim to have read this conversation.",
+      "sourceLabel": "User-provided conversation reference 3"
+    },
+    {
+      "url": "https://www.youtube.com/@聰動成長協會",
+      "result": "YouTube channel fetch throttled; full channel inventory unavailable."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wOPCyV281rU",
+      "result": "DisabledError; no video content returned."
+    },
+    {
+      "url": "https://www.youtube.com/api/timedtext?v=wOPCyV281rU&type=list",
+      "result": "DisabledError; no transcript/timed text returned."
+    }
+  ],
+  "primaryWebSources": [
+    {
+      "url": "https://www.smartaction.org.tw/",
+      "locator": "關於我們 / 本會之任務 / 聯絡我們",
+      "retrieved": true
+    },
+    {
+      "url": "https://www.smartaction.org.tw/blog/33cb605cf06",
+      "locator": "世界巴金森日系列講座 / 三場講座 / 活動資訊",
+      "retrieved": true
+    },
+    {
+      "url": "https://www.smartaction.org.tw/blog/dc2c10fc11a",
+      "locator": "巴金森照護的八大關鍵 / 年底病友會預告",
+      "retrieved": true
+    }
+  ],
+  "targetedLegacyChanges": [
+    {
+      "path": "blog/33cb605cf06.html",
+      "change": "removed duplicate lecture iframe and matching fallback caption",
+      "removedPlayers": 4,
+      "beforeSha256": "23b4bc6dfe83cb9ce2b4c0dfd2830533483f33d45f9702d9c65fe803fc089355",
+      "afterSha256": "1ef543bd3bb6cea87e696552334bafe4764689bf00a51efc937d1790de4a2736"
+    },
+    {
+      "path": "zh-CN/blog/33cb605cf06.html",
+      "change": "removed duplicate lecture iframe and matching fallback caption",
+      "removedPlayers": 4,
+      "beforeSha256": "2612ce1e29001903251218ee088f684716615112184123deed17827908416210",
+      "afterSha256": "a70a126ea4d7ddd186683d6752ee683c85b541da5d318f2a86ac3fb5eccc41b2"
+    },
+    {
+      "path": "en/blog/33cb605cf06.html",
+      "change": "removed duplicate lecture iframe and matching fallback caption",
+      "removedPlayers": 4,
+      "beforeSha256": "e4f488702ddff2e761fc7fe518e3813412640e63dc6961f819e0c764fa10ed70",
+      "afterSha256": "11a0213e9aaeb8de4f567798d1e1c96f080a50f59d8210288ee4269241b63197"
+    },
+    {
+      "path": "ja/blog/33cb605cf06.html",
+      "change": "removed duplicate lecture iframe and matching fallback caption",
+      "removedPlayers": 4,
+      "beforeSha256": "8a939c32ee210e3e4facf89b6800d7db9904b842f8ca7bb15da1f4a898a63d66",
+      "afterSha256": "bdc592d970d4444b954ffd115c70c2aee881841e98470996d2266b22b8a560b0"
+    },
+    {
+      "path": "fr/blog/33cb605cf06.html",
+      "change": "removed duplicate lecture iframe and matching fallback caption",
+      "removedPlayers": 4,
+      "beforeSha256": "b306da3c43327b1a0835c2097656bc294783b73e2b48573965bf573e57707431",
+      "afterSha256": "dfb5b632b0f45821b9f216bfef6337aa6aa96e19116db0cf4aa8fae38d77f47b"
+    },
+    {
+      "path": "es/blog/33cb605cf06.html",
+      "change": "removed duplicate lecture iframe and matching fallback caption",
+      "removedPlayers": 4,
+      "beforeSha256": "08f9bef5fcfba046afad40ec2be586a2711f51cd9fcdd3fa8c3c5960698fcd65",
+      "afterSha256": "809266f7ff82ef911f9a51086f1f6de5ec3ba04975980f79310ef742f61dfc97"
+    },
+    {
+      "path": "blog/activity-1140705.html",
+      "change": "replaced blanket protein amount and ambiguous meal/medicine statement with individual care-team advice; added editorial label and two authoritative sources",
+      "newAnchor": "sa-protein-medication",
+      "beforeSha256": "b76106681712515470df7644fdd9ec027ca7130515d4bd1d7c9693f86cb76242",
+      "afterSha256": "6b4433bd54864c41711c8512c843bf119db97256b0f428716b35daee75d6ba6d"
+    },
+    {
+      "path": "zh-CN/blog/activity-1140705.html",
+      "change": "replaced blanket protein amount and ambiguous meal/medicine statement with individual care-team advice; added editorial label and two authoritative sources",
+      "newAnchor": "sa-protein-medication",
+      "beforeSha256": "1481ec03b7396c753eacec8cab29463fb8c9b3f04d4ffa8c79b77474e7a47938",
+      "afterSha256": "ca9953a17977e72c50e7bc7d2d07f5c92e07fe0c6f7e289dc5ecbd4fc0b579ac"
+    },
+    {
+      "path": "en/blog/activity-1140705.html",
+      "change": "replaced blanket protein amount and ambiguous meal/medicine statement with individual care-team advice; added editorial label and two authoritative sources",
+      "newAnchor": "sa-protein-medication",
+      "beforeSha256": "5b15ce007e3fa0125901ecc6c651fe82ed7ded4d66e391f4904fd6327e3620fc",
+      "afterSha256": "efa89c47b6c2e6a301150af0d7cfb3b9f4de3b676c6666a5c9a26c18415d933c"
+    },
+    {
+      "path": "ja/blog/activity-1140705.html",
+      "change": "replaced blanket protein amount and ambiguous meal/medicine statement with individual care-team advice; added editorial label and two authoritative sources",
+      "newAnchor": "sa-protein-medication",
+      "beforeSha256": "00b51041b221e817977a90d8ac0b17a8ff9ee68a8652f714c120c1c1b828ec9e",
+      "afterSha256": "b3b04fbc8f27e9c9bb7a6fd5f3bbecb81da70c9a18e3160c6b80dfc7d94465fc"
+    },
+    {
+      "path": "fr/blog/activity-1140705.html",
+      "change": "replaced blanket protein amount and ambiguous meal/medicine statement with individual care-team advice; added editorial label and two authoritative sources",
+      "newAnchor": "sa-protein-medication",
+      "beforeSha256": "191e99206ab42fc80cb30f50a16436aea3b481d94d9b0c9295e265be294420f5",
+      "afterSha256": "3ad15bdfc467e12b7aca33614e4384adab51b548a3ba01a780d84f3f151a640d"
+    },
+    {
+      "path": "es/blog/activity-1140705.html",
+      "change": "replaced blanket protein amount and ambiguous meal/medicine statement with individual care-team advice; added editorial label and two authoritative sources",
+      "newAnchor": "sa-protein-medication",
+      "beforeSha256": "30ff0a3506c817e71a9c0259792f09f55c2303ab8d7d5447776535fb78640579",
+      "afterSha256": "19f2278f1019e9a83c1eb0dead7621f3c386a41c72bcb48e8d3cf5f7671c4bf6"
+    }
+  ],
+  "nutritionReferences": [
+    {
+      "title": "Parkinson’s Foundation — Diet & Nutrition",
+      "url": "https://www.parkinson.org/living-with-parkinsons/management/diet-nutrition",
+      "retrieved": true
+    },
+    {
+      "title": "Parkinson’s Foundation — Nutrition and PD",
+      "url": "https://www.parkinson.org/library/fact-sheets/nutrition",
+      "retrieved": true
+    }
+  ]
+}

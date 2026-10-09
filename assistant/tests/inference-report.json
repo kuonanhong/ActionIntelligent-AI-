@@ -1,0 +1,21 @@
+{
+  "model": "FLAN-T5-small int8",
+  "backend": "CPU WebAssembly single thread",
+  "checks": [
+    "Subdirectory deployment and verified source lookup",
+    "Actual local WASM model initialization",
+    "Actual English token generation",
+    "Buy/sell request stays with professional/source guidance",
+    "Airplane-mode reload and real cached model generation",
+    "Worker stop releases model and disables generation",
+    "375 px mobile layout without horizontal overflow",
+    "Simplified Chinese interface",
+    "Model cache removal",
+    "Zero external inference or model requests",
+    "No uncaught page errors"
+  ],
+  "output": "Silicon photonics combines optical components with semiconductor manufacturing.",
+  "externalRequests": [],
+  "logs": [],
+  "scope": "Chromium/Linux only; no physical-device or broad model-accuracy claim"
+}
