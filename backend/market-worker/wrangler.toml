@@ -1,0 +1,28 @@
+name = "smartaction-market"
+main = "src/worker.js"
+compatibility_date = "2026-10-01"
+
+[vars]
+ALLOWED_ORIGINS = "https://kuonanhong.github.io,http://localhost:8000,http://127.0.0.1:8000"
+ALLOWED_SYMBOLS = "IBM,AAPL,MSFT,NVDA,TSM,TSCO.LON,SHOP.TRT,MBG.DEX,RELIANCE.BSE,600104.SHH,000002.SHZ"
+SYMBOL_CURRENCIES = '{"IBM":"USD","AAPL":"USD","MSFT":"USD","NVDA":"USD","TSM":"USD"}'
+ALPHA_ENTITLEMENT = "none"
+ALPHA_DAILY_LIMIT = "25"
+ALPHA_MINUTE_LIMIT = "5"
+FINNHUB_DAILY_LIMIT = "2000"
+FINNHUB_MINUTE_LIMIT = "30"
+TWSE_DAILY_LIMIT = "200"
+TWSE_MINUTE_LIMIT = "2"
+
+[[durable_objects.bindings]]
+name = "MARKET_HUB"
+class_name = "MarketHub"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["MarketHub"]
+
+[[ratelimits]]
+name = "RATE_LIMITER"
+namespace_id = "109"
+simple = { limit = 30, period = 60 }
