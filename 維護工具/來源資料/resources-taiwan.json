@@ -1,0 +1,499 @@
+{
+  "checkedDate": "2026-10-06",
+  "scope": "Selected primary-source resources in Kaohsiung and Taiwan; not an exhaustive directory or clinical recommendation.",
+  "translationNote": "Five-language labels and descriptions are convenience translations; languages lists the destination content languages actually verified.",
+  "counts": {
+    "kaohsiung": 4,
+    "taiwan": 7,
+    "total": 11
+  },
+  "records": [
+    {
+      "id": "kh-cgmh-neurology",
+      "region": "kaohsiung",
+      "country": "TW",
+      "kind": "care",
+      "languages": [
+        "zh-Hant"
+      ],
+      "url": "https://www.cgmh.org.tw/tw/Systems/BranchInfo/8/83700/83770",
+      "verified": true,
+      "nameOfficial": "高雄長庚紀念醫院一般神經內科",
+      "title": {
+        "zh": "高雄長庚紀念醫院｜一般神經內科",
+        "en": "Kaohsiung Chang Gung Memorial Hospital · General Neurology",
+        "fr": "Hôpital Chang Gung de Kaohsiung · Neurologie générale",
+        "ja": "高雄長庚紀念医院・一般神経内科",
+        "es": "Hospital Chang Gung de Kaohsiung · Neurología general"
+      },
+      "description": {
+        "zh": "官方科部頁介紹巴金森病、動作障礙相關診療及跨科合作。",
+        "en": "The official department page describes Parkinson’s and movement-disorder services and collaboration across specialties.",
+        "fr": "La page officielle présente les services pour Parkinson, les troubles du mouvement et la collaboration entre spécialités.",
+        "ja": "公式診療科ページで、パーキンソン病や運動障害の診療と診療科間の連携を紹介しています。",
+        "es": "La página oficial describe los servicios de Parkinson y trastornos del movimiento y la colaboración entre especialidades."
+      },
+      "checkedDate": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://www.cgmh.org.tw/tw/Systems/BranchInfo/8/83700/83770",
+          "ref": "turn46view0",
+          "checkedDate": "2026-10-06",
+          "evidence": "The page explicitly identifies the Kaohsiung branch and describes Parkinson’s disease and movement-disorder care.",
+          "type": "primary",
+          "method": "official-page-opened"
+        }
+      ],
+      "notes": [
+        "此連結為高雄院區（BranchInfo/8），不是林口院區；頁面名稱為一般神經內科。"
+      ]
+    },
+    {
+      "id": "kh-kmuh-neurology",
+      "region": "kaohsiung",
+      "country": "TW",
+      "kind": "care",
+      "languages": [
+        "zh-Hant"
+      ],
+      "url": "https://www.kmuh.org.tw/Web/WebRegistration/DocIntro/ShowDocList?JsonLoc=%5B%221000%22%5D&virtualCode=1000",
+      "verified": true,
+      "nameOfficial": "高雄醫學大學附設中和紀念醫院神經部",
+      "title": {
+        "zh": "高醫附設中和紀念醫院｜神經部",
+        "en": "Kaohsiung Medical University Chung-Ho Memorial Hospital · Neurology",
+        "fr": "Hôpital Chung-Ho de l’Université médicale de Kaohsiung · Neurologie",
+        "ja": "高雄医学大学附属中和紀念医院・神経科",
+        "es": "Hospital Chung-Ho de la Universidad Médica de Kaohsiung · Neurología"
+      },
+      "description": {
+        "zh": "官方神經部目錄提供科部與醫師專長資訊，包含巴金森病及動作障礙。",
+        "en": "The official neurology directory lists department and clinical specialty information, including Parkinson’s and movement disorders.",
+        "fr": "L’annuaire officiel de neurologie présente les spécialités cliniques, dont Parkinson et les troubles du mouvement.",
+        "ja": "公式の神経科案内には、パーキンソン病や運動障害を含む診療分野が掲載されています。",
+        "es": "El directorio oficial de neurología presenta las especialidades clínicas, incluido Parkinson y los trastornos del movimiento."
+      },
+      "checkedDate": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://www.kmuh.org.tw/Web/WebRegistration/DocIntro/ShowDocList?JsonLoc=%5B%221000%22%5D&virtualCode=1000",
+          "ref": "turn38view3",
+          "checkedDate": "2026-10-06",
+          "evidence": "The official hospital page identifies the Neurology department and includes Parkinson’s and movement-disorder specialties; update date 2026-09-29.",
+          "type": "primary",
+          "method": "official-page-opened"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "kh-vgh-neurology",
+      "region": "kaohsiung",
+      "country": "TW",
+      "kind": "care",
+      "languages": [
+        "zh-Hant"
+      ],
+      "url": "https://org.vghks.gov.tw/med/cp.aspx?n=070F98A22DA18F8F",
+      "verified": true,
+      "nameOfficial": "高雄榮民總醫院神經內科",
+      "title": {
+        "zh": "高雄榮民總醫院｜神經內科",
+        "en": "Kaohsiung Veterans General Hospital · Neurology",
+        "fr": "Hôpital général des vétérans de Kaohsiung · Neurologie",
+        "ja": "高雄栄民総医院・神経内科",
+        "es": "Hospital General de Veteranos de Kaohsiung · Neurología"
+      },
+      "description": {
+        "zh": "官方科部簡介列有動作障礙門診與巴金森病相關服務。",
+        "en": "The official department overview lists a movement-disorders clinic and Parkinson’s-related services.",
+        "fr": "La présentation officielle mentionne une consultation des troubles du mouvement et des services liés à Parkinson.",
+        "ja": "公式の診療科紹介に、運動障害外来とパーキンソン病に関連する診療が掲載されています。",
+        "es": "La presentación oficial incluye una consulta de trastornos del movimiento y servicios relacionados con Parkinson."
+      },
+      "checkedDate": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://org.vghks.gov.tw/med/cp.aspx?n=070F98A22DA18F8F",
+          "ref": "turn38view4",
+          "checkedDate": "2026-10-06",
+          "evidence": "The Neurology overview expressly identifies a movement-disorders clinic for Parkinson’s patients; update date 2026-09-01.",
+          "type": "primary",
+          "method": "official-page-opened"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "kh-longterm-care",
+      "region": "kaohsiung",
+      "country": "TW",
+      "kind": "support",
+      "languages": [
+        "zh-Hant"
+      ],
+      "url": "https://health.kcg.gov.tw/Content_List.aspx?n=995D6A3CF8A1D195",
+      "verified": true,
+      "nameOfficial": "高雄市政府衛生局長期照顧中心",
+      "title": {
+        "zh": "高雄市長期照顧中心｜1966與服務窗口",
+        "en": "Kaohsiung Long-Term Care Center · 1966 and service contacts",
+        "fr": "Centre de soins de longue durée de Kaohsiung · 1966 et contacts",
+        "ja": "高雄市長期ケアセンター・1966と相談窓口",
+        "es": "Centro de cuidados de larga duración de Kaohsiung · 1966 y contactos"
+      },
+      "description": {
+        "zh": "市府衛生局提供長照申請、輔具、交通及家庭照顧者支持的官方窗口。",
+        "en": "The city health bureau lists official contacts for long-term care applications, assistive devices, transport and caregiver support.",
+        "fr": "Le bureau municipal de santé répertorie les contacts pour les soins de longue durée, aides techniques, transports et soutien aux aidants.",
+        "ja": "市の衛生局が、長期ケア申請、福祉用具、送迎、家族介護者支援の公式窓口を案内しています。",
+        "es": "La oficina municipal de salud ofrece contactos para solicitar cuidados de larga duración, ayudas técnicas, transporte y apoyo a cuidadores."
+      },
+      "checkedDate": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://health.kcg.gov.tw/Content_List.aspx?n=995D6A3CF8A1D195",
+          "ref": "turn46view1",
+          "checkedDate": "2026-10-06",
+          "evidence": "The current official contacts page lists 1966 for long-term care applications and relevant service responsibilities; update date 2026-10-05.",
+          "type": "primary",
+          "method": "official-page-opened"
+        }
+      ],
+      "notes": [
+        "一般長照與照顧者資源，非巴金森專屬；申請資格由主管機關評估。"
+      ]
+    },
+    {
+      "id": "tw-tmds",
+      "region": "taiwan",
+      "country": "TW",
+      "kind": "professional",
+      "languages": [
+        "zh-Hant"
+      ],
+      "url": "https://www.tmds.org.tw/",
+      "verified": true,
+      "nameOfficial": "台灣動作障礙學會",
+      "title": {
+        "zh": "台灣動作障礙學會",
+        "en": "Taiwan Movement Disorder Society",
+        "fr": "Société taïwanaise des troubles du mouvement",
+        "ja": "台湾運動障害学会",
+        "es": "Sociedad Taiwanesa de Trastornos del Movimiento"
+      },
+      "description": {
+        "zh": "學會官網提供病友衛教、學術資訊及動作障礙相關活動。",
+        "en": "The society’s official website provides patient education, professional information and movement-disorder events.",
+        "fr": "Le site officiel propose des informations pour les patients, des ressources professionnelles et des événements sur les troubles du mouvement.",
+        "ja": "学会公式サイトで、患者向け情報、専門情報、運動障害に関する催しを案内しています。",
+        "es": "El sitio oficial ofrece educación para pacientes, información profesional y actividades sobre trastornos del movimiento."
+      },
+      "checkedDate": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://www.tmds.org.tw/",
+          "ref": "turn38view6",
+          "checkedDate": "2026-10-06",
+          "evidence": "The official site has separate patient education and professional sections with current 2026 notices.",
+          "type": "primary",
+          "method": "official-page-opened"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "tw-ntuh-parkinson",
+      "region": "taiwan",
+      "country": "TW",
+      "kind": "care",
+      "languages": [
+        "zh-Hant",
+        "en"
+      ],
+      "url": "https://reg.ntuh.gov.tw/WebReg/Webreg/RegDeptSchedule?realSubDeptCode=08&showBlock=A&vDeptCode=NEUR&vhospCode=T0",
+      "verified": true,
+      "nameOfficial": "國立臺灣大學醫學院附設醫院巴金森症暨動作障礙中心",
+      "title": {
+        "zh": "臺大醫院｜巴金森症暨動作障礙中心",
+        "en": "NTUH · Parkinson’s and Movement Disorders Center",
+        "fr": "Hôpital NTUH · Centre Parkinson et troubles du mouvement",
+        "ja": "台湾大学病院・パーキンソン病と運動障害センター",
+        "es": "Hospital NTUH · Centro de Parkinson y Trastornos del Movimiento"
+      },
+      "description": {
+        "zh": "官方神經部門診頁介紹中心的多專業照護、衛教與家屬支持。",
+        "en": "The official neurology clinic page describes the center’s multidisciplinary care, education and family support.",
+        "fr": "La page officielle de neurologie présente les soins pluridisciplinaires, l’information et le soutien aux familles du centre.",
+        "ja": "公式の神経科外来ページで、センターの多職種ケア、患者教育、家族支援を紹介しています。",
+        "es": "La página oficial de neurología describe la atención multidisciplinaria, la educación y el apoyo familiar del centro."
+      },
+      "checkedDate": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://reg.ntuh.gov.tw/WebReg/Webreg/RegDeptSchedule?realSubDeptCode=08&showBlock=A&vDeptCode=NEUR&vhospCode=T0",
+          "ref": "turn55view3",
+          "checkedDate": "2026-10-06",
+          "evidence": "The current official schedule page identifies Taipei Main Hospital and explicitly describes the Parkinson’s and Movement Disorders Center.",
+          "type": "primary",
+          "method": "official-page-opened"
+        }
+      ],
+      "notes": [
+        "本項是總院資源；門診時間與掛號規則請以連結網站當時公告為準。"
+      ]
+    },
+    {
+      "id": "tw-ntuh-hsinchu",
+      "region": "taiwan",
+      "country": "TW",
+      "kind": "care",
+      "languages": [
+        "zh-Hant"
+      ],
+      "url": "https://www.hch.gov.tw/?aid=62&pid=100",
+      "verified": true,
+      "nameOfficial": "新竹臺大分院巴金森與動作障礙疾患全人整合治療中心",
+      "title": {
+        "zh": "新竹臺大分院｜巴金森與動作障礙整合照護",
+        "en": "NTUH Hsin-Chu Branch · Integrated Parkinson’s and movement-disorder care",
+        "fr": "NTUH Hsin-Chu · Prise en charge intégrée de Parkinson et des troubles du mouvement",
+        "ja": "台湾大学病院新竹分院・パーキンソン病と運動障害の統合ケア",
+        "es": "NTUH Hsin-Chu · Atención integrada de Parkinson y trastornos del movimiento"
+      },
+      "description": {
+        "zh": "中心官方頁介紹復健、營養與社會心理支持等整合服務。",
+        "en": "The center’s official page describes integrated services including rehabilitation, nutrition and psychosocial support.",
+        "fr": "La page officielle du centre présente des services intégrés de réadaptation, nutrition et soutien psychosocial.",
+        "ja": "センター公式ページで、リハビリ、栄養、心理社会的支援などの統合サービスを紹介しています。",
+        "es": "La página oficial del centro describe servicios integrados de rehabilitación, nutrición y apoyo psicosocial."
+      },
+      "checkedDate": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://www.hch.gov.tw/?aid=62&pid=100",
+          "ref": "turn46view3",
+          "checkedDate": "2026-10-06",
+          "evidence": "The official center overview identifies integrated rehabilitation, nutritional and psychosocial services; update date 2026-06-03.",
+          "type": "primary",
+          "method": "official-page-opened"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "tw-411pd",
+      "region": "taiwan",
+      "country": "TW",
+      "kind": "education",
+      "languages": [
+        "zh-Hant"
+      ],
+      "url": "https://www.411pd.org.tw/",
+      "verified": true,
+      "nameOfficial": "巴金森寶典",
+      "title": {
+        "zh": "巴金森寶典｜病友衛教與紀錄工具",
+        "en": "Parkinson’s Handbook · Education and recording tools",
+        "fr": "Guide Parkinson · Informations et outils de suivi",
+        "ja": "パーキンソン宝典・患者向け情報と記録ツール",
+        "es": "Manual de Parkinson · Educación y herramientas de registro"
+      },
+      "description": {
+        "zh": "官方網站介紹疾病衛教、復健影音及用藥提醒與紀錄工具。",
+        "en": "The official website introduces disease education, rehabilitation videos and medication reminder and recording tools.",
+        "fr": "Le site officiel présente des informations sur la maladie, des vidéos de réadaptation et des outils de rappel et de suivi des médicaments.",
+        "ja": "公式サイトで、病気の情報、リハビリ動画、服薬リマインダーと記録ツールを紹介しています。",
+        "es": "El sitio oficial presenta educación sobre la enfermedad, vídeos de rehabilitación y herramientas de recordatorio y registro de medicación."
+      },
+      "checkedDate": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://www.411pd.org.tw/",
+          "ref": "turn38view1",
+          "checkedDate": "2026-10-06",
+          "evidence": "The official app website presents disease education, rehabilitation videos and reminder/recording features.",
+          "type": "primary",
+          "method": "official-page-opened"
+        }
+      ],
+      "notes": [
+        "411pd 是「巴金森寶典」資源網站，不能直接標示為 pdcare.org.tw 的協會主站；工具目前下載與支援狀態請查官方頁。"
+      ]
+    },
+    {
+      "id": "tw-pdfriends-news",
+      "region": "taiwan",
+      "country": "TW",
+      "kind": "support",
+      "languages": [
+        "zh-Hant"
+      ],
+      "url": "https://www.411pd.org.tw/list_year/tw/newsroom/",
+      "verified": true,
+      "nameOfficial": "社團法人台灣巴金森之友協會（巴金森寶典內協會公告）",
+      "title": {
+        "zh": "台灣巴金森之友協會｜協會公告",
+        "en": "Taiwan Parkinson’s Friends Association · Announcements",
+        "fr": "Association taïwanaise des amis de Parkinson · Annonces",
+        "ja": "台湾パーキンソン友の会・お知らせ",
+        "es": "Asociación Taiwanesa de Amigos de Parkinson · Anuncios"
+      },
+      "description": {
+        "zh": "巴金森寶典的公告區刊載協會講座與病友活動訊息。",
+        "en": "The Parkinson’s Handbook announcements section publishes association lectures and patient activities.",
+        "fr": "La rubrique d’annonces du Guide Parkinson publie les conférences et activités de l’association destinées aux patients.",
+        "ja": "パーキンソン宝典のお知らせ欄に、協会の講座や患者向け活動が掲載されています。",
+        "es": "La sección de anuncios del Manual de Parkinson publica conferencias de la asociación y actividades para pacientes."
+      },
+      "checkedDate": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://www.411pd.org.tw/list_year/tw/newsroom/",
+          "ref": "turn57view4",
+          "checkedDate": "2026-10-06",
+          "evidence": "The official website’s observed latest-news link leads to this announcements archive.",
+          "type": "primary",
+          "method": "official-page-opened"
+        },
+        {
+          "url": "https://www.411pd.org.tw/posts/tw/newsroom/178",
+          "ref": "turn48view1",
+          "checkedDate": "2026-10-06",
+          "evidence": "An association-signed announcement on this website identifies a Taiwan Parkinson’s Friends Association lecture.",
+          "type": "primary",
+          "method": "official-page-opened"
+        }
+      ],
+      "notes": [
+        "此連結為巴金森寶典內的協會公告區，不宣稱是目前無法讀取的 pdcare.org.tw 主站；過往活動不代表目前可報名。"
+      ]
+    },
+    {
+      "id": "tw-1966",
+      "region": "taiwan",
+      "country": "TW",
+      "kind": "support",
+      "languages": [
+        "zh-Hant"
+      ],
+      "url": "https://1966.gov.tw/LTC/cp-6533-70777-207.html",
+      "verified": true,
+      "nameOfficial": "衛生福利部長照專區（1966專線）",
+      "title": {
+        "zh": "衛福部長照專區｜服務申請",
+        "en": "Ministry of Health and Welfare · Long-term care applications",
+        "fr": "Ministère de la Santé et des Affaires sociales · Demandes de soins de longue durée",
+        "ja": "台湾衛生福利部・長期ケアの申請案内",
+        "es": "Ministerio de Salud y Bienestar · Solicitudes de cuidados de larga duración"
+      },
+      "description": {
+        "zh": "政府官方頁說明長照申請流程、需求評估與可查詢的服務。",
+        "en": "The official government page explains long-term care applications, needs assessment and available service information.",
+        "fr": "La page officielle explique les demandes de soins de longue durée, l’évaluation des besoins et les informations sur les services.",
+        "ja": "政府公式ページで、長期ケアの申請手順、必要度評価、サービス情報の調べ方を案内しています。",
+        "es": "La página oficial explica las solicitudes de cuidados de larga duración, la evaluación de necesidades y la información sobre servicios."
+      },
+      "checkedDate": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://1966.gov.tw/LTC/cp-6533-70777-207.html",
+          "ref": "turn46view5",
+          "checkedDate": "2026-10-06",
+          "evidence": "The official MOHW page describes applications through 1966/local centers followed by assessment and care-plan development.",
+          "type": "primary",
+          "method": "official-page-opened"
+        }
+      ],
+      "notes": [
+        "一般長照資源，非巴金森專屬；是否符合給付或服務資格須經主管機關評估。"
+      ]
+    },
+    {
+      "id": "tw-familycare",
+      "region": "taiwan",
+      "country": "TW",
+      "kind": "support",
+      "languages": [
+        "zh-Hant"
+      ],
+      "url": "https://www.familycare.org.tw/service/892",
+      "verified": true,
+      "nameOfficial": "中華民國家庭照顧者關懷總會",
+      "title": {
+        "zh": "家庭照顧者關懷總會｜照顧者支持",
+        "en": "Taiwan Association of Family Caregivers · Caregiver support",
+        "fr": "Association taïwanaise des aidants familiaux · Soutien aux aidants",
+        "ja": "台湾家族介護者支援協会・介護者への支援",
+        "es": "Asociación Taiwanesa de Cuidadores Familiares · Apoyo a cuidadores"
+      },
+      "description": {
+        "zh": "家總官方頁提供家庭照顧者諮詢、支持團體與在地服務連結。",
+        "en": "The association’s official page provides caregiver consultation, support-group information and links to local services.",
+        "fr": "La page officielle propose des consultations pour les aidants, des groupes de soutien et des liens vers les services locaux.",
+        "ja": "協会公式ページで、家族介護者の相談、支援グループ、地域サービスへの案内を提供しています。",
+        "es": "La página oficial ofrece orientación a cuidadores, información sobre grupos de apoyo y enlaces a servicios locales."
+      },
+      "checkedDate": "2026-10-06",
+      "sources": [
+        {
+          "url": "https://www.familycare.org.tw/service/892",
+          "ref": "turn48view3",
+          "checkedDate": "2026-10-06",
+          "evidence": "The official caregiver helpline page identifies consultation, groups, psychological support and local service connections.",
+          "type": "primary",
+          "method": "official-page-opened"
+        }
+      ],
+      "notes": [
+        "一般家庭照顧者資源，非巴金森專屬。"
+      ]
+    }
+  ],
+  "excludedCandidates": [
+    {
+      "nameOfficial": "台灣神經學學會",
+      "url": "https://www.neuro.org.tw/health/health_list.asp",
+      "verified": false,
+      "checkedDate": "2026-10-06",
+      "reason": "Official indexed content verifies a current 2026 Parkinson education series, but direct retrieval of this page and root returned 404 through the search service; keep outside the opened-and-verified directory.",
+      "sources": [
+        {
+          "url": "https://www.neuro.org.tw/health/health_list.asp",
+          "ref": "turn49search0",
+          "type": "primary",
+          "method": "official-indexed-content",
+          "checkedDate": "2026-10-06"
+        },
+        {
+          "url": "https://www.neuro.org.tw/health/health_list.asp",
+          "ref": "turn49view0",
+          "method": "retrieval-failed-404",
+          "checkedDate": "2026-10-06"
+        }
+      ]
+    },
+    {
+      "nameOfficial": "社團法人台灣巴金森之友協會原主站",
+      "url": "https://www.pdcare.org.tw/",
+      "verified": false,
+      "checkedDate": "2026-10-06",
+      "reason": "The association and historical domain are supported by government sources, but HTTPS retrieval failed with 502 and HTTP retrieval also failed; use the verified association-announcement resource instead.",
+      "sources": [
+        {
+          "url": "https://www.pdcare.org.tw/",
+          "ref": "turn38view0",
+          "method": "retrieval-failed-502",
+          "checkedDate": "2026-10-06"
+        },
+        {
+          "url": "https://sp1.hso.mohw.gov.tw/doctor/Often_question/type_detail.php?q_type=%E5%B8%95%E9%87%91%E6%A3%AE%E6%B0%8F%E7%97%87",
+          "ref": "turn44search0",
+          "type": "primary",
+          "method": "historical-official-link",
+          "checkedDate": "2026-10-06"
+        }
+      ]
+    }
+  ]
+}

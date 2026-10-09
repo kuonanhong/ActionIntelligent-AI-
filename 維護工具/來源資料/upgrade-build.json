@@ -1,0 +1,38 @@
+{
+  "basePages": 55,
+  "locales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "fr",
+    "ja",
+    "es"
+  ],
+  "htmlPages": 330,
+  "resources": 29,
+  "sitemapURLs": 240,
+  "missingContentPages": [
+    "blog/20478397518.html",
+    "blog/4f9ab696101.html",
+    "blog/activity-114-02-20-part3.html",
+    "blog/activity-1140215.html",
+    "blog/activity-1140308.html",
+    "blog/activity-1140315.html",
+    "blog/activity-1140412.html",
+    "blog/activity-1140508.html",
+    "blog/activity-1140527.html",
+    "blog/activity-1140529.html",
+    "blog/activity-1140607.html",
+    "blog/activity-466f10c3451.html",
+    "blog/activity-6.html",
+    "blog/b127aee8859.html"
+  ],
+  "translationCounts": {
+    "zh-TW": 58,
+    "zh-CN": 754,
+    "en": 754,
+    "fr": 754,
+    "ja": 754,
+    "es": 754
+  }
+}

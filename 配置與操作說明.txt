@@ -1,0 +1,157 @@
+聰動成長協會獨立網站｜2026-10-06 改版操作說明
+
+這是供下載、測試及部署到 GitHub Pages 的完整靜態網站套件。
+此次未直接修改或發布 https://kuonanhong.github.io/SmartAction/ 。
+網站顯示不需要付費網頁設計平台、翻譯 API、npm、Vite 或第三方 UI 套件。
+
+1. 先解壓縮完整套件
+
+完整 ZIP 裡的 SmartAction 資料夾才是網站根目錄。請保留內部目錄的相對位置。
+根目錄包含 index.html、社團法人高雄市聰動成長協會.html、parkinson.html、resources.html、downloads.html、播放說明.html、blog/、社團法人高雄市聰動成長協會_files/，以及 zh-CN/、en/、fr/、ja/、es/ 語言目錄。
+中文檔名的首頁與 index.html 顯示相同內容；搜尋標準網址使用 index.html。
+所有語言共用根目錄的圖片、圖示、CSS、JavaScript、字型與下載文件。
+不要只拿首頁 HTML 覆蓋舊網站而漏掉 blog/、語言目錄或附件。
+
+2. 在自己電腦打開完整功能網站
+
+直接雙擊 HTML 可以閱讀靜態內容、搜尋文章與切換語言，但 YouTube 不宜從 file:// 頁面嵌入播放。
+完整播放方式是使用本機 HTTP 網站或 GitHub Pages 的 HTTPS 網址。
+本機啟動器只需要 Python 3；沒有 Python 時請安裝 python.org 提供的官方 Python 3。
+
+Windows：雙擊「啟動網站_Windows.bat」。若使用官方 Python 安裝器，勾選 Add Python to PATH。
+Mac：在終端機切換到 SmartAction 資料夾，執行 python3 start_server.py。
+亦可執行 chmod +x 啟動網站_Mac.command，再開啟此檔。
+Linux：切換到 SmartAction 資料夾後，執行 python3 start_server.py，或 sh 啟動網站_Linux.sh。
+
+啟動後瀏覽器打開 http://127.0.0.1:8765/ 。若 8765 被占用，依終端機提示使用其他埠，或執行 python3 start_server.py --port 8800。
+需要關閉本機網站時，在終端機按 Control+C。
+伺服器只監聽本機，不是對外發布網站。
+影片仍需要網路。影片擁有者停用嵌入、設為私人、移除影片、地區限制或使用者網路無法連線 YouTube 時，HTML 無法解除限制。
+各影片保留「在 YouTube 觀看」與播放說明入口；程式保留正確 origin 與 Referrer 設定，避免 file:// 常見的播放器來源問題。
+本次檢查確認影片嵌入網址與來源設定，沒有保證每個外部影片的串流與權限永久可用。
+
+3. 更新既有 GitHub Pages 網站
+
+先備份 kuonanhong/SmartAction 儲存庫。
+把解壓後 SmartAction 資料夾「內部」的全部網站內容放到儲存庫根目錄，合併並覆蓋對應檔案；不要再多包一層 SmartAction。
+若從 GitHub 網頁上傳，新資料夾可由 Upload files 拖入。已存在的重名檔案請用編輯或 git 更新；GitHub 可能不接受單次大量拖曳，建議透過 GitHub Desktop 分批或一次提交。
+
+儲存庫 Settings → Pages → Build and deployment：
+Source 選 Deploy from a branch；Branch 選目前存放網站的分支（常見是 main）；Folder 選 / (root)。
+保留 .nojekyll，避免純 HTML 網站被不必要的模板流程處理。
+若此儲存庫已使用其他部署工作流程，沿用該工作流程的來源目錄，不需建立第二個發布流程。
+
+更新完成後檢查：
+https://kuonanhong.github.io/SmartAction/
+https://kuonanhong.github.io/SmartAction/blog/index.html
+https://kuonanhong.github.io/SmartAction/resources.html
+https://kuonanhong.github.io/SmartAction/en/index.html
+https://kuonanhong.github.io/SmartAction/fr/resources.html
+https://kuonanhong.github.io/SmartAction/ja/blog/index.html
+https://kuonanhong.github.io/SmartAction/es/parkinson.html
+https://kuonanhong.github.io/SmartAction/zh-CN/index.html
+
+以上為部署後的預期位置；此套件並未自動上傳到你的 GitHub。
+部署完成後使用瀏覽器強制重新整理（Windows Control+F5／Mac Command+Shift+R）。
+本次 CSS 與 JS 也附有內容版本參數，減少舊快取造成仍看到兩欄卡片的情況。
+
+4. 「更多文章」的顯示修正
+
+blog/index.html 的文章列表已改成單欄。每篇為圓形 44px 圖示、文章標題與細分隔線，正常標題約 22px，列高約 88px。
+手機上長標題會自然換行，以免文字超出螢幕；因此不強迫所有標題只能占一條文字行。
+37 篇使用已核對的對應封面；11 篇沒有可靠對應封面，使用協會標誌。並非替未知文章捏造封面。
+原來缺少的 24 張文章圖示已放到附件的 article-covers/，由本機路徑載入。
+新版依賴 article-list.css、archive.css、archive.js 和本機封面；不需要另裝圖示 CDN 或 JavaScript 套件。
+首頁原本的四張最新文章預覽卡片保留。修正的是點「更多文章」後的完整文章列表。
+48 個文章入口及搜尋功能保留。已保存內容仍為 1 篇全文、33 篇摘要、14 篇待補全文。
+本次沒有取得或捏造 14 篇缺少的全文。待補內容的頁面已設為 noindex,follow，避免把空頁當作完整衛教文章推廣。
+
+5. 巴金森資源目錄
+
+頁首新增「巴金森資源」入口；首頁「友善連結」區也新增資源目錄按鈕。
+resources.html 收錄 29 個入口：高雄 4 個、台灣 7 個、國際 18 個。
+提供搜尋、地區與用途篩選、來源語言提示、查核日期與複製本頁連結。
+巴金森資源清單.csv 供協會同仁用 Excel 檢視或管理。
+這是可擴充的精選清單，不是聲稱已涵蓋全球所有相關網站。
+部分長照與照顧者資源服務多種疾病，目錄已依用途說明，沒有標成專屬巴金森醫療機構。
+26 個入口已直接核對官方頁面；ClinicalTrials.gov 官方入口可讀、試驗結果列表需 JavaScript；NINDS 概述與 World Parkinson Coalition 研討會頁以官方搜尋索引確認，直接擷取受限，頁面亦有註記。
+來源語言以本次查核的內容為準，不保證每個外部網站的所有資料均提供多語。
+請每季檢查外部連結及服務公告；實際服務、報名條件與研究狀態，以對方最新資訊為準。
+
+6. 自動語言與手動選擇
+
+支援繁體中文、簡體中文、英語、法語、日語、西班牙語。
+根目錄頁面依「明確 ?lang= 指定 → 已儲存的手動偏好 → 瀏覽器偏好語言」選擇。
+zh-CN、zh-Hans、zh-SG 對應簡體；zh-TW、zh-Hant、zh-HK 等對應繁體；en/fr/ja/es 的地區變體對應各語。
+不支持的語言若偏好清單還有支持語言，使用第一個支持語言；完全沒有時顯示英文。
+這依據 navigator.languages，不是 IP 定位，也不會要求精確位置權限。
+因此使用英文瀏覽器的中國讀者可能看到英文，使用繁中瀏覽器的美國讀者可能看到繁中。
+這樣尊重讀者的語言偏好，並避免免費 IP 定位服務的隱私、限額、錯誤國別與跨境可用性問題。
+
+頁首選單可以直接切換語言，會切到同一頁的對應語言版本，並記住選擇。
+「自動選擇（依瀏覽器）」清除手動指定效果，重新按瀏覽器偏好選擇。
+直接打開 en/、fr/、ja/、es/、zh-CN/ 的固定網址會保持該版本，不因 IP 或瀏覽器而強制跳走。
+例如 /en/blog/index.html 的文章連結保持英文，語言選單切換仍可回到對應的日文或繁中頁。
+繁中根目錄另可用 ?lang=zh-TW、?lang=en、?lang=fr、?lang=ja、?lang=es、?lang=zh-CN 暫時檢視自動入口的指定語言。
+固定語言目錄以該目錄的語言為準；測試網址不要用「不同語言目錄＋不同 ?lang」混搭。
+
+本次翻譯涵蓋既有 614 個文字單位，包括首頁、巴金森手記、文章標題与已保存正文、播放說明及下載頁；另翻譯新目錄、操作標籤與動態搜尋計數。
+人名、匯款戶名、APP 真實搜尋名稱、外部機構官方名稱、網址與要操作的實際檔名可能保留原名稱，周圍解說已翻譯。
+圖片內文字、影片語音／字幕、下載文件內容與外部連結的網站不會因本頁切換而翻譯。
+語言頁為機器輔助翻譯，正式對外使用前應由協會安排語言與醫療內容審閱。
+原活動記錄中的飲食及用藥時機有表述不明的部分；本次保留原內容並在該全文頁提醒待醫療團隊核對，沒有改寫成新的用藥建議。
+不支持的其他語言可在維護工具中擴充；此套件沒有聲稱已支援全球所有語言。
+
+7. 增加閱讀量與搜尋點擊的實際作法
+
+第一步：確定協會的主要公開網址。
+目前首頁仍保留「技術展示與測試站」提示，連回官方原站。正式採用時，由協會確認網站名稱、聯絡資訊、管理者及公開定位，才調整提示。
+本套件的 canonical 與分享網址以使用者指定的 GitHub Pages 網址設定；它是搜尋提示，不保證 Google 選它作標準頁。
+若原站與新站長期保留相同內容，搜尋可能只顯示其中之一。最好由協會決定正式主站；真正遷移時，在舊站可控制的伺服器設定適當的永久轉址。僅在新 HTML 寫 canonical 無法替舊站完成搬家。
+沒有在這次工作中變更 DNS、網站所有權或正式主站。
+
+第二步：用 Google Search Console 的 URL-prefix property 登記 https://kuonanhong.github.io/SmartAction/ ，依官方步驟驗證管理權限。
+提交 https://kuonanhong.github.io/SmartAction/sitemap.xml 。本套件包含各語對應網址、hreflang、標準網址、描述及分享資訊。
+sitemap 排除中文首頁重複檔名與待補全文空頁。它幫助發現網址，不保证收錄或排名。
+GitHub project 的 /SmartAction/robots.txt 不能取代網域根目錄 /robots.txt；本次沒有把子目錄 robots 當成有效的整個網域設定。
+
+第三步：持續提供原創、在地、可核對的內容。
+優先主題：高雄病友活動與報名、照顧者支持服務、就醫交通與資源、運動課程、巴金森常見問題、活動影片重點及字幕逐字稿。
+由確實參與的醫師／專業人員審閱，標示真實作者、審閱者、更新日期和資料來源；不要杜撰專家署名或療效承諾。
+把已有摘要補成內容完整的文章，把已過期活動清楚標為歷史紀錄，新的報名入口只放目前有效公告。
+每篇頁面用具体、符合內容的標題、短介紹及可讀的大字；避免堆砌關鍵字或大量複製外站文章。
+僅增加大量外部連結不保證排名；資源目錄應有清楚分類、在地價值及定期更新。
+
+第四步：讓真正需要資訊的人找到頁面。
+經對方同意，請醫療院所、病友組織、社區據點在適當頁面連結到協會實際活動或資源目錄。
+活動海報／講座投影片加入網站與特定活動頁 QR code；在協會已有 Facebook、LINE、YouTube 管道分享相關文章。
+本次沒有替你寄信、發文、購買流量或加入任何追蹤碼。
+
+第五步：追蹤8週成效。
+以 Search Console 記錄搜尋曝光、點擊、CTR、主要查詢、被收錄頁面與語言／國家分布，比較改版前後。
+Google Search Console 不等於全站瀏覽量統計；若需要全站造訪數，另由管理者評估合適統計工具與隱私告知。
+按數據改善最多曝光但低CTR的標題、實際有需求的內容和手機體驗，不承諾一定熱門或點擊一定增加。
+
+8. 日後修改文字與新增資源
+
+一般使用與發布不需要執行維護工具。
+若只修改某個現有語言，可編輯對應 HTML，但這不會自動同步其他語言。
+要從繁中來源重建全部語言，可使用「維護工具/重建網站.py」；先安裝 Python 套件：
+python3 -m pip install beautifulsoup4 opencc-python-reimplemented
+再執行：
+python3 維護工具/重建網站.py
+
+此工具使用套件內保存的資源與翻譯資料，沒有呼叫翻譯服務。
+主資料在 維護工具/來源資料/：resources-taiwan.json、resources-international.json、i18n/source-units.json、i18n/en.json、fr.json、ja.json、es.json、extra-terms.json。
+新增資源需在各語 title/description 同時填好；简中由繁中轉換。修改首頁／文章的新文字也需新增 source-units 記錄並補四個翻譯字典，否則新詞會保留原文字。
+維護工具/resources.json、translations.json 是重建時產生的查閱快照，直接改這兩份快照不會改變上面的來源資料。
+新文章須在 blog/ 增加繁中 HTML，並手動加入文章索引；重建工具不會憑空取得外部網站全文。
+如果換GitHub帳號、儲存庫名稱或正式網域，修改重建工具的 BASE 後重新生成所有頁面與 sitemap；不能只改首頁的 canonical。
+套件含48筆既有文章；若日後增加文章，驗證數量應依新內容調整，不需永久限制為48。
+
+9. 聯絡表單與既有功能
+
+沒有後端設定時，表單開啟使用者自己的郵件程式，需由使用者完成寄送；亦可下載留言文字自行寄出。
+附件 config.js 可指定協會實際的 contactEmail；目前沿用已上傳的設定。若有正式HTTPS表單後端，可依原設定介接，但需由管理者維護與確認寄送結果。
+購物、捐款、社群、Google地圖與外站表單維持原外部連結，需要網路及對方服務可用。
+本次沒有以網頁外观模擬成功付款、成功捐款或已寄出郵件，也沒有更動銀行戶名與帳號。

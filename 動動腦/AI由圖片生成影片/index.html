@@ -1,0 +1,267 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="免費本機照片平移縮放動畫、影片色彩濾鏡與下載；真正生成式AI圖轉影片、影片改作可連接自行提供的模型後端，不提供免費無限算力。">
+  <meta name="theme-color" content="#0b2c35">
+  <title>照片動態影片・影片調色與AI後端入口｜聰動創作工坊</title>
+  <link rel="stylesheet" href="../../assets/portal.css">
+  <link rel="stylesheet" href="styles.css">
+  <script src="../../assets/portal-i18n.js" defer></script>
+  <script src="../../assets/engage.js" defer></script>
+  <script type="module" src="app.mjs"></script>
+<meta name="referrer" content="strict-origin-when-cross-origin"><link rel="canonical" href="https://kuonanhong.github.io/SmartAction/%E5%8B%95%E5%8B%95%E8%85%A6/AI%E7%94%B1%E5%9C%96%E7%89%87%E7%94%9F%E6%88%90%E5%BD%B1%E7%89%87/index.html"><meta property="og:title" content="照片動態影片・影片調色與AI後端入口｜聰動創作工坊"><meta property="og:description" content="免費本機照片平移縮放動畫、影片色彩濾鏡與下載；真正生成式AI圖轉影片、影片改作可連接自行提供的模型後端，不提供免費無限算力。"><meta property="og:url" content="https://kuonanhong.github.io/SmartAction/%E5%8B%95%E5%8B%95%E8%85%A6/AI%E7%94%B1%E5%9C%96%E7%89%87%E7%94%9F%E6%88%90%E5%BD%B1%E7%89%87/index.html"><meta property="og:type" content="website"><script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "照片動態影片・影片調色與AI後端入口｜聰動創作工坊", "url": "https://kuonanhong.github.io/SmartAction/%E5%8B%95%E5%8B%95%E8%85%A6/AI%E7%94%B1%E5%9C%96%E7%89%87%E7%94%9F%E6%88%90%E5%BD%B1%E7%89%87/index.html", "description": "免費本機照片平移縮放動畫、影片色彩濾鏡與下載；真正生成式AI圖轉影片、影片改作可連接自行提供的模型後端，不提供免費無限算力。", "inLanguage": "zh-TW", "applicationCategory": "EducationalApplication", "operatingSystem": "Web browser", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "TWD"}}</script></head>
+<body class="sa-creative">
+  <a class="skip-link" href="#main" data-i18n="start" data-en="Start">前往工具</a>
+
+  <header class="site-header">
+    <a class="brand" href="../../" aria-label="返回聰動成長協會首頁">
+      <span class="brand-mark" aria-hidden="true">動</span>
+      <span>
+        <strong data-i18n="brain" data-en="Brain studio">動動腦</strong>
+        <small data-i18n="video" data-en="Video">影像動畫工坊</small>
+      </span>
+    </a>
+    <nav aria-label="頁面導覽">
+      <a href="../../" data-i18n="home" data-en="Home">回首頁</a>
+      <a href="#guide" data-i18n="help" data-en="Help">操作說明</a>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="hero" aria-labelledby="page-title">
+      <div>
+        <p class="eyebrow" data-i18n="localOnly" data-en="Local only">本機優先・不需帳號</p>
+        <h1 id="page-title" data-en="Turn a still image into a gently animated clip">把照片變成有呼吸感的短片</h1>
+        <p class="hero-copy" data-en="Animate an image with pan and zoom, or restyle an existing video. Local mode runs entirely in this browser and never uploads automatically.">圖片可套用平移縮放動畫；影片可套用色彩濾鏡後重新匯出。所有本機模式都在您的瀏覽器內處理，不會自動上傳。</p>
+      </div>
+      <div class="truth-card" role="note">
+        <span class="truth-icon" aria-hidden="true">✓</span>
+        <div>
+          <strong data-i18n="notGenerative" data-en="Not generative AI">本機功能不是生成式 AI</strong>
+          <p data-en="It uses Canvas and MediaRecorder to create a real video; it does not invent new frames. Generative AI requires your own backend.">它使用 Canvas 與 MediaRecorder 製作真實影片，不會憑空生成新畫面。若要使用生成式 AI，需自行連接後端。</p>
+        </div>
+      </div>
+    </section>
+
+    <p class="translation-note" role="note" data-en="Main controls follow the language menu. Detailed labels not yet translated fall back to English.">目前工具細節以繁體中文為主；多語系選單會翻譯共用導覽，未翻譯欄位保留英文提示（English fallback）。</p>
+
+    <p class="translation-note" data-en="Local export is silent; the original audio track is not retained. Keep this tab in the foreground while recording.">本機匯出為無聲影片，不保留原音軌；錄製時請保持此分頁在前景。</p>
+    <section class="workspace" aria-label="本機影片工具">
+      <div class="panel controls-panel">
+        <div class="section-heading">
+          <span class="step">01</span>
+          <div>
+            <h2 data-en="Choose media">選擇素材</h2>
+            <p data-i18n="privacy" data-en="Privacy">檔案只保留在目前分頁的記憶體中。</p>
+          </div>
+        </div>
+
+        <label class="drop-zone" id="dropZone" for="mediaInput">
+          <input id="mediaInput" type="file" accept="image/*,video/*">
+          <span class="upload-icon" aria-hidden="true">＋</span>
+          <strong><span data-i18n="uploadImage" data-en="Upload image">上傳圖片</span>／<span data-i18n="uploadVideo" data-en="Upload video">影片</span></strong>
+          <span data-en="Drop a file here or click to browse">拖曳到此處，或按一下選擇檔案</span>
+          <small data-en="PNG, JPG, WebP, GIF, MP4, WebM, and other browser-readable formats">PNG、JPG、WebP、GIF、MP4、WebM 等瀏覽器可讀格式</small>
+        </label>
+        <div id="fileMeta" class="file-meta" aria-live="polite" data-en="No file selected">尚未選擇檔案</div>
+
+        <div class="section-heading compact">
+          <span class="step">02</span>
+          <div>
+            <h2 data-en="Frame settings">設定畫面</h2>
+            <p data-en="Higher resolution takes more time and memory.">解析度愈高，處理時間與記憶體用量愈大。</p>
+          </div>
+        </div>
+
+        <div class="form-grid">
+          <label>
+            <span>畫面比例 <em>Aspect ratio</em></span>
+            <select id="aspectSelect">
+              <option value="16:9" data-en="16:9 landscape">16:9 橫式</option>
+              <option value="9:16" data-en="9:16 portrait">9:16 直式</option>
+              <option value="1:1" data-en="1:1 square">1:1 正方形</option>
+              <option value="4:3" data-en="4:3 classic">4:3 經典</option>
+            </select>
+          </label>
+          <label>
+            <span data-i18n="resolution" data-en="Resolution">解析度</span>
+            <select id="resolutionSelect">
+              <option value="480" data-en="480p (fast)">480p（快速）</option>
+              <option value="720" selected data-en="720p (recommended)">720p（建議）</option>
+              <option value="1080" data-en="1080p (high quality)">1080p（高畫質）</option>
+            </select>
+          </label>
+          <label>
+            <span data-i18n="duration" data-en="Duration">片長（秒）</span>
+            <input id="durationInput" type="number" min="2" max="30" step="1" value="6" inputmode="numeric">
+          </label>
+          <label>
+            <span>運鏡 <em>Motion</em></span>
+            <select id="motionSelect">
+              <option value="zoom-in" data-en="Slow zoom in">緩慢拉近</option>
+              <option value="zoom-out" data-en="Slow zoom out">緩慢拉遠</option>
+              <option value="pan-left" data-en="Horizontal pan">水平平移</option>
+              <option value="pan-up" data-en="Upward pan">向上平移</option>
+              <option value="breathe" data-en="Gentle breathing">輕柔呼吸</option>
+              <option value="none" data-en="Still frame">固定畫面</option>
+            </select>
+          </label>
+          <label>
+            <span>色彩風格 <em>Color style</em></span>
+            <select id="filterSelect">
+              <option value="none" data-en="Original color">原色</option>
+              <option value="cinematic" data-en="Cinematic">電影感</option>
+              <option value="warm" data-en="Warm">溫暖</option>
+              <option value="cool" data-en="Cool">清冷</option>
+              <option value="vivid" data-en="Vivid">鮮明</option>
+              <option value="grayscale" data-en="Black and white">黑白</option>
+              <option value="soft" data-en="Soft">柔和</option>
+            </select>
+          </label>
+          <label>
+            <span>效果強度 <output id="strengthOutput" for="strengthRange">70%</output></span>
+            <input id="strengthRange" type="range" min="0" max="100" value="70">
+          </label>
+        </div>
+
+        <div class="button-row preview-actions" aria-label="預覽控制">
+          <button class="button ghost" id="previewBtn" type="button" data-i18n="start" data-en="Start" disabled>預覽</button>
+          <button class="button ghost" id="pauseBtn" type="button" data-i18n="pause" data-en="Pause" disabled>暫停</button>
+          <button class="button ghost" id="resetBtn" type="button" data-i18n="reset" data-en="Reset">重設</button>
+        </div>
+
+        <div class="button-row primary-actions">
+          <button class="button primary" id="createLocalBtn" type="button" disabled>
+            <span aria-hidden="true">●</span>
+            <span data-i18n="create" data-en="Create">製作本機影片</span>
+          </button>
+          <button class="button danger" id="cancelLocalBtn" type="button" data-i18n="cancel" data-en="Cancel" disabled>取消</button>
+          <button class="button success" id="downloadBtn" type="button" data-i18n="download" data-en="Download" disabled>下載影片</button>
+        </div>
+
+        <div class="progress-wrap">
+          <div class="progress-label"><span>處理進度</span><span id="localPercent">0%</span></div>
+          <progress id="localProgress" max="100" value="0">0%</progress>
+        </div>
+        <p id="localStatus" class="status" role="status" aria-live="polite" data-en="Waiting for an image or video.">等待選擇圖片或影片。</p>
+      </div>
+
+      <div class="panel preview-panel">
+        <div class="preview-header">
+          <div>
+            <p class="eyebrow">LIVE CANVAS</p>
+            <h2 data-en="Preview">畫面預覽</h2>
+          </div>
+          <span id="formatBadge" class="format-badge" data-en="Detecting output format">輸出格式偵測中</span>
+        </div>
+        <div class="canvas-shell" id="canvasShell">
+          <canvas id="previewCanvas" width="1280" height="720" aria-label="影片畫面預覽"></canvas>
+        </div>
+        <video id="sourceVideo" playsinline muted hidden></video>
+        <p class="preview-note" data-en="The browser exports MP4 or WebM according to support, and the extension follows the actual format. Some browsers do not include source audio in a Canvas recording.">瀏覽器會依支援狀況輸出 MP4 或 WebM；下載副檔名會自動與實際格式一致。部分瀏覽器不會把來源影片的聲音錄入 Canvas 匯出檔。</p>
+      </div>
+    </section>
+
+    <section class="panel ai-panel" id="ai-connector" aria-labelledby="ai-title">
+      <div class="section-heading">
+        <span class="step">AI</span>
+        <div>
+          <h2 id="ai-title" data-en="Optional: connect your own generative AI backend">選用：連接您自己的生成式 AI 後端</h2>
+          <p><span data-i18n="backendRequired" data-en="Backend required">需要另外配置後端</span>；本站預設不含付費 API、不保證任何免費雲端額度，也不會用假進度冒充生成。</p>
+        </div>
+      </div>
+
+      <div class="backend-state" id="backendState" role="status">
+        <span class="state-dot" aria-hidden="true"></span>
+        <strong data-en="Backend not configured">後端尚未設定</strong>
+        <span data-en="Submission is enabled only after you enter a trusted service base URL.">填入您信任的服務基底網址後才會啟用送出。</span>
+      </div>
+
+      <div class="ai-grid">
+        <div class="ai-form">
+          <label>
+            <span>後端網址 <em>Backend base URL</em></span>
+            <input id="endpointInput" type="url" placeholder="http://127.0.0.1:8000" autocomplete="off" spellcheck="false">
+            <small data-en="Only the URL is saved in localStorage. Never enter an API key, token, or password here.">只儲存網址於 localStorage；請勿在此輸入 API key、Token 或密碼。</small>
+          </label>
+          <div class="button-row small-actions">
+            <button class="button ghost" id="saveEndpointBtn" type="button">儲存網址</button>
+            <button class="button ghost" id="clearEndpointBtn" type="button">清除</button>
+          </div>
+          <label>
+            <span data-i18n="model" data-en="Model">模型</span>
+            <select id="modelSelect">
+              <option value="Wan-AI/Wan2.1-I2V-14B-720P-Diffusers">Wan 2.1 Image-to-Video</option>
+              <option value="THUDM/CogVideoX-5b">CogVideoX Video-to-Video</option>
+            </select>
+          </label>
+          <label>
+            <span>工作類型 <em>Task</em></span>
+            <select id="taskSelect">
+              <option value="image-to-video">image-to-video</option>
+              <option value="video-to-video">video-to-video</option>
+            </select>
+          </label>
+          <label>
+            <span data-i18n="prompt" data-en="Prompt">提示詞</span>
+            <textarea id="promptInput" rows="5" placeholder="例如：鏡頭緩慢靠近，人物自然眨眼，柔和日光，動作平穩。"></textarea>
+          </label>
+          <div class="button-row primary-actions">
+            <button class="button primary" id="submitAiBtn" type="button" disabled>送到自備後端</button>
+            <button class="button danger" id="cancelAiBtn" type="button" disabled data-i18n="cancel" data-en="Cancel">停止等候</button>
+            <button class="button ghost" id="exportPromptBtn" type="button">匯出提示詞</button>
+          </div>
+          <div class="progress-wrap">
+            <div class="progress-label"><span>後端工作進度</span><span id="aiPercent">—</span></div>
+            <progress id="aiProgress" max="100" value="0">0%</progress>
+          </div>
+          <p id="aiStatus" class="status" role="status" aria-live="polite" data-en="No backend configured; only local tools are available.">未設定後端；目前只有本機工具可用。</p>
+          <a id="aiResultLink" class="result-link" href="#" target="_blank" rel="noopener noreferrer" hidden>開啟後端生成結果</a>
+        </div>
+
+        <aside class="api-card" aria-label="後端介面規格">
+          <h3>最小 API 合約</h3>
+          <ol>
+            <li><code>POST /jobs</code>，multipart 欄位：<code>file</code>、<code>prompt</code>、<code>model</code>、<code>task</code></li>
+            <li>回傳 <code>{ "id": "…" }</code> 或 <code>{ "job_id": "…" }</code></li>
+            <li><code>GET /jobs/{id}</code> 回傳 <code>status</code>、<code>progress</code>，完成時含 <code>result_url</code> 或 <code>output_url</code></li>
+          </ol>
+          <p>您的後端必須允許此網頁來源的 CORS。按「停止等候」只停止這個分頁的輪詢，不會刪除後端工作。</p>
+          <h3>官方模型與範例</h3>
+          <ul class="link-list">
+            <li><a href="https://github.com/Wan-Video/Wan2.1" target="_blank" rel="noopener noreferrer">Wan2.1 官方程式庫</a></li>
+            <li><a href="https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-720P-Diffusers" target="_blank" rel="noopener noreferrer">Wan 2.1 I2V 模型頁</a></li>
+            <li><a href="https://github.com/THUDM/CogVideo" target="_blank" rel="noopener noreferrer">CogVideo 官方程式庫</a></li>
+            <li><a href="https://huggingface.co/THUDM/CogVideoX-5b" target="_blank" rel="noopener noreferrer">CogVideoX-5b 模型頁</a></li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section class="guide panel" id="guide" aria-labelledby="guide-title">
+      <div class="section-heading">
+        <span class="step">?</span>
+        <div>
+          <h2 id="guide-title" data-i18n="help" data-en="Help">操作說明</h2>
+          <p data-i18n="noGate" data-en="No watch gate">所有功能直接開放，不需觀看影片或完成任務解鎖。</p>
+        </div>
+      </div>
+      <div class="guide-grid">
+        <article><strong>1</strong><h3 data-en="Choose media">選素材</h3><p data-en="Upload an image or an existing video. Selecting it does not send it online.">上傳一張圖片或一支現有影片。選取後不會自動送出網路。</p></article>
+        <article><strong>2</strong><h3 data-en="Preview">預覽效果</h3><p data-en="Adjust aspect, motion, and filters, then preview the frame.">調整比例、運鏡與濾鏡。按「預覽」確認畫面。</p></article>
+        <article><strong>3</strong><h3 data-en="Local export">本機匯出</h3><p data-en="Create locally, wait for recording to finish, then download MP4 or WebM.">按「製作本機影片」，等待錄製完成後下載 MP4 或 WebM。</p></article>
+        <article><strong>4</strong><h3 data-en="Optional AI">選用 AI</h3><p data-en="Media is uploaded only after you configure your backend and actively submit it.">只有設定自備後端並主動按送出時，素材才會上傳到該服務。</p></article>
+      </div>
+    </section>
+
+    <div data-sa-engage></div>
+  </main>
+
+  <footer>
+    <p data-en="Smart Action Growth Association · This tool does not provide medical advice">聰動成長協會・本工具不提供醫療建議</p>
+    <p data-i18n="optionalSupport" data-en="Optional support">支持為自願選項，不影響工具使用。</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,590 @@
+[
+  [
+    "巴金森資源",
+    "Parkinson’s resources",
+    "Ressources Parkinson",
+    "パーキンソン病の情報",
+    "Recursos sobre Parkinson"
+  ],
+  [
+    "巴金森資源導航",
+    "Parkinson’s resource directory",
+    "Répertoire de ressources Parkinson",
+    "パーキンソン病リソース案内",
+    "Directorio de recursos sobre Parkinson"
+  ],
+  [
+    "高雄、台灣與國際巴金森資源",
+    "Parkinson’s resources in Kaohsiung, Taiwan and worldwide",
+    "Ressources Parkinson à Kaohsiung, à Taïwan et dans le monde",
+    "高雄・台湾・世界のパーキンソン病情報",
+    "Recursos sobre Parkinson en Kaohsiung, Taiwán y el mundo"
+  ],
+  [
+    "依地區與用途整理官方醫療、病友支持、衛教及研究入口，幫助您找到需要的資訊。",
+    "Find official healthcare, patient support, education and research resources by region and purpose.",
+    "Trouvez des ressources officielles sur les soins, le soutien, l’information et la recherche par région et par besoin.",
+    "地域と目的別に、医療機関、患者支援、疾病情報、研究の公式サイトをご案内します。",
+    "Encuentre recursos oficiales de atención sanitaria, apoyo, información y investigación por región y finalidad."
+  ],
+  [
+    "查看巴金森資源導航",
+    "Browse Parkinson’s resources",
+    "Consulter les ressources Parkinson",
+    "パーキンソン病の情報を探す",
+    "Explorar recursos sobre Parkinson"
+  ],
+  [
+    "搜尋資源",
+    "Search resources",
+    "Rechercher des ressources",
+    "リソースを検索",
+    "Buscar recursos"
+  ],
+  [
+    "輸入機構、主題或關鍵字",
+    "Organization, topic or keyword",
+    "Organisme, sujet ou mot-clé",
+    "機関名・テーマ・キーワード",
+    "Organización, tema o palabra clave"
+  ],
+  [
+    "地區",
+    "Region",
+    "Région",
+    "地域",
+    "Región"
+  ],
+  [
+    "全部地區",
+    "All regions",
+    "Toutes les régions",
+    "すべての地域",
+    "Todas las regiones"
+  ],
+  [
+    "高雄",
+    "Kaohsiung",
+    "Kaohsiung",
+    "高雄",
+    "Kaohsiung"
+  ],
+  [
+    "台灣",
+    "Taiwan",
+    "Taïwan",
+    "台湾",
+    "Taiwán"
+  ],
+  [
+    "國際",
+    "International",
+    "International",
+    "国際",
+    "Internacional"
+  ],
+  [
+    "用途",
+    "Purpose",
+    "Usage",
+    "目的",
+    "Finalidad"
+  ],
+  [
+    "全部用途",
+    "All purposes",
+    "Tous les usages",
+    "すべての目的",
+    "Todas las finalidades"
+  ],
+  [
+    "醫療與照護",
+    "Healthcare and care",
+    "Soins et accompagnement",
+    "医療・ケア",
+    "Atención sanitaria y cuidados"
+  ],
+  [
+    "病友支持",
+    "Patient support",
+    "Soutien aux patients",
+    "患者支援",
+    "Apoyo a pacientes"
+  ],
+  [
+    "衛教資訊",
+    "Patient education",
+    "Information pour les patients",
+    "患者向け情報",
+    "Información para pacientes"
+  ],
+  [
+    "研究與試驗",
+    "Research and trials",
+    "Recherche et essais",
+    "研究・臨床試験",
+    "Investigación y ensayos"
+  ],
+  [
+    "專業學會",
+    "Professional societies",
+    "Sociétés savantes",
+    "専門学会",
+    "Sociedades profesionales"
+  ],
+  [
+    "官方網站",
+    "Official website",
+    "Site officiel",
+    "公式サイト",
+    "Sitio oficial"
+  ],
+  [
+    "來源語言",
+    "Source languages",
+    "Langues du site source",
+    "リンク先の言語",
+    "Idiomas del sitio de origen"
+  ],
+  [
+    "查核日期",
+    "Checked on",
+    "Date de vérification",
+    "確認日",
+    "Fecha de verificación"
+  ],
+  [
+    "複製本頁連結",
+    "Copy page link",
+    "Copier le lien de cette page",
+    "このページのリンクをコピー",
+    "Copiar enlace de esta página"
+  ],
+  [
+    "回到首頁",
+    "Back to home",
+    "Retour à l’accueil",
+    "ホームに戻る",
+    "Volver al inicio"
+  ],
+  [
+    "所有文章",
+    "All articles",
+    "Tous les articles",
+    "すべての記事",
+    "Todos los artículos"
+  ],
+  [
+    "返回首頁",
+    "Return to home",
+    "Retour à l’accueil",
+    "ホームへ戻る",
+    "Volver al inicio"
+  ],
+  [
+    "文章縮圖",
+    "Article thumbnail",
+    "Vignette de l’article",
+    "記事のサムネイル",
+    "Miniatura del artículo"
+  ],
+  [
+    "關閉文章列表，返回首頁",
+    "Close the article list and return home",
+    "Fermer la liste des articles et revenir à l’accueil",
+    "記事一覧を閉じてホームに戻る",
+    "Cerrar la lista de artículos y volver al inicio"
+  ],
+  [
+    "翻譯版供閱讀輔助；圖片內文字、影片字幕與外部網站保留原語言。",
+    "Translated text is provided as a reading aid. Text inside images, video subtitles and external websites retain their original language.",
+    "Les traductions facilitent la lecture. Le texte des images, les sous-titres vidéo et les sites externes restent dans leur langue d’origine.",
+    "翻訳文は閲覧を補助するものです。画像内の文字、動画の字幕、外部サイトは元の言語のままです。",
+    "Las traducciones facilitan la lectura. El texto de las imágenes, los subtítulos de vídeos y los sitios externos conservan su idioma original."
+  ],
+  [
+    "本目錄為持續擴充的精選資源，並非全球所有網站的完整清單。外部網站由各機構維護；醫療問題請洽您的醫療團隊。",
+    "This curated directory will continue to grow; it is not a complete list of every website worldwide. External sites are maintained by their organizations. Discuss medical questions with your care team.",
+    "Ce répertoire sélectionné pourra être enrichi ; il ne recense pas tous les sites du monde. Les sites externes sont gérés par leurs organismes. Adressez vos questions médicales à votre équipe soignante.",
+    "このリストは継続的に追加する厳選情報であり、世界中の全サイトを網羅するものではありません。外部サイトは各機関が管理しています。医療上の疑問は担当の医療チームにご相談ください。",
+    "Este directorio seleccionado se ampliará; no es una lista completa de todos los sitios del mundo. Cada organización mantiene su sitio externo. Consulte las cuestiones médicas con su equipo asistencial."
+  ],
+  [
+    "相關單位的服務與報名方式，請以連結內最新公告為準。",
+    "Check the linked organization’s latest notices for services and registration.",
+    "Consultez les annonces récentes de l’organisme pour les services et les inscriptions.",
+    "サービスや申込み方法については、リンク先の最新のお知らせをご確認ください。",
+    "Consulte los avisos recientes de la organización sobre servicios e inscripciones."
+  ],
+  [
+    "本次以官方搜尋索引查核，頁面直接讀取受限。",
+    "Verified through official search indexing; direct page retrieval was limited.",
+    "Vérification via l’index de recherche officiel ; accès direct limité.",
+    "公式サイトの検索結果で確認しました。ページの直接取得には制限がありました。",
+    "Verificado mediante la indexación del sitio oficial; la consulta directa fue limitada."
+  ],
+  [
+    "請啟用 JavaScript，以在頁內載入影片；也可使用下方的 YouTube 觀看連結。",
+    "Enable JavaScript to load embedded videos, or use the YouTube links below.",
+    "Activez JavaScript pour charger les vidéos intégrées, ou utilisez les liens YouTube ci-dessous.",
+    "埋め込み動画を表示するにはJavaScriptを有効にするか、下のYouTubeリンクをご利用ください。",
+    "Active JavaScript para cargar los vídeos incrustados o utilice los enlaces de YouTube de abajo."
+  ],
+  [
+    "連結已複製",
+    "Link copied",
+    "Lien copié",
+    "リンクをコピーしました",
+    "Enlace copiado"
+  ],
+  [
+    "請複製網址列的連結",
+    "Copy the link from the address bar",
+    "Copiez le lien dans la barre d’adresse",
+    "アドレスバーのリンクをコピーしてください",
+    "Copie el enlace de la barra de direcciones"
+  ],
+  [
+    "聰動成長協會互動地圖",
+    "SmartAction Association interactive map",
+    "Carte interactive de l’association SmartAction",
+    "SmartAction協会のインタラクティブ地図",
+    "Mapa interactivo de la Asociación SmartAction"
+  ],
+  [
+    "上一張",
+    "Previous slide",
+    "Diapositive précédente",
+    "前のスライド",
+    "Diapositiva anterior"
+  ],
+  [
+    "下一張",
+    "Next slide",
+    "Diapositive suivante",
+    "次のスライド",
+    "Diapositiva siguiente"
+  ],
+  [
+    "播放輪播",
+    "Play slideshow",
+    "Lancer le diaporama",
+    "スライドショーを再生",
+    "Reproducir presentación"
+  ],
+  [
+    "暫停輪播",
+    "Pause slideshow",
+    "Mettre le diaporama en pause",
+    "スライドショーを一時停止",
+    "Pausar presentación"
+  ],
+  [
+    "開啟選單",
+    "Open menu",
+    "Ouvrir le menu",
+    "メニューを開く",
+    "Abrir menú"
+  ],
+  [
+    "關閉選單",
+    "Close menu",
+    "Fermer le menu",
+    "メニューを閉じる",
+    "Cerrar menú"
+  ],
+  [
+    "上一區",
+    "Previous section",
+    "Section précédente",
+    "前のセクション",
+    "Sección anterior"
+  ],
+  [
+    "下一區",
+    "Next section",
+    "Section suivante",
+    "次のセクション",
+    "Sección siguiente"
+  ],
+  [
+    "送出",
+    "Submit",
+    "Envoyer",
+    "送信",
+    "Enviar"
+  ],
+  [
+    "送出後將在新分頁顯示寄送結果。",
+    "After submission, the result will open in a new tab.",
+    "Le résultat de l’envoi s’affichera dans un nouvel onglet.",
+    "送信結果は新しいタブで表示されます。",
+    "El resultado del envío se abrirá en una pestaña nueva."
+  ],
+  [
+    "協會網站留言：",
+    "Association website message: ",
+    "Message du site de l’association : ",
+    "協会サイトからのメッセージ：",
+    "Mensaje del sitio de la asociación: "
+  ],
+  [
+    "您的訊息：",
+    "Your message:",
+    "Votre message :",
+    "メッセージ：",
+    "Su mensaje:"
+  ],
+  [
+    "姓名：",
+    "Name:",
+    "Nom :",
+    "氏名：",
+    "Nombre:"
+  ],
+  [
+    "電子信箱：",
+    "Email:",
+    "Adresse e-mail :",
+    "メールアドレス：",
+    "Correo electrónico:"
+  ],
+  [
+    "連絡電話：",
+    "Phone:",
+    "Téléphone :",
+    "電話番号：",
+    "Teléfono:"
+  ],
+  [
+    "收件者：",
+    "To:",
+    "Destinataire :",
+    "宛先：",
+    "Destinatario:"
+  ],
+  [
+    "主旨：",
+    "Subject:",
+    "Objet :",
+    "件名：",
+    "Asunto:"
+  ],
+  [
+    "請在郵件程式中完成寄送。若郵件程式未開啟，可下載留言文字後寄至",
+    "Complete sending in your email app. If it does not open, download your message and send it to",
+    "Terminez l’envoi dans votre application de messagerie. Si elle ne s’ouvre pas, téléchargez le message et envoyez-le à",
+    "メールアプリで送信を完了してください。アプリが開かない場合は、メッセージをダウンロードして次の宛先へ送ってください：",
+    "Complete el envío en su aplicación de correo. Si no se abre, descargue el mensaje y envíelo a"
+  ],
+  [
+    "下載留言文字",
+    "Download message text",
+    "Télécharger le texte du message",
+    "メッセージをダウンロード",
+    "Descargar el mensaje"
+  ],
+  [
+    "YouTube 影片",
+    "YouTube video",
+    "Vidéo YouTube",
+    "YouTube動画",
+    "Vídeo de YouTube"
+  ],
+  [
+    "要在頁內播放，請先啟動本機網站，或使用已發布的網站網址。",
+    "To play videos here, start the local web server or use the published website URL.",
+    "Pour lire les vidéos ici, démarrez le serveur local ou utilisez l’adresse du site publié.",
+    "ページ内で動画を再生するには、ローカルサーバーを起動するか、公開サイトのURLを使用してください。",
+    "Para reproducir vídeos aquí, inicie el servidor local o use la dirección del sitio publicado."
+  ],
+  [
+    "查看影片播放方式",
+    "View video playback instructions",
+    "Voir les instructions de lecture vidéo",
+    "動画の再生方法を見る",
+    "Ver instrucciones de reproducción"
+  ],
+  [
+    "網站語言",
+    "Website language",
+    "Langue du site",
+    "サイトの言語",
+    "Idioma del sitio"
+  ],
+  [
+    "自動選擇（依瀏覽器）",
+    "Automatic (browser preference)",
+    "Automatique (préférence du navigateur)",
+    "自動（ブラウザーの設定）",
+    "Automático (preferencia del navegador)"
+  ],
+  [
+    "巴金森資源目錄｜聰動成長協會",
+    "Parkinson’s resource directory | SmartAction Association",
+    "Ressources Parkinson | Association SmartAction",
+    "パーキンソン病リソース案内｜SmartAction協会",
+    "Directorio de recursos sobre Parkinson | Asociación SmartAction"
+  ],
+  [
+    "聰動成長協會：活動、巴金森衛教與病友支持資源。",
+    "SmartAction Association: activities, Parkinson’s education and patient support resources.",
+    "Association SmartAction : activités, information sur Parkinson et ressources de soutien.",
+    "SmartAction協会：活動、パーキンソン病の情報、患者支援リソース。",
+    "Asociación SmartAction: actividades, información sobre Parkinson y recursos de apoyo."
+  ],
+  [
+    "繁體中文",
+    "Traditional Chinese",
+    "Chinois traditionnel",
+    "繁体字中国語",
+    "Chino tradicional"
+  ],
+  [
+    "簡體中文",
+    "Simplified Chinese",
+    "Chinois simplifié",
+    "簡体字中国語",
+    "Chino simplificado"
+  ],
+  [
+    "英語",
+    "English",
+    "Anglais",
+    "英語",
+    "Inglés"
+  ],
+  [
+    "法語",
+    "French",
+    "Français",
+    "フランス語",
+    "Francés"
+  ],
+  [
+    "日語",
+    "Japanese",
+    "Japonais",
+    "日本語",
+    "Japonés"
+  ],
+  [
+    "西班牙語",
+    "Spanish",
+    "Espagnol",
+    "スペイン語",
+    "Español"
+  ],
+  [
+    "德語",
+    "German",
+    "Allemand",
+    "ドイツ語",
+    "Alemán"
+  ],
+  [
+    "義大利語",
+    "Italian",
+    "Italien",
+    "イタリア語",
+    "Italiano"
+  ],
+  [
+    "葡萄牙語",
+    "Portuguese",
+    "Portugais",
+    "ポルトガル語",
+    "Portugués"
+  ],
+  [
+    "多種語言",
+    "Multiple languages",
+    "Plusieurs langues",
+    "多言語",
+    "Varios idiomas"
+  ],
+  [
+    "Drug induced Parkinsonism & Movement Disorders",
+    "Drug-induced parkinsonism and movement disorders",
+    "Syndrome parkinsonien et troubles du mouvement induits par des médicaments",
+    "薬剤性パーキンソニズムと運動障害",
+    "Parkinsonismo y trastornos del movimiento inducidos por medicamentos"
+  ],
+  [
+    "Others...",
+    "Others…",
+    "Autres…",
+    "その他…",
+    "Otros…"
+  ],
+  [
+    "■ E-mail",
+    "■ Email",
+    "■ E-mail",
+    "■ メール",
+    "■ Correo electrónico"
+  ],
+  [
+    "September 8, 2023",
+    "September 8, 2023",
+    "8 septembre 2023",
+    "2023年9月8日",
+    "8 de septiembre de 2023"
+  ],
+  [
+    "January 26, 2024",
+    "January 26, 2024",
+    "26 janvier 2024",
+    "2024年1月26日",
+    "26 de enero de 2024"
+  ],
+  [
+    "September 9, 2023",
+    "September 9, 2023",
+    "9 septembre 2023",
+    "2023年9月9日",
+    "9 de septiembre de 2023"
+  ],
+  [
+    "September 20, 2025",
+    "September 20, 2025",
+    "20 septembre 2025",
+    "2025年9月20日",
+    "20 de septiembre de 2025"
+  ],
+  [
+    "November 28, 2023",
+    "November 28, 2023",
+    "28 novembre 2023",
+    "2023年11月28日",
+    "28 de noviembre de 2023"
+  ],
+  [
+    "September 5, 2023",
+    "September 5, 2023",
+    "5 septembre 2023",
+    "2023年9月5日",
+    "5 de septiembre de 2023"
+  ],
+  [
+    "April 18, 2025",
+    "April 18, 2025",
+    "18 avril 2025",
+    "2025年4月18日",
+    "18 de abril de 2025"
+  ],
+  [
+    "November 5, 2024",
+    "November 5, 2024",
+    "5 novembre 2024",
+    "2024年11月5日",
+    "5 de noviembre de 2024"
+  ],
+  [
+    "本頁為原活動記錄；飲食與用藥時機的部分文字仍需醫療團隊核對，請勿據此自行調整藥物。",
+    "This page preserves an original activity report. Some wording about diet and medication timing needs review by the medical team; do not adjust medication based on this page.",
+    "Cette page conserve un compte rendu d’activité original. Certains passages sur l’alimentation et les horaires de prise des médicaments doivent être vérifiés par l’équipe soignante ; ne modifiez pas votre traitement sur cette base.",
+    "このページは元の活動記録を保存したものです。食事と服薬のタイミングに関する一部の記述は医療チームによる確認が必要です。このページをもとに薬を自己調整しないでください。",
+    "Esta página conserva el informe original de una actividad. Algunos pasajes sobre la alimentación y los horarios de medicación requieren revisión del equipo médico; no ajuste la medicación basándose en esta página."
+  ]
+]

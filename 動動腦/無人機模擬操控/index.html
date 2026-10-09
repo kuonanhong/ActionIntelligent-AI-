@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#081426">
+  <meta name="description" content="免安裝的免費瀏覽器無人機操控練習：Mode 2鍵盤、手機雙觸控搖桿、三種難度、FPV及第三人稱視角。虛构地景，非飛行認證或醫療工具。">
+  <title>免費網頁無人機模擬器｜FPV・键盤與手機雙搖桿｜聰動協會</title>
+  <link rel="stylesheet" href="../../assets/portal.css">
+  <link rel="stylesheet" href="styles.css">
+  <script src="../../assets/portal-i18n.js" defer></script>
+  <script src="../../assets/engage.js" defer></script>
+  <script src="simulator.js" defer></script>
+<meta name="referrer" content="strict-origin-when-cross-origin"><link rel="canonical" href="https://kuonanhong.github.io/SmartAction/%E5%8B%95%E5%8B%95%E8%85%A6/%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%A8%A1%E6%93%AC%E6%93%8D%E6%8E%A7/index.html"><meta property="og:title" content="免費網頁無人機模擬器｜FPV・键盤與手機雙搖桿｜聰動協會"><meta property="og:description" content="免安裝的免費瀏覽器無人機操控練習：Mode 2鍵盤、手機雙觸控搖桿、三種難度、FPV及第三人稱視角。虛构地景，非飛行認證或醫療工具。"><meta property="og:url" content="https://kuonanhong.github.io/SmartAction/%E5%8B%95%E5%8B%95%E8%85%A6/%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%A8%A1%E6%93%AC%E6%93%8D%E6%8E%A7/index.html"><meta property="og:type" content="website"><script type="application/ld+json">{"@context": "https://schema.org", "@type": "VideoGame", "name": "免費網頁無人機模擬器｜FPV・键盤與手機雙搖桿｜聰動協會", "url": "https://kuonanhong.github.io/SmartAction/%E5%8B%95%E5%8B%95%E8%85%A6/%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%A8%A1%E6%93%AC%E6%93%8D%E6%8E%A7/index.html", "description": "免安裝的免費瀏覽器無人機操控練習：Mode 2鍵盤、手機雙觸控搖桿、三種難度、FPV及第三人稱視角。虛构地景，非飛行認證或醫療工具。", "inLanguage": "zh-TW", "applicationCategory": "EducationalApplication", "operatingSystem": "Web browser", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "TWD"}}</script></head>
+<body>
+  <a class="skip-link" href="#simulator" data-i18n="drone.skip" data-en="Skip to simulator">跳至模擬器</a>
+
+  <header class="site-header">
+    <div>
+      <p class="eyebrow" data-i18n="drone.eyebrow" data-en="Brain activity · interactive practice">動動腦・互動練習</p>
+      <h1 data-i18n="drone.title" data-en="Smart Action Drone Simulator">聰動無人機模擬操控</h1>
+      <p class="lede" data-i18n="drone.subtitle" data-en="Fly through aerial rings while practising visual tracking, direction awareness, and two-hand coordination.">穿越空中圓環，練習視覺追蹤、方向判斷與雙手協調。</p>
+    </div>
+    <nav class="header-links" aria-label="相關連結" data-i18n-aria-label="drone.relatedLinks">
+      <a href="../../社團法人高雄市聰動成長協會.html" data-i18n="home" data-en="Back to Smart Action Association">返回聰動成長協會</a>
+      <a href="https://www.youtube.com/@%E8%81%B0%E5%8B%95%E6%88%90%E9%95%B7%E5%8D%94%E6%9C%83" target="_blank" rel="noopener noreferrer" data-i18n="drone.youtube" data-en="Association YouTube">協會 YouTube</a>
+    </nav>
+  </header>
+
+  <main id="simulator" class="page-shell">
+    <section class="safety-note" aria-labelledby="safety-title">
+      <span class="safety-icon" aria-hidden="true">i</span>
+      <div>
+        <h2 id="safety-title" data-i18n="drone.safetyTitle" data-en="Safety notice">安全提醒</h2>
+        <p data-i18n="drone.safetyText" data-en="This is a recreational coordination exercise, not flight certification, professional training, or medical or rehabilitation therapy. When flying a real drone, follow local rules, read the manufacturer's manual, and obtain qualified instruction.">這是休閒與協調練習，不是飛行認證、專業訓練或醫療／復健治療。實際操作無人機時，請遵守當地法規、閱讀原廠手冊並由合格人員指導。</p>
+      </div>
+    </section>
+
+    <section class="sim-shell" aria-label="無人機模擬操控區" data-i18n-aria-label="drone.simArea">
+      <div class="toolbar" role="group" aria-label="模擬器設定" data-i18n-aria-label="drone.settings">
+        <label class="select-wrap">
+          <span data-i18n="drone.flightMode" data-en="Flight mode">飛行模式</span>
+          <select id="mode-select">
+            <option value="beginner" data-i18n="beginner" data-en="Beginner · assisted hover">初學者・自動懸停</option>
+            <option value="normal" data-i18n="normal" data-en="Normal · light stabilization">一般・輕度穩定</option>
+            <option value="expert" data-i18n="expert" data-en="Expert · manual attitude">專家・手動姿態</option>
+          </select>
+        </label>
+
+        <div class="button-row">
+          <button id="camera-button" class="tool-button" type="button" aria-pressed="false">
+            <span aria-hidden="true">◉</span>
+            <span data-i18n="thirdPerson" data-en="Third person">第三人稱</span>
+          </button>
+          <button id="pause-button" class="tool-button" type="button" aria-pressed="false">
+            <span aria-hidden="true">Ⅱ</span>
+            <span data-i18n="pause" data-en="Pause">暫停</span>
+          </button>
+          <button id="reset-button" class="tool-button" type="button">
+            <span aria-hidden="true">↺</span>
+            <span data-i18n="reset" data-en="Reset">重新開始</span>
+          </button>
+          <button id="fullscreen-button" class="tool-button" type="button">
+            <span aria-hidden="true">⛶</span>
+            <span data-i18n="drone.fullscreen" data-en="Full screen">全螢幕</span>
+          </button>
+        </div>
+      </div>
+
+      <div id="stage" class="stage" tabindex="0" aria-describedby="control-help safety-title">
+        <canvas id="flight-canvas" aria-label="無人機飛行模擬畫面" data-i18n-aria-label="drone.canvasLabel">
+          您的瀏覽器需要支援 Canvas 才能執行這個模擬器。
+        </canvas>
+
+        <div class="hud hud-top" aria-live="polite">
+          <div class="hud-card score-card">
+            <span class="hud-label" data-i18n="drone.score" data-en="Score">分數</span>
+            <strong id="score-value">0000</strong>
+          </div>
+          <div class="hud-card">
+            <span class="hud-label" data-i18n="drone.gate" data-en="Gate">圓環</span>
+            <strong><span id="gate-value">1</span>/<span id="gate-total">8</span></strong>
+          </div>
+          <div class="hud-card">
+            <span class="hud-label" data-i18n="drone.altitude" data-en="Altitude">高度</span>
+            <strong><span id="altitude-value">2.5</span> m</strong>
+          </div>
+          <div class="hud-card telemetry-detail">
+            <span class="hud-label" data-i18n="drone.speed" data-en="Speed">速度</span>
+            <strong><span id="speed-value">0.0</span> m/s</strong>
+          </div>
+          <div class="hud-card telemetry-detail">
+            <span class="hud-label">FPS</span>
+            <strong id="fps-value">60</strong>
+          </div>
+        </div>
+
+        <div id="message" class="flight-message" role="status" aria-live="polite"></div>
+        <div id="paused-panel" class="paused-panel" hidden>
+          <strong data-i18n="drone.paused" data-en="Paused">已暫停</strong>
+          <span data-i18n="drone.resumeHint" data-en="Press Space or Resume to return to flight">按空白鍵或「繼續」回到飛行</span>
+        </div>
+
+        <div class="touch-controls" aria-label="觸控雙搖桿" data-i18n-aria-label="drone.touchControls">
+          <div class="stick-group">
+            <div id="left-stick" class="touch-stick" data-stick="left" role="application" aria-label="左搖桿：油門與偏航" data-i18n-aria-label="drone.leftStick">
+              <span class="stick-axis axis-y" aria-hidden="true"></span>
+              <span class="stick-axis axis-x" aria-hidden="true"></span>
+              <span class="stick-knob" aria-hidden="true"></span>
+            </div>
+            <span class="stick-caption" data-i18n="drone.leftCaption" data-en="Throttle / yaw">油門／偏航</span>
+          </div>
+          <div class="stick-group">
+            <div id="right-stick" class="touch-stick" data-stick="right" role="application" aria-label="右搖桿：俯仰與滾轉" data-i18n-aria-label="drone.rightStick">
+              <span class="stick-axis axis-y" aria-hidden="true"></span>
+              <span class="stick-axis axis-x" aria-hidden="true"></span>
+              <span class="stick-knob" aria-hidden="true"></span>
+            </div>
+            <span class="stick-caption" data-i18n="drone.rightCaption" data-en="Pitch / roll">俯仰／滾轉</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="status-bar">
+        <p id="live-status"><span class="status-dot" aria-hidden="true"></span><span data-i18n="drone.ready" data-en="System ready">系統就緒</span></p>
+        <p><span data-i18n="drone.throttle" data-en="Throttle">油門</span> <strong id="throttle-value">50</strong>%</p>
+        <p><span data-i18n="drone.lap" data-en="Laps">圈數</span> <strong id="lap-value">0</strong></p>
+      </div>
+    </section>
+
+    <section class="instructions" id="control-help">
+      <div class="instruction-card keyboard-help">
+        <p class="card-kicker" data-i18n="drone.keyboardKicker" data-en="Computer keyboard">電腦鍵盤</p>
+        <h2 data-i18n="drone.mode2Title" data-en="Mode 2 control layout">Mode 2 操控配置</h2>
+        <div class="key-grid">
+          <div><span class="key-pair"><kbd>W</kbd><kbd>S</kbd></span><span data-i18n="drone.wsHelp" data-en="Increase / decrease throttle">增加／降低油門</span></div>
+          <div><span class="key-pair"><kbd>A</kbd><kbd>D</kbd></span><span data-i18n="drone.adHelp" data-en="Yaw left / right">向左／向右偏航</span></div>
+          <div><span class="key-pair"><kbd>↑</kbd><kbd>↓</kbd></span><span data-i18n="drone.pitchHelp" data-en="Pitch forward / backward">向前／向後俯仰</span></div>
+          <div><span class="key-pair"><kbd>←</kbd><kbd>→</kbd></span><span data-i18n="drone.rollHelp" data-en="Roll left / right">向左／向右滾轉</span></div>
+        </div>
+        <p class="small-note" data-i18n="drone.beginnerNote" data-en="In Beginner mode, W/S changes the target altitude and releasing the keys engages assisted hover. In Normal and Expert modes, W/S changes throttle directly.">初學者模式中，W／S 會改變目標高度；放開後自動懸停。一般與專家模式則直接改變油門。</p>
+        <div class="shortcut-row">
+          <span><kbd>Space</kbd> <span data-i18n="drone.pauseShortcut" data-en="Pause">暫停</span></span>
+          <span><kbd>V</kbd> <span data-i18n="drone.cameraShortcut" data-en="Switch camera">切換鏡頭</span></span>
+          <span><kbd>R</kbd> <span data-i18n="drone.resetShortcut" data-en="Reset">重設</span></span>
+          <span><kbd>F</kbd> <span data-i18n="drone.fullscreenShortcut" data-en="Full screen">全螢幕</span></span>
+        </div>
+      </div>
+
+      <div class="instruction-card tips-card">
+        <p class="card-kicker" data-i18n="drone.goalKicker" data-en="Today's challenge">今日挑戰</p>
+        <h2 data-i18n="drone.goalTitle" data-en="Fly smoothly through every ring">平穩穿越全部圓環</h2>
+        <ol>
+          <li data-i18n="drone.tip1" data-en="Start with small inputs to build direction awareness; avoid pushing both sticks to their limits.">先以小幅度輸入建立方向感，避免同時把搖桿推到底。</li>
+          <li data-i18n="drone.tip2" data-en="Keep the bright ring near the centre reticle, then fine-tune altitude.">讓亮色圓環維持在準星中央，再微調高度。</li>
+          <li data-i18n="drone.tip3" data-en="Ground contact costs points and returns you to the launch point; press R to reset at any time.">碰到地面會扣分並回到起點；可隨時按 R 安全重來。</li>
+        </ol>
+        <p class="privacy-note" data-i18n="privacy" data-en="Scores stay only in this browser tab and are not uploaded.">分數只保存在目前的瀏覽器分頁，不會上傳。</p>
+      </div>
+    </section>
+
+    <section class="reference-card" aria-labelledby="reference-title">
+      <div>
+        <p class="card-kicker" data-i18n="resources" data-en="Official references">官方參考</p>
+        <h2 id="reference-title" data-i18n="drone.referenceTitle" data-en="Check real-world geography and flight rules separately">實際地理與飛航規則請另行查證</h2>
+        <p data-i18n="drone.syntheticNote" data-en="The scenery in this simulator is entirely synthetic. It is not an actual map, navigation product, no-fly-zone layer, or certification course.">本模擬器的場景完全為虛構，不是實際地圖、導航產品、禁限航區圖層或認證課程。</p>
+      </div>
+      <div class="reference-links">
+        <a href="https://drone.caa.gov.tw/zh-TW/Default/WebGuide" target="_blank" rel="noopener noreferrer" data-i18n="drone.caa" data-en="Taiwan CAA drone rules">臺灣民航局遙控無人機規範</a>
+        <a href="https://maps.google.com/" target="_blank" rel="noopener noreferrer" data-i18n="drone.googleMaps" data-en="Google Maps geographic reference">Google Maps 地理參考</a>
+        <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer" data-i18n="drone.osm" data-en="OpenStreetMap copyright and attribution">OpenStreetMap 著作權與標示</a>
+      </div>
+    </section>
+
+    <div class="engage-slot" data-sa-engage aria-label="自願支持選項"></div>
+  </main>
+
+  <footer>
+    <p data-i18n="drone.footer" data-en="Built with native HTML, CSS, and JavaScript. No plugin, account, or paid package is required.">本工具以原生 HTML、CSS 與 JavaScript 製作，不需外掛、帳號或付費套件。</p>
+  </footer>
+</body>
+</html>

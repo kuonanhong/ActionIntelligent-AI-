@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-07",
+  "localeOverviewCount": 78,
+  "fullArchiveLocales": [
+    "zh-TW",
+    "zh-CN",
+    "en",
+    "fr",
+    "ja",
+    "es"
+  ],
+  "randomVideoPoolCount": 10,
+  "hiddenPlayback": false,
+  "viewGating": false,
+  "generativeBackendRequired": true
+}

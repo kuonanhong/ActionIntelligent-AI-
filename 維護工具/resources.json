@@ -1,0 +1,819 @@
+[
+  {
+    "id": "kh-cgmh-neurology",
+    "region": "kaohsiung",
+    "country": "TW",
+    "kind": "care",
+    "languages": [
+      "zh-Hant"
+    ],
+    "url": "https://www.cgmh.org.tw/tw/Systems/BranchInfo/8/83700/83770",
+    "title": {
+      "zh-TW": "高雄長庚紀念醫院｜一般神經內科",
+      "en": "Kaohsiung Chang Gung Memorial Hospital · General Neurology",
+      "fr": "Hôpital Chang Gung de Kaohsiung · Neurologie générale",
+      "ja": "高雄長庚紀念医院・一般神経内科",
+      "es": "Hospital Chang Gung de Kaohsiung · Neurología general",
+      "zh-CN": "高雄长庚纪念医院｜一般神经内科"
+    },
+    "description": {
+      "zh-TW": "官方科部頁介紹巴金森病、動作障礙相關診療及跨科合作。",
+      "en": "The official department page describes Parkinson’s and movement-disorder services and collaboration across specialties.",
+      "fr": "La page officielle présente les services pour Parkinson, les troubles du mouvement et la collaboration entre spécialités.",
+      "ja": "公式診療科ページで、パーキンソン病や運動障害の診療と診療科間の連携を紹介しています。",
+      "es": "La página oficial describe los servicios de Parkinson y trastornos del movimiento y la colaboración entre especialidades.",
+      "zh-CN": "官方科部页介绍巴金森病、动作障碍相关诊疗及跨科合作。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "kh-kmuh-neurology",
+    "region": "kaohsiung",
+    "country": "TW",
+    "kind": "care",
+    "languages": [
+      "zh-Hant"
+    ],
+    "url": "https://www.kmuh.org.tw/Web/WebRegistration/DocIntro/ShowDocList?JsonLoc=%5B%221000%22%5D&virtualCode=1000",
+    "title": {
+      "zh-TW": "高醫附設中和紀念醫院｜神經部",
+      "en": "Kaohsiung Medical University Chung-Ho Memorial Hospital · Neurology",
+      "fr": "Hôpital Chung-Ho de l’Université médicale de Kaohsiung · Neurologie",
+      "ja": "高雄医学大学附属中和紀念医院・神経科",
+      "es": "Hospital Chung-Ho de la Universidad Médica de Kaohsiung · Neurología",
+      "zh-CN": "高医附设中和纪念医院｜神经部"
+    },
+    "description": {
+      "zh-TW": "官方神經部目錄提供科部與醫師專長資訊，包含巴金森病及動作障礙。",
+      "en": "The official neurology directory lists department and clinical specialty information, including Parkinson’s and movement disorders.",
+      "fr": "L’annuaire officiel de neurologie présente les spécialités cliniques, dont Parkinson et les troubles du mouvement.",
+      "ja": "公式の神経科案内には、パーキンソン病や運動障害を含む診療分野が掲載されています。",
+      "es": "El directorio oficial de neurología presenta las especialidades clínicas, incluido Parkinson y los trastornos del movimiento.",
+      "zh-CN": "官方神经部目录提供科部与医师专长资讯，包含巴金森病及动作障碍。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "kh-vgh-neurology",
+    "region": "kaohsiung",
+    "country": "TW",
+    "kind": "care",
+    "languages": [
+      "zh-Hant"
+    ],
+    "url": "https://org.vghks.gov.tw/med/cp.aspx?n=070F98A22DA18F8F",
+    "title": {
+      "zh-TW": "高雄榮民總醫院｜神經內科",
+      "en": "Kaohsiung Veterans General Hospital · Neurology",
+      "fr": "Hôpital général des vétérans de Kaohsiung · Neurologie",
+      "ja": "高雄栄民総医院・神経内科",
+      "es": "Hospital General de Veteranos de Kaohsiung · Neurología",
+      "zh-CN": "高雄荣民总医院｜神经内科"
+    },
+    "description": {
+      "zh-TW": "官方科部簡介列有動作障礙門診與巴金森病相關服務。",
+      "en": "The official department overview lists a movement-disorders clinic and Parkinson’s-related services.",
+      "fr": "La présentation officielle mentionne une consultation des troubles du mouvement et des services liés à Parkinson.",
+      "ja": "公式の診療科紹介に、運動障害外来とパーキンソン病に関連する診療が掲載されています。",
+      "es": "La presentación oficial incluye una consulta de trastornos del movimiento y servicios relacionados con Parkinson.",
+      "zh-CN": "官方科部简介列有动作障碍门诊与巴金森病相关服务。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "kh-longterm-care",
+    "region": "kaohsiung",
+    "country": "TW",
+    "kind": "support",
+    "languages": [
+      "zh-Hant"
+    ],
+    "url": "https://health.kcg.gov.tw/Content_List.aspx?n=995D6A3CF8A1D195",
+    "title": {
+      "zh-TW": "高雄市長期照顧中心｜1966與服務窗口",
+      "en": "Kaohsiung Long-Term Care Center · 1966 and service contacts",
+      "fr": "Centre de soins de longue durée de Kaohsiung · 1966 et contacts",
+      "ja": "高雄市長期ケアセンター・1966と相談窓口",
+      "es": "Centro de cuidados de larga duración de Kaohsiung · 1966 y contactos",
+      "zh-CN": "高雄市长期照顾中心｜1966与服务窗口"
+    },
+    "description": {
+      "zh-TW": "市府衛生局提供長照申請、輔具、交通及家庭照顧者支持的官方窗口。",
+      "en": "The city health bureau lists official contacts for long-term care applications, assistive devices, transport and caregiver support.",
+      "fr": "Le bureau municipal de santé répertorie les contacts pour les soins de longue durée, aides techniques, transports et soutien aux aidants.",
+      "ja": "市の衛生局が、長期ケア申請、福祉用具、送迎、家族介護者支援の公式窓口を案内しています。",
+      "es": "La oficina municipal de salud ofrece contactos para solicitar cuidados de larga duración, ayudas técnicas, transporte y apoyo a cuidadores.",
+      "zh-CN": "市府卫生局提供长照申请、辅具、交通及家庭照顾者支持的官方窗口。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "tw-tmds",
+    "region": "taiwan",
+    "country": "TW",
+    "kind": "professional",
+    "languages": [
+      "zh-Hant"
+    ],
+    "url": "https://www.tmds.org.tw/",
+    "title": {
+      "zh-TW": "台灣動作障礙學會",
+      "en": "Taiwan Movement Disorder Society",
+      "fr": "Société taïwanaise des troubles du mouvement",
+      "ja": "台湾運動障害学会",
+      "es": "Sociedad Taiwanesa de Trastornos del Movimiento",
+      "zh-CN": "台湾动作障碍学会"
+    },
+    "description": {
+      "zh-TW": "學會官網提供病友衛教、學術資訊及動作障礙相關活動。",
+      "en": "The society’s official website provides patient education, professional information and movement-disorder events.",
+      "fr": "Le site officiel propose des informations pour les patients, des ressources professionnelles et des événements sur les troubles du mouvement.",
+      "ja": "学会公式サイトで、患者向け情報、専門情報、運動障害に関する催しを案内しています。",
+      "es": "El sitio oficial ofrece educación para pacientes, información profesional y actividades sobre trastornos del movimiento.",
+      "zh-CN": "学会官网提供病友卫教、学术资讯及动作障碍相关活动。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "tw-ntuh-parkinson",
+    "region": "taiwan",
+    "country": "TW",
+    "kind": "care",
+    "languages": [
+      "zh-Hant",
+      "en"
+    ],
+    "url": "https://reg.ntuh.gov.tw/WebReg/Webreg/RegDeptSchedule?realSubDeptCode=08&showBlock=A&vDeptCode=NEUR&vhospCode=T0",
+    "title": {
+      "zh-TW": "臺大醫院｜巴金森症暨動作障礙中心",
+      "en": "NTUH · Parkinson’s and Movement Disorders Center",
+      "fr": "Hôpital NTUH · Centre Parkinson et troubles du mouvement",
+      "ja": "台湾大学病院・パーキンソン病と運動障害センター",
+      "es": "Hospital NTUH · Centro de Parkinson y Trastornos del Movimiento",
+      "zh-CN": "台大医院｜巴金森症暨动作障碍中心"
+    },
+    "description": {
+      "zh-TW": "官方神經部門診頁介紹中心的多專業照護、衛教與家屬支持。",
+      "en": "The official neurology clinic page describes the center’s multidisciplinary care, education and family support.",
+      "fr": "La page officielle de neurologie présente les soins pluridisciplinaires, l’information et le soutien aux familles du centre.",
+      "ja": "公式の神経科外来ページで、センターの多職種ケア、患者教育、家族支援を紹介しています。",
+      "es": "La página oficial de neurología describe la atención multidisciplinaria, la educación y el apoyo familiar del centro.",
+      "zh-CN": "官方神经部门诊页介绍中心的多专业照护、卫教与家属支持。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "tw-ntuh-hsinchu",
+    "region": "taiwan",
+    "country": "TW",
+    "kind": "care",
+    "languages": [
+      "zh-Hant"
+    ],
+    "url": "https://www.hch.gov.tw/?aid=62&pid=100",
+    "title": {
+      "zh-TW": "新竹臺大分院｜巴金森與動作障礙整合照護",
+      "en": "NTUH Hsin-Chu Branch · Integrated Parkinson’s and movement-disorder care",
+      "fr": "NTUH Hsin-Chu · Prise en charge intégrée de Parkinson et des troubles du mouvement",
+      "ja": "台湾大学病院新竹分院・パーキンソン病と運動障害の統合ケア",
+      "es": "NTUH Hsin-Chu · Atención integrada de Parkinson y trastornos del movimiento",
+      "zh-CN": "新竹台大分院｜巴金森与动作障碍整合照护"
+    },
+    "description": {
+      "zh-TW": "中心官方頁介紹復健、營養與社會心理支持等整合服務。",
+      "en": "The center’s official page describes integrated services including rehabilitation, nutrition and psychosocial support.",
+      "fr": "La page officielle du centre présente des services intégrés de réadaptation, nutrition et soutien psychosocial.",
+      "ja": "センター公式ページで、リハビリ、栄養、心理社会的支援などの統合サービスを紹介しています。",
+      "es": "La página oficial del centro describe servicios integrados de rehabilitación, nutrición y apoyo psicosocial.",
+      "zh-CN": "中心官方页介绍复健、营养与社会心理支持等整合服务。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "tw-411pd",
+    "region": "taiwan",
+    "country": "TW",
+    "kind": "education",
+    "languages": [
+      "zh-Hant"
+    ],
+    "url": "https://www.411pd.org.tw/",
+    "title": {
+      "zh-TW": "巴金森寶典｜病友衛教與紀錄工具",
+      "en": "Parkinson’s Handbook · Education and recording tools",
+      "fr": "Guide Parkinson · Informations et outils de suivi",
+      "ja": "パーキンソン宝典・患者向け情報と記録ツール",
+      "es": "Manual de Parkinson · Educación y herramientas de registro",
+      "zh-CN": "巴金森宝典｜病友卫教与纪录工具"
+    },
+    "description": {
+      "zh-TW": "官方網站介紹疾病衛教、復健影音及用藥提醒與紀錄工具。",
+      "en": "The official website introduces disease education, rehabilitation videos and medication reminder and recording tools.",
+      "fr": "Le site officiel présente des informations sur la maladie, des vidéos de réadaptation et des outils de rappel et de suivi des médicaments.",
+      "ja": "公式サイトで、病気の情報、リハビリ動画、服薬リマインダーと記録ツールを紹介しています。",
+      "es": "El sitio oficial presenta educación sobre la enfermedad, vídeos de rehabilitación y herramientas de recordatorio y registro de medicación.",
+      "zh-CN": "官方网站介绍疾病卫教、复健影音及用药提醒与纪录工具。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "tw-pdfriends-news",
+    "region": "taiwan",
+    "country": "TW",
+    "kind": "support",
+    "languages": [
+      "zh-Hant"
+    ],
+    "url": "https://www.411pd.org.tw/list_year/tw/newsroom/",
+    "title": {
+      "zh-TW": "台灣巴金森之友協會｜協會公告",
+      "en": "Taiwan Parkinson’s Friends Association · Announcements",
+      "fr": "Association taïwanaise des amis de Parkinson · Annonces",
+      "ja": "台湾パーキンソン友の会・お知らせ",
+      "es": "Asociación Taiwanesa de Amigos de Parkinson · Anuncios",
+      "zh-CN": "台湾巴金森之友协会｜协会公告"
+    },
+    "description": {
+      "zh-TW": "巴金森寶典的公告區刊載協會講座與病友活動訊息。",
+      "en": "The Parkinson’s Handbook announcements section publishes association lectures and patient activities.",
+      "fr": "La rubrique d’annonces du Guide Parkinson publie les conférences et activités de l’association destinées aux patients.",
+      "ja": "パーキンソン宝典のお知らせ欄に、協会の講座や患者向け活動が掲載されています。",
+      "es": "La sección de anuncios del Manual de Parkinson publica conferencias de la asociación y actividades para pacientes.",
+      "zh-CN": "巴金森宝典的公告区刊载协会讲座与病友活动讯息。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "tw-1966",
+    "region": "taiwan",
+    "country": "TW",
+    "kind": "support",
+    "languages": [
+      "zh-Hant"
+    ],
+    "url": "https://1966.gov.tw/LTC/cp-6533-70777-207.html",
+    "title": {
+      "zh-TW": "衛福部長照專區｜服務申請",
+      "en": "Ministry of Health and Welfare · Long-term care applications",
+      "fr": "Ministère de la Santé et des Affaires sociales · Demandes de soins de longue durée",
+      "ja": "台湾衛生福利部・長期ケアの申請案内",
+      "es": "Ministerio de Salud y Bienestar · Solicitudes de cuidados de larga duración",
+      "zh-CN": "卫福部长照专区｜服务申请"
+    },
+    "description": {
+      "zh-TW": "政府官方頁說明長照申請流程、需求評估與可查詢的服務。",
+      "en": "The official government page explains long-term care applications, needs assessment and available service information.",
+      "fr": "La page officielle explique les demandes de soins de longue durée, l’évaluation des besoins et les informations sur les services.",
+      "ja": "政府公式ページで、長期ケアの申請手順、必要度評価、サービス情報の調べ方を案内しています。",
+      "es": "La página oficial explica las solicitudes de cuidados de larga duración, la evaluación de necesidades y la información sobre servicios.",
+      "zh-CN": "政府官方页说明长照申请流程、需求评估与可查询的服务。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "tw-familycare",
+    "region": "taiwan",
+    "country": "TW",
+    "kind": "support",
+    "languages": [
+      "zh-Hant"
+    ],
+    "url": "https://www.familycare.org.tw/service/892",
+    "title": {
+      "zh-TW": "家庭照顧者關懷總會｜照顧者支持",
+      "en": "Taiwan Association of Family Caregivers · Caregiver support",
+      "fr": "Association taïwanaise des aidants familiaux · Soutien aux aidants",
+      "ja": "台湾家族介護者支援協会・介護者への支援",
+      "es": "Asociación Taiwanesa de Cuidadores Familiares · Apoyo a cuidadores",
+      "zh-CN": "家庭照顾者关怀总会｜照顾者支持"
+    },
+    "description": {
+      "zh-TW": "家總官方頁提供家庭照顧者諮詢、支持團體與在地服務連結。",
+      "en": "The association’s official page provides caregiver consultation, support-group information and links to local services.",
+      "fr": "La page officielle propose des consultations pour les aidants, des groupes de soutien et des liens vers les services locaux.",
+      "ja": "協会公式ページで、家族介護者の相談、支援グループ、地域サービスへの案内を提供しています。",
+      "es": "La página oficial ofrece orientación a cuidadores, información sobre grupos de apoyo y enlaces a servicios locales.",
+      "zh-CN": "家总官方页提供家庭照顾者咨询、支持团体与在地服务连结。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "parkinson-foundation-understanding",
+    "region": "international",
+    "country": "United States",
+    "kind": "education",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "url": "https://www.parkinson.org/understanding-parkinsons",
+    "title": {
+      "zh-TW": "Parkinson’s Foundation",
+      "en": "Parkinson’s Foundation",
+      "fr": "Parkinson’s Foundation",
+      "ja": "Parkinson’s Foundation",
+      "es": "Parkinson’s Foundation",
+      "zh-CN": "Parkinson’s Foundation"
+    },
+    "description": {
+      "zh-TW": "提供帕金森氏症入門、症狀、診斷與生活照護資訊，並連結病友及照顧者學習資源。",
+      "en": "Find introductory information on Parkinson’s, symptoms, diagnosis, daily care, and learning resources for people with Parkinson’s and care partners.",
+      "fr": "Découvrez des informations sur Parkinson, les symptômes, le diagnostic et la vie quotidienne, avec des ressources pour les personnes malades et les aidants.",
+      "ja": "パーキンソン病の基礎、症状、診断、日常のケアと、患者・ケアパートナー向けの学習資料を紹介しています。",
+      "es": "Consulta información básica sobre párkinson, síntomas, diagnóstico y cuidados diarios, con recursos para personas afectadas y sus cuidadores.",
+      "zh-CN": "提供帕金森氏症入门、症状、诊断与生活照护资讯，并连结病友及照顾者学习资源。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "mjff-parkinsons-101",
+    "region": "international",
+    "country": "United States",
+    "kind": "education",
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.michaeljfox.org/parkinsons-101",
+    "title": {
+      "zh-TW": "The Michael J. Fox Foundation for Parkinson’s Research",
+      "en": "The Michael J. Fox Foundation for Parkinson’s Research",
+      "fr": "The Michael J. Fox Foundation for Parkinson’s Research",
+      "ja": "The Michael J. Fox Foundation for Parkinson’s Research",
+      "es": "The Michael J. Fox Foundation for Parkinson’s Research",
+      "zh-CN": "The Michael J. Fox Foundation for Parkinson’s Research"
+    },
+    "description": {
+      "zh-TW": "以主題式導覽介紹帕金森氏症，並連結生活經驗、研究參與及相關學習內容。",
+      "en": "Explore a topic-based introduction to Parkinson’s, with links to lived experiences, research participation, and further learning.",
+      "fr": "Explorez une introduction thématique à Parkinson, avec des liens vers des témoignages, la participation à la recherche et d’autres ressources.",
+      "ja": "パーキンソン病をテーマ別に紹介し、当事者の経験、研究への参加、関連する学習資料へ案内しています。",
+      "es": "Explora una introducción al párkinson por temas, con enlaces a experiencias personales, participación en investigación y otros recursos.",
+      "zh-CN": "以主题式导览介绍帕金森氏症，并连结生活经验、研究参与及相关学习内容。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "apda-living",
+    "region": "international",
+    "country": "United States",
+    "kind": "support",
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.apdaparkinson.org/living-with-parkinsons-disease/",
+    "title": {
+      "zh-TW": "American Parkinson Disease Association (APDA)",
+      "en": "American Parkinson Disease Association (APDA)",
+      "fr": "American Parkinson Disease Association (APDA)",
+      "ja": "American Parkinson Disease Association (APDA)",
+      "es": "American Parkinson Disease Association (APDA)",
+      "zh-CN": "American Parkinson Disease Association (APDA)"
+    },
+    "description": {
+      "zh-TW": "彙整帕金森氏症日常生活、照顧者、在地支援及教育活動資源。",
+      "en": "Browse Parkinson’s daily-living resources, care partner information, local support, and educational programmes.",
+      "fr": "Consultez des ressources sur la vie quotidienne avec Parkinson, les aidants, le soutien local et les programmes éducatifs.",
+      "ja": "パーキンソン病との日常生活、ケアパートナー、地域の支援、学習プログラムに関する資料をまとめています。",
+      "es": "Consulta recursos sobre la vida diaria con párkinson, cuidadores, apoyo local y programas educativos.",
+      "zh-CN": "汇整帕金森氏症日常生活、照顾者、在地支援及教育活动资源。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "ninds-parkinsons",
+    "region": "international",
+    "country": "United States",
+    "kind": "education",
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.ninds.nih.gov/current-research/focus-disorders/parkinsons-disease-research/parkinsons-disease-challenges-progress-and-promise",
+    "title": {
+      "zh-TW": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "en": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "fr": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "ja": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "es": "National Institute of Neurological Disorders and Stroke (NINDS)",
+      "zh-CN": "National Institute of Neurological Disorders and Stroke (NINDS)"
+    },
+    "description": {
+      "zh-TW": "美國國家神經疾病與中風研究所整理的帕金森氏症概述與研究資源入口。",
+      "en": "Read the US National Institute of Neurological Disorders and Stroke’s Parkinson’s overview and links to research resources.",
+      "fr": "Consultez la présentation de Parkinson et les liens vers la recherche du National Institute of Neurological Disorders and Stroke des États-Unis.",
+      "ja": "米国国立神経疾患・脳卒中研究所によるパーキンソン病の概要と研究資料へのリンクを紹介しています。",
+      "es": "Consulta la descripción general del párkinson y los enlaces de investigación del National Institute of Neurological Disorders and Stroke de Estados Unidos.",
+      "zh-CN": "美国国家神经疾病与中风研究所整理的帕金森氏症概述与研究资源入口。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-search-index-only"
+  },
+  {
+    "id": "who-parkinson-facts",
+    "region": "international",
+    "country": "International",
+    "kind": "education",
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.who.int/news-room/fact-sheets/detail/parkinson-disease",
+    "title": {
+      "zh-TW": "World Health Organization (WHO)",
+      "en": "World Health Organization (WHO)",
+      "fr": "World Health Organization (WHO)",
+      "ja": "World Health Organization (WHO)",
+      "es": "World Health Organization (WHO)",
+      "zh-CN": "World Health Organization (WHO)"
+    },
+    "description": {
+      "zh-TW": "從公共衛生角度介紹帕金森氏症、家庭照顧需求與醫療服務取得等議題。",
+      "en": "Read a public-health overview of Parkinson disease, family caregiving needs, and access to health services.",
+      "fr": "Lisez une présentation de la maladie de Parkinson sous l’angle de la santé publique, des besoins des familles et de l’accès aux soins.",
+      "ja": "公衆衛生の観点から、パーキンソン病、家族の介護ニーズ、医療サービスへのアクセスを紹介しています。",
+      "es": "Lee una descripción del párkinson desde la salud pública, las necesidades de cuidados familiares y el acceso a los servicios sanitarios.",
+      "zh-CN": "从公共卫生角度介绍帕金森氏症、家庭照顾需求与医疗服务取得等议题。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "mds-patient-facts",
+    "region": "international",
+    "country": "International",
+    "kind": "professional",
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.movementdisorders.org/Patient-information",
+    "title": {
+      "zh-TW": "International Parkinson and Movement Disorder Society (MDS)",
+      "en": "International Parkinson and Movement Disorder Society (MDS)",
+      "fr": "International Parkinson and Movement Disorder Society (MDS)",
+      "ja": "International Parkinson and Movement Disorder Society (MDS)",
+      "es": "International Parkinson and Movement Disorder Society (MDS)",
+      "zh-CN": "International Parkinson and Movement Disorder Society (MDS)"
+    },
+    "description": {
+      "zh-TW": "供專業人員與病友參考的帕金森氏症主題資料，包括症狀、照顧者角色及臨床研究說明。",
+      "en": "Find Parkinson’s topic sheets for professionals and patients, including symptoms, care partner roles, and clinical research.",
+      "fr": "Retrouvez des fiches sur Parkinson pour les professionnels et les patients, notamment sur les symptômes, les aidants et la recherche clinique.",
+      "ja": "専門職と患者向けに、症状、ケアパートナーの役割、臨床研究などのパーキンソン病資料を紹介しています。",
+      "es": "Encuentra fichas sobre párkinson para profesionales y pacientes, incluidos síntomas, el papel de los cuidadores y la investigación clínica.",
+      "zh-CN": "供专业人员与病友参考的帕金森氏症主题资料，包括症状、照顾者角色及临床研究说明。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "parkinsons-uk-newly-diagnosed",
+    "region": "international",
+    "country": "United Kingdom",
+    "kind": "support",
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.parkinsons.org.uk/support/newly-diagnosed/services",
+    "title": {
+      "zh-TW": "Parkinson’s UK",
+      "en": "Parkinson’s UK",
+      "fr": "Parkinson’s UK",
+      "ja": "Parkinson’s UK",
+      "es": "Parkinson’s UK",
+      "zh-CN": "Parkinson’s UK"
+    },
+    "description": {
+      "zh-TW": "彙整英國新確診病友與親友可使用的學習方案、交流社群及支援服務。",
+      "en": "Explore UK learning programmes, community connections, and support services for newly diagnosed people with Parkinson’s and those close to them.",
+      "fr": "Découvrez au Royaume-Uni des programmes, des échanges et des services de soutien pour les personnes récemment diagnostiquées et leurs proches.",
+      "ja": "英国で新たに診断された患者とその身近な人向けに、学習プログラム、交流の場、支援サービスを案内しています。",
+      "es": "Explora programas educativos, contactos comunitarios y servicios de apoyo del Reino Unido para personas recién diagnosticadas y sus allegados.",
+      "zh-CN": "汇整英国新确诊病友与亲友可使用的学习方案、交流社群及支援服务。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "nhs-parkinsons",
+    "region": "international",
+    "country": "United Kingdom",
+    "kind": "education",
+    "languages": [
+      "en"
+    ],
+    "url": "https://www.nhs.uk/conditions/parkinsons-disease/",
+    "title": {
+      "zh-TW": "NHS",
+      "en": "NHS",
+      "fr": "NHS",
+      "ja": "NHS",
+      "es": "NHS",
+      "zh-CN": "NHS"
+    },
+    "description": {
+      "zh-TW": "英國國民保健署的帕金森氏症概述，連結診斷、日常生活及照顧支援資訊。",
+      "en": "Read the NHS Parkinson’s overview, with links to diagnosis, daily living, and care support information.",
+      "fr": "Lisez la présentation de Parkinson du NHS, avec des liens sur le diagnostic, la vie quotidienne et le soutien aux soins.",
+      "ja": "英国NHSによるパーキンソン病の概要と、診断、日常生活、介護支援に関する情報を紹介しています。",
+      "es": "Lee la descripción del párkinson del NHS, con enlaces sobre diagnóstico, vida diaria y apoyo en los cuidados.",
+      "zh-CN": "英国国民保健署的帕金森氏症概述，连结诊断、日常生活及照顾支援资讯。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "medlineplus-parkinsons",
+    "region": "international",
+    "country": "United States",
+    "kind": "education",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "url": "https://medlineplus.gov/parkinsonsdisease.html",
+    "title": {
+      "zh-TW": "MedlinePlus / US National Library of Medicine",
+      "en": "MedlinePlus / US National Library of Medicine",
+      "fr": "MedlinePlus / US National Library of Medicine",
+      "ja": "MedlinePlus / US National Library of Medicine",
+      "es": "MedlinePlus / US National Library of Medicine",
+      "zh-CN": "MedlinePlus / US National Library of Medicine"
+    },
+    "description": {
+      "zh-TW": "美國國家醫學圖書館整理的帕金森氏症資訊索引，連結政府、病友組織與研究資源。",
+      "en": "Browse the US National Library of Medicine’s Parkinson’s information index linking government, patient organisation, and research resources.",
+      "fr": "Consultez l’index de la National Library of Medicine des États-Unis, qui relie des ressources publiques, associatives et scientifiques sur Parkinson.",
+      "ja": "米国国立医学図書館が、パーキンソン病に関する政府、患者団体、研究の資料へのリンクをまとめています。",
+      "es": "Consulta el índice de la National Library of Medicine de Estados Unidos con recursos públicos, de asociaciones de pacientes y de investigación sobre párkinson.",
+      "zh-CN": "美国国家医学图书馆整理的帕金森氏症资讯索引，连结政府、病友组织与研究资源。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "clinicaltrials-parkinson-search",
+    "region": "international",
+    "country": "United States",
+    "kind": "research",
+    "languages": [
+      "en"
+    ],
+    "url": "https://clinicaltrials.gov/search?cond=Parkinson%20Disease",
+    "title": {
+      "zh-TW": "ClinicalTrials.gov / US National Library of Medicine",
+      "en": "ClinicalTrials.gov / US National Library of Medicine",
+      "fr": "ClinicalTrials.gov / US National Library of Medicine",
+      "ja": "ClinicalTrials.gov / US National Library of Medicine",
+      "es": "ClinicalTrials.gov / US National Library of Medicine",
+      "zh-CN": "ClinicalTrials.gov / US National Library of Medicine"
+    },
+    "description": {
+      "zh-TW": "以帕金森氏症條件查詢臨床研究登錄；各研究的地點、資格與狀態應以登錄頁為準。",
+      "en": "Search registered clinical studies for Parkinson disease and consult each record for its locations, eligibility, and status.",
+      "fr": "Recherchez des études cliniques enregistrées sur Parkinson et consultez chaque fiche pour les lieux, les critères et le statut.",
+      "ja": "パーキンソン病に関する臨床研究の登録を検索でき、実施場所、参加条件、状況は各登録で確認できます。",
+      "es": "Busca estudios clínicos registrados sobre párkinson y consulta cada ficha para conocer ubicaciones, requisitos y estado.",
+      "zh-CN": "以帕金森氏症条件查询临床研究登录；各研究的地点、资格与状态应以登录页为准。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved-client-rendered"
+  },
+  {
+    "id": "davis-phinney-resources",
+    "region": "international",
+    "country": "United States",
+    "kind": "education",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "url": "https://davisphinneyfoundation.org/resources/",
+    "title": {
+      "zh-TW": "Davis Phinney Foundation",
+      "en": "Davis Phinney Foundation",
+      "fr": "Davis Phinney Foundation",
+      "ja": "Davis Phinney Foundation",
+      "es": "Davis Phinney Foundation",
+      "zh-CN": "Davis Phinney Foundation"
+    },
+    "description": {
+      "zh-TW": "彙整帕金森氏症生活、照顧者與社群資源，包括網路研討會、播客及教育手冊。",
+      "en": "Explore Parkinson’s daily-living, care partner, and community resources, including webinars, podcasts, and educational manuals.",
+      "fr": "Découvrez des ressources sur la vie avec Parkinson, les aidants et la communauté, notamment des webinaires, podcasts et guides.",
+      "ja": "パーキンソン病との生活、ケアパートナー、地域交流に関するウェビナー、ポッドキャスト、学習ガイドを紹介しています。",
+      "es": "Explora recursos sobre la vida con párkinson, cuidadores y comunidad, incluidos seminarios web, pódcast y manuales educativos.",
+      "zh-CN": "汇整帕金森氏症生活、照顾者与社群资源，包括网路研讨会、播客及教育手册。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "ninds-pdbp-researchers",
+    "region": "international",
+    "country": "United States",
+    "kind": "research",
+    "languages": [
+      "en"
+    ],
+    "url": "https://pdbp.ninds.nih.gov/researchers",
+    "title": {
+      "zh-TW": "NINDS Parkinson’s Disease Biomarkers Program (PDBP)",
+      "en": "NINDS Parkinson’s Disease Biomarkers Program (PDBP)",
+      "fr": "NINDS Parkinson’s Disease Biomarkers Program (PDBP)",
+      "ja": "NINDS Parkinson’s Disease Biomarkers Program (PDBP)",
+      "es": "NINDS Parkinson’s Disease Biomarkers Program (PDBP)",
+      "zh-CN": "NINDS Parkinson’s Disease Biomarkers Program (PDBP)"
+    },
+    "description": {
+      "zh-TW": "提供研究者使用的帕金森氏症生物標記資料、檢體資源及合作工具入口。",
+      "en": "Find Parkinson’s biomarker data, biospecimen resources, and collaboration tools for researchers.",
+      "fr": "Retrouvez des données, ressources biologiques et outils de collaboration pour les chercheurs sur les biomarqueurs de Parkinson.",
+      "ja": "研究者向けに、パーキンソン病のバイオマーカーデータ、生体試料資源、共同研究ツールを紹介しています。",
+      "es": "Encuentra datos de biomarcadores del párkinson, recursos de muestras biológicas y herramientas de colaboración para investigadores.",
+      "zh-CN": "提供研究者使用的帕金森氏症生物标记资料、检体资源及合作工具入口。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "france-parkinson-comites",
+    "region": "international",
+    "country": "France",
+    "kind": "support",
+    "languages": [
+      "fr"
+    ],
+    "url": "https://www.franceparkinson.fr/les-comites/",
+    "title": {
+      "zh-TW": "France Parkinson｜地方分會",
+      "en": "France Parkinson · Local chapters",
+      "fr": "France Parkinson · Comités locaux",
+      "ja": "France Parkinson・地域の支部",
+      "es": "France Parkinson · Delegaciones locales",
+      "zh-CN": "France Parkinson｜地方分会"
+    },
+    "description": {
+      "zh-TW": "查找法國各地帕金森氏症協會分會、聯絡方式及在地病友與照顧者交流活動。",
+      "en": "Find local France Parkinson committees, contact details, and community activities for people with Parkinson’s and care partners.",
+      "fr": "Retrouvez les comités locaux de France Parkinson, leurs coordonnées et leurs activités pour les personnes malades et les aidants.",
+      "ja": "フランス各地のFrance Parkinson委員会、連絡先、患者とケアパートナー向けの地域活動を探せます。",
+      "es": "Encuentra comités locales de France Parkinson, datos de contacto y actividades para personas con párkinson y sus cuidadores.",
+      "zh-CN": "查找法国各地帕金森氏症协会分会、联络方式及在地病友与照顾者交流活动。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "france-parkinson-professionnels",
+    "region": "international",
+    "country": "France",
+    "kind": "professional",
+    "languages": [
+      "fr"
+    ],
+    "url": "https://www.franceparkinson.fr/pour-les-professionnels/",
+    "title": {
+      "zh-TW": "France Parkinson｜專業資源",
+      "en": "France Parkinson · Professional resources",
+      "fr": "France Parkinson · Ressources professionnelles",
+      "ja": "France Parkinson・専門職向け情報",
+      "es": "France Parkinson · Recursos para profesionales",
+      "zh-CN": "France Parkinson｜专业资源"
+    },
+    "description": {
+      "zh-TW": "彙整法國帕金森氏症協會的專業培訓、網路研討會及實務工具，供醫療與照護工作者參考。",
+      "en": "Explore France Parkinson’s professional training, webinars, and practical tools for healthcare and care staff.",
+      "fr": "Consultez les formations, webinaires et outils de France Parkinson destinés aux professionnels de santé et de l’accompagnement.",
+      "ja": "医療・介護の専門職向けに、France Parkinsonの研修、ウェビナー、実務ツールを紹介しています。",
+      "es": "Consulta formación, seminarios web y herramientas de France Parkinson para profesionales sanitarios y de cuidados.",
+      "zh-CN": "汇整法国帕金森氏症协会的专业培训、网路研讨会及实务工具，供医疗与照护工作者参考。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "jpda-branches",
+    "region": "international",
+    "country": "Japan",
+    "kind": "support",
+    "languages": [
+      "ja"
+    ],
+    "url": "https://jpda.jp/%E5%90%84%E9%83%BD%E9%81%93%E5%BA%9C%E7%9C%8C%E6%94%AF%E9%83%A8%E3%81%AE%E6%83%85%E5%A0%B1/",
+    "title": {
+      "zh-TW": "日本全國巴金森病友會｜各地分會",
+      "en": "Japan Parkinson’s Disease Association · Local branches",
+      "fr": "Association japonaise des personnes atteintes de Parkinson · Sections locales",
+      "ja": "全国パーキンソン病友の会・各地の支部",
+      "es": "Asociación Japonesa de la Enfermedad de Parkinson · Delegaciones locales",
+      "zh-CN": "日本全国巴金森病友会｜各地分会"
+    },
+    "description": {
+      "zh-TW": "提供日本全國帕金森氏症病友會都道府縣分會資訊，以及加入、聯絡與諮詢窗口。",
+      "en": "Find JPDA prefectural branch information and links for membership, enquiries, and consultation contacts in Japan.",
+      "fr": "Retrouvez les antennes préfectorales de la JPDA au Japon ainsi que les liens d’adhésion, de contact et de consultation.",
+      "ja": "全国パーキンソン病友の会の都道府県支部情報と、入会・問い合わせ・相談窓口を案内しています。",
+      "es": "Consulta las delegaciones prefecturales de la JPDA en Japón y sus enlaces de afiliación, contacto y consulta.",
+      "zh-CN": "提供日本全国帕金森氏症病友会都道府县分会资讯，以及加入、联络与咨询窗口。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "fep-profesionales",
+    "region": "international",
+    "country": "Spain",
+    "kind": "professional",
+    "languages": [
+      "es"
+    ],
+    "url": "https://esparkinson.es/sobre-el-pk/recursos-para-profesionales/",
+    "title": {
+      "zh-TW": "Federación Española de Párkinson",
+      "en": "Federación Española de Párkinson",
+      "fr": "Federación Española de Párkinson",
+      "ja": "Federación Española de Párkinson",
+      "es": "Federación Española de Párkinson",
+      "zh-CN": "Federación Española de Párkinson"
+    },
+    "description": {
+      "zh-TW": "提供西班牙帕金森氏症聯盟整理的專業資源，包括社會工作、職能治療、心理、語言與物理治療文件。",
+      "en": "Browse the Spanish Parkinson’s federation’s professional resources, including documents on social work, occupational therapy, psychology, speech therapy, and physiotherapy.",
+      "fr": "Consultez les ressources professionnelles de la fédération espagnole sur le travail social, l’ergothérapie, la psychologie, l’orthophonie et la kinésithérapie.",
+      "ja": "スペインのパーキンソン病連盟が、ソーシャルワーク、作業療法、心理、言語療法、理学療法の専門資料を紹介しています。",
+      "es": "Accede a recursos profesionales de la Federación Española de Párkinson sobre trabajo social, terapia ocupacional, psicología, logopedia y fisioterapia.",
+      "zh-CN": "提供西班牙帕金森氏症联盟整理的专业资源，包括社会工作、职能治疗、心理、语言与物理治疗文件。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "parkinsons-europe-map",
+    "region": "international",
+    "country": "United Kingdom",
+    "kind": "support",
+    "languages": [
+      "en"
+    ],
+    "url": "https://parkinsonseurope.org/map/",
+    "title": {
+      "zh-TW": "Parkinson’s Europe",
+      "en": "Parkinson’s Europe",
+      "fr": "Parkinson’s Europe",
+      "ja": "Parkinson’s Europe",
+      "es": "Parkinson’s Europe",
+      "zh-CN": "Parkinson’s Europe"
+    },
+    "description": {
+      "zh-TW": "以互動地圖查找歐洲帕金森氏症組織、專業團體及活動；地圖收錄不代表主辦組織背書。",
+      "en": "Use an interactive map to find Parkinson’s organisations, professional societies, and activities across Europe; inclusion does not imply endorsement.",
+      "fr": "Une carte interactive permet de trouver associations, sociétés professionnelles et activités liées à Parkinson en Europe, sans que leur présence implique une approbation.",
+      "ja": "欧州のパーキンソン病団体、専門学会、活動を探せる地図であり、掲載は運営団体による推奨を意味しません。",
+      "es": "Busca organizaciones, sociedades profesionales y actividades de párkinson en Europa en un mapa interactivo; la inclusión no implica respaldo.",
+      "zh-CN": "以互动地图查找欧洲帕金森氏症组织、专业团体及活动；地图收录不代表主办组织背书。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-page-retrieved"
+  },
+  {
+    "id": "wpc-webinars",
+    "region": "international",
+    "country": "United States",
+    "kind": "education",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "url": "https://www.worldpdcoalition.org/page/Webcasts",
+    "title": {
+      "zh-TW": "World Parkinson Coalition",
+      "en": "World Parkinson Coalition",
+      "fr": "World Parkinson Coalition",
+      "ja": "World Parkinson Coalition",
+      "es": "World Parkinson Coalition",
+      "zh-CN": "World Parkinson Coalition"
+    },
+    "description": {
+      "zh-TW": "彙整國際帕金森氏症線上研討會，涵蓋研究與病友經驗，部分系列提供英語及西班牙語內容。",
+      "en": "Explore international Parkinson’s webinars covering research and lived experience, with English and Spanish content in selected series.",
+      "fr": "Découvrez des webinaires internationaux sur la recherche et l’expérience vécue avec Parkinson, dont certaines séries sont proposées en anglais et en espagnol.",
+      "ja": "研究や当事者の経験を扱う国際的なパーキンソン病ウェビナーを紹介し、一部シリーズは英語とスペイン語で提供されています。",
+      "es": "Explora seminarios web internacionales sobre investigación y experiencias con el párkinson, con contenido en inglés y español en algunas series.",
+      "zh-CN": "汇整国际帕金森氏症线上研讨会，涵盖研究与病友经验，部分系列提供英语及西班牙语内容。"
+    },
+    "checkedDate": "2026-10-06",
+    "verification": "official-search-index-only"
+  }
+]
