@@ -1,0 +1,4 @@
+# Exact PyPI releases verified on 2026-10-07.
+-r requirements.txt
+httpx2==2.13.0
+pytest==9.1.1

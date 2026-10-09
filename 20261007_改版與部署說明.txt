@@ -1,0 +1,149 @@
+聰動協會｜2026-10-07 多語概要與互動工具改版
+
+一、這次是「新增模組並整合既有網站」，不是只改一行 HTML
+
+保留原來六語網站、48篇文章入口、單欄文章圖示列表、圖片、字型、附件、資源目錄、影片來源設定與本機啟動器。
+新增 assets/、l/、動動腦/、工具後端/、videos.html、privacy.html 及維護工具/擴充網站.py。
+網站前端不用付費網頁設計平台、npm、CDN、翻譯 API 或登入。
+此 ZIP 並未直接更新 GitHub 線上網站；也沒有變更 DNS 或代管帳戶。
+
+二、支援範圍要分清楚
+
+78個主要亞洲與歐洲語言「概要入口及主要介面標籤」，不是所有亞洲、歐洲語言的完整集合。
+包含繁中、簡中、英文、法文、日文、西文，以及韓文、阿拉伯文、馬來文、泰文、越南文、印尼文、菲律賓文、德文、波蘭文、捷克文、葡萄牙文、芬蘭文、瑞典文、俄文等。
+完整列表及每一語言實際已翻譯的欄位，以 assets/portal-locales.json 和 assets/localization-notes.md 為準。
+新增語言的首頁概要位於 l/語碼/index.html；阿拉伯文等右至左語言的頁面有 dir=rtl。
+既有文章全文仍只有繁中、簡中、英文、法文、日文、西文六語；新增語碼不會複製數百篇英文文章冒充譯文。
+工具的概要與主要按鈕使用選定語言；詳細設定及動態訊息未翻譯時回退英文。圖片內文字、外部網站、影片語音／字幕不會自動翻譯。
+全部新翻譯為機器輔助草稿，未經母語人士或醫療團隊全面審閱。不要把未審核的醫療翻譯當正式醫療建議。
+自動語言依明確 lang 參數、固定語言頁、儲存偏好及瀏覽器語言；不是 IP 地理定位。到任何國家都不會偷偷取得位置。
+
+三、快速開啟
+
+1. 解壓缩完整 ZIP。
+2. 進入 SmartAction 資料夾。
+3. Mac/Linux 執行：python3 start_server.py
+   Windows 可雙擊原有 啟動網站_Windows.bat；需 Python 3。
+4. 在瀏覽器開啟 http://127.0.0.1:8765/ 。
+5. 首頁新增「動動腦」入口；或直接開啟：
+   http://127.0.0.1:8765/動動腦/index.html
+   http://127.0.0.1:8765/動動腦/無人機模擬操控/index.html
+   http://127.0.0.1:8765/動動腦/AI由圖片生成影片/index.html
+   http://127.0.0.1:8765/l/ko/index.html
+   http://127.0.0.1:8765/l/ar/index.html
+   http://127.0.0.1:8765/videos.html
+
+不要直接雙擊 file:// 測試完整功能：JSON語言載入、JavaScript模組、Canvas錄影及YouTube來源設定會受瀏覽器限制。
+影片與遊戲建議用最新 Chrome、Edge、Firefox 或 Safari。跨平台是基於瀏覽器功能，不等同保證所有古老 iPod、WebView 或不支援 MediaRecorder 的裝置可錄製。
+
+四、更新 GitHub Pages
+
+1. 先備份 kuonanhong/SmartAction 儲存庫。
+2. 用 GitHub Desktop 開啟儲存庫，把此 ZIP 的 SmartAction「裡面所有內容」合併至儲存庫根目錄。
+3. 不要把 SmartAction 整個資料夾再包到根目錄下面；應讓根目錄直接看到 index.html。
+4. 一併提交 assets/、l/、動動腦/、原 *_files/、blog/ 和六語目錄；不可只上傳 index.html。
+5. 保留 .nojekyll；Settings > Pages 指向正確 main 分支 /root，或沿用原先既有發布流程。
+6. Commit 後 Push，等待 Pages 部署完成，再強制重新整理。
+7. 檢查主頁、blog/index.html、l/ko/index.html、l/ar/index.html、動動腦/兩個工具入口。
+
+工具後端/ 的 Python檔可以隨套件保留，但 GitHub Pages 只會提供檔案，不會啟動 Python、GPU 或 API。
+不要提交後端 runtime/、模型權重、使用者媒體、.venv/、帳密、憑證或未限制的 API key。
+首頁仍保留「技術展示與測試站」聲明。若協會正式採用，先取得協會確認並決定正式主站，再調整聲明、canonical 及舊站遷移；不要假裝已取得官方授權或已經搬家。
+
+五、無人機操作
+
+這是全新教學級網頁實作，並不是上傳的 Windows Unity 遊戲或 PhoenixRC 的網頁版。
+翱祥模擬器v2.zip 是 Drone.exe + UnityPlayer.dll + Drone_Data 等已編譯 Windows 執行檔，沒有Unity原始工程，不能靠HTML轉換成Mac/iPhone版。
+PhoenixRC_Nopassword_V2_Setup.exe 沒有在本次附件中，未讀取、執行、重製其資產，也沒有提供破解。
+若日後要完全移植原Unity遊戲，需提供合法可用的Assets/、Packages/、ProjectSettings/及原始C#程式，再研究Unity Web平台建置；不能從 exe 保證還原。
+
+桌機／筆電：
+左手 W/S：油門升／降；A/D：偏航左／右。
+右手 ↑/↓：向前／向後俯仰；←/→：向左／向右滾轉。
+初學者預設穩定懸停，放開控制回到較穩定狀態；一般與專家模式逐步降低輔助。
+按鍵捷徑、視角切換、暫停、重設，以工具內操作說明為準。
+先按一下遊戲畫面使其取得焦點；離開分頁會停止／暫停控制，避免卡住。
+
+手機／平板：
+使用畫面上雙觸控搖桿：左搖桿油門／偏航，右搖桿俯仰／滾轉。
+不需升起手機虛擬鍵盤：手機鍵盤不能可靠同時按住多鍵，還會遮住遊戲畫面。
+可橫向操作，頁面提供第一人稱（FPV）與第三人稱視角。
+
+效能作法：固定時間步進物理、限制像素密度、程序化低複雜度地景、動態畫質，不下載大型Unity引擎或模型。FPS是當前裝置的實測讀值，不保證每一裝置都60FPS。
+地景是虛構程序化場景。未整合 Google 街景、Google 3D 圖磚或真實民航局禁航圖層；工具內只提供合法官方查詢連結。
+這不是飛行認證、真實氣動力驗證或巴金森復健療效證明。
+
+六、圖片／影片工具：免費本機功能與真正AI的差別
+
+A. 可直接使用，不需後端：
+- 圖片平移、縮放等Ken Burns動態影片。
+- 既有影片色彩濾鏡／風格調整與重新匯出。
+- 可選比例、解析度、片長、運鏡、效果強度；提供預覽、取消、進度及下載。
+- 處理預設留在目前分頁，不會自動上傳素材。
+- 這些功能不會生成原圖沒有的新物件，因此不是生成式 AI，也不冒稱 DeeVid 等級。
+- MediaRecorder 可用格式依瀏覽器而異，輸出可能為 WebM 或 MP4；檔名依實際格式，沒有把 WebM 改副檔名冒充 MP4。
+- 本機Canvas匯出目前為無聲影片，不保留原影片音軌。
+- 行動瀏覽器錄製時請維持前景，不要鎖定螢幕；高解析度長片可能超出記憶體。
+
+B. 真正生成式 AI 選配：
+- 工具提供模型選單、提示詞、後端端點、上傳、排隊與狀態查詢介面。
+- 工具後端/ 提供 FastAPI 本機 API 與 Wan 圖轉影片、CogVideoX 影轉影片的選配接法。
+- 預設 mock 只測試工作流程，不是生成式 AI；前端應清楚顯示此狀態，不將它當真實模型結果。
+- 實際推論需要另外安装依賴、下載模型、確認授權並使用適合的CUDA GPU；本次未下載大型權重，也未驗證真實GPU生成品質或時間。
+- GitHub Pages 不能執行模型；需要使用者自架服務或另外部署有認證、配額與HTTPS的API。
+- 免費模型不等於免費算力。DeeVid是限額試用，不是免費無限雲端生成。
+- 您的 Intel i9 MacBook Pro + Radeon 5600M 不具本後端要求的NVIDIA CUDA環境：適合本機網頁動畫與調色，不宜承諾在這台Mac上直接运行Wan14B等大型影片模型。
+- 第三方免費試用或示範頁隨時可能調整額度或排隊方式；不得繞過登入、付費、配額或平台規則。
+- 只上传有權使用的素材，不要上傳病歷、身分資料或未經同意的人像。
+
+七、主頁／YouTube導流：實際可行且透明的設計
+
+已新增：首頁與工具頁之間的可見連結、自願觀看區、點選後隨機挑一部既有影片、影片專頁與原頻道入口。
+沒有：隱藏iframe、背景自動播放、首頁自動點擊、重複刷流量、按讚訂閱解鎖、看完影片才可使用遊戲或AI。
+影片選擇按鈕只選擇一部影片，播放器 autoplay=0，使用者自己按YouTube播放；平台是否認列觀看仍由YouTube判定。
+影片清單来自原上傳首頁，不會動態掃描頻道所有影片。管理者可编辑 assets/videos.json；僅填有權嵌入的公開影片ID，避免私人、停用嵌入或無關頻道影片。
+新增自願區只在點選後載入播放器；原首頁既有嵌入區保留原本行為。
+程式發出本機DOM自訂事件可供未來合規分析整合，但預設沒有Google Analytics、追蹤像素或伺服器端個資收集。
+
+八、SEO／GEO：不是多塞關鍵字就有效
+
+已加入可讀的互動工具主題、獨立入口、標題、描述、canonical、分享資訊、結構化資料及sitemap入口。
+新增語系首頁使用獨立URL與互相對應hreflang，沒有把大量未翻譯文章掛上新語码。
+重點自然詞：高雄巴金森資源、巴金森病友／照顧者、社區學習、免費網頁無人機模擬器、FPV練習、鍵盤／手機觸控、照片動態影片、影片調色、AI影片創作、自架開放模型。
+不加入隱藏關鍵字、醫療療效誇大、虛構醫師署名或重複堆詞；Google不使用meta keywords作為排名訊號。
+Google的AI搜尋仍以可收錄的優質內容、清楚資料與普通SEO為基礎，沒有保證排名的GEO套件，也不需要為Google加特殊AI文字檔。
+
+部署後由網站管理者執行：
+1. Search Console驗證URL-prefix property：https://kuonanhong.github.io/SmartAction/ 。
+2. 提交 https://kuonanhong.github.io/SmartAction/sitemap.xml 。
+3. 請求檢查主頁及兩個新工具URL；是否收錄由Google決定。
+4. 由協會確認正式站定位，避免官方原站與展示站長期重複競爭。
+5. 影片增添真正字幕、逐字稿、活動重點与相關工具連結；標示真實發布／更新日期及來源。
+6. 每週查看 Search Console 的曝光、自然搜尋點擊、CTR；YouTube Studio 的外部來源、平均觀看時間與觀眾留存。
+7. 分享給學校社團、家庭照顧者及社區課程：宣傳實際可用工具，避免灌流量或只以觀看數交換免費功能。
+8. 實驗一個月：用不同但誠實的標題與縮圖，讓訪客自願觀看、回訪及分享；不保證熱門或收益。
+
+九、維護與重建
+
+多語概要來源：assets/portal-locales.json。
+新增影片池：assets/videos.json（重跑擴充工具會从既有首頁重新建立；若手動變更，先備份）。
+兩個互動工具各自包含HTML/CSS/JS，可單独维护。
+若使用舊維護工具/重建網站.py重建六語網站，之後再執行：python3 維護工具/擴充網站.py 。
+擴充工具本身只需Python標準函式庫；舊六語重建工具的依賴與流程保持原樣。
+不要把工具生成的錄影檔、後端資料、模型權重或.exe安裝程式放入GitHub Pages。
+
+十、參考官方規定（查核日期2026-10-07）
+
+YouTube fake engagement：https://support.google.com/youtube/answer/3399767
+YouTube developer policies：https://developers.google.com/youtube/terms/developer-policies
+Google AI搜尋：https://developers.google.com/search/docs/appearance/ai-features
+Google垃圾內容政策：https://developers.google.com/search/docs/essentials/spam-policies
+Google多語網址：https://developers.google.com/search/docs/specialty/international/localized-versions
+GitHub Pages：https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
+DeeVid價格與試用：https://deevid.ai/pricing
+Google Maps Embed：https://developers.google.com/maps/documentation/embed/usage-and-billing
+民航局無人機圖資：https://drone.caa.gov.tw/zh-TW/Default/WebGuide
+Wan官方：https://github.com/Wan-Video/Wan2.1
+CogVideo官方：https://github.com/zai-org/CogVideo
+
+本次沒有保證三個ChatGPT私有／分享連結的全文均可讀取；實作依上傳完整套件及可取回的既有專案紀錄。
