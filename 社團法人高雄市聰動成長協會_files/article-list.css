@@ -1,0 +1,25 @@
+/* Compact single-column article rows matching the saved article archive. */
+.article-list-toolbar { display: flex; align-items: center; justify-content: space-between; gap: 20px; }
+.article-list-toolbar h1 { margin: 0; font-size: 18px; font-weight: 400; color: #444; }
+.article-list-close { display: flex; align-items: center; justify-content: center; width: 44px; height: 44px; font-size: 36px; font-weight: 300; line-height: 1; color: #8d9498; text-decoration: none; }
+.article-list-close:hover { color: #263238; }
+.article-search-controls { margin: 20px 0 12px; }
+.article-search-controls input[type=search] { max-width: 440px; padding: 8px 12px; font-size: 16px; }
+.article-search-controls #article-count { margin: 6px 0 0; font-size: 14px; color: #667680; }
+#article-list { display: flex; flex-direction: column; gap: 0; margin: 18px 0 0; padding: 0; list-style: none; }
+#article-list > li.article-row { display: flex; align-items: center; gap: 20px; width: 100%; min-height: 88px; padding: 19px 0; border: 0; border-bottom: 1px solid #e8e8e8; border-radius: 0; }
+#article-list > li.article-row:first-child { border-top: 1px solid #e8e8e8; }
+#article-list > li[hidden] { display: none !important; }
+.article-thumb { display: block; flex: 0 0 44px; width: 44px; height: 44px; max-width: none; object-fit: cover; border-radius: 50%; background: #f2f5f7; }
+.article-thumb.is-logo { object-fit: contain; padding: 3px; background: #f7fafb; }
+.article-row-content { flex: 1; min-width: 0; }
+#article-list .article-row-content h2 { margin: 0; font-size: 22px; font-weight: 400; line-height: 1.5; overflow-wrap: anywhere; }
+#article-list .article-row-content h2 a { color: #303030; text-decoration: none; }
+#article-list .article-row-content h2 a:hover { color: #176b9d; }
+.article-index-page .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
+@media (max-width: 600px) {
+  .article-index-page main { padding: 0 20px; margin-top: 28px; }
+  #article-list > li.article-row { gap: 14px; padding: 18px 0; min-height: 82px; }
+  #article-list .article-row-content h2 { font-size: 20px; line-height: 1.5; }
+  .article-search-controls input[type=search] { max-width: 100%; }
+}
