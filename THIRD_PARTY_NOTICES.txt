@@ -1,0 +1,141 @@
+聰動網站套件：來源與第三方聲明
+SmartAction package — source and third-party notices
+2026-10-09
+============================================================
+
+1. 範圍 / Scope
+
+本說明列出本次網站整理中隨包提供的主要新增模型與執行環境，並區分
+使用者提供的原協會素材。它不是將整個網站、文章、照片、商標或影片
+重新授予同一授權的文件，也不取代各個第三方原始 LICENSE / NOTICE。
+
+This notice identifies the principal newly bundled model/runtime components
+and distinguishes user-provided legacy association material. It does not
+relicense the entire archive, articles, photographs, trademarks or videos.
+The original component LICENSE and NOTICE files remain authoritative.
+
+2. 原有網站素材 / User-provided legacy website material
+
+association-original.html、parkinson.html、blog/、
+社團法人高雄市聰動成長協會_files/，以及套件中保留的其他舊版資料，
+源於使用者提供的網站快照／附件。原作者、協會、攝影者、文章來源、
+影片平台與既有第三方權利人的權利與原始標示維持原樣。
+
+新增知識摘要、題庫、介面與工具，不表示原內容已變成公有領域，也不
+表示每位原作者、醫師、醫院或協會已逐項審核新增內容。醫療資源頁與
+外部影片以連結及來源描述提供；並未取得或重新發布全部外部影片。
+
+Legacy association HTML, blog content, images and other retained material
+come from the user-supplied website snapshot and attachments. Existing
+rights and attribution remain unchanged. New summaries, questions and
+interfaces do not place source material in the public domain or imply
+individual review/endorsement by all original authors, physicians or
+organizations. External video links do not mean the videos are bundled.
+
+3. Transformers.js
+
+實際隨包檔案 / Bundled runtime:
+  assistant/vendor/transformers.min.js
+
+版本紀錄 / Package version recorded in assistant documentation:
+  Transformers.js 3.8.1
+
+專案 / Project:
+  https://github.com/huggingface/transformers.js
+
+已檢查的授權全文 / Bundled license checked:
+  assistant/vendor/transformers-LICENSE.txt
+  Apache License, Version 2.0
+
+請保留完整授權與執行環境原有標示。執行環境可能包含打包的相依程式；
+此摘要不移除其原有聲明，也不把所有相依程式一律重新授權。
+Keep the full license and existing runtime notices. Bundled dependencies
+retain their own applicable notices; this summary does not relicense them.
+
+4. ONNX Runtime Web
+
+實際隨包檔案 / Bundled runtime components:
+  assistant/vendor/ort-wasm-simd-threaded.jsep.wasm
+  assistant/vendor/ort-wasm-simd-threaded.jsep.mjs
+  and the ONNX Runtime code bundled with Transformers.js
+
+版本紀錄 / Version recorded in assistant documentation:
+  1.22.0-dev.20250409-89f8206ba4
+
+專案 / Project:
+  https://github.com/microsoft/onnxruntime
+
+已檢查的授權全文 / Bundled license checked:
+  assistant/vendor/onnxruntime-LICENSE.txt
+  MIT License
+  Copyright (c) Microsoft Corporation
+
+另附第三方聲明 / Additional bundled third-party notices:
+  assistant/vendor/onnxruntime-ThirdPartyNotices.txt
+
+保留 MIT 授權及第三方聲明全文；此 README 摘要不取代其內容。
+Retain the complete MIT license and third-party notices.
+
+5. FLAN-T5-small 模型與 ONNX 轉換
+
+原模型 / Base model:
+  google/flan-t5-small — Google Research
+  https://huggingface.co/google/flan-t5-small
+
+隨包 ONNX 來源 / Source of bundled ONNX conversion:
+  Xenova/flan-t5-small
+  https://huggingface.co/Xenova/flan-t5-small
+
+已檢查的授權全文 / Bundled license checked:
+  assistant/vendor/FLAN-T5-LICENSE.txt
+  Apache License, Version 2.0
+
+模型資料夾 / Model assets:
+  assistant/models/flan-t5-small/
+
+權重 / Quantized model files:
+  onnx/encoder_model_quantized.onnx             35,759,127 bytes
+  onnx/decoder_model_merged_quantized.onnx      59,339,331 bytes
+
+同資料夾附 config、tokenizer、generation configuration 等檔案。
+檔案大小與 SHA-256 紀錄見：
+  assistant/models/flan-t5-small/manifest.json
+
+The provided license identifies the original model as Apache-2.0 and the
+ONNX conversion as Xenova’s distribution. Quantized weights are redistributed
+unchanged. Keep the license, provenance and manifest with redistributed
+model files. Model behavior is not a medical or financial endorsement.
+
+6. 外部服務與獨立專案 / External services and independent projects
+
+YouTube、Google Maps、各醫療與證券資料來源，以及下列網站，仍受各自
+服務規則及內容權利約束。本包中的連結不代表擁有其內容或商標：
+
+  https://kuonanhong.github.io/AERO_Explorer/
+  https://kuonanhong.github.io/Frame_to_Video/
+  https://kuonanhong.github.io/3x3Basketball/
+
+play/ 是導覽入口，不是上述專案最新執行程式的重新發布。
+原先保留的 動動腦/ 內容另依其原有檔案與說明理解。
+Live market data may require separate provider terms, attribution and data
+licenses. Links or sample integration code do not grant redistribution
+rights to every exchange feed. Follow the provider’s applicable terms.
+
+7. 本次自製實作 / New project implementation
+
+本次新增的網站組織、原創題目與短摘要、介面、瀏覽器工具、分析邏輯及
+部署說明，是交付此專案的實作。未把 Microsoft PowerPoint、Windows
+小畫家或其他商用 APP 原始碼／商標／付費素材納入自製工具；簡報工具
+實際輸出格式為 HTML、SVG、PNG、JSON，並未冒稱原生 .pptx。
+
+這份聲明不替使用者提供的全部協會文章與圖像指定新的統一授權。
+如需對外另行發布開源套件，請將欲採授權的自製程式範圍與第三方／
+原協會內容明確分開，保留所有第三方原始聲明。
+
+The new implementation is supplied for this project. It does not incorporate
+the source code, trademarks or paid assets of Microsoft PowerPoint, Windows
+Paint or other commercial applications. This notice does not assign a new
+blanket license to all user-provided association content. For a separate
+open-source release, distinguish original implementation files from legacy
+and third-party content and preserve their original notices.
+

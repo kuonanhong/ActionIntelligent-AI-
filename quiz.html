@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>巴金森與聰動知識 100 題｜聰動成長協會</title>
+  <meta name="description" content="100 題巴金森氏症、照護與聰動協會知識練習：80 題四選一、20 題簡短填空，每題附 WHO、NINDS 等官方來源與查找章節。">
+  <meta name="theme-color" content="#296758">
+  <link rel="canonical" href="https://kuonanhong.github.io/SmartAction/quiz.html">
+  <link rel="stylesheet" href="assets/hub.css">
+  <style>
+    .quiz-filters{background:#edf1e6;border:1px solid var(--line);border-radius:14px;padding:18px;margin-bottom:24px;display:grid;grid-template-columns:1fr 1.7fr 1fr auto;gap:12px;align-items:end}.quiz-filters label{display:flex;flex-direction:column;gap:6px;font-size:12px}.quiz-filters select,.quiz-filters input{width:100%;font-size:14px}.quiz-filters .filter-result{grid-column:1/-1;font-size:12px;color:var(--muted);margin:0}.question-options{border:0;margin:0;padding:0}.question-options legend{padding:0;margin:0 0 10px;color:var(--muted);font-size:13px}.fill-label{display:flex;flex-direction:column;gap:8px}.fill-label input{width:100%}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}.question-card:focus{outline:0}.source-item{overflow-wrap:anywhere}.source-item strong{display:block}.source-item .button{font-size:12px;text-decoration:none}.source-item p{margin:4px 0 0;font-size:12px}.source-item+.source-item{margin-top:12px;border-top:1px solid var(--line)}.hint-box>p{margin-bottom:8px}.quiz-side label{font-size:12px}.quiz-stat{font-size:28px;font-weight:750;color:var(--green);line-height:1.4}.quiz-side .progress-track{margin-top:12px}.feedback:focus{outline:2px solid var(--green);outline-offset:3px}.answer-detail{border-top:1px solid var(--line);margin-top:12px;padding-top:12px}.answer-detail strong{display:block;margin-bottom:7px}.quiz-complete{background:#e4eccd;border:1px solid var(--line);border-radius:14px;padding:22px;margin-bottom:20px}.quiz-complete h2{font-size:22px}.quiz-empty{padding:30px;border:1px dashed var(--line);border-radius:12px;margin-bottom:20px}.quiz-help{font-size:12px;color:var(--muted)}.save-note{font-size:12px;color:#826230}.quiz-language-note{max-width:900px}.next-row{display:flex;justify-content:space-between;gap:10px;border-top:1px solid var(--line);padding-top:22px;margin-top:22px}.question-meta span{min-width:0}.question-meta span:last-child{text-align:end}.question-title:focus{outline:none}.reset-button{font-size:12px;min-height:40px;margin-top:8px}.quiz-filters .primary{height:46px}.site-footer{margin-top:20px}@media(max-width:900px){.quiz-filters{grid-template-columns:1fr 1fr}.quiz-filters .primary{width:100%}.quiz-filters .search-filter{grid-column:1/-1}}@media(max-width:480px){.quiz-filters{grid-template-columns:1fr}.quiz-filters .search-filter{grid-column:auto}.quiz-filters .filter-result{grid-column:auto}.quiz-actions button{flex:1;min-width:130px}.question-meta{font-size:11px}.answer-option{padding:12px}.next-row button{font-size:13px}}
+  </style>
+  <script defer src="assets/knowledge-sources.js"></script>
+  <script defer src="assets/knowledge-questions.js"></script>
+  <script defer src="assets/quiz.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main" data-i18n="skip">跳到題目</a>
+  <header class="site-header">
+    <a class="brand" href="index.html"><span aria-hidden="true" style="font-size:31px;color:#537b58">❋</span><span><strong data-i18n="brand">聰動成長協會</strong><small>SMARTACTION · LEARN TOGETHER</small></span></a>
+    <nav class="main-nav" aria-label="Main"><a href="index.html" data-i18n="home">首頁</a><a href="knowledge.html" data-i18n="knowledge">巴金森知識</a><a href="resources.html" data-i18n="resources">世界資源</a></nav>
+    <label class="language"><span aria-hidden="true">◎</span><span class="sr-only" data-i18n="language">語言</span><select id="quiz-language" aria-label="Language"><option value="zh-Hant">繁體中文</option><option value="en">English</option></select></label>
+  </header>
+  <main class="wrap" id="main">
+    <section class="page-intro">
+      <p class="eyebrow">SMARTACTION KNOWLEDGE LAB</p>
+      <h1 data-i18n="title">一題一題，認識巴金森。</h1>
+      <p data-i18n="intro">100 題有來源的學習練習：80 題四選一、20 題簡短填空。先試著回答，也可以打開提示，直接找到資料中的相關章節。</p>
+      <p class="quiz-language-note" data-i18n="languageNote">題庫提供完整繁體中文及英文。其他瀏覽器語言先使用英文，可自行切換。題目供一般健康教育，分數不能用來診斷、評估認知或決定用藥。</p>
+      <noscript><p class="notice">請啟用 JavaScript 使用互動題庫。也可使用 <a href="question-bank.html">繁體中文 100 題閱讀版</a>、<a href="en/question-bank.html">English reading edition</a>，或下載 <a href="docs/QUIZ_SOURCE_MAP.csv">答案與來源對照表</a>。</p></noscript>
+    </section>
+    <section class="quiz-filters" aria-label="Question selection">
+      <label><span data-i18n="category">主題</span><select id="category"></select></label>
+      <label class="search-filter"><span data-i18n="search">搜尋題目或題號</span><input id="question-search" type="search" autocomplete="off" placeholder="例如：吞嚥、Q066、dopamine"></label>
+      <label><span data-i18n="session">本輪題數</span><select id="session-mode"><option value="10" data-i18n="ten">依序練習 10 題</option><option value="20" data-i18n="twenty">隨機練習 20 題</option><option value="all" data-i18n="all">全部符合題目</option></select></label>
+      <button id="start-session" class="primary" type="button" data-i18n="start">開始這一輪</button>
+      <p id="filter-result" class="filter-result" aria-live="polite"></p>
+    </section>
+    <p id="storage-notice" class="save-note" hidden></p>
+    <section id="session-complete" class="quiz-complete" hidden aria-live="polite"><h2 data-i18n="finished">這一輪完成了</h2><p id="complete-text"></p><button id="review-session" type="button" data-i18n="review">回到本輪第一題</button></section>
+    <p id="empty-state" class="quiz-empty" hidden data-i18n="empty">沒有符合的題目，請換個關鍵字或主題。</p>
+    <div class="quiz-layout" id="quiz-layout">
+      <article class="question-card" aria-labelledby="question-title">
+        <div class="question-meta"><span id="question-counter"></span><span id="question-category"></span></div>
+        <h2 id="question-title" class="question-title" tabindex="-1"></h2>
+        <form id="answer-form" aria-labelledby="question-title" novalidate>
+          <fieldset id="answer-options" class="question-options"></fieldset>
+          <div id="fill-wrap" hidden><label class="fill-label" for="fill-answer"><span data-i18n="fillLabel">請填入簡短答案</span><input id="fill-answer" type="text" autocomplete="off" maxlength="160" aria-describedby="fill-help"></label><p id="fill-help" class="quiz-help" data-i18n="fillHelp">忽略大小寫、全半形及多餘空白；可接受的同義寫法會列在標準答案。</p></div>
+          <div class="quiz-actions"><button class="primary" id="check-answer" type="submit" data-i18n="check">檢查答案</button><button id="toggle-hint" type="button" aria-expanded="false" aria-controls="hint-panel" data-i18n="hint">提示與資料來源</button><button id="reveal-answer" type="button" disabled data-i18n="reveal">顯示標準答案</button></div>
+        </form>
+        <section id="feedback" class="feedback" role="status" aria-live="polite" hidden><h3 id="feedback-title"></h3><p id="feedback-text"></p><div id="answer-detail" class="answer-detail" hidden><strong id="standard-answer"></strong><p id="answer-explanation"></p></div></section>
+        <section id="hint-panel" class="hint-box" hidden aria-label="Hint and source"><p id="hint-text"></p><div id="question-sources"></div></section>
+        <div class="next-row"><button id="prev-question" type="button" data-i18n="previous">← 上一題</button><button id="next-question" class="soft-button" type="button" data-i18n="next">下一題 →</button></div>
+      </article>
+      <aside class="quiz-side" aria-label="Learning progress">
+        <h3 data-i18n="progressTitle">慢慢來，每一題都算。</h3>
+        <div id="session-progress" class="quiz-stat"></div>
+        <div class="progress-track" role="progressbar" id="progress-meter" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Session progress"><i id="progress-fill"></i></div>
+        <p id="progress-text"></p>
+        <label for="question-jump" data-i18n="jump">跳到本輪題目</label><select id="question-jump" class="question-jump"></select>
+        <p id="total-progress"></p>
+        <p class="quiz-help" data-i18n="localOnly">學習紀錄只存於這個瀏覽器，不會傳送到伺服器。開啟外部來源需要網路；不強制觀看影片。</p>
+        <button id="reset-progress" class="reset-button" type="button" data-i18n="reset">清除本機作答紀錄</button>
+        <p id="reset-notice" role="status" aria-live="polite"></p>
+      </aside>
+    </div>
+    <footer class="site-footer"><p data-i18n="footer">每題附原始來源。協會部分歷史文章目前僅保存摘要；本題庫未虛構影片時間碼。標準答案用於學習，不取代醫療專業判斷。</p><a id="reading-edition" href="question-bank.html">閱讀版 100 題</a><a href="docs/QUIZ_SOURCE_MAP.csv" data-i18n="sourceMap">下載答案與來源表</a></footer>
+  </main>
+</body>
+</html>

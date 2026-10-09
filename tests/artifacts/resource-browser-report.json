@@ -1,0 +1,18 @@
+{
+  "tests": [
+    "68 resources and 22 languages render",
+    "English interface keeps stable Taiwan filter value",
+    "English keyword finds Singapore",
+    "Chinese keyword works in English interface",
+    "Empty result state",
+    "Arabic direction and localized filter controls",
+    "Arabic Asia filter returns seven entries",
+    "Simplified-Chinese summaries render",
+    "Eight English knowledge topics and nutrition anchor",
+    "Japanese navigation explicitly retains English medical content",
+    "Simplified-Chinese knowledge content",
+    "Both pages fit 390-pixel mobile viewport",
+    "No JavaScript runtime errors"
+  ],
+  "errors": []
+}

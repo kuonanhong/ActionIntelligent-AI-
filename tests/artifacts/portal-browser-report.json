@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-08T17:24:08.984Z",
+  "mode": [],
+  "base": "http://127.0.0.1:42531/SmartAction/",
+  "executablePath": "/workspace/scratch/a8695db12b98/qa/bin/chromium",
+  "passed": 52,
+  "total": 52,
+  "results": [
+    {
+      "name": "Tools: prefixed route and canvas input",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Tools: actual PNG download",
+      "ok": true,
+      "detail": {
+        "bytes": 30415
+      }
+    },
+    {
+      "name": "Tools: standalone HTML slide export omits private notes",
+      "ok": true,
+      "detail": {
+        "bytes": 1833
+      }
+    },
+    {
+      "name": "Tools: actual local text download and arithmetic",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Tools: short video is actually encoded and downloaded",
+      "ok": true,
+      "detail": {
+        "sourceBytes": 6304,
+        "outputBytes": 3544,
+        "filename": "smartaction-clip-0.2-1.6.mp4"
+      }
+    },
+    {
+      "name": "Market: local CSV analysis on prefixed route",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Market: wishlist is local and exportable",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Assistant: source lookup under prefix without auto-loading model",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: no horizontal desktop overflow",
+      "ok": true,
+      "detail": {
+        "width": 1440
+      }
+    },
+    {
+      "name": "Portal: five compact icon folders",
+      "ok": true,
+      "detail": {
+        "height": 70
+      }
+    },
+    {
+      "name": "Portal: more articles remain single rows with icons, 6 to 48",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: actual language navigation zh-TW",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: actual language navigation zh-CN",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: actual language navigation en",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: actual language navigation ja",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: actual language navigation ko",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: actual language navigation ar",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: actual language navigation ms",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: actual language navigation th",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: actual language navigation vi",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: actual language navigation id",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: actual language navigation fil",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: actual language navigation de",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: actual language navigation pl",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: actual language navigation cs",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: actual language navigation pt",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: actual language navigation fi",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: actual language navigation sv",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: actual language navigation ru",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: actual language navigation fr",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: actual language navigation es",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: actual language navigation it",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: actual language navigation hi",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Portal: manual language survives refresh",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Videos: 14 user-controlled players; no initial embeds",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Mobile: home 390px layout zh-TW",
+      "ok": true,
+      "detail": {
+        "overflow": 0
+      }
+    },
+    {
+      "name": "Mobile: home 390px layout en",
+      "ok": true,
+      "detail": {
+        "overflow": 0
+      }
+    },
+    {
+      "name": "Mobile: home 390px layout ar",
+      "ok": true,
+      "detail": {
+        "overflow": 0
+      }
+    },
+    {
+      "name": "Videos: file opening offers direct YouTube fallback",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Resources: 68 resources, region filtering and clear empty state",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Resources: live language switching retains search functionality",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Knowledge: eight source-linked guides and working anchor navigation",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Resources and knowledge: mobile Arabic interface without overflow",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Question bank: 100 prerendered entries with concealed sources and quiz links",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Quiz: 100 questions with hidden source and standard answer",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Quiz: reveal exact source only on hint action",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Quiz: attempted wrong answer then standard answer reveal",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Quiz: correct answer saved between reloads",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Quiz: NFKC and case-normalized fill answer",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "Quiz: mobile touch layout and complete fill input",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "No JavaScript page errors",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "name": "No missing local requests",
+      "ok": true,
+      "detail": null
+    }
+  ],
+  "errors": [],
+  "missing": []
+}

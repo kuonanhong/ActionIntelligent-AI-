@@ -1,0 +1,3495 @@
+{
+  "release": "2026-10-09",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 102,
+      "sha256": "5dfa734c016efd7c612cf3a5bd5240c28c394f70bb15f379157a7c2795fb06d8"
+    },
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "20261007_改版與部署說明.txt",
+      "bytes": 12057,
+      "sha256": "b515c0088b9d1e408747ddb7bb2bc6a5b419a7f9fd7e03cfbf03bf52c79a4513"
+    },
+    {
+      "path": "20261007_驗證與限制.txt",
+      "bytes": 2593,
+      "sha256": "1e9d8722e2523a8c21cffa52bb807c80fe85af54763f175585a5d147dd419e32"
+    },
+    {
+      "path": "README.txt",
+      "bytes": 10698,
+      "sha256": "70fedea2b1aff04eb320ae11508f59ed7e7fcb476dce8663106db7e68dc2671e"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.txt",
+      "bytes": 6351,
+      "sha256": "fa428a46b074b312cc4313e355095870d7c9feea12c3ab4cc5299aa39184c39c"
+    },
+    {
+      "path": "ar/index.html",
+      "bytes": 16797,
+      "sha256": "8f5d398e9bed4d8296ae87416fc901a1b7360db9bdb5f758f0b86a1f3720b0e4"
+    },
+    {
+      "path": "assets/article-catalog.js",
+      "bytes": 9362,
+      "sha256": "5a24188992eb00548b0047200614c2bdcd13f6a8822936d33f32afc585d2074c"
+    },
+    {
+      "path": "assets/engage.js",
+      "bytes": 3441,
+      "sha256": "c35d1114fbc152dba9b6461186c76e04135c4bed4fe877febf89270920906709"
+    },
+    {
+      "path": "assets/hub-content.js",
+      "bytes": 33381,
+      "sha256": "9ed820560abee7686f8fe23ce324f34506046e4a04c50140d0b8276f617dd72e"
+    },
+    {
+      "path": "assets/hub-locales.js",
+      "bytes": 75985,
+      "sha256": "d5a19908fadfb14555feb38050319372c6f0e279687cc61d8b0a48841e31abb7"
+    },
+    {
+      "path": "assets/hub.css",
+      "bytes": 14837,
+      "sha256": "2f4e697664e29f089f4ba83f8129e78a42f79e40a18a0686eb8d52bc56c50a5c"
+    },
+    {
+      "path": "assets/hub.js",
+      "bytes": 5320,
+      "sha256": "49edcdcff0fa721036a01c60ead5c50bd54403e492c0da10b14c7c36eecd1e55"
+    },
+    {
+      "path": "assets/knowledge-questions.js",
+      "bytes": 117307,
+      "sha256": "9561ebdc5fba8419cb03490410290fb48198e3c894d163ba50565bbc9cfe2766"
+    },
+    {
+      "path": "assets/knowledge-sources.js",
+      "bytes": 16861,
+      "sha256": "eac6558f79ff121d6fe4e299cfe9e88a14f47c88590271ce85d02faa2b690b32"
+    },
+    {
+      "path": "assets/localization-notes.md",
+      "bytes": 3409,
+      "sha256": "a60aba1183bd5e2d66e37bcb270ef19247d51c336a26cbe377224776baba65a1"
+    },
+    {
+      "path": "assets/portal-enhance.js",
+      "bytes": 934,
+      "sha256": "ae04d3d47317e8bbde9bddf5859fd5616343ed2482c65a9836f83ce64cf3dec4"
+    },
+    {
+      "path": "assets/portal-i18n.js",
+      "bytes": 4778,
+      "sha256": "13b9b7e0d40364aaa57e9d3c1377bd1126acec0495c85e2e882a3676eafc0500"
+    },
+    {
+      "path": "assets/portal-locales.json",
+      "bytes": 87396,
+      "sha256": "aa7c6ffda80d20a0a6b710f8b1bfec9b3d4fcf739644f68f706c2f84d74ee35f"
+    },
+    {
+      "path": "assets/portal-registry.js",
+      "bytes": 4687,
+      "sha256": "670c0924ab67efc39d05e7731ee7f8c09ae8420b33bd08298b16e4dcef64ffbe"
+    },
+    {
+      "path": "assets/portal.css",
+      "bytes": 4178,
+      "sha256": "2e5cd344f3aba19efb721ca3c3e40e1101fbed81a3e51f75265e026e6d6ef8f7"
+    },
+    {
+      "path": "assets/quiz.js",
+      "bytes": 19732,
+      "sha256": "dbdf63bd24a66e2fa0d2a8fc7297be060dab89cfab657600ff598db3f75f4310"
+    },
+    {
+      "path": "assets/resource-directory.js",
+      "bytes": 42664,
+      "sha256": "7cf509d4a019be2f0e5851ec24d7a576c99a3db96129a8f08d48d9da73e41f1d"
+    },
+    {
+      "path": "assets/resources.js",
+      "bytes": 28296,
+      "sha256": "cf0d8922f81f09bd8a4470ce223fc9ed290caa18470ae3d965192e3dd55fb1a9"
+    },
+    {
+      "path": "assets/video-audit.json",
+      "bytes": 52152,
+      "sha256": "0b807b5ee520d67904869d819dadd6796e078688dfba731e64d84fb6b99856a6"
+    },
+    {
+      "path": "assets/video-catalog.js",
+      "bytes": 2035,
+      "sha256": "73fc84ac9dcffdd7a24f9d3caa79336a965b55b14ed6e9c5d6e7859ff4ea6f15"
+    },
+    {
+      "path": "assets/videos.json",
+      "bytes": 2248,
+      "sha256": "88cbcf1c11ba88d7f4ce160781e1790c2dd79937396f4d0ce68a98a1de60d188"
+    },
+    {
+      "path": "assets/watch.js",
+      "bytes": 1178,
+      "sha256": "8cf92ccdb2ee841bdfa954bea7a3360875de0578eee4d0191401cc3573d42a81"
+    },
+    {
+      "path": "assistant/README.txt",
+      "bytes": 3382,
+      "sha256": "b35e2d34593b625f9a7c0efaa6ce705985f987a5c6f9aff71057ec144d06c4d3"
+    },
+    {
+      "path": "assistant/app.js",
+      "bytes": 13964,
+      "sha256": "c100d8527885630b3070da86abf68d5410e691e058d08a43cb6af4f09c5fbd9b"
+    },
+    {
+      "path": "assistant/corpus.js",
+      "bytes": 7502,
+      "sha256": "5fdc866bb05933659c440f8f3715143a9dccbdf825ac2127590b3a234962c914"
+    },
+    {
+      "path": "assistant/index.html",
+      "bytes": 4257,
+      "sha256": "c34cee6ec3495147f515c6fe6c9388d4b886aec52be27a335dc68efdd72c7d22"
+    },
+    {
+      "path": "assistant/models/flan-t5-small/config.json",
+      "bytes": 1532,
+      "sha256": "a405fa336368f00e595e3a3f8f445e0318996f6d277008df11a577425a58e28d"
+    },
+    {
+      "path": "assistant/models/flan-t5-small/generation_config.json",
+      "bytes": 147,
+      "sha256": "6a6163360ca1826ba86f43d38af8d46d960b14a43090b619a5604e0b0bbf896c"
+    },
+    {
+      "path": "assistant/models/flan-t5-small/manifest.json",
+      "bytes": 1230,
+      "sha256": "b638395059008d33f460759b48dc8a2afea0819a0d21fa0cff441dbc744b353a"
+    },
+    {
+      "path": "assistant/models/flan-t5-small/onnx/decoder_model_merged_quantized.onnx",
+      "bytes": 59339331,
+      "sha256": "73e2e942503221d7844715a8d824f68d8a2e878483f1c923849c177f0c441df1"
+    },
+    {
+      "path": "assistant/models/flan-t5-small/onnx/encoder_model_quantized.onnx",
+      "bytes": 35759127,
+      "sha256": "968ce399b8dcdfd4c36833db51e9f78f327f7272ee9e2777fc2b3c8693208e90"
+    },
+    {
+      "path": "assistant/models/flan-t5-small/special_tokens_map.json",
+      "bytes": 2201,
+      "sha256": "5c87151ef0f72a99d1f766a4c418bd2a1f90aaa30a8e22fe5eca9641daebb64f"
+    },
+    {
+      "path": "assistant/models/flan-t5-small/tokenizer.json",
+      "bytes": 2422164,
+      "sha256": "d7af4599a1914d04aaf44839418757f40ccca4c78033edeba369484978378335"
+    },
+    {
+      "path": "assistant/models/flan-t5-small/tokenizer_config.json",
+      "bytes": 2349,
+      "sha256": "8463612fde6595bf924e405f08192e1c58887e71332db2b9b287052dd3e180e1"
+    },
+    {
+      "path": "assistant/styles.css",
+      "bytes": 2396,
+      "sha256": "7e9a45108ed451e476d30dce190ec309b65ecfa4d357893444668338c2138bf3"
+    },
+    {
+      "path": "assistant/sw.js",
+      "bytes": 966,
+      "sha256": "8880847e934207e88036cb4a3f1b82fa0d561f28eeee48d1e803b1ee1ffa3913"
+    },
+    {
+      "path": "assistant/tests/assistant-preview.png",
+      "bytes": 281573,
+      "sha256": "f19d9664adc2af69952ea935832a503fe19bdf5fcb21f958a5db75d0cbd31ac6"
+    },
+    {
+      "path": "assistant/tests/browser-inference.cjs",
+      "bytes": 5041,
+      "sha256": "f1f9f1782e2476c0edcd38af263ad13af018ab42ceb4eb707b28b544b2d6a0b8"
+    },
+    {
+      "path": "assistant/tests/inference-report.json",
+      "bytes": 843,
+      "sha256": "5a7ed2f39d0488b9c3cf2fb09d566b689b68cacc9ae68cfe67efaef70ce34ce2"
+    },
+    {
+      "path": "assistant/vendor/FLAN-T5-LICENSE.txt",
+      "bytes": 11623,
+      "sha256": "1e93262a7740e7c175b2b3d878221f03cc0abf26bdb0c7ccfb7d74c6af5c3bb5"
+    },
+    {
+      "path": "assistant/vendor/onnxruntime-LICENSE.txt",
+      "bytes": 1073,
+      "sha256": "2f07c72751aed99790b8a4869cf2311df85a860b22ded05fa22803587a48922c"
+    },
+    {
+      "path": "assistant/vendor/onnxruntime-ThirdPartyNotices.txt",
+      "bytes": 326866,
+      "sha256": "e9e90971a8e75a9a8ac0c6412e29c1202d079998389915aa485f46c816c3b4cc"
+    },
+    {
+      "path": "assistant/vendor/ort-wasm-simd-threaded.jsep.mjs",
+      "bytes": 44484,
+      "sha256": "08fb86ec433c78bfb032c5d84a68b8e8e5a8d81268fa39e24314179a5767a5b9"
+    },
+    {
+      "path": "assistant/vendor/ort-wasm-simd-threaded.jsep.wasm",
+      "bytes": 21596019,
+      "sha256": "c46655e8a94afc45338d4cb2b840475f88e5012d524509916e505079c00bfa39"
+    },
+    {
+      "path": "assistant/vendor/transformers-LICENSE.txt",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "assistant/vendor/transformers.min.js",
+      "bytes": 888173,
+      "sha256": "aa5002b70e789798da263f5f99c62bd3e8fcd0c119258a493c40c180648365fa"
+    },
+    {
+      "path": "assistant/worker.js",
+      "bytes": 2528,
+      "sha256": "98424e414efdc83d02e063fc0cd8648c053dcf9bacb2f6972d08823decaac582"
+    },
+    {
+      "path": "association-original.html",
+      "bytes": 181859,
+      "sha256": "6a31ce573414bbb63fe0ff4b00d0c43dad1ab5044cddce43aa9d2cc4859d477b"
+    },
+    {
+      "path": "backend/market-worker/.gitignore",
+      "bytes": 41,
+      "sha256": "234f131eb36b0f4d172e6a325937fe620ca15a65ed66da1121fd144230472e50"
+    },
+    {
+      "path": "backend/market-worker/package.json",
+      "bytes": 169,
+      "sha256": "b9b79c07a7b7f92139f3900cbc0c267fc979cf226ce8d91c104a9d5fbf676a9c"
+    },
+    {
+      "path": "backend/market-worker/src/worker.js",
+      "bytes": 10437,
+      "sha256": "b2eee69ae01abb0f4ea91a994c94e925386de5748c0f971e29d437b50edabad1"
+    },
+    {
+      "path": "backend/market-worker/wrangler.toml",
+      "bytes": 793,
+      "sha256": "2d21a428b7725f9b7b4833add3e26717129c19fe85552c739d118b5afc25330d"
+    },
+    {
+      "path": "blog/081e9814498.html",
+      "bytes": 6085,
+      "sha256": "2800b3ec1ad3a3da2089637c747a492e62e57a6c62d27245c91d647673501bb7"
+    },
+    {
+      "path": "blog/0de305e00f7.html",
+      "bytes": 6492,
+      "sha256": "c33b16ab8b97b979687e51db3a766a658ca5f2129c900c249ca0aef147612027"
+    },
+    {
+      "path": "blog/1140508.html",
+      "bytes": 6589,
+      "sha256": "d429fa189b5daed567da5f1298997c9bf24b3bf74313cc7c89024bdb4a065cb1"
+    },
+    {
+      "path": "blog/1140527.html",
+      "bytes": 6346,
+      "sha256": "07253e66e63f0bdf0b21bfe3296bd0bad8e8de11e6397fa75ccb144ca5714097"
+    },
+    {
+      "path": "blog/1140607.html",
+      "bytes": 6780,
+      "sha256": "c83cdcfeebf9dd841d89331fe2817f505264fa20e8d2775dfefce005f57799cc"
+    },
+    {
+      "path": "blog/1140705.html",
+      "bytes": 6507,
+      "sha256": "75f1915aa756eaa7eb9d8d7126b845b558f2387f0d6eed9a8b48fabb32fb0bae"
+    },
+    {
+      "path": "blog/1140722.html",
+      "bytes": 6561,
+      "sha256": "ec516dfa60273f244d47e5a4e755a1a8fec7dea9a04a727b8bd28b17583bb4d7"
+    },
+    {
+      "path": "blog/1140809.html",
+      "bytes": 6401,
+      "sha256": "efc5cdbd25a554c923cec984721626c6ee5b27dcc929d9aba7366d538ad1cf3f"
+    },
+    {
+      "path": "blog/1140819.html",
+      "bytes": 6620,
+      "sha256": "530b0e4674b7f51a7da96cae04131a3a46f8beb2558ab9971c66ada058ae5974"
+    },
+    {
+      "path": "blog/1140823.html",
+      "bytes": 6513,
+      "sha256": "95fe785724e1c50d6599eb1e30d19ca87b79928fe01230f4ccf23f747ab11f47"
+    },
+    {
+      "path": "blog/1140826.html",
+      "bytes": 6504,
+      "sha256": "6293caf797dc44459c7e1c535700138ca2f2fe654a3a700756be258b592dbb8e"
+    },
+    {
+      "path": "blog/1140902-diy.html",
+      "bytes": 6635,
+      "sha256": "e8f3b6f2526f69034f9eaf4cb654c0671e5cedbfc41c6299fc27517063864f04"
+    },
+    {
+      "path": "blog/1140920.html",
+      "bytes": 6318,
+      "sha256": "4da855f4e655eba33e5edd2ab6fa1e42ebcfe2555087452a7465717d9fa6ca43"
+    },
+    {
+      "path": "blog/2026.html",
+      "bytes": 5810,
+      "sha256": "16f86f34f5769c96bef6c7549e4f0055170cdea2767b109a1c7095007ff50738"
+    },
+    {
+      "path": "blog/20478397518.html",
+      "bytes": 5324,
+      "sha256": "e937dae1cb81585068886c34b91f9e9a9eaf9063581fc0a77ea227fd3ad2fb18"
+    },
+    {
+      "path": "blog/33cb605cf06.html",
+      "bytes": 8817,
+      "sha256": "1ef543bd3bb6cea87e696552334bafe4764689bf00a51efc937d1790de4a2736"
+    },
+    {
+      "path": "blog/445cc624575.html",
+      "bytes": 6158,
+      "sha256": "633a83e4239b7d50cd7ebcefdd39231716043ed5ed73ac8d35740fe7fb518f47"
+    },
+    {
+      "path": "blog/4f9ab696101.html",
+      "bytes": 5324,
+      "sha256": "73cbc87f975a21ef5c2f0adf7c7456a821c56382c83528a7dddae7b14869e50d"
+    },
+    {
+      "path": "blog/7ce89166493.html",
+      "bytes": 5952,
+      "sha256": "aa76c0653a74186fdac027280371dae46564d93b5cb54b58155272b43ed4e053"
+    },
+    {
+      "path": "blog/8494322ddbf.html",
+      "bytes": 6424,
+      "sha256": "9c90f99067abb9ae5e71dd4b2d93e9b0796c57bc1140fc78684e8b015e9674ce"
+    },
+    {
+      "path": "blog/a63f966cedc.html",
+      "bytes": 6215,
+      "sha256": "f340afdd492aced65bba60e141445d20436f986d970aa0325ee26c0565a191cf"
+    },
+    {
+      "path": "blog/activity-114-02-20-part3.html",
+      "bytes": 5671,
+      "sha256": "d4e67e9020e047bc53a8685bf23c9a7d479deed4159c0ca2fbaf24f7f99a7aa2"
+    },
+    {
+      "path": "blog/activity-1140215.html",
+      "bytes": 5892,
+      "sha256": "e6e931099539b22070a2aa9ef879a4043797e33ec4c684ce3aff1e36c2025bfd"
+    },
+    {
+      "path": "blog/activity-1140308.html",
+      "bytes": 5598,
+      "sha256": "d4531f389e2ec1f8be00ce436ce8277f29ed15e4d6cf1752dc7b770b5aa5f5a5"
+    },
+    {
+      "path": "blog/activity-1140315.html",
+      "bytes": 5661,
+      "sha256": "0aee3d5aebc0c4614792b34ee7379a56c12fc339d30c5d9aaa81c094c2e761c0"
+    },
+    {
+      "path": "blog/activity-1140412.html",
+      "bytes": 5689,
+      "sha256": "acac8404fa6e141c97c526d5a60ec569b29f290b1315e922f96d320f82dc1d0f"
+    },
+    {
+      "path": "blog/activity-1140508.html",
+      "bytes": 5577,
+      "sha256": "a649d18bbf293d95da6e52c6ba8a3922054ecf7ed3d5b1afe11f8f72c40f8c44"
+    },
+    {
+      "path": "blog/activity-1140527.html",
+      "bytes": 5577,
+      "sha256": "d00784cf3dcd56716ca2e8132477c73c53273b11486514bb545f34e8d13c2f48"
+    },
+    {
+      "path": "blog/activity-1140529.html",
+      "bytes": 5430,
+      "sha256": "8b5d91837f5e57fe167c33f6660f9986b2d81ffebf011a379474acc5c346102f"
+    },
+    {
+      "path": "blog/activity-1140607.html",
+      "bytes": 5661,
+      "sha256": "893e40d4c1527efa070a3fefe8a25b8170f3e8bdb2b356159f93c5161d924ffa"
+    },
+    {
+      "path": "blog/activity-1140705.html",
+      "bytes": 10798,
+      "sha256": "6b4433bd54864c41711c8512c843bf119db97256b0f428716b35daee75d6ba6d"
+    },
+    {
+      "path": "blog/activity-466f10c3451.html",
+      "bytes": 5582,
+      "sha256": "94ad68337c0c2d148c5109474cd5cf73f120c05b7fcf13d88a1ad37bc433ca78"
+    },
+    {
+      "path": "blog/activity-6.html",
+      "bytes": 5396,
+      "sha256": "f1872e0d43f277d033c6c22a25cc9b7fb33706013e5b883cb3dffe179179906e"
+    },
+    {
+      "path": "blog/b127aee8859.html",
+      "bytes": 5324,
+      "sha256": "4a7b76d4a2e5891f1db4439c689ea936591cac2adaeea1326d76ea2bae4be388"
+    },
+    {
+      "path": "blog/dc2c10fc11a.html",
+      "bytes": 5926,
+      "sha256": "014cd67f86f76b0ea21246bfc452c167e5eb70845e56528db00c23415e6ebc4b"
+    },
+    {
+      "path": "blog/index.html",
+      "bytes": 31085,
+      "sha256": "46c7a7fc7b16ac12a46b4aaff51ad93fa450e10361982f2f8d84683b9156e0b6"
+    },
+    {
+      "path": "blog/parkinson-0fa1925b25d.html",
+      "bytes": 5853,
+      "sha256": "4d4e351bca69d39ae524041e9a64ffded44fbe61b2d7ab6a4d343fd32b411c13"
+    },
+    {
+      "path": "blog/parkinson-2024-2025.html",
+      "bytes": 5607,
+      "sha256": "51fea261addf54eec59e0829e9e1d194d05278bf5c2e4bed010073d50c27d125"
+    },
+    {
+      "path": "blog/parkinson-2b4a029033f.html",
+      "bytes": 6216,
+      "sha256": "b9725481d7ebc20e7d8e670a0f9af7c7ad5fdd97fe6d2f08dd590409003c4dfe"
+    },
+    {
+      "path": "blog/parkinson-362f7dfda29.html",
+      "bytes": 5637,
+      "sha256": "6968ad49290ba64244413f9e67be501b1d18aafcb106f35e1069bece5de375eb"
+    },
+    {
+      "path": "blog/parkinson-38a7a983588.html",
+      "bytes": 6302,
+      "sha256": "f41d90c49082c461097c7a81d1538b2999253691ed3560ef863de0bdd11e036e"
+    },
+    {
+      "path": "blog/parkinson-97a2b32d43c.html",
+      "bytes": 6988,
+      "sha256": "4bcf0e66de5cb328cf16d7568de03febff204d4cc876ff6d66196f058909a577"
+    },
+    {
+      "path": "blog/parkinson-a92e4e924f9.html",
+      "bytes": 5870,
+      "sha256": "57779b776bf5e04434ab01f945f6523c566f4137a68a3f3c125de117e6f0e4bb"
+    },
+    {
+      "path": "blog/parkinson-app-a907c769-defb-4568-a4c3-90004c48a842.html",
+      "bytes": 6892,
+      "sha256": "eeadba8a7be4ed8156bd3b0a42bc3f4e2b014435dcb9afbac75d2de7c564b0c7"
+    },
+    {
+      "path": "blog/parkinson-app.html",
+      "bytes": 5454,
+      "sha256": "1312a859c273510604517add0192f2672e2f1a8e93a86dbc2febdaf306e9a3d6"
+    },
+    {
+      "path": "blog/parkinson-bd084d246b1.html",
+      "bytes": 5564,
+      "sha256": "bda3ba8270068fbd1958228b4fe26234c8b233e9b5691eb28a81afcfed339fcd"
+    },
+    {
+      "path": "blog/parkinson-drug-induced-parkinsonism-movement-disorders.html",
+      "bytes": 6196,
+      "sha256": "d1c2774885b8cacac5335b79b632512f769cb6e63a981cdb2751ab4fbd56b83d"
+    },
+    {
+      "path": "blog/parkinson-pd.html",
+      "bytes": 5836,
+      "sha256": "6d192eb8327e16a45a89366de77c8c03db9661c9566e8581a329dda0b90d7c2e"
+    },
+    {
+      "path": "blog/parkinson-qr-code.html",
+      "bytes": 6073,
+      "sha256": "d2a361406392669ccf583262648e0cda6a65ed560715be7fe72da4142dfa042f"
+    },
+    {
+      "path": "cs/index.html",
+      "bytes": 15914,
+      "sha256": "278c0521227cd88057f5b7fcf3219f9281c9a4d4ba81cf1ab52c6c776c6eeb85"
+    },
+    {
+      "path": "de/index.html",
+      "bytes": 16043,
+      "sha256": "51ab98ef135a4e6530b732af82b6731429edaa7a2797307ddb983c48496e0d6b"
+    },
+    {
+      "path": "deployment.html",
+      "bytes": 33866,
+      "sha256": "26ec12392ee99995914a6ce79b14cd36f19eee8091d5a51c5f8cdb3908544c0c"
+    },
+    {
+      "path": "docs/QUIZ_EDITORIAL_CHECK.txt",
+      "bytes": 15225,
+      "sha256": "66edbafea51d4fe1f36dc44fd2a7aded20bd72dc706a262f1d2fae88a23e5f56"
+    },
+    {
+      "path": "docs/QUIZ_REVIEW.md",
+      "bytes": 5496,
+      "sha256": "39b06ca573ae6eb7a11ea1dfcfb5c1b0fbdfafc9294b6f438d7bb939b9c9130f"
+    },
+    {
+      "path": "docs/QUIZ_SOURCE_MAP.csv",
+      "bytes": 35712,
+      "sha256": "f96d8c8c859a81e65718c5c1ad07847fb5090d003a1f329d167bb3bde65a36c7"
+    },
+    {
+      "path": "docs/SOURCE_AUDIT.md",
+      "bytes": 16749,
+      "sha256": "877cdd8bee14648284d029d8cf6ff677a2595eb477f46ea04d484f7bad3df191"
+    },
+    {
+      "path": "downloads.html",
+      "bytes": 5105,
+      "sha256": "b8ce2532ac6b721f05614ec989d67391df21fa3b81a59e8a6f23ee3067de3a59"
+    },
+    {
+      "path": "editorial.html",
+      "bytes": 16751,
+      "sha256": "ba677379f14872f43b8b9fbea599dccaf4b7a50d968ab878de9b3d3fb1f6392e"
+    },
+    {
+      "path": "en/blog/081e9814498.html",
+      "bytes": 6618,
+      "sha256": "89803b0eefa98035ddde9775ca4c2ae8b428c971005576b24b474b29ffebb0bf"
+    },
+    {
+      "path": "en/blog/0de305e00f7.html",
+      "bytes": 6953,
+      "sha256": "99476464220c8e61bf822289f6f0a59c59047011cc1bef6e1aed7bcb47e6262d"
+    },
+    {
+      "path": "en/blog/1140508.html",
+      "bytes": 7250,
+      "sha256": "04cc1af61274a1b647a6d94d4c0198ef356ab35d47fcdd192631d41ede1fa276"
+    },
+    {
+      "path": "en/blog/1140527.html",
+      "bytes": 6901,
+      "sha256": "301c5f0f8fbea1c2d5706753bdb776d9ea01df33663ef4a3f669fc18899b2d76"
+    },
+    {
+      "path": "en/blog/1140607.html",
+      "bytes": 7398,
+      "sha256": "940ad1c489125fa7ad7845119b870ec1480a218ba859e989035b76e686b34428"
+    },
+    {
+      "path": "en/blog/1140705.html",
+      "bytes": 7059,
+      "sha256": "2a98644abc176596b06eb6f7ab4dfeddaf1839883f3bc06b4414205b9da5e884"
+    },
+    {
+      "path": "en/blog/1140722.html",
+      "bytes": 7128,
+      "sha256": "fa20ec09c0b7bc9fdca0f3073b60b199c126721d912a2c1f5ad613b9cc118a7b"
+    },
+    {
+      "path": "en/blog/1140809.html",
+      "bytes": 7103,
+      "sha256": "6a16ccf71b961e867b372305b0eed87c5a5fe370b665863e1ed08e25b17fe64c"
+    },
+    {
+      "path": "en/blog/1140819.html",
+      "bytes": 7348,
+      "sha256": "14650acdc0c53a8a43e143bbd2a77d2e9f3222db7d3029e63047c48b7994917b"
+    },
+    {
+      "path": "en/blog/1140823.html",
+      "bytes": 7137,
+      "sha256": "8ae0858c5b7cb9e329c8f33bf62d623d6ec07540ac9408cfdb55e6e64de885bd"
+    },
+    {
+      "path": "en/blog/1140826.html",
+      "bytes": 7147,
+      "sha256": "0e0430fe7dbda55811fcfcae3dae81fc434c3d1e2ba6c3439ed1105624241945"
+    },
+    {
+      "path": "en/blog/1140902-diy.html",
+      "bytes": 7379,
+      "sha256": "da243ec4806759852679b4065b1adb603ced2d0f1ff2101175548e9b8fc389e9"
+    },
+    {
+      "path": "en/blog/1140920.html",
+      "bytes": 6745,
+      "sha256": "a2dd6e2c39dd1fe6213ba325f5195a1164616daee56db95f0392b9dfc77f5b16"
+    },
+    {
+      "path": "en/blog/2026.html",
+      "bytes": 6361,
+      "sha256": "01c18bc0227f19fdc96541405bdd919963565f1310eebdb2a6fb933465f72b24"
+    },
+    {
+      "path": "en/blog/20478397518.html",
+      "bytes": 5645,
+      "sha256": "81477a0c04de993e3ef9c711a0e24d1af9a367db5a439f99b9c62c6a5249a0e6"
+    },
+    {
+      "path": "en/blog/33cb605cf06.html",
+      "bytes": 9576,
+      "sha256": "11a0213e9aaeb8de4f567798d1e1c96f080a50f59d8210288ee4269241b63197"
+    },
+    {
+      "path": "en/blog/445cc624575.html",
+      "bytes": 6522,
+      "sha256": "f86ec7be71c0e0a841ac038cea36b7343202dabab8f816cd12e1f635dcbf8ac2"
+    },
+    {
+      "path": "en/blog/4f9ab696101.html",
+      "bytes": 5645,
+      "sha256": "9df3c76557a234af831434e5c51f9578867e62049cff3e69f5a3aab867af80f5"
+    },
+    {
+      "path": "en/blog/7ce89166493.html",
+      "bytes": 6465,
+      "sha256": "a8814393f37b169dcf7921b239b1b66db359ecfd1c93142983aca575c805d118"
+    },
+    {
+      "path": "en/blog/8494322ddbf.html",
+      "bytes": 7023,
+      "sha256": "a951f8d915a1f5bc5944c46a85a2b47d3c217a74d9a7c42b1ef3ea6ba6457438"
+    },
+    {
+      "path": "en/blog/a63f966cedc.html",
+      "bytes": 6673,
+      "sha256": "b7f11acf92f87bd7e7753fa367eb0e37063910edd979978d5e764b0080f1a154"
+    },
+    {
+      "path": "en/blog/activity-114-02-20-part3.html",
+      "bytes": 5998,
+      "sha256": "ff7990c4d809a6d5563d9f1655db11b24bb346b4939de30e59a616a5e462bb22"
+    },
+    {
+      "path": "en/blog/activity-1140215.html",
+      "bytes": 6271,
+      "sha256": "74d8697ae9770e8e186f8da54ca1e525febcf7f495b149466a0c0bd911a8cec6"
+    },
+    {
+      "path": "en/blog/activity-1140308.html",
+      "bytes": 5941,
+      "sha256": "42744fd84d75eccfc9c6230f19e0b6ce687d1124f1a7ff219936b40bedf0580a"
+    },
+    {
+      "path": "en/blog/activity-1140315.html",
+      "bytes": 6099,
+      "sha256": "19ccf0b061dc47a3256df789dd03d365e9f40bd9b97a50243049f9925426c699"
+    },
+    {
+      "path": "en/blog/activity-1140412.html",
+      "bytes": 6054,
+      "sha256": "a08a73f92656a0d96245c5ba5c5d8cff1c4225e0c7a434ecbe9d1913b7daecc7"
+    },
+    {
+      "path": "en/blog/activity-1140508.html",
+      "bytes": 5898,
+      "sha256": "412c59171a05456290d02085697f33e9683552c24cec02c5f183f82b801d61c0"
+    },
+    {
+      "path": "en/blog/activity-1140527.html",
+      "bytes": 6007,
+      "sha256": "990eb94abbc4d2f21166bf126885d7b167d77b59ffb12d2fa762210afded4758"
+    },
+    {
+      "path": "en/blog/activity-1140529.html",
+      "bytes": 5807,
+      "sha256": "07a25bd8e4aae23f42162c605a509029a704c67fec7da564c851c69e00048554"
+    },
+    {
+      "path": "en/blog/activity-1140607.html",
+      "bytes": 6002,
+      "sha256": "5b103af66402861aadfa055b9a41b46d55b76490552dcd8319fc40fb91ef331f"
+    },
+    {
+      "path": "en/blog/activity-1140705.html",
+      "bytes": 11788,
+      "sha256": "efa89c47b6c2e6a301150af0d7cfb3b9f4de3b676c6666a5c9a26c18415d933c"
+    },
+    {
+      "path": "en/blog/activity-466f10c3451.html",
+      "bytes": 5972,
+      "sha256": "8577c788e0bc0a1714840cdbe82fd2eda606ea97a943573a7e5201875c0ce188"
+    },
+    {
+      "path": "en/blog/activity-6.html",
+      "bytes": 5757,
+      "sha256": "43020d296edaba34c74fa1aacc6cb4ac7e599400643b3a7ec4c3f9976a09fe24"
+    },
+    {
+      "path": "en/blog/b127aee8859.html",
+      "bytes": 5645,
+      "sha256": "b3bcd242cabe90c29cbe68cc8702be742fba5560ee606a00364eb1f91a0ff2f7"
+    },
+    {
+      "path": "en/blog/dc2c10fc11a.html",
+      "bytes": 6416,
+      "sha256": "66c29c6595d5fd37799a7f61af679c0d05112dc5ebcad715f2b0d0a0c5d22a6f"
+    },
+    {
+      "path": "en/blog/index.html",
+      "bytes": 31677,
+      "sha256": "1279150e3253fc2ccb9385457cf64aeae2f6c87d21fb78627b3da18f4524b80f"
+    },
+    {
+      "path": "en/blog/parkinson-0fa1925b25d.html",
+      "bytes": 6371,
+      "sha256": "9b3d38b893395609955aff00837238f286f0e6f6134a0471afc4478fc2b545ff"
+    },
+    {
+      "path": "en/blog/parkinson-2024-2025.html",
+      "bytes": 6000,
+      "sha256": "dc1c171183537bda1de82bba54ffe3a4d61a28d8222d5f1864ce80d608ccd95d"
+    },
+    {
+      "path": "en/blog/parkinson-2b4a029033f.html",
+      "bytes": 6727,
+      "sha256": "1b7988bcdedf6ea51ed953d1143c069d892317a1ac3c54d5c72261fc24ca6c0c"
+    },
+    {
+      "path": "en/blog/parkinson-362f7dfda29.html",
+      "bytes": 6081,
+      "sha256": "77615eda6f9b863319ccc18fdb26369a41c699bee6d9fb0509d416510d345394"
+    },
+    {
+      "path": "en/blog/parkinson-38a7a983588.html",
+      "bytes": 6736,
+      "sha256": "4218c515f912d741bb586dc96ece664645fe5c6c1bac0c31621f38ec24c4b232"
+    },
+    {
+      "path": "en/blog/parkinson-97a2b32d43c.html",
+      "bytes": 7735,
+      "sha256": "59c58ee7dcb49a17d96661dfc2537a9e465b82c01a87cf973f24b42ebab34cd5"
+    },
+    {
+      "path": "en/blog/parkinson-a92e4e924f9.html",
+      "bytes": 6219,
+      "sha256": "cc67db87cf00e321f46bcf605af3ab524d4dfd0cc5f647f45f2ed9b870ed5a0a"
+    },
+    {
+      "path": "en/blog/parkinson-app-a907c769-defb-4568-a4c3-90004c48a842.html",
+      "bytes": 7440,
+      "sha256": "44f0e69b905cebe74837b2b53127ca6ec87253350939a4622c77db3ba6df60ca"
+    },
+    {
+      "path": "en/blog/parkinson-app.html",
+      "bytes": 5759,
+      "sha256": "a6cc9bd6193a8c802873c5a33d30f7fa922ef6986ba9c7522c8cbf63ef634dfc"
+    },
+    {
+      "path": "en/blog/parkinson-bd084d246b1.html",
+      "bytes": 6060,
+      "sha256": "b7406eb05a51ae3286aa0797cfe0c35a0a5590f358c81d50e55e611c61f574c4"
+    },
+    {
+      "path": "en/blog/parkinson-drug-induced-parkinsonism-movement-disorders.html",
+      "bytes": 6475,
+      "sha256": "750d3c349bb24504721a4c90c04aae768c822c26ad3db5b561aed8a4941983cb"
+    },
+    {
+      "path": "en/blog/parkinson-pd.html",
+      "bytes": 6201,
+      "sha256": "609a9c99779ed4d0def5503e42e59507321f76d155081a8db851955ff8744b7f"
+    },
+    {
+      "path": "en/blog/parkinson-qr-code.html",
+      "bytes": 6431,
+      "sha256": "fa556d07d8ca3d7ad9211de1a6d0accfb40096ba5f58837c484092030a02e570"
+    },
+    {
+      "path": "en/downloads.html",
+      "bytes": 5359,
+      "sha256": "345b4a03865fae70051ac607f867d52e9166705eb3cbbfed1e07a6aebe702d94"
+    },
+    {
+      "path": "en/index.html",
+      "bytes": 15829,
+      "sha256": "526f5b20df8b658af87b35446127356ba7dc91fb15cd847f70d411d04b8e5aa6"
+    },
+    {
+      "path": "en/parkinson.html",
+      "bytes": 168203,
+      "sha256": "7d13db98d3dd4a30fe7171b9839336f67946b1aa9232cc98d94d228f935e64ca"
+    },
+    {
+      "path": "en/question-bank.html",
+      "bytes": 92181,
+      "sha256": "d3827d016b818195ef2f853674631c6fa069393330bacf03dc9be1ac75c32c4c"
+    },
+    {
+      "path": "en/resources.html",
+      "bytes": 34497,
+      "sha256": "662f1514cfaf554864fbe8a2bf950533b9b3e8d623381c3f52fea3027e0564e0"
+    },
+    {
+      "path": "en/播放說明.html",
+      "bytes": 7788,
+      "sha256": "aff84ad86be96718175064491bcfdb676d24b9f59f209292fe827b8c30bb40d9"
+    },
+    {
+      "path": "en/社團法人高雄市聰動成長協會.html",
+      "bytes": 185379,
+      "sha256": "d28511799b8d921f42cd4aa8498a5d31291ace561f8dec1e4a87719f55e5df29"
+    },
+    {
+      "path": "es/blog/081e9814498.html",
+      "bytes": 6985,
+      "sha256": "4ca002d008a6397bb9feec0c52a0c37d2a2e7787e255e02b90ae4515a31e638e"
+    },
+    {
+      "path": "es/blog/0de305e00f7.html",
+      "bytes": 7362,
+      "sha256": "7de1b881ddb536a5e70e9612025430950f0c92bcd32762aebab37f5ad7092820"
+    },
+    {
+      "path": "es/blog/1140508.html",
+      "bytes": 7599,
+      "sha256": "3e58d4f348f728a155479d0c8f3712d7704eba11169d65e5c927e73824eea6b5"
+    },
+    {
+      "path": "es/blog/1140527.html",
+      "bytes": 7326,
+      "sha256": "808cb0af67fbf950743a501bf5c659adce4d308b4b8335353b73b8733630b088"
+    },
+    {
+      "path": "es/blog/1140607.html",
+      "bytes": 7787,
+      "sha256": "445420169c9c29cf5b22bb8ada2f8f2e6d680dd1eacbd2f8968c0f67624b785a"
+    },
+    {
+      "path": "es/blog/1140705.html",
+      "bytes": 7297,
+      "sha256": "b2e8eafda739157c77da17ea868dbc2731a89258e92de58853e776f029e21ade"
+    },
+    {
+      "path": "es/blog/1140722.html",
+      "bytes": 7570,
+      "sha256": "8fec24ab62a89019a6cc64ed1d0421b3ed3b703b83a9d0e418610229a91d622e"
+    },
+    {
+      "path": "es/blog/1140809.html",
+      "bytes": 7321,
+      "sha256": "cce2a7e3822add2cb6962e155fbbf4d8370c7f447ab3e415c4c9dfdf59127e35"
+    },
+    {
+      "path": "es/blog/1140819.html",
+      "bytes": 7880,
+      "sha256": "69f4841f46d4ef41343bdc035a501ea0ebeddcb718bd8574cc3b668ded0b20ab"
+    },
+    {
+      "path": "es/blog/1140823.html",
+      "bytes": 7461,
+      "sha256": "8a91bc49c9ad6f419938273276d2f5e5b36937ea3460440632f07910be822705"
+    },
+    {
+      "path": "es/blog/1140826.html",
+      "bytes": 7564,
+      "sha256": "b4b0be9cdb5e40f46a031630725f5c87608a5ccd0b9e7fd75b05b327abca60be"
+    },
+    {
+      "path": "es/blog/1140902-diy.html",
+      "bytes": 7768,
+      "sha256": "bf4597c20cbacf4b9b9cc73f737558859d95ced03ee91b6c40f2c8d5fadc5b2e"
+    },
+    {
+      "path": "es/blog/1140920.html",
+      "bytes": 7101,
+      "sha256": "37e3a1cefd52b3d015762c71b0818d3ab5e2c657e6574575377993ea9d9d199c"
+    },
+    {
+      "path": "es/blog/2026.html",
+      "bytes": 6667,
+      "sha256": "c2448f6a16a05800a05c573ded76c875ff1917280b2115d7fb0dae6eb282ec50"
+    },
+    {
+      "path": "es/blog/20478397518.html",
+      "bytes": 5775,
+      "sha256": "0b6a2826b1196cb6a834185c5777e1da9fceae7889ea36d483bb495d2b27cc2e"
+    },
+    {
+      "path": "es/blog/33cb605cf06.html",
+      "bytes": 9908,
+      "sha256": "809266f7ff82ef911f9a51086f1f6de5ec3ba04975980f79310ef742f61dfc97"
+    },
+    {
+      "path": "es/blog/445cc624575.html",
+      "bytes": 6610,
+      "sha256": "2a371f3607372ce8888f391a59f419dac434071f0d86b75f998ae54770df8ebc"
+    },
+    {
+      "path": "es/blog/4f9ab696101.html",
+      "bytes": 5775,
+      "sha256": "654d2b27f8a4932a537861b1d2bdc8b72763440f4d67e1cbe2859fdac8122da5"
+    },
+    {
+      "path": "es/blog/7ce89166493.html",
+      "bytes": 6469,
+      "sha256": "5f74c92cec162bfc4f2c5178f70a66b2870d138dfa2bdf77c6a24b1541a2a70d"
+    },
+    {
+      "path": "es/blog/8494322ddbf.html",
+      "bytes": 7192,
+      "sha256": "00ca6353fd41a9fc47a301525cf2065e0e1baee7c0073efaa060daf74dd56f34"
+    },
+    {
+      "path": "es/blog/a63f966cedc.html",
+      "bytes": 6646,
+      "sha256": "5dae009e044f2a9dc51f185bfca623f7c24a2c0d6aff8d0b4a2dd31f3af89dfa"
+    },
+    {
+      "path": "es/blog/activity-114-02-20-part3.html",
+      "bytes": 6028,
+      "sha256": "7d93eecb40fcedff182146762ebaf4d852ec88aa6978851e5762e6bf962c2969"
+    },
+    {
+      "path": "es/blog/activity-1140215.html",
+      "bytes": 6252,
+      "sha256": "9120355d4ceb96357c6a662ef9399184376c5f2e48edf274cc11734c198d6e6a"
+    },
+    {
+      "path": "es/blog/activity-1140308.html",
+      "bytes": 5995,
+      "sha256": "97e6458a6c25bbdf97e39a5062c35c003bf573e9b16b87ddc9f9f339ccc287c5"
+    },
+    {
+      "path": "es/blog/activity-1140315.html",
+      "bytes": 6078,
+      "sha256": "da317de9ce3a3f6a8c915a90538650e8cebdddd35eaff8909eca097641c9ba78"
+    },
+    {
+      "path": "es/blog/activity-1140412.html",
+      "bytes": 6100,
+      "sha256": "25fe7da5b2beb6cddcd1441aa5f7f5c110bbab3c1c04f8f61f7764fe8890b69f"
+    },
+    {
+      "path": "es/blog/activity-1140508.html",
+      "bytes": 5936,
+      "sha256": "037b10e156e2c9a79fb20beda5f11baa3218388fb0e642a3f539b1b5820f904d"
+    },
+    {
+      "path": "es/blog/activity-1140527.html",
+      "bytes": 6042,
+      "sha256": "123a79285cd18d975211fd976a917f54061cd874d777dc6d00fd758c57fa7e7a"
+    },
+    {
+      "path": "es/blog/activity-1140529.html",
+      "bytes": 5845,
+      "sha256": "1b802c45cf1c63e4f62b911c096bbd1e5c851a9278e0d278aebb7261b16817a8"
+    },
+    {
+      "path": "es/blog/activity-1140607.html",
+      "bytes": 5993,
+      "sha256": "d62dae97982053f8a6cf1f9d6386e99c83beba838909931062bb8278d6a3fb14"
+    },
+    {
+      "path": "es/blog/activity-1140705.html",
+      "bytes": 12356,
+      "sha256": "19f2278f1019e9a83c1eb0dead7621f3c386a41c72bcb48e8d3cf5f7671c4bf6"
+    },
+    {
+      "path": "es/blog/activity-466f10c3451.html",
+      "bytes": 5961,
+      "sha256": "900d4e3dd7993f2c07dc2a3d327064763e3e1f0a041fa4e5b3c698ef60d06d43"
+    },
+    {
+      "path": "es/blog/activity-6.html",
+      "bytes": 5834,
+      "sha256": "830305db9c988fa4835179832120a0f449910acb1871b8d8fc2865789d5d7be1"
+    },
+    {
+      "path": "es/blog/b127aee8859.html",
+      "bytes": 5775,
+      "sha256": "18a9888d8dbb9565ea02a9b280565f3b9ebbbba9e451567d9b9d6c7df132ceaf"
+    },
+    {
+      "path": "es/blog/dc2c10fc11a.html",
+      "bytes": 6447,
+      "sha256": "5868e226ec726a7fe2ae1f2536a5cb04625b09794f9b16a504d2645198fe5f23"
+    },
+    {
+      "path": "es/blog/index.html",
+      "bytes": 32436,
+      "sha256": "44ab95aefc2ff460e22afe657997afe65de237e79b6044a44e989b5a97d70c2b"
+    },
+    {
+      "path": "es/blog/parkinson-0fa1925b25d.html",
+      "bytes": 6440,
+      "sha256": "0949c8fbe7a8cd27c55cef718aa507de2922d7b01bd9761440e5c8986635a815"
+    },
+    {
+      "path": "es/blog/parkinson-2024-2025.html",
+      "bytes": 6041,
+      "sha256": "27307aecfacc06afe1cd08b941bc16419a1243016beb955edf99cb2b86e47dd1"
+    },
+    {
+      "path": "es/blog/parkinson-2b4a029033f.html",
+      "bytes": 6922,
+      "sha256": "5320c5656f4105b647a8f22ca40cd179bfd90f67876f3995f02e9394256ecc10"
+    },
+    {
+      "path": "es/blog/parkinson-362f7dfda29.html",
+      "bytes": 6157,
+      "sha256": "161047837b502a31b2f3ec092893b5490e4cb4d0691af60c722b7b6d8eeefba8"
+    },
+    {
+      "path": "es/blog/parkinson-38a7a983588.html",
+      "bytes": 6913,
+      "sha256": "df97a29a59a31f99cff1152cb335b1f67e1aece7d228961d3245e4f0f6b3cd73"
+    },
+    {
+      "path": "es/blog/parkinson-97a2b32d43c.html",
+      "bytes": 7843,
+      "sha256": "c1983650e3984e6833e578f2daa957bfe48cf39fef6a3fdb07ed916f09443f3b"
+    },
+    {
+      "path": "es/blog/parkinson-a92e4e924f9.html",
+      "bytes": 6182,
+      "sha256": "a25bafd287af6f568ed53118a976fdf30bc0c1f8a831e39e853bd0e9ef7b2d3e"
+    },
+    {
+      "path": "es/blog/parkinson-app-a907c769-defb-4568-a4c3-90004c48a842.html",
+      "bytes": 7559,
+      "sha256": "b27259e2af1683ceb202ead6b729e7d6929203a957ebd9acbb9932c2e225a08a"
+    },
+    {
+      "path": "es/blog/parkinson-app.html",
+      "bytes": 5877,
+      "sha256": "bc2e12a68cd4428ac6c2c3f1c67e11f5c53928f90736cb65966a0c2cbca5ddb1"
+    },
+    {
+      "path": "es/blog/parkinson-bd084d246b1.html",
+      "bytes": 6072,
+      "sha256": "9eb1ffde97c5367cf5dcd59d3dfb139d2f32e37d505f203c9d05e08ee6c6be6f"
+    },
+    {
+      "path": "es/blog/parkinson-drug-induced-parkinsonism-movement-disorders.html",
+      "bytes": 6565,
+      "sha256": "bc4d121c416ec17b4c24f9e33e2cead1932764ae4cc14481038f6194b7c574a4"
+    },
+    {
+      "path": "es/blog/parkinson-pd.html",
+      "bytes": 6362,
+      "sha256": "0e39ddee1be04ef25c23f090c49b7b9bec385a1de99f9783300aea156ac870c1"
+    },
+    {
+      "path": "es/blog/parkinson-qr-code.html",
+      "bytes": 6493,
+      "sha256": "6bfdd2ebba05f31a15f5793aead36875de2d809d56741c651c6d2e54c9389f9b"
+    },
+    {
+      "path": "es/downloads.html",
+      "bytes": 5405,
+      "sha256": "46516d91642e10828a0af4e6a9126e3e0ae2df83caa1b1bdc960c205bfbf73f4"
+    },
+    {
+      "path": "es/index.html",
+      "bytes": 15936,
+      "sha256": "2e435ce90fdcd9d07e37c2c3db69cdd5b5aba1612bfe0ee4466527f552c2f249"
+    },
+    {
+      "path": "es/parkinson.html",
+      "bytes": 169439,
+      "sha256": "e2d2078e7187dd03428d0a9e84f6807de54e8e99cd4aebdf11238a9aedf8815b"
+    },
+    {
+      "path": "es/resources.html",
+      "bytes": 35533,
+      "sha256": "684fe0adedbf4281d40d533558dc2f283fd3f1474971be10adfb719ad3779882"
+    },
+    {
+      "path": "es/播放說明.html",
+      "bytes": 8217,
+      "sha256": "a3a7d2bd8ea69ce9b0702f0fc999d02f8ca837c3afa59a5da47abdcb83f47cd9"
+    },
+    {
+      "path": "es/社團法人高雄市聰動成長協會.html",
+      "bytes": 187340,
+      "sha256": "78c3235ad1d68f762af4d7fad4e83afeb3fd79eada4c5d08f86f4cdac0c3f8b7"
+    },
+    {
+      "path": "fi/index.html",
+      "bytes": 15919,
+      "sha256": "ad57948975fc207da55246991638a45b8c402caaa8cd88f235c547fd050c9c96"
+    },
+    {
+      "path": "fil/index.html",
+      "bytes": 16129,
+      "sha256": "1421e2a393366a957d1d2d0ad9812b3d5d2109c64f8003d27166becaee4d3114"
+    },
+    {
+      "path": "fr/blog/081e9814498.html",
+      "bytes": 6985,
+      "sha256": "6edabce5b23d03c27282d8b9121f1a43932f119f2a4f45c8714187d837ad3b45"
+    },
+    {
+      "path": "fr/blog/0de305e00f7.html",
+      "bytes": 7335,
+      "sha256": "5848c309eda8d75cd288c92bfb6f4a5e25c8a703ebef34f18257bf1be1ceaa8b"
+    },
+    {
+      "path": "fr/blog/1140508.html",
+      "bytes": 7708,
+      "sha256": "a3e3d2c780c59c3b8b47981d89d22f46a6413e0fd8c6115f687b290d4cbaecb3"
+    },
+    {
+      "path": "fr/blog/1140527.html",
+      "bytes": 7417,
+      "sha256": "32aef542588e27b27a8645aeb26a65d610f96f3e588da51a35a005b144d3bccf"
+    },
+    {
+      "path": "fr/blog/1140607.html",
+      "bytes": 7828,
+      "sha256": "b9c38753782befd43015e58337814d9582c2cdb43faccde16a572be53d2707ce"
+    },
+    {
+      "path": "fr/blog/1140705.html",
+      "bytes": 7507,
+      "sha256": "512c62a80c806973b9207a77bf1037ef8eb33195eef9987599ddafc97fcbcaf5"
+    },
+    {
+      "path": "fr/blog/1140722.html",
+      "bytes": 7715,
+      "sha256": "cacc0f07112af63c1b8009ce56a1113b1144e55a56b4c321376d4be76142a779"
+    },
+    {
+      "path": "fr/blog/1140809.html",
+      "bytes": 7498,
+      "sha256": "949472e1e5e2e75aab9b3a30b415348da9aa98eaf069c90a3ab8e2a8161c00c6"
+    },
+    {
+      "path": "fr/blog/1140819.html",
+      "bytes": 7914,
+      "sha256": "9c5067198a1fd031234859192509d5575038391c3b17bb80b3610a94ce64b866"
+    },
+    {
+      "path": "fr/blog/1140823.html",
+      "bytes": 7512,
+      "sha256": "d06ec3670b240d7a347157a52f36a3d22324aebb75d4db32b9694656076227ff"
+    },
+    {
+      "path": "fr/blog/1140826.html",
+      "bytes": 7607,
+      "sha256": "8acff4b8ddefd23370510579b444cf644145b219c7439f63b670dfb0c09b8d6a"
+    },
+    {
+      "path": "fr/blog/1140902-diy.html",
+      "bytes": 7871,
+      "sha256": "9a1ee7791353df892c39c2a5398441a1d03d2450293ca5eb035cf4336148fb55"
+    },
+    {
+      "path": "fr/blog/1140920.html",
+      "bytes": 7208,
+      "sha256": "a44abf3b3f537453728267c04dc00a7cf672b5a74a413f6ebe98e88e1331dea6"
+    },
+    {
+      "path": "fr/blog/2026.html",
+      "bytes": 6642,
+      "sha256": "74c376048b43473410acad4930c4e03f421bb2589fe4ff92acebe0dd4002c9f6"
+    },
+    {
+      "path": "fr/blog/20478397518.html",
+      "bytes": 5795,
+      "sha256": "0761c65c558a82bd6dc64f972e5df8a065d424579308bb0e39b1c84d1ab98d95"
+    },
+    {
+      "path": "fr/blog/33cb605cf06.html",
+      "bytes": 10132,
+      "sha256": "dfb5b632b0f45821b9f216bfef6337aa6aa96e19116db0cf4aa8fae38d77f47b"
+    },
+    {
+      "path": "fr/blog/445cc624575.html",
+      "bytes": 6779,
+      "sha256": "d2749955fc518cd0b99b6dd9c7ab830e09fbe471a4e1af9b91bf5a69a8800b5a"
+    },
+    {
+      "path": "fr/blog/4f9ab696101.html",
+      "bytes": 5795,
+      "sha256": "407330f79ef0bb4fcdbbe650da08cb21de86cf6a8e34a3b424bc0538c48725b6"
+    },
+    {
+      "path": "fr/blog/7ce89166493.html",
+      "bytes": 6709,
+      "sha256": "2d009886fdecc776b99599c9c0c07144acd11ef6b66facac94c418cd53b0a36d"
+    },
+    {
+      "path": "fr/blog/8494322ddbf.html",
+      "bytes": 7452,
+      "sha256": "e36807b6cdec45ae4cc907e85bf30fbff638cefdc2af5b3112ea68df6afe9177"
+    },
+    {
+      "path": "fr/blog/a63f966cedc.html",
+      "bytes": 6942,
+      "sha256": "420eb2d70288414e224f6dfdfe026bcedf5154e9072e2fdf63d1035c6f7b3390"
+    },
+    {
+      "path": "fr/blog/activity-114-02-20-part3.html",
+      "bytes": 6138,
+      "sha256": "21343393239dc00bffd8515b8d18a7eab20bc20650e9213597aa8becca763639"
+    },
+    {
+      "path": "fr/blog/activity-1140215.html",
+      "bytes": 6454,
+      "sha256": "abbd49d8821ad51b9430ed6a117d862abfe39a028f95363b8d49ebde3f0653f9"
+    },
+    {
+      "path": "fr/blog/activity-1140308.html",
+      "bytes": 6084,
+      "sha256": "b35c2f03feab301b46a8a334c8fc835e93d883d8214420cf99ace65e299e6a39"
+    },
+    {
+      "path": "fr/blog/activity-1140315.html",
+      "bytes": 6253,
+      "sha256": "2da6ee357ca192d0519bc27616b650019ea84f14b97f7bd67eec4dc756a71338"
+    },
+    {
+      "path": "fr/blog/activity-1140412.html",
+      "bytes": 6220,
+      "sha256": "1ab46a5def0c0f68f4eecd568472b27cf177fb9a19e25c8716750ebb1d2bc110"
+    },
+    {
+      "path": "fr/blog/activity-1140508.html",
+      "bytes": 6073,
+      "sha256": "838566edcf36620584fad959730704d728cb8ffb36347a5f0fbbcf6128d872f7"
+    },
+    {
+      "path": "fr/blog/activity-1140527.html",
+      "bytes": 6252,
+      "sha256": "3061a062d39ef58c202091448fbeac5a1afae427062b9bfbf9c21a15f7edc67b"
+    },
+    {
+      "path": "fr/blog/activity-1140529.html",
+      "bytes": 5959,
+      "sha256": "df6a3cc3c02538b02525579dd287457e61e1a16c3ee9b6c1606a4f1b8c7203fb"
+    },
+    {
+      "path": "fr/blog/activity-1140607.html",
+      "bytes": 6194,
+      "sha256": "55554d48e7b7f38262f1b2b1a5ab78430a76ae601e36f0dbfd784f2e932725e2"
+    },
+    {
+      "path": "fr/blog/activity-1140705.html",
+      "bytes": 12791,
+      "sha256": "3ad15bdfc467e12b7aca33614e4384adab51b548a3ba01a780d84f3f151a640d"
+    },
+    {
+      "path": "fr/blog/activity-466f10c3451.html",
+      "bytes": 6157,
+      "sha256": "ee4c66bc6b0e64422c1ec6da466c3078bfdf9ceb4f65c13dfff107838ccb059b"
+    },
+    {
+      "path": "fr/blog/activity-6.html",
+      "bytes": 5930,
+      "sha256": "df11a02b66403cce72a0b7e44fe19e5e88a79606c97e12a7c0cb134c566be1cd"
+    },
+    {
+      "path": "fr/blog/b127aee8859.html",
+      "bytes": 5795,
+      "sha256": "9d3d19f8ba1817b6c1758cfc5ac8ce4e17f0b4cebc01f78d52c7bfa970480e65"
+    },
+    {
+      "path": "fr/blog/dc2c10fc11a.html",
+      "bytes": 6555,
+      "sha256": "299387b8bff9eecc120e10771e837d697edba4465db71d5ec9b338b85a014331"
+    },
+    {
+      "path": "fr/blog/index.html",
+      "bytes": 33092,
+      "sha256": "95b34167aad54ac305dff010e9591ab7acd195a0dbc7b5fb83f30da47717b9ad"
+    },
+    {
+      "path": "fr/blog/parkinson-0fa1925b25d.html",
+      "bytes": 6671,
+      "sha256": "c9da0c490405b9c5c2772ae10084c5a94d12e93180de06e70c12832210ce6ee2"
+    },
+    {
+      "path": "fr/blog/parkinson-2024-2025.html",
+      "bytes": 6145,
+      "sha256": "247583955a6812083020ae980b5159d80a6aea7fa29571b905448461639b472d"
+    },
+    {
+      "path": "fr/blog/parkinson-2b4a029033f.html",
+      "bytes": 7058,
+      "sha256": "7e27aa3a37a97594c0e62f14bba2e311e04240b6e656d5116bee31d71372e7c0"
+    },
+    {
+      "path": "fr/blog/parkinson-362f7dfda29.html",
+      "bytes": 6270,
+      "sha256": "6c92d00be37a6f0d4ebcfdea374041328eb50e613ef93ae11e6d4c430f1e4117"
+    },
+    {
+      "path": "fr/blog/parkinson-38a7a983588.html",
+      "bytes": 7076,
+      "sha256": "7bc2541e913d85ce1571b1324bd0668e8abe7a817d5d0639a7f577c772cef6c4"
+    },
+    {
+      "path": "fr/blog/parkinson-97a2b32d43c.html",
+      "bytes": 8367,
+      "sha256": "47b3488dca02cfe14db6de30d8706411dcea8a3f34404bdf754ddbe8613f199e"
+    },
+    {
+      "path": "fr/blog/parkinson-a92e4e924f9.html",
+      "bytes": 6420,
+      "sha256": "ffa3d3ea70a379997b1ff2280782e7dedc8f25c716b466a47164d9f95614bca7"
+    },
+    {
+      "path": "fr/blog/parkinson-app-a907c769-defb-4568-a4c3-90004c48a842.html",
+      "bytes": 7811,
+      "sha256": "5e405231452ddea6276b60f6c75720034b2dcda5d996909753c5ab2ccd84e587"
+    },
+    {
+      "path": "fr/blog/parkinson-app.html",
+      "bytes": 5898,
+      "sha256": "13266109bbc7eb78e9d7b124de3053f33d7c6988753d1ea6be46328d23f5b25d"
+    },
+    {
+      "path": "fr/blog/parkinson-bd084d246b1.html",
+      "bytes": 6267,
+      "sha256": "4de64b8b0dcaf87d23937276cbb26a0b6e583e9aa4f7c4fb6eff54b39d04aeb7"
+    },
+    {
+      "path": "fr/blog/parkinson-drug-induced-parkinsonism-movement-disorders.html",
+      "bytes": 6629,
+      "sha256": "fb131e58cf229f310c3beeee7d31d0317200e132c1b2027187dd3d739507af73"
+    },
+    {
+      "path": "fr/blog/parkinson-pd.html",
+      "bytes": 6489,
+      "sha256": "be8f5072848a2e52572fabef72084e07534d39687b98b8e9cdc6a680aea87b44"
+    },
+    {
+      "path": "fr/blog/parkinson-qr-code.html",
+      "bytes": 6640,
+      "sha256": "d13a205f662eba614755a0b1495debb2cf82a96e078dcc320bebf76d7f0a75e8"
+    },
+    {
+      "path": "fr/downloads.html",
+      "bytes": 5453,
+      "sha256": "5df4e0bb0f32f84e94162fbbe0ee4f0a6c756aa1de153817aa36277ebeecb594"
+    },
+    {
+      "path": "fr/index.html",
+      "bytes": 16158,
+      "sha256": "8693051dbacf73dda2f91e21cb81be122cd3da77253d504f9a2b057b8d128be2"
+    },
+    {
+      "path": "fr/parkinson.html",
+      "bytes": 169691,
+      "sha256": "2ba4bd5b582d10fa4b6ad0981ca380131db626be759f902faa0950cf39608814"
+    },
+    {
+      "path": "fr/resources.html",
+      "bytes": 35539,
+      "sha256": "eb3302845b7a32728503ab698eebd22d82e8e80d361123bc420d848bdec05fa7"
+    },
+    {
+      "path": "fr/播放說明.html",
+      "bytes": 8257,
+      "sha256": "955de7923ae3924ce290d4b9db18e5778e6aad2822c11421dc12a9ba4b8f87af"
+    },
+    {
+      "path": "fr/社團法人高雄市聰動成長協會.html",
+      "bytes": 189785,
+      "sha256": "4385dc49b81d9cec16ee5bbcaf17e4b0210ce1671c8c8807b2e76388e6d3423a"
+    },
+    {
+      "path": "hi/index.html",
+      "bytes": 18638,
+      "sha256": "5320c538a735a8b95a86a008edff41b15a30dc54ff05e177508ff41ea89be1f9"
+    },
+    {
+      "path": "id/index.html",
+      "bytes": 15820,
+      "sha256": "a1692886b204c32d84f4c3c95ba80e96f1cc87345b9cd8fc75d0011a9e4c15dd"
+    },
+    {
+      "path": "index.html",
+      "bytes": 15522,
+      "sha256": "23ef92ea90c278ac34ce8633ec78f594edb56bd232668aacbb81a804b516d63f"
+    },
+    {
+      "path": "it/index.html",
+      "bytes": 15842,
+      "sha256": "90551be1670cc174526d9194fb6d3658ce297dcb9c4e0583aca398eb918daf65"
+    },
+    {
+      "path": "ja/blog/081e9814498.html",
+      "bytes": 6606,
+      "sha256": "fbb9120ee69ad707c1d5f21fdd58e46f8394069f9f5f975a0bb881f9fa8a8a9b"
+    },
+    {
+      "path": "ja/blog/0de305e00f7.html",
+      "bytes": 6940,
+      "sha256": "13f26fc2ebff13bd5df03add4d5fb2c448cc83e578972cc3d6dc993e353e13a1"
+    },
+    {
+      "path": "ja/blog/1140508.html",
+      "bytes": 6997,
+      "sha256": "964f532f3a50689739bb909195e3e314254fa3154acffed3186e07c0fdd25304"
+    },
+    {
+      "path": "ja/blog/1140527.html",
+      "bytes": 6927,
+      "sha256": "83cc16cacd581d1928c3e56b7cb662975960e8c9b84f59397f3c83fce9898208"
+    },
+    {
+      "path": "ja/blog/1140607.html",
+      "bytes": 7296,
+      "sha256": "acded03f5a049b62385a2eb0616ae3aaf6e6a4737dc21b3c25481ca61bb7c9f0"
+    },
+    {
+      "path": "ja/blog/1140705.html",
+      "bytes": 7065,
+      "sha256": "5e3387194d697b61b467688f128d7e134f2177eb8f049d4383ac3930a1940fa9"
+    },
+    {
+      "path": "ja/blog/1140722.html",
+      "bytes": 7029,
+      "sha256": "853c217a0da9f6b10ef0f0f6fd4f8bda9641eff90947e104df662d5252ca86e0"
+    },
+    {
+      "path": "ja/blog/1140809.html",
+      "bytes": 6815,
+      "sha256": "7968b2173c64e12aff6312b4443ae6235b5cef2c4ec8015300fca9f0cea3e70a"
+    },
+    {
+      "path": "ja/blog/1140819.html",
+      "bytes": 7116,
+      "sha256": "c0e1dd15c2304d958d4cbb45030af30af787fa079216db94eb60ccd884bf962b"
+    },
+    {
+      "path": "ja/blog/1140823.html",
+      "bytes": 6846,
+      "sha256": "487ee58aa524b905a5a72259ab994ce1dd654815ad5e6538816c900400413c3d"
+    },
+    {
+      "path": "ja/blog/1140826.html",
+      "bytes": 7008,
+      "sha256": "9f006b82537c1a7d6460d3816eb392083887efaa02452fae9f3f9513e87ea52d"
+    },
+    {
+      "path": "ja/blog/1140902-diy.html",
+      "bytes": 7049,
+      "sha256": "0c14d220b754111237d9a2e0119f7c2a267bc09961b0e5cf14d8ac12f45ff2e3"
+    },
+    {
+      "path": "ja/blog/1140920.html",
+      "bytes": 6737,
+      "sha256": "482133258e984370fdf8a7d8f84e6e02910b2cbafc55b33e2af590ef05e55270"
+    },
+    {
+      "path": "ja/blog/2026.html",
+      "bytes": 6206,
+      "sha256": "b50edd250cfdb78bece2c7e95e2393b596a93626feb206478cce9777596681d8"
+    },
+    {
+      "path": "ja/blog/20478397518.html",
+      "bytes": 5583,
+      "sha256": "89e1578b2bf635add69b19d0ed0e9207e34aab880f8ff136e73b7b600a862eb4"
+    },
+    {
+      "path": "ja/blog/33cb605cf06.html",
+      "bytes": 9684,
+      "sha256": "bdc592d970d4444b954ffd115c70c2aee881841e98470996d2266b22b8a560b0"
+    },
+    {
+      "path": "ja/blog/445cc624575.html",
+      "bytes": 6546,
+      "sha256": "aa19531a3c153d4a55a76b8fa156549d84ce835c1aa65a7a31fb09759689763c"
+    },
+    {
+      "path": "ja/blog/4f9ab696101.html",
+      "bytes": 5583,
+      "sha256": "dab692b8ac9d19c5374b5e5e1c5278f9f95cba0ad57b11146c7f74cb25351787"
+    },
+    {
+      "path": "ja/blog/7ce89166493.html",
+      "bytes": 6472,
+      "sha256": "697396541e03ee5b7c604da00cd1220b5fad66e3c7ba0babf0f6f8d87ab0bf3a"
+    },
+    {
+      "path": "ja/blog/8494322ddbf.html",
+      "bytes": 6858,
+      "sha256": "bc16f9542cd8f1b35f5979623ddd18cf01c3cda23fbc5234757b1d028627b597"
+    },
+    {
+      "path": "ja/blog/a63f966cedc.html",
+      "bytes": 6635,
+      "sha256": "e3cdfdb272287b58d1ba58b8f7ae0c55532f93323beacb2d486b3d385b6cf557"
+    },
+    {
+      "path": "ja/blog/activity-114-02-20-part3.html",
+      "bytes": 5918,
+      "sha256": "1cdacf4956db1afabc728cfb8838dc4cf74171afa7db8dca8daf532432597edc"
+    },
+    {
+      "path": "ja/blog/activity-1140215.html",
+      "bytes": 6247,
+      "sha256": "258e739f6bb14785f017d605062508ab300e6c675f37281e57da342390a76932"
+    },
+    {
+      "path": "ja/blog/activity-1140308.html",
+      "bytes": 5893,
+      "sha256": "30eebe0c3c6e5f3cecccb0caf0a9ecad2b1030e60eac00d89710598aa5eb2236"
+    },
+    {
+      "path": "ja/blog/activity-1140315.html",
+      "bytes": 6064,
+      "sha256": "6f200692e3612fc2e543135e7065f319289e62dafecf8a3c3cd0830f9a1d6b34"
+    },
+    {
+      "path": "ja/blog/activity-1140412.html",
+      "bytes": 6052,
+      "sha256": "edf9d8b7d1c9cb6b2069ce4c340019b28d0ad9f162c48f952500cab16c31d597"
+    },
+    {
+      "path": "ja/blog/activity-1140508.html",
+      "bytes": 5860,
+      "sha256": "75c892442e62cce32a28e77f0cfb1ccc46c5d05ee209052d07a7407ce3bb5f5a"
+    },
+    {
+      "path": "ja/blog/activity-1140527.html",
+      "bytes": 5944,
+      "sha256": "09f3c7f9b72795a7ea73e9a352bfc50d064cad4a8278f2c75f12f298a8a4c854"
+    },
+    {
+      "path": "ja/blog/activity-1140529.html",
+      "bytes": 5716,
+      "sha256": "c57ad66f1491929c5be4ab71d19b383434e37f9e53d028b2842e54b4c7c2a72f"
+    },
+    {
+      "path": "ja/blog/activity-1140607.html",
+      "bytes": 5980,
+      "sha256": "8f74211d708011ff8fa890ef2f100ab9ad5cc8b9b4ff9f9f4f37bb7d8ff8205f"
+    },
+    {
+      "path": "ja/blog/activity-1140705.html",
+      "bytes": 12202,
+      "sha256": "b3b04fbc8f27e9c9bb7a6fd5f3bbecb81da70c9a18e3160c6b80dfc7d94465fc"
+    },
+    {
+      "path": "ja/blog/activity-466f10c3451.html",
+      "bytes": 5901,
+      "sha256": "4c006130c48b2a14a85f86247bdd79e3b25ba4cf4c5c3e02c3b7b07b11a3db9c"
+    },
+    {
+      "path": "ja/blog/activity-6.html",
+      "bytes": 5667,
+      "sha256": "3885730d2b18624af65d764e3f6a63923dd0730c5afc33b91e0f0034c019fcd1"
+    },
+    {
+      "path": "ja/blog/b127aee8859.html",
+      "bytes": 5583,
+      "sha256": "c7939182fe2e491f036fd619db1ee64b050d9bc329a9ae1ca11af06225b1e283"
+    },
+    {
+      "path": "ja/blog/dc2c10fc11a.html",
+      "bytes": 6345,
+      "sha256": "94abed077890fd87c60a14ee10ad590b3d4228318108d5d673bf3bd50198b0a1"
+    },
+    {
+      "path": "ja/blog/index.html",
+      "bytes": 31746,
+      "sha256": "5a5c21fd4766c6e9a35eb1178c4d9e044e430dce142465fb6dd6cf0ec4a5927f"
+    },
+    {
+      "path": "ja/blog/parkinson-0fa1925b25d.html",
+      "bytes": 6293,
+      "sha256": "a7795eac9856192a35759a0b53fc01b3262340948a8201425b27814c7c933a38"
+    },
+    {
+      "path": "ja/blog/parkinson-2024-2025.html",
+      "bytes": 5934,
+      "sha256": "c1285fc35d3812fca037909a39cb1935198e3273ef063b77d6c9a080ebe6a5b3"
+    },
+    {
+      "path": "ja/blog/parkinson-2b4a029033f.html",
+      "bytes": 6834,
+      "sha256": "ead6d5507de82161cf754eede89be537c01e50fa8dbcb3d6bbf77916e5797ccb"
+    },
+    {
+      "path": "ja/blog/parkinson-362f7dfda29.html",
+      "bytes": 6062,
+      "sha256": "d37213362b0cea92fafdd08c2e51208ec7453ac614fcf0dcbe31ecb7210a92c0"
+    },
+    {
+      "path": "ja/blog/parkinson-38a7a983588.html",
+      "bytes": 6890,
+      "sha256": "5942d6fb06c39b0c2563ca8c6e2f8c4e86ff9d986823c5bb7e7e091657fe269b"
+    },
+    {
+      "path": "ja/blog/parkinson-97a2b32d43c.html",
+      "bytes": 7615,
+      "sha256": "4ab55c1c3c5cbe494bfddaafd7e1eaec9584e2388170dce481a7493cf5d85a9c"
+    },
+    {
+      "path": "ja/blog/parkinson-a92e4e924f9.html",
+      "bytes": 6112,
+      "sha256": "09c78b675caf8297effec822861df0f6571186351b4bbcd6b3469c3e08ffb46b"
+    },
+    {
+      "path": "ja/blog/parkinson-app-a907c769-defb-4568-a4c3-90004c48a842.html",
+      "bytes": 7611,
+      "sha256": "2c71e69423fe3441fed22d31d7abece6a8a6a606b8eaa99f2364baa59c83979e"
+    },
+    {
+      "path": "ja/blog/parkinson-app.html",
+      "bytes": 5749,
+      "sha256": "eb0e39e20b97700d9a541b86903a2b428cdd5b1eb0b97de80b05cb3ed1d5a046"
+    },
+    {
+      "path": "ja/blog/parkinson-bd084d246b1.html",
+      "bytes": 5904,
+      "sha256": "ca316435b68adb2f346efb2e239b0b37352c180474aebbc8a8902d50069452b2"
+    },
+    {
+      "path": "ja/blog/parkinson-drug-induced-parkinsonism-movement-disorders.html",
+      "bytes": 6430,
+      "sha256": "abd2e141ef9130e1e863c108e81afb5e98c3c4dbe25b43439017ee2a240902b1"
+    },
+    {
+      "path": "ja/blog/parkinson-pd.html",
+      "bytes": 6331,
+      "sha256": "573cc3cdb60bf8d4922b9e196741ebe1d932276f9403f3a126de55efa039f005"
+    },
+    {
+      "path": "ja/blog/parkinson-qr-code.html",
+      "bytes": 6473,
+      "sha256": "c215d9cf7b5677acaea6b50edd616e9475a2eb63b446f7143be2241074169632"
+    },
+    {
+      "path": "ja/downloads.html",
+      "bytes": 5353,
+      "sha256": "2cec567855d060a3ab3e0070da8ec8ba044c34b197652e5c0b31cdd4e7a271e5"
+    },
+    {
+      "path": "ja/index.html",
+      "bytes": 16054,
+      "sha256": "edf6e4d73cb75547bb74966dff4a9f26b1377bf89e0a1c6f64598fe9ff2c42ce"
+    },
+    {
+      "path": "ja/parkinson.html",
+      "bytes": 169127,
+      "sha256": "a90a5f3d0039d319d6bbfe1eb6940798298177385dd396a0ef6e77c6022c368a"
+    },
+    {
+      "path": "ja/resources.html",
+      "bytes": 35054,
+      "sha256": "954c88313aabd86583e3cbdf24e9b4197028064dd1f8d6dd205562320f51805b"
+    },
+    {
+      "path": "ja/播放說明.html",
+      "bytes": 8574,
+      "sha256": "488eb072d30381be88d4c03878472fa75ad9624c5d050200c9ed154ad8efec38"
+    },
+    {
+      "path": "ja/社團法人高雄市聰動成長協會.html",
+      "bytes": 185688,
+      "sha256": "d5f55baa4598123d2ae1b5b07ca00022bdb10b6734fd93c590610114d0e6a142"
+    },
+    {
+      "path": "knowledge.html",
+      "bytes": 11862,
+      "sha256": "b8019b16375632f5d2cd2db49360e3b5fe6c31546734f60c430d1bdb864a59f3"
+    },
+    {
+      "path": "ko/index.html",
+      "bytes": 15935,
+      "sha256": "029f1753c1f77874112db635677cd7b8573e5ffff084cd2271011f699db69e41"
+    },
+    {
+      "path": "l/ar/index.html",
+      "bytes": 11284,
+      "sha256": "4322edc76b0c90a41f24699328784ed170e732eec957e8a0dec06d4b6fade122"
+    },
+    {
+      "path": "l/az/index.html",
+      "bytes": 11289,
+      "sha256": "e59ff298b09414c0bf163dba6d9acd5fd462cfda452c11a09bd3f79d29ae2d01"
+    },
+    {
+      "path": "l/be/index.html",
+      "bytes": 11631,
+      "sha256": "fe5f5413adf11ab7f62c48cfb8fd13b295a4ee70e6bd8f74a791baf70a4216bb"
+    },
+    {
+      "path": "l/bg/index.html",
+      "bytes": 11538,
+      "sha256": "035d971519785f7e86c93c628719eeae18818a663818b5dd6ff18087a1396da1"
+    },
+    {
+      "path": "l/bn/index.html",
+      "bytes": 12185,
+      "sha256": "a8d1b9eb114be0112a9f0439a115189eb11deb1c5a5df3cf7fdbfaa637a85474"
+    },
+    {
+      "path": "l/bo/index.html",
+      "bytes": 12235,
+      "sha256": "91b9b47dd85cbe494ae8bb31007029a7e879165c92c2d81661da3fc1ec6ba229"
+    },
+    {
+      "path": "l/bs/index.html",
+      "bytes": 11282,
+      "sha256": "516e1c1d05020fe0b55dd775b019bc028e5b641a1a2367fa904930cdc2394641"
+    },
+    {
+      "path": "l/ca/index.html",
+      "bytes": 11354,
+      "sha256": "a3d90065fb6661b537362a3c9106426aafba1b0cdd49cf5f60c266fe95b1c5af"
+    },
+    {
+      "path": "l/cs/index.html",
+      "bytes": 11142,
+      "sha256": "212c3c778728493b1c0b5f78fc818ae323d50f558861a7682bc0840b05fac0a3"
+    },
+    {
+      "path": "l/cy/index.html",
+      "bytes": 11255,
+      "sha256": "0e4e6462a05f4bf7a01de4290a252332c4a62e40bb37513b0233cca10ae6827e"
+    },
+    {
+      "path": "l/da/index.html",
+      "bytes": 11123,
+      "sha256": "6a87abb104fed7caab6d98a2286a1786af23b5b196385dee822f0f5662986901"
+    },
+    {
+      "path": "l/de/index.html",
+      "bytes": 11163,
+      "sha256": "d70d81f00396c07e9873682082c8701ee95b70c5abd40f2d0b9f6665131b2b0f"
+    },
+    {
+      "path": "l/dz/index.html",
+      "bytes": 12253,
+      "sha256": "11d42ea7f667267c487fd163483733ee52785dc5d094c24ca49682111f95a285"
+    },
+    {
+      "path": "l/el/index.html",
+      "bytes": 11640,
+      "sha256": "6ce51744a240efae5bdb04a5ae0e204c588c87c108a0d852a70787f87d3364ea"
+    },
+    {
+      "path": "l/en/index.html",
+      "bytes": 11065,
+      "sha256": "0a7dfda4eeb0f178d53ff20ecda6dacb74b7ab9b217a664649e9faff9be32a2f"
+    },
+    {
+      "path": "l/es/index.html",
+      "bytes": 11177,
+      "sha256": "0fe021c21dbcd0bb60639b07821628e9c6db82a962fbe6c41d1f9b069e665750"
+    },
+    {
+      "path": "l/et/index.html",
+      "bytes": 11143,
+      "sha256": "6f5534085bce55ee5aff16fa14096a256f0b34856b7445c89903c2ab6236baf9"
+    },
+    {
+      "path": "l/eu/index.html",
+      "bytes": 11370,
+      "sha256": "1c0b750a539678d496c9ddaafa03633dcbc88009c0a9c802fce4370a0354f823"
+    },
+    {
+      "path": "l/fa/index.html",
+      "bytes": 11383,
+      "sha256": "1676a0943851ae6cdf606e9573bff08d7b5134a26f4bbee5802120c8117712da"
+    },
+    {
+      "path": "l/fi/index.html",
+      "bytes": 11141,
+      "sha256": "548aaca5dcbfd1bdd427d4c6aed0f5caa3852545a0170c108406d4d59e9df343"
+    },
+    {
+      "path": "l/fil/index.html",
+      "bytes": 11231,
+      "sha256": "514a9f7a7995a04a7dac942f18d00a9d8870c68ff7d499307a6ef7842250010c"
+    },
+    {
+      "path": "l/fr/index.html",
+      "bytes": 11268,
+      "sha256": "b5fc8651731842748e28c43eefe73a893b851bccedb6ed941aa322622b1aa630"
+    },
+    {
+      "path": "l/ga/index.html",
+      "bytes": 11345,
+      "sha256": "df2517b8cbda494d5c78001fac7be7aef45516bd584461056260bb9f598093ca"
+    },
+    {
+      "path": "l/gl/index.html",
+      "bytes": 11353,
+      "sha256": "3db63afee696bf0d7ad44f193fb9db8d664ca7e83597529fbe3a25f9d59043c7"
+    },
+    {
+      "path": "l/gu/index.html",
+      "bytes": 12079,
+      "sha256": "0ea7fe7ed8adeb9a13172a11f2ca2cf0c68f5c1a3e19f40558bc19f62ca64d18"
+    },
+    {
+      "path": "l/he/index.html",
+      "bytes": 11287,
+      "sha256": "6f90ee035ca4cf4d62104ca012479e63b64f4702c53fc331fc7804eb7b319f0b"
+    },
+    {
+      "path": "l/hi/index.html",
+      "bytes": 11833,
+      "sha256": "b283570112cb58f613c0a4b1390761c3ec4a00ad6a1dc0197a5245581ce939cf"
+    },
+    {
+      "path": "l/hr/index.html",
+      "bytes": 11143,
+      "sha256": "9970e91a4d1ec5b2e483eb48a8d4787a2895f3ac9a8ea2b1a2b6f7a8876ad4fb"
+    },
+    {
+      "path": "l/hu/index.html",
+      "bytes": 11159,
+      "sha256": "632b65c2a6e825f06f4cd2893eda0ae37f0963bf12410ac29ecf5b76fa216997"
+    },
+    {
+      "path": "l/hy/index.html",
+      "bytes": 11848,
+      "sha256": "0c93d9c859ab04fc07321aa26e23d45edd30783cf73d3ff3ecbfab98b3906268"
+    },
+    {
+      "path": "l/id/index.html",
+      "bytes": 11094,
+      "sha256": "76c6bc79cb3c2f823e1d00ff596f156688e049f8e4706608ad62c3c4cdaa42a0"
+    },
+    {
+      "path": "l/is/index.html",
+      "bytes": 11195,
+      "sha256": "41f1b5bd4eb7b285627686c3df4058ff2ad1bc29d027317b44b180466d53c924"
+    },
+    {
+      "path": "l/it/index.html",
+      "bytes": 11193,
+      "sha256": "8fbac0f04df6b6f64bea3562b12b5ec4eb5e89da33bf771b98ab228907fbc14a"
+    },
+    {
+      "path": "l/ja/index.html",
+      "bytes": 11318,
+      "sha256": "cadb49dfb18e697d12f8197089ab6357aa4bf885c0f08db90e292d4a00835e58"
+    },
+    {
+      "path": "l/jv/index.html",
+      "bytes": 11242,
+      "sha256": "72af95dac5ba9972a6669285574dfb0439c3511c62260e02bd6ef60180f479ed"
+    },
+    {
+      "path": "l/ka/index.html",
+      "bytes": 12506,
+      "sha256": "db03d64a0da3a6ce43e77738396a4bb0fd0667c68ebb2ea11dbfcacf8d8f77df"
+    },
+    {
+      "path": "l/kk/index.html",
+      "bytes": 11784,
+      "sha256": "2c9d6187a5f502008a6de3135e9478ee9daf010b6b5c248a101d3ac493cd650c"
+    },
+    {
+      "path": "l/km/index.html",
+      "bytes": 12261,
+      "sha256": "338822af9cdd52173f818ecded5c412055e5805875e31fc30e87a4d43e1843b9"
+    },
+    {
+      "path": "l/ko/index.html",
+      "bytes": 11134,
+      "sha256": "b6657f18d58c2c282a5cf6dc9d853c81f607831dd681f252664cf2d409162e0b"
+    },
+    {
+      "path": "l/ku/index.html",
+      "bytes": 11780,
+      "sha256": "a65c7c8fe5aabc0ffd3e10fb0dd79f922a1d2e25d60b1453bc96621670127ea3"
+    },
+    {
+      "path": "l/ky/index.html",
+      "bytes": 11738,
+      "sha256": "0d5ca1e04dcc71cb0cecf6abc8a3fbc1f153728f37baf74f9de06fc507000029"
+    },
+    {
+      "path": "l/lo/index.html",
+      "bytes": 11987,
+      "sha256": "3f3fe5376d22527384a83e2e3b4349a3960658273855757bb154af69b6d53965"
+    },
+    {
+      "path": "l/lt/index.html",
+      "bytes": 11197,
+      "sha256": "fcd7defe25fcc8a9e6157d30fc3ee5cc3d59fd8691ec8131e1e3d9c5cf28ed41"
+    },
+    {
+      "path": "l/lv/index.html",
+      "bytes": 11109,
+      "sha256": "5ea2706c3fe7cf75334ff7dea407d739c5c3f0e1ee1cc1cf8121addb227eceed"
+    },
+    {
+      "path": "l/mk/index.html",
+      "bytes": 11910,
+      "sha256": "6ae827f7747c9d1a96753447124dbdba147d3511d0773299c97ab29935e55ffc"
+    },
+    {
+      "path": "l/ml/index.html",
+      "bytes": 12121,
+      "sha256": "cc5e33949afaff563ed13c9416525d6beb69dc1ee01144f2b18bb925ee708c51"
+    },
+    {
+      "path": "l/mn/index.html",
+      "bytes": 11788,
+      "sha256": "3cc2db206630b10d09db1361d43312a747ee8b053fe0300b10390fb7f8ac0d76"
+    },
+    {
+      "path": "l/mr/index.html",
+      "bytes": 12095,
+      "sha256": "207930a3ea1846244a646b949a5366e09c17d4ee2fe1aa60eb1f871ded08ac2e"
+    },
+    {
+      "path": "l/ms/index.html",
+      "bytes": 11074,
+      "sha256": "49dd8ac37f3951ccf91d9bb849e8599b0ca85c2183934721f8bfaba761773f20"
+    },
+    {
+      "path": "l/mt/index.html",
+      "bytes": 11347,
+      "sha256": "2dffeffb45f24549658452c5dc7a4d6f6a4f61a422bbbbd80bb5333c70243aae"
+    },
+    {
+      "path": "l/my/index.html",
+      "bytes": 13048,
+      "sha256": "f82acdf5647021ce0f80b0e3be9acd1da787f4a2f59ba1025b35016b770c6094"
+    },
+    {
+      "path": "l/nb/index.html",
+      "bytes": 11107,
+      "sha256": "0e29ae316f958a52957e6e9543375e19512237bb6734156b054c4fc3316a8c56"
+    },
+    {
+      "path": "l/ne/index.html",
+      "bytes": 12209,
+      "sha256": "ffcea2390d877f3894144e92c142ea716503016111647ca58b900ee17c8b84d8"
+    },
+    {
+      "path": "l/nl/index.html",
+      "bytes": 11110,
+      "sha256": "2fdb82f8e5dae5d24334eb1116216e9edda794008dc1f6bb8ebc371970f5ebd8"
+    },
+    {
+      "path": "l/pa/index.html",
+      "bytes": 11964,
+      "sha256": "ad6cf39490f4dadbd977ccee25afae66d3d49c509d312c46ac57c3ce93aad947"
+    },
+    {
+      "path": "l/pl/index.html",
+      "bytes": 11178,
+      "sha256": "a49b6de6ff6d2aa5c89edaa2f2e321afe28423e8ad84147b3106e104c549af47"
+    },
+    {
+      "path": "l/ps/index.html",
+      "bytes": 11548,
+      "sha256": "87c52c9ff8f1402889d76258dc49b4fb10ba573ea2f2c17133074f5cc2253da7"
+    },
+    {
+      "path": "l/pt/index.html",
+      "bytes": 11163,
+      "sha256": "45bf820863edc5382eecc8e4efb068127c4abae86b4a9277e3dd6fdf6a7ef8c9"
+    },
+    {
+      "path": "l/ro/index.html",
+      "bytes": 11220,
+      "sha256": "625f0e4ac9169d330917f3e1bb0ec7732c262e2190d05b10a174cfa80d5de100"
+    },
+    {
+      "path": "l/ru/index.html",
+      "bytes": 11600,
+      "sha256": "0eaf67d2f8331d13eafb3512097aaeb739b06003ff1406b5a113d1fe1ee1a2af"
+    },
+    {
+      "path": "l/si/index.html",
+      "bytes": 12121,
+      "sha256": "a7deab3ee4e342e7b295834c87ab3ba4e75bfcf99286de27fe38710bfb1fd624"
+    },
+    {
+      "path": "l/sk/index.html",
+      "bytes": 11184,
+      "sha256": "b3b1355309566cabdba99030962838b66c15925f9604fb546ac6240be09de9b3"
+    },
+    {
+      "path": "l/sl/index.html",
+      "bytes": 11133,
+      "sha256": "5596a99a3a0d8988e7affedc35a023338d71ca519866a9d8d62d548f72ba5785"
+    },
+    {
+      "path": "l/sq/index.html",
+      "bytes": 11332,
+      "sha256": "598e59cce5245140c71e8ff04e7daa7b65f475c76312c856a501b2cb1fb2f087"
+    },
+    {
+      "path": "l/sr/index.html",
+      "bytes": 11571,
+      "sha256": "db8832e446c9d46995772f22d38e1e7985ffa88c36a540092af27e86d7a97e20"
+    },
+    {
+      "path": "l/su/index.html",
+      "bytes": 11300,
+      "sha256": "026c4aa86c753cfea1c3e2690037f5b84a2d56edbbefc4ad058d47c9da793149"
+    },
+    {
+      "path": "l/sv/index.html",
+      "bytes": 11094,
+      "sha256": "0e891b26fef257ef970aeddc7c22a49b68039ab7479b8ae920d1cde4fb9a2ae5"
+    },
+    {
+      "path": "l/ta/index.html",
+      "bytes": 12448,
+      "sha256": "765098cdd03be3d2d7d8100f087efd0214de58c9216c9496034eab6604260dbe"
+    },
+    {
+      "path": "l/te/index.html",
+      "bytes": 12300,
+      "sha256": "797d240fbe2b78cd05d26dbbd5ad7c959c647d56b75d1624b1e844a3cb73ce5e"
+    },
+    {
+      "path": "l/tg/index.html",
+      "bytes": 11744,
+      "sha256": "343ab9d8d6b40dbdc2f2ee51820d4d29ffa25af7a1ecdde1758b3fc09fa7a294"
+    },
+    {
+      "path": "l/th/index.html",
+      "bytes": 11942,
+      "sha256": "645b5b0334c586caef444a0f5aacd5e5a52a4076a167cc433ee9ca84634d871d"
+    },
+    {
+      "path": "l/tr/index.html",
+      "bytes": 11129,
+      "sha256": "2d9907fd6a6447670f17721ec400f4ef23bf7b5847ee973eb6cf9333cf3b5d9e"
+    },
+    {
+      "path": "l/uk/index.html",
+      "bytes": 11620,
+      "sha256": "8a43fd0cb7b08c37c9d52bf1f6f53996423d17251e7dd2e309755bfb7b4aa012"
+    },
+    {
+      "path": "l/ur/index.html",
+      "bytes": 11374,
+      "sha256": "dde47e9e5a8dc4af9af68afd8b4f35978fe026b5415477bb1ea033d950053a77"
+    },
+    {
+      "path": "l/uz/index.html",
+      "bytes": 11284,
+      "sha256": "a9cb39ad3a1870eb23a69c517e7edef2f8f15b052a7ce45851d37ac0c195d0e4"
+    },
+    {
+      "path": "l/vi/index.html",
+      "bytes": 11264,
+      "sha256": "3c1dc2ebd1711feb8c06897e29d8447771a954be073790f3d3016872fb9282cb"
+    },
+    {
+      "path": "l/zh-CN/index.html",
+      "bytes": 10980,
+      "sha256": "fd397ab7f1d73fa744514a616ba6c72cbf540628342525610b108c2774f6dee5"
+    },
+    {
+      "path": "l/zh-TW/index.html",
+      "bytes": 10980,
+      "sha256": "4f0ba48732abf789eca82deac4c7514ccc4d51121d41b68ccd14edf1e0442973"
+    },
+    {
+      "path": "llms.txt",
+      "bytes": 1311,
+      "sha256": "9aa2b2791000def387f58ad6d637cbe7e71e9664ca3e97b0602ca87d06768495"
+    },
+    {
+      "path": "market/README.html",
+      "bytes": 10995,
+      "sha256": "0b06e997bd36e5bc0e0c1fe55655eadd3795e1a8983319c2dde12dbfb9cfc806"
+    },
+    {
+      "path": "market/analysis.js",
+      "bytes": 2938,
+      "sha256": "3a1021314f9af157694a72d5f516003d89e14810d5860c3d2f89c1a6b2e87f7a"
+    },
+    {
+      "path": "market/app.js",
+      "bytes": 19221,
+      "sha256": "84149e075232d740361ee3b3198c167d1393ec52fa0789d4d25eab70e3954f18"
+    },
+    {
+      "path": "market/assets/cap.svg",
+      "bytes": 524,
+      "sha256": "55e323d510dee947af2d965cb3472136819c73b4380307dbbc6c22928ba45584"
+    },
+    {
+      "path": "market/assets/mug.svg",
+      "bytes": 535,
+      "sha256": "0652c3c1ecf899f7e5bf03348d06dd02b5326cf3daa13820be1a0f26f45cfe52"
+    },
+    {
+      "path": "market/assets/shirt.svg",
+      "bytes": 501,
+      "sha256": "2279fbc6160374dcef5ff045cbe7381895fadb628e390ffd323c20bc0114da16"
+    },
+    {
+      "path": "market/config.js",
+      "bytes": 1519,
+      "sha256": "8184aa826bd1868add98c12419f3c693c3a6248c3406cdc8765cf6e611a36c13"
+    },
+    {
+      "path": "market/data.js",
+      "bytes": 11602,
+      "sha256": "8dd4b8258367dacb49c79f3cb3c7ba6676ba840828ae408390b9209a1f5357f0"
+    },
+    {
+      "path": "market/index.html",
+      "bytes": 8574,
+      "sha256": "5e9641e2665cdc1574ced412f57661134ef55e70d0430e20cc6ef5b82dc6da0e"
+    },
+    {
+      "path": "market/styles.css",
+      "bytes": 5547,
+      "sha256": "fe1212ee6fca1de3e8457b0564ca6c45286cd7b0b2c48a95ed2088d1a2272de0"
+    },
+    {
+      "path": "market/tests/analysis.test.cjs",
+      "bytes": 1587,
+      "sha256": "4793e4aeb590c9cd18ebffc6a64e4963e64451f7d36a9278168058c766118ef1"
+    },
+    {
+      "path": "market/tests/browser-smoke.cjs",
+      "bytes": 4216,
+      "sha256": "f4ec372937e9a969342d178d2ddbc7586060928146e72865cec2921d14d59fdb"
+    },
+    {
+      "path": "market/tests/market-desktop.png",
+      "bytes": 156958,
+      "sha256": "cb58ded504be944d37f9f80cf8c39fb3b9a1ce593d88533d04c83a1bad5fa34c"
+    },
+    {
+      "path": "market/tests/market-mobile.png",
+      "bytes": 95486,
+      "sha256": "7901efcdfd4a6a61b01aca45a341136ebb8a39ae7d457b164cfe90b670a35f12"
+    },
+    {
+      "path": "market/tests/worker.test.mjs",
+      "bytes": 2566,
+      "sha256": "1212c5146a7fc71167534153b4b1ea5f96e100109b1fc86495f77420aff1b281"
+    },
+    {
+      "path": "ms/index.html",
+      "bytes": 15848,
+      "sha256": "d0ae06bc70b5e36fd692c055d9bcc6d635cc321e85685232f0db765b7258fe55"
+    },
+    {
+      "path": "parkinson.html",
+      "bytes": 166628,
+      "sha256": "229edfda9c4712425880684f6527fc827e0883cc98d347f938467033c57002bc"
+    },
+    {
+      "path": "pl/index.html",
+      "bytes": 15855,
+      "sha256": "10b6d29043047159b67adf46257454331f574f174b848ac798fb554b15354a4e"
+    },
+    {
+      "path": "play/index.html",
+      "bytes": 8507,
+      "sha256": "41892365dc5139887eadb09555b3ef7a59e3ce98d65189d8b9cb330feec3f3f2"
+    },
+    {
+      "path": "play/page-language.js",
+      "bytes": 1204,
+      "sha256": "a32a071376a6aad6360055d6e15081333da28f6cad88be912b2d632f1bb091bb"
+    },
+    {
+      "path": "privacy.html",
+      "bytes": 3839,
+      "sha256": "fe19de371358b73e8cbbe15dc6e7f978a780f9982469662de399ff3869586a31"
+    },
+    {
+      "path": "pt/index.html",
+      "bytes": 15998,
+      "sha256": "67834951ce92ff141cb48c610e24f9c4da73958ea31eba55a4a1852b72e1d8b3"
+    },
+    {
+      "path": "question-bank.html",
+      "bytes": 90594,
+      "sha256": "433af61aeab6296d131897b58729d4d473ea7e42e4601298fdf6ec0e9fffecab"
+    },
+    {
+      "path": "quiz.html",
+      "bytes": 9798,
+      "sha256": "ed537ada6980af49365a2af46419bc0dd55e92c39e30227a2f0210505aa9bef3"
+    },
+    {
+      "path": "resources.html",
+      "bytes": 40024,
+      "sha256": "4a09f16abe1247e80b4cf5ad9b9e99604dc9ce03ae4e5d42b7e1cb4ce05dbeca"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 85,
+      "sha256": "c1d12775cfc2dc83bb3c62677a19448c61be5dbc49823efa86e2b7fa2e2b7058"
+    },
+    {
+      "path": "ru/index.html",
+      "bytes": 17432,
+      "sha256": "f960eb9481b6c81d0b70c5880d72b3bf15069345f1b125e00fcfd7f85bcef599"
+    },
+    {
+      "path": "scripts/build_portal.py",
+      "bytes": 17625,
+      "sha256": "aaaac080b5f04b3b1a50c42a49b722d816e316b9e877830b77f2a64c7092d45f"
+    },
+    {
+      "path": "scripts/build_release.py",
+      "bytes": 2263,
+      "sha256": "a0cc16f707f896a725b3d59dad5b951301f2d26f26ac8c604f163630eba150c5"
+    },
+    {
+      "path": "sitemap.xml",
+      "bytes": 7416,
+      "sha256": "7e4de7b645c46c9dc189c48e007f482e19fe46f96c4b1357911e68c29ceb7dc9"
+    },
+    {
+      "path": "start_server.py",
+      "bytes": 5145,
+      "sha256": "292dddeca1cda6af5c9d63eb5fbf6a0f1c745143e610e7055983a469263bc6b7"
+    },
+    {
+      "path": "sv/index.html",
+      "bytes": 15906,
+      "sha256": "795757be8e2ea74e15a3d87f4d4688c3b882d2d3c3e7a569c349a5c826850fd2"
+    },
+    {
+      "path": "tests/artifacts/SmartAction-wishlist.json",
+      "bytes": 229,
+      "sha256": "df02f431e8cbae8f5cd3e4bc517d6d9cd631b9b7754b3d5f697409e79966d6db"
+    },
+    {
+      "path": "tests/artifacts/portal-browser-report.json",
+      "bytes": 6427,
+      "sha256": "554b3e01ada4c73c4c6dba16db1fb70b744059b26c73884473156e3176ec3919"
+    },
+    {
+      "path": "tests/artifacts/portal-desktop.png",
+      "bytes": 343332,
+      "sha256": "2cd43c13ab0eb748dc4fe99970a59c24668772848d26bd1f0355487b7e28cd7f"
+    },
+    {
+      "path": "tests/artifacts/portal-mobile.png",
+      "bytes": 576666,
+      "sha256": "55425587cf8aa8987a26d4c3851d8daf19db36668520dca9c91d5163fce6b704"
+    },
+    {
+      "path": "tests/artifacts/portal-static-report.json",
+      "bytes": 204477,
+      "sha256": "47bee7b0b926180a5bf436c909c1feaf95cc80d084a52f2c4ba73652cd90a3a9"
+    },
+    {
+      "path": "tests/artifacts/quiz-desktop.png",
+      "bytes": 153246,
+      "sha256": "0e40fe45afc4581a0449f3eb8a423e48667a6a602e94c40ff46d2bb62b6fde61"
+    },
+    {
+      "path": "tests/artifacts/quiz-mobile.png",
+      "bytes": 188929,
+      "sha256": "faf971c4dc20ac829b45d37fc7628ded63300c63440b5a08707a3e8d6c1e45c5"
+    },
+    {
+      "path": "tests/artifacts/resource-browser-report.json",
+      "bytes": 654,
+      "sha256": "464025abc032ab053e8ddce2906e4a7ba4c4b7827080ae0eff8e8dfb0564f38f"
+    },
+    {
+      "path": "tests/artifacts/resource-browser-results.json",
+      "bytes": 654,
+      "sha256": "464025abc032ab053e8ddce2906e4a7ba4c4b7827080ae0eff8e8dfb0564f38f"
+    },
+    {
+      "path": "tests/artifacts/smartaction-clip-0.2-1.6.mp4",
+      "bytes": 3544,
+      "sha256": "7d9adfad424a855c27a36bec94b2cdd4e1f77090eca2480d8d38b8de7d3284e7"
+    },
+    {
+      "path": "tests/artifacts/smartaction-paint.png",
+      "bytes": 30415,
+      "sha256": "374e01b70177e1e7f92a7f6c4435c973fabaf9d05df2677395917143c46f3658"
+    },
+    {
+      "path": "tests/artifacts/smartaction-presentation.html",
+      "bytes": 1833,
+      "sha256": "84c6bbc0be67783be1ee0508b3ba5436d57da2602505cbcbbf48a6753ed6caf6"
+    },
+    {
+      "path": "tests/artifacts/我的聰動筆記.txt",
+      "bytes": 50,
+      "sha256": "ae16bdb2847d9bf53edf9727afecf395bea228e479048e45398edf5f44ce8534"
+    },
+    {
+      "path": "tests/portal-browser.cjs",
+      "bytes": 20207,
+      "sha256": "b34a95c9165f85f48268de83d4943de796fee6f741ff02ea8a71240e289bb3e9"
+    },
+    {
+      "path": "tests/portal-static.cjs",
+      "bytes": 6311,
+      "sha256": "1b00554df81fc0482808d04ca812818b21c1296a6cf55a486166ef966f21e276"
+    },
+    {
+      "path": "th/index.html",
+      "bytes": 18731,
+      "sha256": "b4fa0c6a8985e0dd687755c92a93c5babaa1856cf1afc2fa2173b551c50813b1"
+    },
+    {
+      "path": "tools/QA.txt",
+      "bytes": 1154,
+      "sha256": "f248b7f6a3f2eed5bdab820905ce7f4a93275665ae096ac1eecabf7e553c2bc9"
+    },
+    {
+      "path": "tools/README.txt",
+      "bytes": 4936,
+      "sha256": "8359c94ff6c552ac55f439d2702ead3f06338be62bac281effff08fd9e0cf5c8"
+    },
+    {
+      "path": "tools/app.js",
+      "bytes": 37815,
+      "sha256": "49c8abbc97263f0530b271b0423a44aa69c7ed78ad488cc0054dbee911311d69"
+    },
+    {
+      "path": "tools/index.html",
+      "bytes": 12608,
+      "sha256": "9c9173057b7cc55c77a3049af21e72cb3a10a7c226806f11da426b8a6eb356ed"
+    },
+    {
+      "path": "tools/styles.css",
+      "bytes": 9077,
+      "sha256": "06302f3deedc85d66dee2557a56d01e81cdad76ebe69be7da27ad8bc99f51ff7"
+    },
+    {
+      "path": "tools/test-browser.cjs",
+      "bytes": 6989,
+      "sha256": "764c14376d1e921b9ca1533e18ca49ffeb9a913ceeca54f6445820431d5729de"
+    },
+    {
+      "path": "vi/index.html",
+      "bytes": 16341,
+      "sha256": "0cb1564519da9464846486d17b01bc96d571ef2f83db306f0a43499360170fbe"
+    },
+    {
+      "path": "videos.html",
+      "bytes": 4632,
+      "sha256": "2a2812ebd4ceaeb6e142cf1f4119759d3e849775e7741323d84250eb685adffc"
+    },
+    {
+      "path": "zh-CN/blog/081e9814498.html",
+      "bytes": 6134,
+      "sha256": "9336af64c50d0a2bfa932619b598e04eb640cfacfa73f73e0b2b30f35ee026ae"
+    },
+    {
+      "path": "zh-CN/blog/0de305e00f7.html",
+      "bytes": 6541,
+      "sha256": "d09488ea9f4868adf9e87ffa6bcc181d3e8786c2c628052409574e700b68ee36"
+    },
+    {
+      "path": "zh-CN/blog/1140508.html",
+      "bytes": 6638,
+      "sha256": "9775591003e50290f56a3e949a391f7b3f0ad20dffd70cbf2e168544f5bfc5a4"
+    },
+    {
+      "path": "zh-CN/blog/1140527.html",
+      "bytes": 6395,
+      "sha256": "d3c601e8c6abf8d7801f3f792de7cba6fb0956e8b416652e1cbc6f1b2525ad25"
+    },
+    {
+      "path": "zh-CN/blog/1140607.html",
+      "bytes": 6829,
+      "sha256": "f86fdb8f7e4d255b55e4944ef40361204c62d645e84db7c4e8064746037d5132"
+    },
+    {
+      "path": "zh-CN/blog/1140705.html",
+      "bytes": 6556,
+      "sha256": "b4009f4b4b32148933cfd947d08aea54e9ee25552ea76166ae071448075c02d9"
+    },
+    {
+      "path": "zh-CN/blog/1140722.html",
+      "bytes": 6610,
+      "sha256": "763f6414606d48c5a83f21dac8987c2a4fc2a12f815d92bbaa44e83359dafc25"
+    },
+    {
+      "path": "zh-CN/blog/1140809.html",
+      "bytes": 6450,
+      "sha256": "aced70f9921b748393e7c0ef5abcf1937ab7b6ebdfa29a51df44a11f3af56368"
+    },
+    {
+      "path": "zh-CN/blog/1140819.html",
+      "bytes": 6669,
+      "sha256": "a07b46041801bf940e28aa5f5191651b72c2f8d050ec6d74c688139a356e17b2"
+    },
+    {
+      "path": "zh-CN/blog/1140823.html",
+      "bytes": 6562,
+      "sha256": "3feeb05820b95f201349278c5e5617d2b5d48caf22fe8939d474a90cf429ee3d"
+    },
+    {
+      "path": "zh-CN/blog/1140826.html",
+      "bytes": 6553,
+      "sha256": "c6de78d55291220b92784d6f105e7ce73d01711bfc5680fed82df6684cef4161"
+    },
+    {
+      "path": "zh-CN/blog/1140902-diy.html",
+      "bytes": 6684,
+      "sha256": "33625552487ae2fe6c28b326924a9ed05f14b49b68265e635d4c10e1326caa9c"
+    },
+    {
+      "path": "zh-CN/blog/1140920.html",
+      "bytes": 6367,
+      "sha256": "ee1f1fa15e0bd0a28138b1adc4f9f93dbc63131b10130003b23afd35c4d36835"
+    },
+    {
+      "path": "zh-CN/blog/2026.html",
+      "bytes": 5859,
+      "sha256": "63596cf67c0d18ba9e72916b049a0c92b7cadfb1f778149ad54d8a72b535deaa"
+    },
+    {
+      "path": "zh-CN/blog/20478397518.html",
+      "bytes": 5373,
+      "sha256": "2ea657cd7969b62dbf43f2c31d79d3b07926d518e319cf102139f7cc5bbbaa18"
+    },
+    {
+      "path": "zh-CN/blog/33cb605cf06.html",
+      "bytes": 8872,
+      "sha256": "a70a126ea4d7ddd186683d6752ee683c85b541da5d318f2a86ac3fb5eccc41b2"
+    },
+    {
+      "path": "zh-CN/blog/445cc624575.html",
+      "bytes": 6207,
+      "sha256": "7b4b68bcb1ab50b450c7d28cc7a0046e809249cbf671b78ab37fba3b2ecdc575"
+    },
+    {
+      "path": "zh-CN/blog/4f9ab696101.html",
+      "bytes": 5373,
+      "sha256": "96ee9fc5b5349f9d78774bffeb44c086be98bc828f2eb491bdcae4b84eb26667"
+    },
+    {
+      "path": "zh-CN/blog/7ce89166493.html",
+      "bytes": 6001,
+      "sha256": "991a0949b03eb290df342ae44ac6c1211b5afd5c50153276d20b0dc11a102912"
+    },
+    {
+      "path": "zh-CN/blog/8494322ddbf.html",
+      "bytes": 6473,
+      "sha256": "0cfef8a4c14799e739f52d0b6ed13187f3b80510b236949a4db3b787dd29062c"
+    },
+    {
+      "path": "zh-CN/blog/a63f966cedc.html",
+      "bytes": 6264,
+      "sha256": "f175c1384baa9dc5743aaee176e11d940d11a3344216070c64db2d3df1803481"
+    },
+    {
+      "path": "zh-CN/blog/activity-114-02-20-part3.html",
+      "bytes": 5720,
+      "sha256": "d2b3c0a1434b751ad9a37d14c2e9ad4317f1c9a2a1b9f0c9a6e1e9e230dcb995"
+    },
+    {
+      "path": "zh-CN/blog/activity-1140215.html",
+      "bytes": 5941,
+      "sha256": "d60efa0dd02a6029cf433ac9b56c7dc7684cb8d10d8b0dc6ce475ec2a07a274a"
+    },
+    {
+      "path": "zh-CN/blog/activity-1140308.html",
+      "bytes": 5647,
+      "sha256": "a3c3e9894feda254cb0d54aa393aa6a0ed6572f693ffdfbb4af2280220c65f29"
+    },
+    {
+      "path": "zh-CN/blog/activity-1140315.html",
+      "bytes": 5710,
+      "sha256": "100dae4985cb2dbd965995c1fbb5ffb9ebd581d64fbe92c87ae40812af03ab34"
+    },
+    {
+      "path": "zh-CN/blog/activity-1140412.html",
+      "bytes": 5738,
+      "sha256": "6321a05d230ffb32cca5e8f5571d2afe1683791a4bc395d25db8b72f7b6df2b9"
+    },
+    {
+      "path": "zh-CN/blog/activity-1140508.html",
+      "bytes": 5626,
+      "sha256": "2c07354470e7ad8ed97e6b02b23d05ec45a8515ee06ea372cf857f203ec338f5"
+    },
+    {
+      "path": "zh-CN/blog/activity-1140527.html",
+      "bytes": 5626,
+      "sha256": "6ffd6110d98f4e15e193e4e575e0726e65a1581f2cfad40e41fc6fdbd4d66276"
+    },
+    {
+      "path": "zh-CN/blog/activity-1140529.html",
+      "bytes": 5479,
+      "sha256": "f235b99d5a5b370ff8ae4a1f671c6ba414c199ece4e9acbe17cb264042edb6f7"
+    },
+    {
+      "path": "zh-CN/blog/activity-1140607.html",
+      "bytes": 5710,
+      "sha256": "1c0100a7a330d3b37cd3585093725b0806aa5c197b0fff815af5ad714d3387bf"
+    },
+    {
+      "path": "zh-CN/blog/activity-1140705.html",
+      "bytes": 10853,
+      "sha256": "ca9953a17977e72c50e7bc7d2d07f5c92e07fe0c6f7e289dc5ecbd4fc0b579ac"
+    },
+    {
+      "path": "zh-CN/blog/activity-466f10c3451.html",
+      "bytes": 5631,
+      "sha256": "8c211bb9e6c911edd0eb1e326596b192b8282525bda13f8c54d1738c1162cfa5"
+    },
+    {
+      "path": "zh-CN/blog/activity-6.html",
+      "bytes": 5445,
+      "sha256": "f232167659dffc662871b67f029456cc5ccadcd4b56232994e4b94ad27596d5b"
+    },
+    {
+      "path": "zh-CN/blog/b127aee8859.html",
+      "bytes": 5373,
+      "sha256": "4d679c41a31a1cb578be62a7dfa17b145b1028f68a77b26f464c07c5f371b058"
+    },
+    {
+      "path": "zh-CN/blog/dc2c10fc11a.html",
+      "bytes": 5975,
+      "sha256": "8c0cc8d379a3d38996d5836904ab1047cc94b6f02dd1807dc70829248761e043"
+    },
+    {
+      "path": "zh-CN/blog/index.html",
+      "bytes": 30141,
+      "sha256": "66dcefea0b46864454a402ca0077a32f24b132cc9fdbb3cb0376b0ff799c1ccc"
+    },
+    {
+      "path": "zh-CN/blog/parkinson-0fa1925b25d.html",
+      "bytes": 5902,
+      "sha256": "0b96d6bde76e43d5a18656d50b0afa857135f8d5ed524104b278c4851b326b48"
+    },
+    {
+      "path": "zh-CN/blog/parkinson-2024-2025.html",
+      "bytes": 5656,
+      "sha256": "c06c3666029546549d0d71fb7e3d358b20a0673eeda675d96d6ac445242a8e7b"
+    },
+    {
+      "path": "zh-CN/blog/parkinson-2b4a029033f.html",
+      "bytes": 6265,
+      "sha256": "0a5724ece0f2047872c1238ad15244596d45925263f4fdd4a99ed1993ddf1f0a"
+    },
+    {
+      "path": "zh-CN/blog/parkinson-362f7dfda29.html",
+      "bytes": 5686,
+      "sha256": "63934cffef82731ec95e3d21a97175984e0117f7eb09e250ac05a78e98f155f2"
+    },
+    {
+      "path": "zh-CN/blog/parkinson-38a7a983588.html",
+      "bytes": 6351,
+      "sha256": "0418f07a22793710dec217676c713ff3bc0798db608cf4a8d85e66c0ac3fca92"
+    },
+    {
+      "path": "zh-CN/blog/parkinson-97a2b32d43c.html",
+      "bytes": 7037,
+      "sha256": "19547d40d022685056371dc7d922f2d902c5bbbc5f4f6a9f1e49500e0f0c14bf"
+    },
+    {
+      "path": "zh-CN/blog/parkinson-a92e4e924f9.html",
+      "bytes": 5919,
+      "sha256": "a7c4d30f7b8849631dbb86807b2e207d72f16f831a48e5c94172a2d0762e1388"
+    },
+    {
+      "path": "zh-CN/blog/parkinson-app-a907c769-defb-4568-a4c3-90004c48a842.html",
+      "bytes": 6941,
+      "sha256": "89fe0f425e1bbca1aeb7f64105512fe413f99320ffb64ede8ccf25b5f8951f3d"
+    },
+    {
+      "path": "zh-CN/blog/parkinson-app.html",
+      "bytes": 5503,
+      "sha256": "7aeb373687c634ac28814f5931bc8baa5c2d73a06697d21b74a5a7d2287e833f"
+    },
+    {
+      "path": "zh-CN/blog/parkinson-bd084d246b1.html",
+      "bytes": 5613,
+      "sha256": "78a79cef54b1a6b59833da9188fdedefa833ac205c1122c8b3ed87f086606dc5"
+    },
+    {
+      "path": "zh-CN/blog/parkinson-drug-induced-parkinsonism-movement-disorders.html",
+      "bytes": 6245,
+      "sha256": "2c89caa81f44764acffa6c83ad0f36dc6a9527e2ecc6322e0c541d65f29d1643"
+    },
+    {
+      "path": "zh-CN/blog/parkinson-pd.html",
+      "bytes": 5885,
+      "sha256": "a56f82e3f6348d1b8ec18a6d80345438397c9033aa127e59c5c86a824032be15"
+    },
+    {
+      "path": "zh-CN/blog/parkinson-qr-code.html",
+      "bytes": 6122,
+      "sha256": "6ed81924f2ea142e5943a7a59066c14f0c4819321708f3a0fda5b76e9b8d70ba"
+    },
+    {
+      "path": "zh-CN/downloads.html",
+      "bytes": 5158,
+      "sha256": "f55cbc0361803460c32beaca997a3792ed90c5bcfb9ed62aedddf016e7e41f8a"
+    },
+    {
+      "path": "zh-CN/index.html",
+      "bytes": 15575,
+      "sha256": "3fdf8ee3206edd854b4a81a68ee5f610134e67f2ab6b4a88d7f136287686b20b"
+    },
+    {
+      "path": "zh-CN/parkinson.html",
+      "bytes": 166807,
+      "sha256": "95caae0031f7e3c796067320c33480efa3d8d819a296cca300d7e76fe3ab2acd"
+    },
+    {
+      "path": "zh-CN/resources.html",
+      "bytes": 32550,
+      "sha256": "69d0d8b189a4fac9c6d102d6ccc7bcf4cd6f3555caf90524eaf8db678ade920b"
+    },
+    {
+      "path": "zh-CN/播放說明.html",
+      "bytes": 7355,
+      "sha256": "1e839350205e0f0be4af74c82f349bb35db834fd3fccc150ebbd06f33a4d7afc"
+    },
+    {
+      "path": "zh-CN/社團法人高雄市聰動成長協會.html",
+      "bytes": 182102,
+      "sha256": "02a8b4028206526d31981f297ee0689029e8757892447033a2e3f9b7ac933094"
+    },
+    {
+      "path": "動動腦/AI由圖片生成影片/README.md",
+      "bytes": 4032,
+      "sha256": "9f69d8c49ea82079ccf1db1caf954a9676d29b1ad8ad21df9dd89c4fa8c87390"
+    },
+    {
+      "path": "動動腦/AI由圖片生成影片/app.mjs",
+      "bytes": 35642,
+      "sha256": "e9fe376f2399c66af5b6a611813b23ef909bbb5e4c7ef05b54854df68d8a40f4"
+    },
+    {
+      "path": "動動腦/AI由圖片生成影片/index.html",
+      "bytes": 18179,
+      "sha256": "3361879abf5359b1c4c37b82e93f37a2ac59c89aee30a0dfec99581d98a2e00e"
+    },
+    {
+      "path": "動動腦/AI由圖片生成影片/media-core.mjs",
+      "bytes": 4697,
+      "sha256": "8a2b0e6e0f3427e11d7cc76478f7eec85ef0d063237813e4fe828fe3a7d72659"
+    },
+    {
+      "path": "動動腦/AI由圖片生成影片/styles.css",
+      "bytes": 12472,
+      "sha256": "5fd83b9641bda35faacf42898e7793ad947e80a1224931109f6768504e89ebca"
+    },
+    {
+      "path": "動動腦/AI由圖片生成影片/tests/media-core.test.mjs",
+      "bytes": 3252,
+      "sha256": "d31f25f423011acba35c0eab81c2add21ec9d9e1bbb2be72300361ef3e49a672"
+    },
+    {
+      "path": "動動腦/index.html",
+      "bytes": 12391,
+      "sha256": "287253be9fcf7458c6cb73b4431d5587bafa237013c80c980aeef1d27a4a5c31"
+    },
+    {
+      "path": "動動腦/無人機模擬操控/README.md",
+      "bytes": 3085,
+      "sha256": "79bc55f80afbcf9d56b7b3ef19eadc250c780693aa88f165edfd4435f356906d"
+    },
+    {
+      "path": "動動腦/無人機模擬操控/index.html",
+      "bytes": 14277,
+      "sha256": "24a6b66984ff7d33bf7ec9f1d5c9f8baac628a72db7ad7f8b100f3a99639cc36"
+    },
+    {
+      "path": "動動腦/無人機模擬操控/simulator.js",
+      "bytes": 40524,
+      "sha256": "2ac1d3ce7a47b30f33f1e2b9193e1f6bf4c65837999f4365948a9ab5f0db6ccb"
+    },
+    {
+      "path": "動動腦/無人機模擬操控/styles.css",
+      "bytes": 13020,
+      "sha256": "050c96650e7a580094916f7e94435093401313cafe21f27e14a2e5e90500159d"
+    },
+    {
+      "path": "動動腦/無人機模擬操控/tests/runtime-smoke.mjs",
+      "bytes": 5935,
+      "sha256": "f5e9ede3bdcd6f129ac3d16ea375fe110ac55628e7cab1613ba5640f4154a051"
+    },
+    {
+      "path": "動動腦/無人機模擬操控/tests/smoke.mjs",
+      "bytes": 2859,
+      "sha256": "b82e6915166a0b87a6d15e3a184a9b481065839367bd3e515f04fe4cfdc014de"
+    },
+    {
+      "path": "啟動網站_Linux.sh",
+      "bytes": 253,
+      "sha256": "41d34371d240cf73571c4026b430301071febd432e7acc461bc2cd0635e33dda"
+    },
+    {
+      "path": "啟動網站_Mac.command",
+      "bytes": 413,
+      "sha256": "d775d506180f8dc6c61a44e7729ec5b16015580daf32c3b194250463c6ddf059"
+    },
+    {
+      "path": "啟動網站_Windows.bat",
+      "bytes": 655,
+      "sha256": "7b70a586981d8cd45526acfd6fd7ca4ae86877c2fd72e2978387a28a854c6f53"
+    },
+    {
+      "path": "工具後端/.gitignore",
+      "bytes": 45,
+      "sha256": "1dd9374219c7bda8ed4a911d9c734c05ba2571c77e952da9234611be6a474383"
+    },
+    {
+      "path": "工具後端/README.md",
+      "bytes": 4237,
+      "sha256": "12eb4349564ed0094648a32c470355d5a233db1b245e2da8ff253b4edcde9b63"
+    },
+    {
+      "path": "工具後端/app.py",
+      "bytes": 21125,
+      "sha256": "d2c91ca65a82b2a935636b40e7fb6cc5fe1f98ac2796db7451232d25a7957e71"
+    },
+    {
+      "path": "工具後端/requirements-dev.txt",
+      "bytes": 95,
+      "sha256": "1a730c90e1249e8c1ae282e6bdda670125d84d3ab33cef62a7923155ebb99ded"
+    },
+    {
+      "path": "工具後端/requirements-models.txt",
+      "bytes": 322,
+      "sha256": "4e1d9ab32638a26081d854a0b5868c162d542f66efbab3dcdc3ccea831552ce8"
+    },
+    {
+      "path": "工具後端/requirements.txt",
+      "bytes": 129,
+      "sha256": "5d25dddb82da46ffb50cffe4e75b9171f1225ebdb61eb67abec5fd3e26bc40f6"
+    },
+    {
+      "path": "工具後端/tests/test_api.py",
+      "bytes": 4576,
+      "sha256": "a79503d9b74e155c05622e93fa96a26253edd2be5ecc18b191d257d2088e4664"
+    },
+    {
+      "path": "巴金森資源清單.csv",
+      "bytes": 4759,
+      "sha256": "55ddab90aef5b3a779771ea3d6231acc7a443a677fa17fe1c04dd83ba45ba65e"
+    },
+    {
+      "path": "播放說明.html",
+      "bytes": 7311,
+      "sha256": "c91f28f0617a3ae69e7987a13f72fb5965fc799c0e7194703a296b3d5c635a5c"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會.html",
+      "bytes": 15522,
+      "sha256": "23ef92ea90c278ac34ce8633ec78f594edb56bd232668aacbb81a804b516d63f"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/07e6c80f22-maxresdefault.jpg",
+      "bytes": 68341,
+      "sha256": "71ca3d1ffede3df448c9da6ed961d09b943f348fe351912dc7c5ae0aecc8b5f4"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/140b9466f9-820661_391990.png",
+      "bytes": 72775,
+      "sha256": "960a033fb543919d7bc646992da90b274fb9ff217400872f29d6034c9137143a"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/173103afe5-368713_256263.png",
+      "bytes": 45771,
+      "sha256": "d9eb73f10ce480f7f3de12dcd42dec2e2667490f33d7e2ec96e50559d394adce"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/178813_885647.gif",
+      "bytes": 7240,
+      "sha256": "c11d66fa22e8e40b1eb1200d9cfc95c6311d6ab6235dff384e84fef0c9678c80"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/196342_245867.png",
+      "bytes": 46706,
+      "sha256": "b87e5231538f54f3e1c3d3f1ae5e806b7b08eb6de7eca99f6666c9c0c2d847c9"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/225644_29163.png",
+      "bytes": 6998,
+      "sha256": "7d157fb62726277169be6346e8e29a654854f2149daf7b4f4afe6a1198f3512b"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/25800_700174.gif",
+      "bytes": 2231745,
+      "sha256": "bf890c44c90f78c0dd255ff5e3dfe698aa703446f4c0de75c0167bf5c67a2b41"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/320592_980870.jpeg",
+      "bytes": 1476,
+      "sha256": "d1d27b7f85138d21555c30e2a74c9ab450ba2d421b054d39e20c118e258459a8"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/326272_456595.png",
+      "bytes": 5672,
+      "sha256": "3dd3f3b48f6880e2be405c51bdb5169783bb146df05117ef1e942e67fd47172e"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/334873455a-606260_582277.jpeg",
+      "bytes": 37918,
+      "sha256": "583bcca7be46ed417555a952a4e4ea3fea675d1f4bf8b97e1a4d9b3d06057fb6"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/334eea3e55-photo-1520607162513-77705c0f0d4a.jpg",
+      "bytes": 348829,
+      "sha256": "46c09119f6d300d36bc3bef64dbdb475322587100b53e36e99fec8cd99e37f05"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/368713_256263.png",
+      "bytes": 40322,
+      "sha256": "71949e4377910f18b208965457847cbc36b27459df6f84d6c14a7b8c8a286a27"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/397536_599471.png",
+      "bytes": 34236,
+      "sha256": "5b0438280630228af36b4d054ad31b1743ec576201401758300353124cc94cb9"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/485034_10026.png",
+      "bytes": 5038,
+      "sha256": "04c1370bebf7820be55fb62541749a3b80a9a97cfd22e79cea7838eb200f678e"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/528717_45198.png",
+      "bytes": 39978,
+      "sha256": "1d4fa7acb746247e7370a5aa8bb5a57c6aa239c297a7ffa1c4ca0ff5fba255b8"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/531109_124539.png",
+      "bytes": 22602,
+      "sha256": "5f7a816560ea4c01bc286c69bb7db89bb0a6530ab68fcdb49ad4ad21773a68e6"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/567078_722893(1).png",
+      "bytes": 4086,
+      "sha256": "dbf981250f82ab4347dbaeb0386953fc25e13f703705acb9f6eaec115f34a1fd"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/567078_722893.png",
+      "bytes": 7196,
+      "sha256": "d87cba84d57bd4ac2f12ea10f81f945de944d02c278f13971073ba9dc6c0023a"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/57f2ff47c5-546381_239997.png",
+      "bytes": 76105,
+      "sha256": "250ac979f1fa25296f251003fbccc6ea896a6561845a020896b59259fd2ab79a"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/5b9d8611c2-967505_696677.jpeg",
+      "bytes": 5545,
+      "sha256": "a9054da9fe97a7e99de7d7deba526a158d6a291f860b9031c5737afd2d3e37f0"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/5f1727dd8e-397536_599471.png",
+      "bytes": 41633,
+      "sha256": "8b763f5a1c68143a2477649df4bdf9ede3090dd95f7cdad33ecfbfd77af0e1f0"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/60990_674524.jpeg",
+      "bytes": 1622,
+      "sha256": "96164145482f9fd83780f1f354aab5d7ee5376055e45e50d2538c7ff4e6c5e3f"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/621700_278855.png",
+      "bytes": 26936,
+      "sha256": "0af5f934b054614b2dcc260708eda538c806f4e5d4f30212406c6976532df646"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/698992_741204.jpeg",
+      "bytes": 1422,
+      "sha256": "d772f8faacd7f7a3c4635aae8d32549b92ccae7a6be591a7f4f615917219ad7e"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/6d5be3c488-8.jpg",
+      "bytes": 27938,
+      "sha256": "0c98daa7cf255ae9b8bd58aa5e7df053ccbd0b49b60944c34772751fa0ab1bd1"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/6f209bb125-741081_464117.png",
+      "bytes": 253164,
+      "sha256": "7e5b676991690078d7e214a9b1a189298aa17387f9e4136234e93d298b50e827"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/72ae628640-606260_582277.jpeg",
+      "bytes": 17821,
+      "sha256": "421f0135f52d1b620f79f20759a909ad9a6800c5fdda6d2f4e66c758dd637762"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/731597_220013.png",
+      "bytes": 2146,
+      "sha256": "f53e516205a8ecdd997133a9f0b67c35006af7386340b31826ce2c4746356064"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/743d6d86b1-app-store.png",
+      "bytes": 2386,
+      "sha256": "c38d5599d810b05bacc973f298359097756964198184db50253d7ad6e8ad4f17"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/76be00835b-741081_464117.png",
+      "bytes": 45622,
+      "sha256": "dca5dbcad48afbb32c850a78e728edbee6ad29fb1c495a3235731e9ff10a857f"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/793338_648455.png",
+      "bytes": 22864,
+      "sha256": "a02ea794e98101b04a9b02f37734cb4055caac6ce9f46ad0098464da02e90d33"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/7dcefe0a9d-540646_127207.png",
+      "bytes": 7279,
+      "sha256": "89f39f37b8c6dcb31b68297f0d39073a5050df4fafa90379f148d89616f329d1"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/7eba471c5a-528717_45198.png",
+      "bytes": 47035,
+      "sha256": "36d5da5bb5efaddacd1828e5756dced3adde84df17c5b074481eacf3056989a9"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/8431_240467.jpeg",
+      "bytes": 1548,
+      "sha256": "2ba6c5bc18bb74b5bd66154243020a85f580ca1644601a482d95c21133a50cda"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/856889_768120(1).png",
+      "bytes": 31124,
+      "sha256": "df1dcc9f9d287ef7bb8a4cf210a88ece0405904d6a36908e23a3457e93316170"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/856889_768120.png",
+      "bytes": 41958,
+      "sha256": "a1ffec857cb9261d6ab715e1ba02040a84694ad00eec3462dbc5bfdef24669d0"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/890801_602553.png",
+      "bytes": 52992,
+      "sha256": "2f61c64c9ffaaad1dbddb12401e163cb2b4f40e3903fb55dc2d312a1ec24356a"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/915404_224116.png",
+      "bytes": 43360,
+      "sha256": "f85f24d42e431b7a3c581596ac326a8ae6af1d5fda842c7513cbc5b6e16959f5"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/960917_101916.jpeg",
+      "bytes": 2188,
+      "sha256": "2cb17de56ac194ce2117fc221b9aebc4660cef20d2dfc2f012b8e91b5180f040"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/982c59c830-194875_411333.png",
+      "bytes": 91634,
+      "sha256": "8491fd667ed0e66da5f2111f8f9a79ce40ab4bf5d280c7e9a252ab3dfd11e095"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/999413_432036.png",
+      "bytes": 341116,
+      "sha256": "632ec40ce15e7dbd6ba2bc9dd9706af9c1647923e48aaae623efcddba4a3ecdc"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/ac24b1c7c3-google-play.png",
+      "bytes": 4382,
+      "sha256": "b1bec909892970280794739cc1ca23b313084ddd0e2db88ae93db6a5811d8041"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/add643fdbf-40194_201019.png",
+      "bytes": 19893,
+      "sha256": "14e4d476d12bb8f12c909f5c4331b71c159c5369a657a386ffaf5d1fc8c64376"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/archive.css",
+      "bytes": 1483,
+      "sha256": "d251755c7d9acde368b331667c6de51c4bf72279b09d59407ebf7ab94f8a2884"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/archive.js",
+      "bytes": 752,
+      "sha256": "b8d95d451355414293b633ca336d2d416a471ecae8c470271703231e47d00f45"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/081e9814498.png",
+      "bytes": 180305,
+      "sha256": "e25a9a259d212c4eb167edec762a586ecaa3aca1a5ab1cfe27faa3b200b4a1c3"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/0de305e00f7.jpg",
+      "bytes": 254074,
+      "sha256": "1143ab4db6ea85c44e59f1653a615c6a4daac488e93a81893deb12212ea7f261"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/1140508.jpg",
+      "bytes": 285888,
+      "sha256": "4bc2151a8e658cf8015b28694f8f99cc3d4feb37bf61c6124f9edbdcb23001a1"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/1140527.jpg",
+      "bytes": 337128,
+      "sha256": "29cafb4163d3270f98035f997165d04ead32789d796ac2bd9d08081e9c07400b"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/1140607.jpg",
+      "bytes": 277212,
+      "sha256": "eaf341a262fde52e8468b29034defb8eba43dcee2e90b7f00fd161341e3340fe"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/1140705.jpg",
+      "bytes": 318892,
+      "sha256": "52aba3658206ee95f9ccae1dee3c0efbe1c4d83ec82afe62a8e59a9a2387dd21"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/1140722.jpg",
+      "bytes": 262056,
+      "sha256": "6e065550544939fd883aadc4144037bc3b01f12189163a6737efdb1259e95e56"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/1140809.png",
+      "bytes": 495787,
+      "sha256": "8a281976b1af490cfc7933f16c45fba35805dda0bf3a06c3dcf4d463c917c3df"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/1140819.jpg",
+      "bytes": 315818,
+      "sha256": "fc1c6bfe74eb1094fa08191928cb7d21bf36bfe29f4d4b64bd4335cb8318f258"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/1140823.jpg",
+      "bytes": 250326,
+      "sha256": "ddcb4895094d61968d185d45578abfa33897865ec068010db91bdd2b2e6f0bee"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/1140826.jpg",
+      "bytes": 254443,
+      "sha256": "ae45158f7e374979a930e528e9885457d9436a0e2d9c381964eb65add11cd5ab"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/1140902-diy.jpg",
+      "bytes": 262394,
+      "sha256": "335cf4a120011700c4f7dc56bd9f875fc2f6a43be64c116a44cd62c80b48c5ee"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/1140920.jpg",
+      "bytes": 270462,
+      "sha256": "2225d40e45fa3d7807d9ed62b17411bd02bd5bc2b0e0d92de5be4d0826f876dd"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/445cc624575.png",
+      "bytes": 369189,
+      "sha256": "881a8fb292ca6d4ece161f8e2eed9d9e633f59fa1f00a39ccf4e68b825ea55de"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/7ce89166493.png",
+      "bytes": 7499,
+      "sha256": "cdba7a1e280203e066ba19432698e55a7b7193f0686054d1353717d6f87498b0"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/8494322ddbf.jpg",
+      "bytes": 221567,
+      "sha256": "f356a4c795b823d33f6c82dffd32c9b67d069af39ea68829454bd8adddbc2250"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/a63f966cedc.png",
+      "bytes": 1511820,
+      "sha256": "52f8c0574c8d38d45c1c20955e779c2881fec481e570c08ce2b5f3a6f141ddfa"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/parkinson-362f7dfda29.jpg",
+      "bytes": 3492191,
+      "sha256": "ea88189d8f26db0c03f6bd539ea8c65c81755ff619de458f26efc11254c99a48"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/parkinson-38a7a983588.png",
+      "bytes": 137135,
+      "sha256": "b2262eaa66d58db78d784c8bdceb5ba2de4ad992205c596848edb342d24d0cb1"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/parkinson-97a2b32d43c.png",
+      "bytes": 13095,
+      "sha256": "9490a934b6f1756ee2485bee3025caafa778c1a01d667cc045e151a2dff8fbe9"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/parkinson-a92e4e924f9.jpg",
+      "bytes": 63012,
+      "sha256": "b7b9a4e06eb9401d658667b86c03349e77630096500e2beeabde434643d46795"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/parkinson-app.png",
+      "bytes": 63380,
+      "sha256": "fc7fca4ca2332c70a4cd351455f53e4faa5950813acc43e2da6cf60b896996a0"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/parkinson-bd084d246b1.jpg",
+      "bytes": 10646,
+      "sha256": "68567a1034507604df82aeaf5c80bdb54f051c85f63bde8c40e6d54741caa694"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-covers/parkinson-drug-induced-parkinsonism-movement-disorders.png",
+      "bytes": 245295,
+      "sha256": "903b16dc859683cd98c5861c5bf587336c6df51cd0647a579f183f82fe96f6fa"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/article-list.css",
+      "bytes": 2271,
+      "sha256": "fcb1204bf8863d9cd6361deafee67602ebbb0bacf65f74f2dbdbd45ef0894b6e"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/b77a2d9e65-834276_665958.png",
+      "bytes": 315803,
+      "sha256": "988f4c1490ee722ea7e81741c65cee7c3cc5fd877331b82812f43e59f1b039ca"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/barlow-latin-400.woff2",
+      "bytes": 15656,
+      "sha256": "7a686e76312866b7d506c103e51a829d4c96a0b4576835128d3b7b53801c095a"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/barlow-latin-600.woff2",
+      "bytes": 15832,
+      "sha256": "488b58098126c00b8fa77f4d58b0a4bc982e81e4c83323c1a73d9f1a67c15971"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/blog-avatar-708730.png",
+      "bytes": 36734,
+      "sha256": "747f1f4802b89622479b1264dce3a084814ea19c9a8bc0c4b5cdedd1bde4f95b"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/blog-avatar-752093.png",
+      "bytes": 223571,
+      "sha256": "11760d68c05f8c7f3d8cef8b759dd3a1c368db3d478705868e039f98f73b9039"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/blog-avatar-861863.png",
+      "bytes": 85833,
+      "sha256": "001c0641a3cc071c57954f2c317f5d45d716f18e43fd4e12358d2ad4e5438e83"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/blog-wellness.jpg",
+      "bytes": 888687,
+      "sha256": "b4ce340aee8a0f2a95d41fcd3158426e48ac4ea645ff3d670493f827ccd44913"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/c5cc37e7b9-68822_881184.jpeg",
+      "bytes": 24909,
+      "sha256": "56e110ef77de8f06175523f2c613b7c7a06fd6b04c43ce27739631e802af093e"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/c855596c4e-68822_881184.jpeg",
+      "bytes": 12171,
+      "sha256": "10eb072de2c299705fbe4725e343a6cbf042ccc66d7166ded27b8b42a2d31d57"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/channels4_profile(1).jpg",
+      "bytes": 2547,
+      "sha256": "3f46e1524eff13ec6d31f7960153b3bb7799bd5effc099533a95a5284ebbaee7"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/channels4_profile(2).jpg",
+      "bytes": 3326,
+      "sha256": "ade051f9dd3148a0f1dbba39dfadf17e240117217011cb32df7deac6057ee905"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/channels4_profile.jpg",
+      "bytes": 2858,
+      "sha256": "7d40e8db7d2fd63d00c4a4c33682c2ba6ce599ea18ccaa92b49e3eae669490eb"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/config.js",
+      "bytes": 191,
+      "sha256": "db23d81f9b2b217691b5028185fded3eb09d52aa391952cf26e77c41e6aab380"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/d3207f567c-144899_549740.png",
+      "bytes": 57446,
+      "sha256": "ad519be2e7a24ade72d9e4503385b42a85b3ac5e9196a2500e0d06993b9ea561"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/d5c2040480-890801_602553.png",
+      "bytes": 61569,
+      "sha256": "8fb3eafa545d06c88cf3d6cdb75259f63db8ed0d6db803e1d8d967304059f0ef"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/d795747f73-5.jpg",
+      "bytes": 58873,
+      "sha256": "346cf7708edcbd5ea2c8a7450b9d2bca08914023d856c8e2f7405252d22dfd5a"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/ea1539d414-915404_224116.png",
+      "bytes": 79710,
+      "sha256": "2c617a48f570cfe4e76ec5a59c92de872b08225ac1af34ff6ff6b5ac8bae9408"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/entypo-fontello.woff",
+      "bytes": 40348,
+      "sha256": "5e746e0ba2c90c847cc0fb82636ea31a2e05aa0533403dc59b3b2e8786739826"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/f4af456848-446937_155130.png",
+      "bytes": 5262,
+      "sha256": "a300a9881942d6c6fe82874c5c9ae61700a7bb324daf7e3603f58771ead187f8"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/f6f431ab82-76461_405174.png",
+      "bytes": 58819,
+      "sha256": "de8508b303f670df64163046ec1563e63ff8bff795a5a38c5c35d45391c5c977"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/fa-brands-400.woff2",
+      "bytes": 76764,
+      "sha256": "43c072c16c9ee6d67acdfa6c6d6685ff1e74eb4237b7cc3c1348ab1c108b26af"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/fa-regular-400.woff2",
+      "bytes": 13276,
+      "sha256": "8afc6e5e842baab16010c2ce6fcf48ec4ded8e1579a37c1f1bc027e120d04951"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/fa-solid-900.woff2",
+      "bytes": 78196,
+      "sha256": "d0b4256abed72481585662971262eabee345c19f837af00d7ce24239d3b40eef"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/fb-icon.png",
+      "bytes": 2826,
+      "sha256": "23e75393b961ff0736cb2e970b5e3d60568f70a217709f0f60f3d8d276efed10"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/fb677c6abf-87190_161357.png",
+      "bytes": 243504,
+      "sha256": "8b5ecc6c6e20f52c5852d7b98d3d6f0a804633f3ef57ef22b85869012b7f36ac"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/fonts.css",
+      "bytes": 1032,
+      "sha256": "4d9ab796e1175e484e74ff65c4c6405df777348ef2cd6b9f8b1f9480df8fb166"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/hero.gif",
+      "bytes": 2231745,
+      "sha256": "bf890c44c90f78c0dd255ff5e3dfe698aa703446f4c0de75c0167bf5c67a2b41"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/language-data.js",
+      "bytes": 534344,
+      "sha256": "35e5a5de28da238e6c7ac18ff2b75c9a2f9d85bb85ceedaab617b2a493fb7d82"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/language.css",
+      "bytes": 3931,
+      "sha256": "e6f74d592d01a1a5cbe00ba01d26a4ddc8eddb842dae8013f10f1b4182414e85"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/language.js",
+      "bytes": 5560,
+      "sha256": "b9395829c7bfae63ef09d9b7178b53d94ed7edf9bff50d61e0201f35cd2e348f"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/line-icon.png",
+      "bytes": 2955,
+      "sha256": "0c2db02b897eeca2d63eb3890f4471b7c88c88a30c037bb6d65f3f87c26133e4"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/map-outline.jpg",
+      "bytes": 8239,
+      "sha256": "e5cde349f368b3092c67b12147e97a5471d8a7016186441413be8ced731f6c51"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/map-preview.png",
+      "bytes": 35964,
+      "sha256": "bc2770aaa00f977f7cd82072f8f4941b7f23ce34699240efce30c96d9c89d0ff"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/messenger-icon.png",
+      "bytes": 3495,
+      "sha256": "5103edb9f6e59cb3f19db9eb3801bb50676963a50dc741029854ee488c00ed71"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/organization-charter.docx",
+      "bytes": 33369,
+      "sha256": "04d3412cadf7521e6ce819355268595af6db2e756bcd6f1de3a7bca618f2d061"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/page.css",
+      "bytes": 1211362,
+      "sha256": "8ea7fb55ddbbd1c13d754b94e5088e0d2f630d7b7562f1a1c9b33b24f48082b8"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/parkinson.css",
+      "bytes": 76228,
+      "sha256": "39e6fdbf31582c4e44183e249d48b30bbd5d5dd8d7bd6d4033c126b2b195e488"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/parkinson.js",
+      "bytes": 1267,
+      "sha256": "8475b4618808470a0af46f0b74c0e936dfbd1bcbe82a16f6aeffbc28620e0284"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/phone-icon.png",
+      "bytes": 2961,
+      "sha256": "a2f993f0a16e937644f33d2bb6ec039e4c8d496df206b0948205bd20ab9d9a52"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/resources.css",
+      "bytes": 1681,
+      "sha256": "81fed09a163fa9e6e43028f7da093fd3c698b567222c7b13aaf994842058e5a0"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/resources.js",
+      "bytes": 2117,
+      "sha256": "c2243eeaa85c93d38223168920565d684ee613b9713da840944f292cf33dc0d5"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/shared.css",
+      "bytes": 76228,
+      "sha256": "fae89f77c7dd0a9c690c8b7ab838987d6887b6af6f953b8b82775e7ba8c9930c"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/site.js",
+      "bytes": 4872,
+      "sha256": "b64e6ad813a5527f4b182838d610c245d06d218290faaf9a772666422c5e6b5f"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/standalone.css",
+      "bytes": 4847,
+      "sha256": "e6407863603b2fac38c35d4f632be0b6cb80da9bf4b5094ee37da7f634d62f8a"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/theme.css",
+      "bytes": 2381946,
+      "sha256": "2810539ec571dc230667bfa84268c24341bd0d29e395d9fecbaa3966063570e5"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/unnamed(1).jpg",
+      "bytes": 5431,
+      "sha256": "73045cebf87b7f2c380125577f2f1b5510257b193177427188be9f0d929df063"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/unnamed.jpg",
+      "bytes": 4696,
+      "sha256": "1650f85e6238f8de6a8f98fc4d6e7d024e3056b56293d22b678db31957542520"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/video.css",
+      "bytes": 1134,
+      "sha256": "3613832bd876e0bc68025043ab50d1fa15bcca8578cd3ea02443fbc16443cc1f"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/video.js",
+      "bytes": 1438,
+      "sha256": "735e5bc47a0c369b60724a9dccfd716584028f9bbcc1397fd99430b325660815"
+    },
+    {
+      "path": "社團法人高雄市聰動成長協會_files/volunteer-application.pdf",
+      "bytes": 262928,
+      "sha256": "f942231ba9155b27cee5489e7849b84608512ac6b51a7dcad614de27e2450894"
+    },
+    {
+      "path": "維護工具/resources.json",
+      "bytes": 45096,
+      "sha256": "7e7b5703f1300a398f56e83cd7632f6f2f03d38acf401f3db817318e64b74bc7"
+    },
+    {
+      "path": "維護工具/translations.json",
+      "bytes": 565017,
+      "sha256": "f16d71233758f7f2e8787c86262a6090baff27e54985ed9815b478a8587c3877"
+    },
+    {
+      "path": "維護工具/來源資料/i18n/en.json",
+      "bytes": 58041,
+      "sha256": "d6227f2fe70ecb62921b8c1ec17782b5477fd90d62435e0eb42e3c70b0d826ae"
+    },
+    {
+      "path": "維護工具/來源資料/i18n/es.json",
+      "bytes": 64936,
+      "sha256": "b81a12f34c0defb6e2e1127e75e32ef97a53632815bdb2b6761ea577da453f93"
+    },
+    {
+      "path": "維護工具/來源資料/i18n/extra-terms.json",
+      "bytes": 17303,
+      "sha256": "fcf3e91d260f966a7c7e700c6ee76aeec6aee9a99131638e32cca43b09b079d8"
+    },
+    {
+      "path": "維護工具/來源資料/i18n/fr.json",
+      "bytes": 71004,
+      "sha256": "91ed5f01f7182078f0957f0ae18eff032c1b2e5e0ab5c61df466b88f1327081c"
+    },
+    {
+      "path": "維護工具/來源資料/i18n/ja.json",
+      "bytes": 57780,
+      "sha256": "a3a29483e781718697b8f940b3ed9a9f89d75c67dcbb9ef9561134eab9f76c23"
+    },
+    {
+      "path": "維護工具/來源資料/i18n/source-units.json",
+      "bytes": 98036,
+      "sha256": "a493f49f814ed2ca22b6e76b9ffe46298247490d5f1a15bbd02aa86f27042477"
+    },
+    {
+      "path": "維護工具/來源資料/resources-international.json",
+      "bytes": 27061,
+      "sha256": "8bb2678c732b7527e9f686a5743d9e3fdddbd033a4df5fd982dfc752bc0aa867"
+    },
+    {
+      "path": "維護工具/來源資料/resources-taiwan.json",
+      "bytes": 24337,
+      "sha256": "f1098d44787895b29faa27d438561b70c05e10d993f5bcf8b3ab8bfd0061e716"
+    },
+    {
+      "path": "維護工具/來源資料/upgrade-build.json",
+      "bytes": 789,
+      "sha256": "dfc275f03185bbd0000c944439616fbb7b78e78c195c0848167acdcd2c46afaa"
+    },
+    {
+      "path": "維護工具/擴充網站.py",
+      "bytes": 17492,
+      "sha256": "44a3cafb74d43fc431448dd10c7a2b8279c2c3032bc85d2714ebc85d5270edff"
+    },
+    {
+      "path": "維護工具/擴充驗證摘要.json",
+      "bytes": 268,
+      "sha256": "631e2457e21d75f72dd0e2430d096fadec355180380c7a6839c435f0544e4d91"
+    },
+    {
+      "path": "維護工具/重建網站.py",
+      "bytes": 21618,
+      "sha256": "dabfd0d946c0180ab9d3e894bc0cdc2658e076d43ed1a32b1a46be26ecd04724"
+    },
+    {
+      "path": "維護工具/驗證擴充.py",
+      "bytes": 2174,
+      "sha256": "14146fd86cf611d46933f53427cab935a2497eaa45f0961998359116aea3d7c5"
+    },
+    {
+      "path": "配置與操作說明.txt",
+      "bytes": 13456,
+      "sha256": "d04da0893105ff6b3474f33256ec840598d95e1c954f19d2880942e3edf6edb1"
+    },
+    {
+      "path": "驗證紀錄.txt",
+      "bytes": 2120,
+      "sha256": "545391ee95d8b48f8861922cfed730bf5639aeea308fce35824265b021b9abf0"
+    }
+  ]
+}

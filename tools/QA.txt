@@ -1,0 +1,15 @@
+聰動小工具驗證（2026-10-09）
+
+Chromium 153 桌面瀏覽器：20 項 smoke test 通過。
+包括英文初始介面、Canvas 實際繪圖、復原、灰階像素驗證、旋轉尺寸、鍵盤裁切、比例縮放、PNG 下載、投影片重排、HTML escape 與排除講者筆記、簡報顯示與換頁、無效 JSON 拒絕、除以零處理、筆記字元計數、實際影片重新編碼、取消復原、繁中切換、手機寬度布局與無未捕捉的 JS 例外。
+
+額外檢查：
+- 360 px 寬度五個工具頁均無整頁橫向溢出。
+- 無音輸出：要求 0.5–2.5 秒，ffprobe 讀出 H.264 MP4，長度 2.0467 秒。
+- 保留音訊輸出：WebM，VP9 + Opus；ffmpeg volumedetect 量測 mean -21.1 dB，確認不是空音軌。
+- 桌面與手機版面已看圖檢查。
+
+尚未在實體 iPhone、Safari、Android 等所有裝置逐一驗證；各瀏覽器的影片編碼能力不同。
+
+開發者可執行 test-browser.cjs。Playwright/Chromium 僅供開發測試，訪客不需安裝。
+可用 PLAYWRIGHT_MODULE、CHROMIUM_PATH 指定本機安裝位置；VIDEO_FIXTURE 指定含影像的本機短片即可啟用影片測試。
