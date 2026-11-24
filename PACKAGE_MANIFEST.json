@@ -33,8 +33,8 @@
     },
     {
       "path": "ar/index.html",
-      "bytes": 16797,
-      "sha256": "8f5d398e9bed4d8296ae87416fc901a1b7360db9bdb5f758f0b86a1f3720b0e4"
+      "bytes": 17025,
+      "sha256": "c462783cc748cf054e0f996a7b61c8d8aff2dadfb7e63824e79009aa5a76fcd1"
     },
     {
       "path": "assets/article-catalog.js",
@@ -158,8 +158,8 @@
     },
     {
       "path": "assistant/index.html",
-      "bytes": 4257,
-      "sha256": "c34cee6ec3495147f515c6fe6c9388d4b886aec52be27a335dc68efdd72c7d22"
+      "bytes": 4485,
+      "sha256": "d786e9cb7a2dc59d41ee93b67dceedc815b495c89acd5744664f9130057d4af5"
     },
     {
       "path": "assistant/models/flan-t5-small/config.json",
@@ -293,263 +293,263 @@
     },
     {
       "path": "blog/081e9814498.html",
-      "bytes": 6085,
-      "sha256": "2800b3ec1ad3a3da2089637c747a492e62e57a6c62d27245c91d647673501bb7"
+      "bytes": 6313,
+      "sha256": "776d240a81ec40ad0bfec2b3b5d35ae3fe89cd28de044708fbb6a1a5a114cd88"
     },
     {
       "path": "blog/0de305e00f7.html",
-      "bytes": 6492,
-      "sha256": "c33b16ab8b97b979687e51db3a766a658ca5f2129c900c249ca0aef147612027"
+      "bytes": 6720,
+      "sha256": "8c5018f358865cf1d3e3e67b4922be60e31356b6b5393d7eadda7983987b9de9"
     },
     {
       "path": "blog/1140508.html",
-      "bytes": 6589,
-      "sha256": "d429fa189b5daed567da5f1298997c9bf24b3bf74313cc7c89024bdb4a065cb1"
+      "bytes": 6817,
+      "sha256": "01b72df1a97e734086d4a48695247cba6422797d177a833fd3409bf58a26d97c"
     },
     {
       "path": "blog/1140527.html",
-      "bytes": 6346,
-      "sha256": "07253e66e63f0bdf0b21bfe3296bd0bad8e8de11e6397fa75ccb144ca5714097"
+      "bytes": 6574,
+      "sha256": "67819e98abf9b5c448e7d0df426cf4cd128d2d469e474855eaa38811f924e162"
     },
     {
       "path": "blog/1140607.html",
-      "bytes": 6780,
-      "sha256": "c83cdcfeebf9dd841d89331fe2817f505264fa20e8d2775dfefce005f57799cc"
+      "bytes": 7008,
+      "sha256": "14877b96a4d8216dcc11e90ada7dad13c8303903cc18e0c076af69114a507374"
     },
     {
       "path": "blog/1140705.html",
-      "bytes": 6507,
-      "sha256": "75f1915aa756eaa7eb9d8d7126b845b558f2387f0d6eed9a8b48fabb32fb0bae"
+      "bytes": 6735,
+      "sha256": "d08d19647a24a34c2b4fa0ec3204be3d38fed0d5ba69f437ee8f8cb1c68ac200"
     },
     {
       "path": "blog/1140722.html",
-      "bytes": 6561,
-      "sha256": "ec516dfa60273f244d47e5a4e755a1a8fec7dea9a04a727b8bd28b17583bb4d7"
+      "bytes": 6789,
+      "sha256": "e5d4620bbeeefecf27584dce7de8d8593bd56099c50e33813083a6db9c55ab38"
     },
     {
       "path": "blog/1140809.html",
-      "bytes": 6401,
-      "sha256": "efc5cdbd25a554c923cec984721626c6ee5b27dcc929d9aba7366d538ad1cf3f"
+      "bytes": 6629,
+      "sha256": "26439a532afb2f093df7dbc4e7f4918f470e181ac6f68b0ad8497cc120f360a7"
     },
     {
       "path": "blog/1140819.html",
-      "bytes": 6620,
-      "sha256": "530b0e4674b7f51a7da96cae04131a3a46f8beb2558ab9971c66ada058ae5974"
+      "bytes": 6848,
+      "sha256": "fd9856cdeeb4938efedca8d1c0d675a90b474c69995c29e242daeb6de5d7ff2e"
     },
     {
       "path": "blog/1140823.html",
-      "bytes": 6513,
-      "sha256": "95fe785724e1c50d6599eb1e30d19ca87b79928fe01230f4ccf23f747ab11f47"
+      "bytes": 6741,
+      "sha256": "18ab97e866d59fbf15485756bcc36bb57320b77d1debd2cfb4ec109a211ebd72"
     },
     {
       "path": "blog/1140826.html",
-      "bytes": 6504,
-      "sha256": "6293caf797dc44459c7e1c535700138ca2f2fe654a3a700756be258b592dbb8e"
+      "bytes": 6732,
+      "sha256": "0050191968df311eaa2bd58c2846054cef06ddeb0606351e335fb46e17ee857b"
     },
     {
       "path": "blog/1140902-diy.html",
-      "bytes": 6635,
-      "sha256": "e8f3b6f2526f69034f9eaf4cb654c0671e5cedbfc41c6299fc27517063864f04"
+      "bytes": 6863,
+      "sha256": "7afdf35efa616ade56b170e95ee1d6182fae672f3289ad7a0ff235a3d6c90bd8"
     },
     {
       "path": "blog/1140920.html",
-      "bytes": 6318,
-      "sha256": "4da855f4e655eba33e5edd2ab6fa1e42ebcfe2555087452a7465717d9fa6ca43"
+      "bytes": 6546,
+      "sha256": "294a79a75fbfb916ed4d5e5e40cc9951a83253bb03dacfa00b393830b33071ce"
     },
     {
       "path": "blog/2026.html",
-      "bytes": 5810,
-      "sha256": "16f86f34f5769c96bef6c7549e4f0055170cdea2767b109a1c7095007ff50738"
+      "bytes": 6038,
+      "sha256": "f4e88b8c99e36f74088feaec0e41eb4279d1694d39695238cd0407c8674a0673"
     },
     {
       "path": "blog/20478397518.html",
-      "bytes": 5324,
-      "sha256": "e937dae1cb81585068886c34b91f9e9a9eaf9063581fc0a77ea227fd3ad2fb18"
+      "bytes": 5552,
+      "sha256": "8a71e7648ce43a614b429411ff09e14e43494c948727fc4933c942c1e034315c"
     },
     {
       "path": "blog/33cb605cf06.html",
-      "bytes": 8817,
-      "sha256": "1ef543bd3bb6cea87e696552334bafe4764689bf00a51efc937d1790de4a2736"
+      "bytes": 9045,
+      "sha256": "e25ea5c8a20626f2c912e156d2e00417ad3b7a082536d23ad335d2870facffd5"
     },
     {
       "path": "blog/445cc624575.html",
-      "bytes": 6158,
-      "sha256": "633a83e4239b7d50cd7ebcefdd39231716043ed5ed73ac8d35740fe7fb518f47"
+      "bytes": 6386,
+      "sha256": "f19714198a3a37fa84c16039d721f4c99f9185bcfe467f04f35f5ce689ea361c"
     },
     {
       "path": "blog/4f9ab696101.html",
-      "bytes": 5324,
-      "sha256": "73cbc87f975a21ef5c2f0adf7c7456a821c56382c83528a7dddae7b14869e50d"
+      "bytes": 5552,
+      "sha256": "a29e366024a3f652c83eb66865635436b985ddf7ad5dabce48ab216f1d77f3ee"
     },
     {
       "path": "blog/7ce89166493.html",
-      "bytes": 5952,
-      "sha256": "aa76c0653a74186fdac027280371dae46564d93b5cb54b58155272b43ed4e053"
+      "bytes": 6180,
+      "sha256": "23563cef73747f0d1b718208e90bbd9f1178f3782f53ec7b5b81ec1b2a1ccf69"
     },
     {
       "path": "blog/8494322ddbf.html",
-      "bytes": 6424,
-      "sha256": "9c90f99067abb9ae5e71dd4b2d93e9b0796c57bc1140fc78684e8b015e9674ce"
+      "bytes": 6652,
+      "sha256": "858db87c6f01e442614e49df1495c898dd4568706f6cacf859167eea84c7d6ac"
     },
     {
       "path": "blog/a63f966cedc.html",
-      "bytes": 6215,
-      "sha256": "f340afdd492aced65bba60e141445d20436f986d970aa0325ee26c0565a191cf"
+      "bytes": 6443,
+      "sha256": "92513eb425abbaaa2c86623784319ddde358d1c77296cf3945e8e24a7c201309"
     },
     {
       "path": "blog/activity-114-02-20-part3.html",
-      "bytes": 5671,
-      "sha256": "d4e67e9020e047bc53a8685bf23c9a7d479deed4159c0ca2fbaf24f7f99a7aa2"
+      "bytes": 5899,
+      "sha256": "e26810f1194adb5a70360db9b8bcaaa0d4140f5d5feda8cad2a9d92a3befb59f"
     },
     {
       "path": "blog/activity-1140215.html",
-      "bytes": 5892,
-      "sha256": "e6e931099539b22070a2aa9ef879a4043797e33ec4c684ce3aff1e36c2025bfd"
+      "bytes": 6120,
+      "sha256": "a61152e5eb1daeb9c34433562590c8b12ed5b47c23ccb353d831150c18b0ee68"
     },
     {
       "path": "blog/activity-1140308.html",
-      "bytes": 5598,
-      "sha256": "d4531f389e2ec1f8be00ce436ce8277f29ed15e4d6cf1752dc7b770b5aa5f5a5"
+      "bytes": 5826,
+      "sha256": "557d8d345e54b63fddae51d801c5608d5e9f814eb55e103f788b44dff7f6f5fb"
     },
     {
       "path": "blog/activity-1140315.html",
-      "bytes": 5661,
-      "sha256": "0aee3d5aebc0c4614792b34ee7379a56c12fc339d30c5d9aaa81c094c2e761c0"
+      "bytes": 5889,
+      "sha256": "d616c981e9ecb020d5fa8c9ad8a7227434816d49a689cbc0252a567de1089b50"
     },
     {
       "path": "blog/activity-1140412.html",
-      "bytes": 5689,
-      "sha256": "acac8404fa6e141c97c526d5a60ec569b29f290b1315e922f96d320f82dc1d0f"
+      "bytes": 5917,
+      "sha256": "ad2205a55c5ef3e9af03fa06a70c494bc75038aaf245168051e7182f44302b03"
     },
     {
       "path": "blog/activity-1140508.html",
-      "bytes": 5577,
-      "sha256": "a649d18bbf293d95da6e52c6ba8a3922054ecf7ed3d5b1afe11f8f72c40f8c44"
+      "bytes": 5805,
+      "sha256": "fd5e3b3dd9f92c9e3c28b597f785f464c7dec7b6c5d4d03e2de6a3a8bbb0e5ba"
     },
     {
       "path": "blog/activity-1140527.html",
-      "bytes": 5577,
-      "sha256": "d00784cf3dcd56716ca2e8132477c73c53273b11486514bb545f34e8d13c2f48"
+      "bytes": 5805,
+      "sha256": "1ee2f3e9cf65638b6203bf48b602d4bdf5992c03581e29fb516225d36c419d63"
     },
     {
       "path": "blog/activity-1140529.html",
-      "bytes": 5430,
-      "sha256": "8b5d91837f5e57fe167c33f6660f9986b2d81ffebf011a379474acc5c346102f"
+      "bytes": 5658,
+      "sha256": "0712f38665571ea179b650f54de77c708c87ae596730eac3f3e7d33957e36826"
     },
     {
       "path": "blog/activity-1140607.html",
-      "bytes": 5661,
-      "sha256": "893e40d4c1527efa070a3fefe8a25b8170f3e8bdb2b356159f93c5161d924ffa"
+      "bytes": 5889,
+      "sha256": "0762436f2c1228fedb2ecb38c1fd095afb99db08e2929b1d08623d5494e1b38a"
     },
     {
       "path": "blog/activity-1140705.html",
-      "bytes": 10798,
-      "sha256": "6b4433bd54864c41711c8512c843bf119db97256b0f428716b35daee75d6ba6d"
+      "bytes": 11026,
+      "sha256": "210ed590d17b8013aa16316d7cb655ebc64c18668ace0ed6ab9b9d4175754aae"
     },
     {
       "path": "blog/activity-466f10c3451.html",
-      "bytes": 5582,
-      "sha256": "94ad68337c0c2d148c5109474cd5cf73f120c05b7fcf13d88a1ad37bc433ca78"
+      "bytes": 5810,
+      "sha256": "78e48cf5e207cd52a4f0ff4d6692a0b7dfd20399c481a2a840a3d864139e3e71"
     },
     {
       "path": "blog/activity-6.html",
-      "bytes": 5396,
-      "sha256": "f1872e0d43f277d033c6c22a25cc9b7fb33706013e5b883cb3dffe179179906e"
+      "bytes": 5624,
+      "sha256": "1dd8ea0fc99db4da96e97df5e11383b7d705c28999d073749493e4fe578948c4"
     },
     {
       "path": "blog/b127aee8859.html",
-      "bytes": 5324,
-      "sha256": "4a7b76d4a2e5891f1db4439c689ea936591cac2adaeea1326d76ea2bae4be388"
+      "bytes": 5552,
+      "sha256": "d596bbd37da4283e20436f846f7056fd98c28706a0453dcc401e6db419807480"
     },
     {
       "path": "blog/dc2c10fc11a.html",
-      "bytes": 5926,
-      "sha256": "014cd67f86f76b0ea21246bfc452c167e5eb70845e56528db00c23415e6ebc4b"
+      "bytes": 6154,
+      "sha256": "64a0cb0c8fddf129ce9a10e25d222d5ff0fa79fe60188eab2cbd8d75666297a3"
     },
     {
       "path": "blog/index.html",
-      "bytes": 31085,
-      "sha256": "46c7a7fc7b16ac12a46b4aaff51ad93fa450e10361982f2f8d84683b9156e0b6"
+      "bytes": 31313,
+      "sha256": "6503e659eef9859435f98c87025ba817a44a84fc3b791969d10b7ffbda01a664"
     },
     {
       "path": "blog/parkinson-0fa1925b25d.html",
-      "bytes": 5853,
-      "sha256": "4d4e351bca69d39ae524041e9a64ffded44fbe61b2d7ab6a4d343fd32b411c13"
+      "bytes": 6081,
+      "sha256": "a2e3355e32a89a035f48c3d82974506497c4840dd391720b8610cdcaa75031b4"
     },
     {
       "path": "blog/parkinson-2024-2025.html",
-      "bytes": 5607,
-      "sha256": "51fea261addf54eec59e0829e9e1d194d05278bf5c2e4bed010073d50c27d125"
+      "bytes": 5835,
+      "sha256": "e596fc3413df8faf46afb0015325dae8031fc3a4702d421659ff30ce74b087de"
     },
     {
       "path": "blog/parkinson-2b4a029033f.html",
-      "bytes": 6216,
-      "sha256": "b9725481d7ebc20e7d8e670a0f9af7c7ad5fdd97fe6d2f08dd590409003c4dfe"
+      "bytes": 6444,
+      "sha256": "d7f74b225c7d16f6a7207128e14eff62f6dbfef623f19365556c415b06963469"
     },
     {
       "path": "blog/parkinson-362f7dfda29.html",
-      "bytes": 5637,
-      "sha256": "6968ad49290ba64244413f9e67be501b1d18aafcb106f35e1069bece5de375eb"
+      "bytes": 5865,
+      "sha256": "15ff1c209d45b88a7047b1d0186fcbb500fc653731c159ec875c119c90338d9f"
     },
     {
       "path": "blog/parkinson-38a7a983588.html",
-      "bytes": 6302,
-      "sha256": "f41d90c49082c461097c7a81d1538b2999253691ed3560ef863de0bdd11e036e"
+      "bytes": 6530,
+      "sha256": "fe0eff89e9e7ca1fce478f343c18c311524ac07c0f1d2acef7be0faa2b31f914"
     },
     {
       "path": "blog/parkinson-97a2b32d43c.html",
-      "bytes": 6988,
-      "sha256": "4bcf0e66de5cb328cf16d7568de03febff204d4cc876ff6d66196f058909a577"
+      "bytes": 7216,
+      "sha256": "728e1376b73274fdd1658ac8abcb2a3aa928f10fc92ea9dc6d061dd19a351311"
     },
     {
       "path": "blog/parkinson-a92e4e924f9.html",
-      "bytes": 5870,
-      "sha256": "57779b776bf5e04434ab01f945f6523c566f4137a68a3f3c125de117e6f0e4bb"
+      "bytes": 6098,
+      "sha256": "3884b7768eeaae8345881f067880bc827fd76b3894401b56e6f8528a82ad2631"
     },
     {
       "path": "blog/parkinson-app-a907c769-defb-4568-a4c3-90004c48a842.html",
-      "bytes": 6892,
-      "sha256": "eeadba8a7be4ed8156bd3b0a42bc3f4e2b014435dcb9afbac75d2de7c564b0c7"
+      "bytes": 7120,
+      "sha256": "b7074a60fafcba326b8ef22b6633e1f27fa02697eb34c99e816d9513929eddbc"
     },
     {
       "path": "blog/parkinson-app.html",
-      "bytes": 5454,
-      "sha256": "1312a859c273510604517add0192f2672e2f1a8e93a86dbc2febdaf306e9a3d6"
+      "bytes": 5682,
+      "sha256": "e755b311fbd60e887937d118b4e2e87683fe4d8d7f3d020f2877f45a1b07f599"
     },
     {
       "path": "blog/parkinson-bd084d246b1.html",
-      "bytes": 5564,
-      "sha256": "bda3ba8270068fbd1958228b4fe26234c8b233e9b5691eb28a81afcfed339fcd"
+      "bytes": 5792,
+      "sha256": "b39a979081d13d9003a082632eab156ae63fa2aec803c54044826e0d31431df6"
     },
     {
       "path": "blog/parkinson-drug-induced-parkinsonism-movement-disorders.html",
-      "bytes": 6196,
-      "sha256": "d1c2774885b8cacac5335b79b632512f769cb6e63a981cdb2751ab4fbd56b83d"
+      "bytes": 6424,
+      "sha256": "25d6f848fea11ee27dc5ebd57cb5a55c9acfe99eaa27ebc22a7ed788b44d566b"
     },
     {
       "path": "blog/parkinson-pd.html",
-      "bytes": 5836,
-      "sha256": "6d192eb8327e16a45a89366de77c8c03db9661c9566e8581a329dda0b90d7c2e"
+      "bytes": 6064,
+      "sha256": "8a63a05e5987aada309df0c077767b6f7a8aad832076a6e1dbffb161ecc96da2"
     },
     {
       "path": "blog/parkinson-qr-code.html",
-      "bytes": 6073,
-      "sha256": "d2a361406392669ccf583262648e0cda6a65ed560715be7fe72da4142dfa042f"
+      "bytes": 6301,
+      "sha256": "a401aeddb455084045510ab02025c443a69fecff38302dd370db1ec6f7b6dab6"
     },
     {
       "path": "cs/index.html",
-      "bytes": 15914,
-      "sha256": "278c0521227cd88057f5b7fcf3219f9281c9a4d4ba81cf1ab52c6c776c6eeb85"
+      "bytes": 16142,
+      "sha256": "0b200fce62a34c32dd6656cdad92d6c54770e42d3b090f810804fbc89aa793ea"
     },
     {
       "path": "de/index.html",
-      "bytes": 16043,
-      "sha256": "51ab98ef135a4e6530b732af82b6731429edaa7a2797307ddb983c48496e0d6b"
+      "bytes": 16271,
+      "sha256": "5c097aed122ae919dc3c69f037e2e499d49fb2de357fbfd45208cba8e1573aba"
     },
     {
       "path": "deployment.html",
-      "bytes": 33866,
-      "sha256": "26ec12392ee99995914a6ce79b14cd36f19eee8091d5a51c5f8cdb3908544c0c"
+      "bytes": 34094,
+      "sha256": "b4f235f697aa15e857c8d4574480452f1eb99634c87e247bb09cc7d83abcb557"
     },
     {
       "path": "docs/QUIZ_EDITORIAL_CHECK.txt",
@@ -573,1548 +573,1548 @@
     },
     {
       "path": "downloads.html",
-      "bytes": 5105,
-      "sha256": "b8ce2532ac6b721f05614ec989d67391df21fa3b81a59e8a6f23ee3067de3a59"
+      "bytes": 5333,
+      "sha256": "d70584c5b2b5ef49d7f3593fd64f3ad2c9c611c38677f6864d747c0a01e295a6"
     },
     {
       "path": "editorial.html",
-      "bytes": 16751,
-      "sha256": "ba677379f14872f43b8b9fbea599dccaf4b7a50d968ab878de9b3d3fb1f6392e"
+      "bytes": 16979,
+      "sha256": "3dc31120d82150775a3512e4f3e94461a395ae4d2fcf9df3db321fdff169862a"
     },
     {
       "path": "en/blog/081e9814498.html",
-      "bytes": 6618,
-      "sha256": "89803b0eefa98035ddde9775ca4c2ae8b428c971005576b24b474b29ffebb0bf"
+      "bytes": 6846,
+      "sha256": "3c0c4ab151605eb70f1384905b153308b58e1addb691c6c224994ceaf09265a9"
     },
     {
       "path": "en/blog/0de305e00f7.html",
-      "bytes": 6953,
-      "sha256": "99476464220c8e61bf822289f6f0a59c59047011cc1bef6e1aed7bcb47e6262d"
+      "bytes": 7181,
+      "sha256": "1b2f3ec9cc7dceac9a5cbc80ae6165150d144656fb98a7ce99bfc5334a6f6d5c"
     },
     {
       "path": "en/blog/1140508.html",
-      "bytes": 7250,
-      "sha256": "04cc1af61274a1b647a6d94d4c0198ef356ab35d47fcdd192631d41ede1fa276"
+      "bytes": 7478,
+      "sha256": "9f68b7f4753dd0ccb74f23a1c7c806a6c6e140d7f77a2d0177573d086526a27b"
     },
     {
       "path": "en/blog/1140527.html",
-      "bytes": 6901,
-      "sha256": "301c5f0f8fbea1c2d5706753bdb776d9ea01df33663ef4a3f669fc18899b2d76"
+      "bytes": 7129,
+      "sha256": "b3d98ddce8d6636a86ee6c643a723bdf26c380e502c74a49d658a5713e2f13fd"
     },
     {
       "path": "en/blog/1140607.html",
-      "bytes": 7398,
-      "sha256": "940ad1c489125fa7ad7845119b870ec1480a218ba859e989035b76e686b34428"
+      "bytes": 7626,
+      "sha256": "496ea98107a9799d0eec930acb79cd70e5e652a78e1b4192ef93a800b7e4d860"
     },
     {
       "path": "en/blog/1140705.html",
-      "bytes": 7059,
-      "sha256": "2a98644abc176596b06eb6f7ab4dfeddaf1839883f3bc06b4414205b9da5e884"
+      "bytes": 7287,
+      "sha256": "9475525750851c03d07d5d736b8fc74482643debfb585b30b5530b9e85976cfa"
     },
     {
       "path": "en/blog/1140722.html",
-      "bytes": 7128,
-      "sha256": "fa20ec09c0b7bc9fdca0f3073b60b199c126721d912a2c1f5ad613b9cc118a7b"
+      "bytes": 7356,
+      "sha256": "8196a46ed6721475eb25373189b5f64bce9f72a46fed073e7117219db6c94dc2"
     },
     {
       "path": "en/blog/1140809.html",
-      "bytes": 7103,
-      "sha256": "6a16ccf71b961e867b372305b0eed87c5a5fe370b665863e1ed08e25b17fe64c"
+      "bytes": 7331,
+      "sha256": "adb08e6c089cc410ecbebce080b8c249f83fc8bcf74827d97752277478cbc5e2"
     },
     {
       "path": "en/blog/1140819.html",
-      "bytes": 7348,
-      "sha256": "14650acdc0c53a8a43e143bbd2a77d2e9f3222db7d3029e63047c48b7994917b"
+      "bytes": 7576,
+      "sha256": "3a796c9a16f81b43657329d9cf28accdd0d5c42c830497b3f0009811e6c85be7"
     },
     {
       "path": "en/blog/1140823.html",
-      "bytes": 7137,
-      "sha256": "8ae0858c5b7cb9e329c8f33bf62d623d6ec07540ac9408cfdb55e6e64de885bd"
+      "bytes": 7365,
+      "sha256": "a1142547f4d7d1ad81616fa7b63d5795e541e8df279103ba96d41c772931ab34"
     },
     {
       "path": "en/blog/1140826.html",
-      "bytes": 7147,
-      "sha256": "0e0430fe7dbda55811fcfcae3dae81fc434c3d1e2ba6c3439ed1105624241945"
+      "bytes": 7375,
+      "sha256": "169177b27985608d36e356ec9be6864b566736e3ff6649784fca3847bc277aac"
     },
     {
       "path": "en/blog/1140902-diy.html",
-      "bytes": 7379,
-      "sha256": "da243ec4806759852679b4065b1adb603ced2d0f1ff2101175548e9b8fc389e9"
+      "bytes": 7607,
+      "sha256": "93cdda2698a72c03f1db3b9288c70892a1a890607832e89996643df461821de4"
     },
     {
       "path": "en/blog/1140920.html",
-      "bytes": 6745,
-      "sha256": "a2dd6e2c39dd1fe6213ba325f5195a1164616daee56db95f0392b9dfc77f5b16"
+      "bytes": 6973,
+      "sha256": "ed634f476262e1fddd6bc1cf6ac38587ba1667c5b35e2a2122143aedfe1c0393"
     },
     {
       "path": "en/blog/2026.html",
-      "bytes": 6361,
-      "sha256": "01c18bc0227f19fdc96541405bdd919963565f1310eebdb2a6fb933465f72b24"
+      "bytes": 6589,
+      "sha256": "6f0c58bacb1c25e499fd095dafaec6bca2c0aad97e99d8f0c1136a0f8671b1c4"
     },
     {
       "path": "en/blog/20478397518.html",
-      "bytes": 5645,
-      "sha256": "81477a0c04de993e3ef9c711a0e24d1af9a367db5a439f99b9c62c6a5249a0e6"
+      "bytes": 5873,
+      "sha256": "0eca6b7223f6f23a519499ad36eb9e600a4fb79331c4c9a8e0a680274001d05e"
     },
     {
       "path": "en/blog/33cb605cf06.html",
-      "bytes": 9576,
-      "sha256": "11a0213e9aaeb8de4f567798d1e1c96f080a50f59d8210288ee4269241b63197"
+      "bytes": 9804,
+      "sha256": "49406d4f8676a72c5b52a92ec41aed15829749f4ac5cb5af8727d2ced266bb5a"
     },
     {
       "path": "en/blog/445cc624575.html",
-      "bytes": 6522,
-      "sha256": "f86ec7be71c0e0a841ac038cea36b7343202dabab8f816cd12e1f635dcbf8ac2"
+      "bytes": 6750,
+      "sha256": "7f6c36bfb963d4f3ddde280d3736cc0f5abbccf2039056bd733b1f11c4ff89b7"
     },
     {
       "path": "en/blog/4f9ab696101.html",
-      "bytes": 5645,
-      "sha256": "9df3c76557a234af831434e5c51f9578867e62049cff3e69f5a3aab867af80f5"
+      "bytes": 5873,
+      "sha256": "6a687e9232be187e89c862a643473c7fc83b08f8b89e37a4bbb50b873dd272a0"
     },
     {
       "path": "en/blog/7ce89166493.html",
-      "bytes": 6465,
-      "sha256": "a8814393f37b169dcf7921b239b1b66db359ecfd1c93142983aca575c805d118"
+      "bytes": 6693,
+      "sha256": "49d2fda61e7e2f7ac5200eb38a7ba4d19018669bbf5bb3863bbe3d84c5b6cf70"
     },
     {
       "path": "en/blog/8494322ddbf.html",
-      "bytes": 7023,
-      "sha256": "a951f8d915a1f5bc5944c46a85a2b47d3c217a74d9a7c42b1ef3ea6ba6457438"
+      "bytes": 7251,
+      "sha256": "be113733a52e9afd281e295bc948135c95edef17b981475e729fa6d9f8129b3b"
     },
     {
       "path": "en/blog/a63f966cedc.html",
-      "bytes": 6673,
-      "sha256": "b7f11acf92f87bd7e7753fa367eb0e37063910edd979978d5e764b0080f1a154"
+      "bytes": 6901,
+      "sha256": "a1e870ff2ff254e8959019abe0986ecb389ebcec75f39adf3daf99094fed0e50"
     },
     {
       "path": "en/blog/activity-114-02-20-part3.html",
-      "bytes": 5998,
-      "sha256": "ff7990c4d809a6d5563d9f1655db11b24bb346b4939de30e59a616a5e462bb22"
+      "bytes": 6226,
+      "sha256": "c89228a91e5e55111919be411a87ed57fca0a565b128a33aeddb83ca0034c9b6"
     },
     {
       "path": "en/blog/activity-1140215.html",
-      "bytes": 6271,
-      "sha256": "74d8697ae9770e8e186f8da54ca1e525febcf7f495b149466a0c0bd911a8cec6"
+      "bytes": 6499,
+      "sha256": "9ca008a02efba484f83a186575aae51716c1377928e44e2e8ec3da4080afdd4e"
     },
     {
       "path": "en/blog/activity-1140308.html",
-      "bytes": 5941,
-      "sha256": "42744fd84d75eccfc9c6230f19e0b6ce687d1124f1a7ff219936b40bedf0580a"
+      "bytes": 6169,
+      "sha256": "2a83b377373b4e5605df098dfeb2b426f8ad47b4e8fc74ffb586854d4ba825c4"
     },
     {
       "path": "en/blog/activity-1140315.html",
-      "bytes": 6099,
-      "sha256": "19ccf0b061dc47a3256df789dd03d365e9f40bd9b97a50243049f9925426c699"
+      "bytes": 6327,
+      "sha256": "7a5ad646bcbc737eee3a9b4385022545fb476da330c13dc2e4abba7f0800ac0f"
     },
     {
       "path": "en/blog/activity-1140412.html",
-      "bytes": 6054,
-      "sha256": "a08a73f92656a0d96245c5ba5c5d8cff1c4225e0c7a434ecbe9d1913b7daecc7"
+      "bytes": 6282,
+      "sha256": "139c59ee59b130db046dd74b47f9693f902a163d3307e7e526aff3c8f8d36fb1"
     },
     {
       "path": "en/blog/activity-1140508.html",
-      "bytes": 5898,
-      "sha256": "412c59171a05456290d02085697f33e9683552c24cec02c5f183f82b801d61c0"
+      "bytes": 6126,
+      "sha256": "97fc91c931707ed91f19f8126c11c64516528e204f252d4164ab8e07cb1ce857"
     },
     {
       "path": "en/blog/activity-1140527.html",
-      "bytes": 6007,
-      "sha256": "990eb94abbc4d2f21166bf126885d7b167d77b59ffb12d2fa762210afded4758"
+      "bytes": 6235,
+      "sha256": "5a773e224918a6dc4e1f0a0e8b9d3157cb92adc511cc71f13cefd9184821e66e"
     },
     {
       "path": "en/blog/activity-1140529.html",
-      "bytes": 5807,
-      "sha256": "07a25bd8e4aae23f42162c605a509029a704c67fec7da564c851c69e00048554"
+      "bytes": 6035,
+      "sha256": "6b78c6cc38acfd3c74906609c6704d25995736ab748784170c0707b8fb866596"
     },
     {
       "path": "en/blog/activity-1140607.html",
-      "bytes": 6002,
-      "sha256": "5b103af66402861aadfa055b9a41b46d55b76490552dcd8319fc40fb91ef331f"
+      "bytes": 6230,
+      "sha256": "696a6bdcaa9ca536ce387149d1bd619a413e94d11232757e85a4b06b706123a7"
     },
     {
       "path": "en/blog/activity-1140705.html",
-      "bytes": 11788,
-      "sha256": "efa89c47b6c2e6a301150af0d7cfb3b9f4de3b676c6666a5c9a26c18415d933c"
+      "bytes": 12016,
+      "sha256": "cfb8928a8e04591ade1afa64fdbc15226a7a99cd6b95b2540126103f5a6b62d3"
     },
     {
       "path": "en/blog/activity-466f10c3451.html",
-      "bytes": 5972,
-      "sha256": "8577c788e0bc0a1714840cdbe82fd2eda606ea97a943573a7e5201875c0ce188"
+      "bytes": 6200,
+      "sha256": "bab44a378dc0230d02fe14be7a325a6d8a9c8ecba5c03008576ce1ccf77d7f64"
     },
     {
       "path": "en/blog/activity-6.html",
-      "bytes": 5757,
-      "sha256": "43020d296edaba34c74fa1aacc6cb4ac7e599400643b3a7ec4c3f9976a09fe24"
+      "bytes": 5985,
+      "sha256": "e8d688faa4ebd6150b45da37aa38f3c1d3ee4780f27cca30fa67901b08051d69"
     },
     {
       "path": "en/blog/b127aee8859.html",
-      "bytes": 5645,
-      "sha256": "b3bcd242cabe90c29cbe68cc8702be742fba5560ee606a00364eb1f91a0ff2f7"
+      "bytes": 5873,
+      "sha256": "cc660455f2d9625d50fa310261cc8f1d3ad65df2ad574d9a50c98489d2b6de08"
     },
     {
       "path": "en/blog/dc2c10fc11a.html",
-      "bytes": 6416,
-      "sha256": "66c29c6595d5fd37799a7f61af679c0d05112dc5ebcad715f2b0d0a0c5d22a6f"
+      "bytes": 6644,
+      "sha256": "2a7646116cd9c43fe572597c45fba3f52e17b87fb14f9a17790b6f794d4360fa"
     },
     {
       "path": "en/blog/index.html",
-      "bytes": 31677,
-      "sha256": "1279150e3253fc2ccb9385457cf64aeae2f6c87d21fb78627b3da18f4524b80f"
+      "bytes": 31905,
+      "sha256": "d55f70427098d0c4ea35145f47f5f7cf048ac574180c978cdc67969963de766a"
     },
     {
       "path": "en/blog/parkinson-0fa1925b25d.html",
-      "bytes": 6371,
-      "sha256": "9b3d38b893395609955aff00837238f286f0e6f6134a0471afc4478fc2b545ff"
+      "bytes": 6599,
+      "sha256": "e5208944cd72aa77c223f9a504ad5a0cee138ee470e50490833cb253ce50f135"
     },
     {
       "path": "en/blog/parkinson-2024-2025.html",
-      "bytes": 6000,
-      "sha256": "dc1c171183537bda1de82bba54ffe3a4d61a28d8222d5f1864ce80d608ccd95d"
+      "bytes": 6228,
+      "sha256": "46d18126c4e502e951212298bb362d1ddd04464a06b48268c4411c5fb1d57a33"
     },
     {
       "path": "en/blog/parkinson-2b4a029033f.html",
-      "bytes": 6727,
-      "sha256": "1b7988bcdedf6ea51ed953d1143c069d892317a1ac3c54d5c72261fc24ca6c0c"
+      "bytes": 6955,
+      "sha256": "d3b66306acdc3b2196f57eb9f19018fd035698471603b02b5cf63ce98f4c4390"
     },
     {
       "path": "en/blog/parkinson-362f7dfda29.html",
-      "bytes": 6081,
-      "sha256": "77615eda6f9b863319ccc18fdb26369a41c699bee6d9fb0509d416510d345394"
+      "bytes": 6309,
+      "sha256": "ac2d886297e508ca0f556dbc26d07b09889f597618fb9cac7591b7f2edd84697"
     },
     {
       "path": "en/blog/parkinson-38a7a983588.html",
-      "bytes": 6736,
-      "sha256": "4218c515f912d741bb586dc96ece664645fe5c6c1bac0c31621f38ec24c4b232"
+      "bytes": 6964,
+      "sha256": "57b7f447f3d5f112797051698bd3ab8e6449c363077042943341256b29b7ec55"
     },
     {
       "path": "en/blog/parkinson-97a2b32d43c.html",
-      "bytes": 7735,
-      "sha256": "59c58ee7dcb49a17d96661dfc2537a9e465b82c01a87cf973f24b42ebab34cd5"
+      "bytes": 7963,
+      "sha256": "9da6cfec840b49df282501d0bf5042a0ad12f2f3dbfa5e48bba917de162fb158"
     },
     {
       "path": "en/blog/parkinson-a92e4e924f9.html",
-      "bytes": 6219,
-      "sha256": "cc67db87cf00e321f46bcf605af3ab524d4dfd0cc5f647f45f2ed9b870ed5a0a"
+      "bytes": 6447,
+      "sha256": "d475d364a79d84f4b9545ff4ed03134181cfa979e557e7fa8e31f12ce73e0086"
     },
     {
       "path": "en/blog/parkinson-app-a907c769-defb-4568-a4c3-90004c48a842.html",
-      "bytes": 7440,
-      "sha256": "44f0e69b905cebe74837b2b53127ca6ec87253350939a4622c77db3ba6df60ca"
+      "bytes": 7668,
+      "sha256": "8139892407f155f477e94915054ec5541fbda9e1ce965e7b859b702d5ae92834"
     },
     {
       "path": "en/blog/parkinson-app.html",
-      "bytes": 5759,
-      "sha256": "a6cc9bd6193a8c802873c5a33d30f7fa922ef6986ba9c7522c8cbf63ef634dfc"
+      "bytes": 5987,
+      "sha256": "f471b5c365629f29a033dc128a595be3883a26f36250dbf777b3a35e75f28544"
     },
     {
       "path": "en/blog/parkinson-bd084d246b1.html",
-      "bytes": 6060,
-      "sha256": "b7406eb05a51ae3286aa0797cfe0c35a0a5590f358c81d50e55e611c61f574c4"
+      "bytes": 6288,
+      "sha256": "ed8ea5b8fdeac77a2f255006e53e9a2b7f0bf5781e5e0409526f0db35b9be684"
     },
     {
       "path": "en/blog/parkinson-drug-induced-parkinsonism-movement-disorders.html",
-      "bytes": 6475,
-      "sha256": "750d3c349bb24504721a4c90c04aae768c822c26ad3db5b561aed8a4941983cb"
+      "bytes": 6703,
+      "sha256": "c6b4a756c220816e6025f6191e7bed9be7203d34a550329c46ba0cfc2ea1dc5c"
     },
     {
       "path": "en/blog/parkinson-pd.html",
-      "bytes": 6201,
-      "sha256": "609a9c99779ed4d0def5503e42e59507321f76d155081a8db851955ff8744b7f"
+      "bytes": 6429,
+      "sha256": "5677475ecd7f42612267b04f56767f7fcea8c35bd5934962d4bd1b8bfaa980b5"
     },
     {
       "path": "en/blog/parkinson-qr-code.html",
-      "bytes": 6431,
-      "sha256": "fa556d07d8ca3d7ad9211de1a6d0accfb40096ba5f58837c484092030a02e570"
+      "bytes": 6659,
+      "sha256": "29313bc227c904e53e8427ca1f936129e865c021a6ffcfdc5cd60f63e20bb378"
     },
     {
       "path": "en/downloads.html",
-      "bytes": 5359,
-      "sha256": "345b4a03865fae70051ac607f867d52e9166705eb3cbbfed1e07a6aebe702d94"
+      "bytes": 5587,
+      "sha256": "932d6436afed7c89be5c6238a2d876f7e12f2d674054be8a7f456eff33828841"
     },
     {
       "path": "en/index.html",
-      "bytes": 15829,
-      "sha256": "526f5b20df8b658af87b35446127356ba7dc91fb15cd847f70d411d04b8e5aa6"
+      "bytes": 16057,
+      "sha256": "56b06fe16e94a7fdb5006b66d1fc899e1fd17f5df85ed7c7e030609165001bef"
     },
     {
       "path": "en/parkinson.html",
-      "bytes": 168203,
-      "sha256": "7d13db98d3dd4a30fe7171b9839336f67946b1aa9232cc98d94d228f935e64ca"
+      "bytes": 168431,
+      "sha256": "da2e67b686d8925a34209c85ebac0a53b23d073d52ae06f45cccbe122ddddc50"
     },
     {
       "path": "en/question-bank.html",
-      "bytes": 92181,
-      "sha256": "d3827d016b818195ef2f853674631c6fa069393330bacf03dc9be1ac75c32c4c"
+      "bytes": 92409,
+      "sha256": "b2224e44acbedaa8b32f340d040b1d3c1a31e72ad91f078a4f847b52690c7b62"
     },
     {
       "path": "en/resources.html",
-      "bytes": 34497,
-      "sha256": "662f1514cfaf554864fbe8a2bf950533b9b3e8d623381c3f52fea3027e0564e0"
+      "bytes": 34725,
+      "sha256": "6d561b4c3f609553715d4e4d385bccaae4ec4e55b4821a96b7a520c7e826b88c"
     },
     {
       "path": "en/播放說明.html",
-      "bytes": 7788,
-      "sha256": "aff84ad86be96718175064491bcfdb676d24b9f59f209292fe827b8c30bb40d9"
+      "bytes": 8016,
+      "sha256": "420c86598c5a2ec52ce3eebb09af470ed2992ff070dea0881ce0dabe48769a5a"
     },
     {
       "path": "en/社團法人高雄市聰動成長協會.html",
-      "bytes": 185379,
-      "sha256": "d28511799b8d921f42cd4aa8498a5d31291ace561f8dec1e4a87719f55e5df29"
+      "bytes": 185607,
+      "sha256": "c9441562c74cc3375eb2728c133adf94b26817c5eeeae2cf0f86b0aff66132d3"
     },
     {
       "path": "es/blog/081e9814498.html",
-      "bytes": 6985,
-      "sha256": "4ca002d008a6397bb9feec0c52a0c37d2a2e7787e255e02b90ae4515a31e638e"
+      "bytes": 7213,
+      "sha256": "4cf7fecfb768b0f699cadde1f9aae3f021b8a0438bc4e9443453e4e8ea2f8fdf"
     },
     {
       "path": "es/blog/0de305e00f7.html",
-      "bytes": 7362,
-      "sha256": "7de1b881ddb536a5e70e9612025430950f0c92bcd32762aebab37f5ad7092820"
+      "bytes": 7590,
+      "sha256": "6371fabb26c7ebf38561ba8ad818e5e8859bd23b2f50ab1923949dd46898366f"
     },
     {
       "path": "es/blog/1140508.html",
-      "bytes": 7599,
-      "sha256": "3e58d4f348f728a155479d0c8f3712d7704eba11169d65e5c927e73824eea6b5"
+      "bytes": 7827,
+      "sha256": "c093642939727a3c949980a4f9d6dd89611f9a0fc1cba084267e4e58a98a9e2a"
     },
     {
       "path": "es/blog/1140527.html",
-      "bytes": 7326,
-      "sha256": "808cb0af67fbf950743a501bf5c659adce4d308b4b8335353b73b8733630b088"
+      "bytes": 7554,
+      "sha256": "520e5e0dfe682c17d1a38cbf9b072556e2bce7e5a35ef69ea23127dcb825ca56"
     },
     {
       "path": "es/blog/1140607.html",
-      "bytes": 7787,
-      "sha256": "445420169c9c29cf5b22bb8ada2f8f2e6d680dd1eacbd2f8968c0f67624b785a"
+      "bytes": 8015,
+      "sha256": "883484931b533359fedada9e176d891dc3e88ed790e690918a0580e15949bedf"
     },
     {
       "path": "es/blog/1140705.html",
-      "bytes": 7297,
-      "sha256": "b2e8eafda739157c77da17ea868dbc2731a89258e92de58853e776f029e21ade"
+      "bytes": 7525,
+      "sha256": "481039cc00a7ff9b13994bf5945a01c5ee6f2ac1d4d9f4a18c2de67fbedc66d2"
     },
     {
       "path": "es/blog/1140722.html",
-      "bytes": 7570,
-      "sha256": "8fec24ab62a89019a6cc64ed1d0421b3ed3b703b83a9d0e418610229a91d622e"
+      "bytes": 7798,
+      "sha256": "5832e8334167613386cbf7d10f55bddcb957a1b6889d2ae9d98006568df3b8d3"
     },
     {
       "path": "es/blog/1140809.html",
-      "bytes": 7321,
-      "sha256": "cce2a7e3822add2cb6962e155fbbf4d8370c7f447ab3e415c4c9dfdf59127e35"
+      "bytes": 7549,
+      "sha256": "505feb70fbb353be02ceee2b6e92d75fbddc1e6bd39a8d19ea601df2921e656e"
     },
     {
       "path": "es/blog/1140819.html",
-      "bytes": 7880,
-      "sha256": "69f4841f46d4ef41343bdc035a501ea0ebeddcb718bd8574cc3b668ded0b20ab"
+      "bytes": 8108,
+      "sha256": "4319c70b6542ddadcb89b4f98bfc7eb472b4af9ef965698585a290e4931005d2"
     },
     {
       "path": "es/blog/1140823.html",
-      "bytes": 7461,
-      "sha256": "8a91bc49c9ad6f419938273276d2f5e5b36937ea3460440632f07910be822705"
+      "bytes": 7689,
+      "sha256": "fd30fdb492ef4cf9e2ae8c9de04ec53ff9d9ec2d0f51612bcafbc6241d9db0f3"
     },
     {
       "path": "es/blog/1140826.html",
-      "bytes": 7564,
-      "sha256": "b4b0be9cdb5e40f46a031630725f5c87608a5ccd0b9e7fd75b05b327abca60be"
+      "bytes": 7792,
+      "sha256": "5861172b8ed441b2fed6c5e0a930968598543e3514bd5f89eb8a7d68da361994"
     },
     {
       "path": "es/blog/1140902-diy.html",
-      "bytes": 7768,
-      "sha256": "bf4597c20cbacf4b9b9cc73f737558859d95ced03ee91b6c40f2c8d5fadc5b2e"
+      "bytes": 7996,
+      "sha256": "24773b868e9baa779a57a06d3270c0ac811d57aa8554e3513407e9fa3de9cffc"
     },
     {
       "path": "es/blog/1140920.html",
-      "bytes": 7101,
-      "sha256": "37e3a1cefd52b3d015762c71b0818d3ab5e2c657e6574575377993ea9d9d199c"
+      "bytes": 7329,
+      "sha256": "3ed6bbe5f6faa0394645352942bc9019f4427974faf3a9a8ffafe952bf1429af"
     },
     {
       "path": "es/blog/2026.html",
-      "bytes": 6667,
-      "sha256": "c2448f6a16a05800a05c573ded76c875ff1917280b2115d7fb0dae6eb282ec50"
+      "bytes": 6895,
+      "sha256": "d1d89c347a764e37efe0e80bf25b2e6d401c1bf82c54acc2f607f0bf1cb6688c"
     },
     {
       "path": "es/blog/20478397518.html",
-      "bytes": 5775,
-      "sha256": "0b6a2826b1196cb6a834185c5777e1da9fceae7889ea36d483bb495d2b27cc2e"
+      "bytes": 6003,
+      "sha256": "839bcdcb425ab9eee37518b307f63b7fafe200f5ff82d73e8066a80d7dce9cf9"
     },
     {
       "path": "es/blog/33cb605cf06.html",
-      "bytes": 9908,
-      "sha256": "809266f7ff82ef911f9a51086f1f6de5ec3ba04975980f79310ef742f61dfc97"
+      "bytes": 10136,
+      "sha256": "fef0a5d068b3dcc877dee9ec616a7921739af77a2757262373e9e694642a940d"
     },
     {
       "path": "es/blog/445cc624575.html",
-      "bytes": 6610,
-      "sha256": "2a371f3607372ce8888f391a59f419dac434071f0d86b75f998ae54770df8ebc"
+      "bytes": 6838,
+      "sha256": "42a9181250aa6c821df7d03666450aea3672038569b0b575ea8c66f358c12bc8"
     },
     {
       "path": "es/blog/4f9ab696101.html",
-      "bytes": 5775,
-      "sha256": "654d2b27f8a4932a537861b1d2bdc8b72763440f4d67e1cbe2859fdac8122da5"
+      "bytes": 6003,
+      "sha256": "98353be7dda240f9c32596cf153bb58e512a59988d2a78c28684920412dff198"
     },
     {
       "path": "es/blog/7ce89166493.html",
-      "bytes": 6469,
-      "sha256": "5f74c92cec162bfc4f2c5178f70a66b2870d138dfa2bdf77c6a24b1541a2a70d"
+      "bytes": 6697,
+      "sha256": "d23b9435565157441f352f51d1fad5a0a3f471b33d467cccb569f2ff54687f35"
     },
     {
       "path": "es/blog/8494322ddbf.html",
-      "bytes": 7192,
-      "sha256": "00ca6353fd41a9fc47a301525cf2065e0e1baee7c0073efaa060daf74dd56f34"
+      "bytes": 7420,
+      "sha256": "1cff54317a3bf2d69f068fc2223fa11ffd6295b9e45453d6698a721bda523153"
     },
     {
       "path": "es/blog/a63f966cedc.html",
-      "bytes": 6646,
-      "sha256": "5dae009e044f2a9dc51f185bfca623f7c24a2c0d6aff8d0b4a2dd31f3af89dfa"
+      "bytes": 6874,
+      "sha256": "fe41e729c71b86387e20eef36e3ec399bcf48d798ab356c084479b49c68f510f"
     },
     {
       "path": "es/blog/activity-114-02-20-part3.html",
-      "bytes": 6028,
-      "sha256": "7d93eecb40fcedff182146762ebaf4d852ec88aa6978851e5762e6bf962c2969"
+      "bytes": 6256,
+      "sha256": "4508b949f1fafe3d292ae77aab466454aa4412c8ea13012e6149155a93f20404"
     },
     {
       "path": "es/blog/activity-1140215.html",
-      "bytes": 6252,
-      "sha256": "9120355d4ceb96357c6a662ef9399184376c5f2e48edf274cc11734c198d6e6a"
+      "bytes": 6480,
+      "sha256": "88f35ac62384588063f98ab1c589a9a7e7baceb7e828aa3b009ea0ab609f62ae"
     },
     {
       "path": "es/blog/activity-1140308.html",
-      "bytes": 5995,
-      "sha256": "97e6458a6c25bbdf97e39a5062c35c003bf573e9b16b87ddc9f9f339ccc287c5"
+      "bytes": 6223,
+      "sha256": "9556223efadfccbc8ba93e2577290a17214e31078d4fdb7310a1e651f7476cc4"
     },
     {
       "path": "es/blog/activity-1140315.html",
-      "bytes": 6078,
-      "sha256": "da317de9ce3a3f6a8c915a90538650e8cebdddd35eaff8909eca097641c9ba78"
+      "bytes": 6306,
+      "sha256": "080d128d39be4d47d933b77a7e0d103418eee0ce65d482c88aadd11fabe0873e"
     },
     {
       "path": "es/blog/activity-1140412.html",
-      "bytes": 6100,
-      "sha256": "25fe7da5b2beb6cddcd1441aa5f7f5c110bbab3c1c04f8f61f7764fe8890b69f"
+      "bytes": 6328,
+      "sha256": "64f6b9df55f26a158b5e17f3527ae2ce8fb6ed4faedf811de6f8b957ab7901e4"
     },
     {
       "path": "es/blog/activity-1140508.html",
-      "bytes": 5936,
-      "sha256": "037b10e156e2c9a79fb20beda5f11baa3218388fb0e642a3f539b1b5820f904d"
+      "bytes": 6164,
+      "sha256": "a8e222edd4d21c38d76c395dda7857b849074a3225a2869c23b21183804a0ff0"
     },
     {
       "path": "es/blog/activity-1140527.html",
-      "bytes": 6042,
-      "sha256": "123a79285cd18d975211fd976a917f54061cd874d777dc6d00fd758c57fa7e7a"
+      "bytes": 6270,
+      "sha256": "e2f0a8b79e1f7298560f0112b575c5ce28b19cbf970977de590af2a341cbe559"
     },
     {
       "path": "es/blog/activity-1140529.html",
-      "bytes": 5845,
-      "sha256": "1b802c45cf1c63e4f62b911c096bbd1e5c851a9278e0d278aebb7261b16817a8"
+      "bytes": 6073,
+      "sha256": "9eb31eaf5e8b453d9154530109831c23f97c64069c003dcef21545ef8afe3e2d"
     },
     {
       "path": "es/blog/activity-1140607.html",
-      "bytes": 5993,
-      "sha256": "d62dae97982053f8a6cf1f9d6386e99c83beba838909931062bb8278d6a3fb14"
+      "bytes": 6221,
+      "sha256": "a3935b41742a9a0b7cdcf1ff91ec95f2a2a6fa08b50d7f97d41bff756824cd8d"
     },
     {
       "path": "es/blog/activity-1140705.html",
-      "bytes": 12356,
-      "sha256": "19f2278f1019e9a83c1eb0dead7621f3c386a41c72bcb48e8d3cf5f7671c4bf6"
+      "bytes": 12584,
+      "sha256": "f7f9105d2b57ff739c0af998069984ffcd3fd9d43177ed424b12b9a3b902aef3"
     },
     {
       "path": "es/blog/activity-466f10c3451.html",
-      "bytes": 5961,
-      "sha256": "900d4e3dd7993f2c07dc2a3d327064763e3e1f0a041fa4e5b3c698ef60d06d43"
+      "bytes": 6189,
+      "sha256": "f731e63fcb42b3288211037702261923e584c499abfcbaab43b421079fc66fd6"
     },
     {
       "path": "es/blog/activity-6.html",
-      "bytes": 5834,
-      "sha256": "830305db9c988fa4835179832120a0f449910acb1871b8d8fc2865789d5d7be1"
+      "bytes": 6062,
+      "sha256": "da7cec013f0e04ca34f1dd5f4fbcd67f7637c911805e014688d6fe0bff10fe98"
     },
     {
       "path": "es/blog/b127aee8859.html",
-      "bytes": 5775,
-      "sha256": "18a9888d8dbb9565ea02a9b280565f3b9ebbbba9e451567d9b9d6c7df132ceaf"
+      "bytes": 6003,
+      "sha256": "ca48ccaf86c3975cf5d52b3bd7d984cacc4098cb108313a2b185b09e4a1e7219"
     },
     {
       "path": "es/blog/dc2c10fc11a.html",
-      "bytes": 6447,
-      "sha256": "5868e226ec726a7fe2ae1f2536a5cb04625b09794f9b16a504d2645198fe5f23"
+      "bytes": 6675,
+      "sha256": "4bfdb67f20e47685e7b7ffc629355b1d3e8709b9c935dc43a760df5d6106c73f"
     },
     {
       "path": "es/blog/index.html",
-      "bytes": 32436,
-      "sha256": "44ab95aefc2ff460e22afe657997afe65de237e79b6044a44e989b5a97d70c2b"
+      "bytes": 32664,
+      "sha256": "e1730bdd7cae8e919e21add70f6ede54a926a05447531f0ab4d3e1c5cde7b170"
     },
     {
       "path": "es/blog/parkinson-0fa1925b25d.html",
-      "bytes": 6440,
-      "sha256": "0949c8fbe7a8cd27c55cef718aa507de2922d7b01bd9761440e5c8986635a815"
+      "bytes": 6668,
+      "sha256": "5884673d2a3c0b2a3b39910f84cd14d9be6d3c9d12aac297c877c18efe90a6a4"
     },
     {
       "path": "es/blog/parkinson-2024-2025.html",
-      "bytes": 6041,
-      "sha256": "27307aecfacc06afe1cd08b941bc16419a1243016beb955edf99cb2b86e47dd1"
+      "bytes": 6269,
+      "sha256": "af586bae6425accac70831c5d441b5c2ad013937f5031bfe163700e77465aa35"
     },
     {
       "path": "es/blog/parkinson-2b4a029033f.html",
-      "bytes": 6922,
-      "sha256": "5320c5656f4105b647a8f22ca40cd179bfd90f67876f3995f02e9394256ecc10"
+      "bytes": 7150,
+      "sha256": "af54ad78b0f00db7b39bb912c45a6809a7c760af586a9d3015e762b2b0c64d2c"
     },
     {
       "path": "es/blog/parkinson-362f7dfda29.html",
-      "bytes": 6157,
-      "sha256": "161047837b502a31b2f3ec092893b5490e4cb4d0691af60c722b7b6d8eeefba8"
+      "bytes": 6385,
+      "sha256": "6c5924b5340e6fc471d6c94b0292c2430d06cf8768ccf46d8f09f4898ae5e7d5"
     },
     {
       "path": "es/blog/parkinson-38a7a983588.html",
-      "bytes": 6913,
-      "sha256": "df97a29a59a31f99cff1152cb335b1f67e1aece7d228961d3245e4f0f6b3cd73"
+      "bytes": 7141,
+      "sha256": "30273cac74aaeb6811073aef5e0051828082df56abf008f8e1b3a754a5507807"
     },
     {
       "path": "es/blog/parkinson-97a2b32d43c.html",
-      "bytes": 7843,
-      "sha256": "c1983650e3984e6833e578f2daa957bfe48cf39fef6a3fdb07ed916f09443f3b"
+      "bytes": 8071,
+      "sha256": "a7941fdcb54ac33fe09df7e7c9be1986c3c6f51b54ebadbc3b811d13c4d101f7"
     },
     {
       "path": "es/blog/parkinson-a92e4e924f9.html",
-      "bytes": 6182,
-      "sha256": "a25bafd287af6f568ed53118a976fdf30bc0c1f8a831e39e853bd0e9ef7b2d3e"
+      "bytes": 6410,
+      "sha256": "2f92b2ba739cc56cc8453b697644a270d9941cdbafcad2b47eb1bfdb66424936"
     },
     {
       "path": "es/blog/parkinson-app-a907c769-defb-4568-a4c3-90004c48a842.html",
-      "bytes": 7559,
-      "sha256": "b27259e2af1683ceb202ead6b729e7d6929203a957ebd9acbb9932c2e225a08a"
+      "bytes": 7787,
+      "sha256": "6826b6c577fb22f45c69cfa914ed170540e0bb218a5cd9263ff07193235d2576"
     },
     {
       "path": "es/blog/parkinson-app.html",
-      "bytes": 5877,
-      "sha256": "bc2e12a68cd4428ac6c2c3f1c67e11f5c53928f90736cb65966a0c2cbca5ddb1"
+      "bytes": 6105,
+      "sha256": "5b83f0bc51614088e1b6353d13cf30fb21c70621d5f230f5eb6b42f93df8aefd"
     },
     {
       "path": "es/blog/parkinson-bd084d246b1.html",
-      "bytes": 6072,
-      "sha256": "9eb1ffde97c5367cf5dcd59d3dfb139d2f32e37d505f203c9d05e08ee6c6be6f"
+      "bytes": 6300,
+      "sha256": "e86bb8be4c2526f07622bcf18cd6f1607cb0861a5cfbbdfa2fd8dce7773d290d"
     },
     {
       "path": "es/blog/parkinson-drug-induced-parkinsonism-movement-disorders.html",
-      "bytes": 6565,
-      "sha256": "bc4d121c416ec17b4c24f9e33e2cead1932764ae4cc14481038f6194b7c574a4"
+      "bytes": 6793,
+      "sha256": "55fe72dd1a046a03baa8860bf12e0bc0d7715202f21c673a0f97c7bfb3c67f72"
     },
     {
       "path": "es/blog/parkinson-pd.html",
-      "bytes": 6362,
-      "sha256": "0e39ddee1be04ef25c23f090c49b7b9bec385a1de99f9783300aea156ac870c1"
+      "bytes": 6590,
+      "sha256": "43d7718ad70979d0496f29ba7012b0ee59bc73627d5cf95c1515bca0ea0daf89"
     },
     {
       "path": "es/blog/parkinson-qr-code.html",
-      "bytes": 6493,
-      "sha256": "6bfdd2ebba05f31a15f5793aead36875de2d809d56741c651c6d2e54c9389f9b"
+      "bytes": 6721,
+      "sha256": "eac57a90969c68e18f63135b532d449723403a3a3eeef7cdabb053becf29a589"
     },
     {
       "path": "es/downloads.html",
-      "bytes": 5405,
-      "sha256": "46516d91642e10828a0af4e6a9126e3e0ae2df83caa1b1bdc960c205bfbf73f4"
+      "bytes": 5633,
+      "sha256": "669b51430eb965f85ae45dc5229c5fb472146bcb40672b6be263d1b09f4104c1"
     },
     {
       "path": "es/index.html",
-      "bytes": 15936,
-      "sha256": "2e435ce90fdcd9d07e37c2c3db69cdd5b5aba1612bfe0ee4466527f552c2f249"
+      "bytes": 16164,
+      "sha256": "4d545045225b45777c24b3a2f8e794a1c50eff02c107c62f9ac331890089c360"
     },
     {
       "path": "es/parkinson.html",
-      "bytes": 169439,
-      "sha256": "e2d2078e7187dd03428d0a9e84f6807de54e8e99cd4aebdf11238a9aedf8815b"
+      "bytes": 169667,
+      "sha256": "eae0363aef1d287e8191e7c99023aa36ddc8703abdeceb46f0fa529f126b2990"
     },
     {
       "path": "es/resources.html",
-      "bytes": 35533,
-      "sha256": "684fe0adedbf4281d40d533558dc2f283fd3f1474971be10adfb719ad3779882"
+      "bytes": 35761,
+      "sha256": "d2da3f87d2330ff51b228a8a528948ffd7876e585508387d7a2bbde69de02724"
     },
     {
       "path": "es/播放說明.html",
-      "bytes": 8217,
-      "sha256": "a3a7d2bd8ea69ce9b0702f0fc999d02f8ca837c3afa59a5da47abdcb83f47cd9"
+      "bytes": 8445,
+      "sha256": "c5676089253721e763dce5f9f0b9b4c87473974005f53462f004d8627ef80f68"
     },
     {
       "path": "es/社團法人高雄市聰動成長協會.html",
-      "bytes": 187340,
-      "sha256": "78c3235ad1d68f762af4d7fad4e83afeb3fd79eada4c5d08f86f4cdac0c3f8b7"
+      "bytes": 187568,
+      "sha256": "d5361dfd507c51af494f22de43f2d247486c1168f800851042005dc97a8af555"
     },
     {
       "path": "fi/index.html",
-      "bytes": 15919,
-      "sha256": "ad57948975fc207da55246991638a45b8c402caaa8cd88f235c547fd050c9c96"
+      "bytes": 16147,
+      "sha256": "a724ac3ac0db2cb1b6d1b6f1950f0a70891ef4abdd2bb59b18b426e4bd2cb615"
     },
     {
       "path": "fil/index.html",
-      "bytes": 16129,
-      "sha256": "1421e2a393366a957d1d2d0ad9812b3d5d2109c64f8003d27166becaee4d3114"
+      "bytes": 16357,
+      "sha256": "8aaa2eb226cb12a2fdb05faeed48adcd2f504aa742b70b6743a1edf0ae5da706"
     },
     {
       "path": "fr/blog/081e9814498.html",
-      "bytes": 6985,
-      "sha256": "6edabce5b23d03c27282d8b9121f1a43932f119f2a4f45c8714187d837ad3b45"
+      "bytes": 7213,
+      "sha256": "9116f9a1651d1dda60a70a600d3f869960059e5d83700057ab5adc07ff835631"
     },
     {
       "path": "fr/blog/0de305e00f7.html",
-      "bytes": 7335,
-      "sha256": "5848c309eda8d75cd288c92bfb6f4a5e25c8a703ebef34f18257bf1be1ceaa8b"
+      "bytes": 7563,
+      "sha256": "72dd391428417d5226ba882de1f7394d878b62238c254212432afbae731ef272"
     },
     {
       "path": "fr/blog/1140508.html",
-      "bytes": 7708,
-      "sha256": "a3e3d2c780c59c3b8b47981d89d22f46a6413e0fd8c6115f687b290d4cbaecb3"
+      "bytes": 7936,
+      "sha256": "1addf8b4076e69ede3c967cb38cebbb1b4e3c22ca485895094bc631f96a4bf04"
     },
     {
       "path": "fr/blog/1140527.html",
-      "bytes": 7417,
-      "sha256": "32aef542588e27b27a8645aeb26a65d610f96f3e588da51a35a005b144d3bccf"
+      "bytes": 7645,
+      "sha256": "95b81736917c567ddb301d0f18135f96e9f994c532f4246817f146e2e434c873"
     },
     {
       "path": "fr/blog/1140607.html",
-      "bytes": 7828,
-      "sha256": "b9c38753782befd43015e58337814d9582c2cdb43faccde16a572be53d2707ce"
+      "bytes": 8056,
+      "sha256": "a1a9955cfe645d278f742c22216323a06a31887fd730116451d1ecdfa1c68705"
     },
     {
       "path": "fr/blog/1140705.html",
-      "bytes": 7507,
-      "sha256": "512c62a80c806973b9207a77bf1037ef8eb33195eef9987599ddafc97fcbcaf5"
+      "bytes": 7735,
+      "sha256": "f6eae212de899b3c7d86b82184af22fa1fa6cde638daeecb09c11a90925b4ee9"
     },
     {
       "path": "fr/blog/1140722.html",
-      "bytes": 7715,
-      "sha256": "cacc0f07112af63c1b8009ce56a1113b1144e55a56b4c321376d4be76142a779"
+      "bytes": 7943,
+      "sha256": "5f2b8b5d5dd8ba569ea5d6ee2d46d8e06e1f595e5c402eb226a47a275f819ceb"
     },
     {
       "path": "fr/blog/1140809.html",
-      "bytes": 7498,
-      "sha256": "949472e1e5e2e75aab9b3a30b415348da9aa98eaf069c90a3ab8e2a8161c00c6"
+      "bytes": 7726,
+      "sha256": "fb914d19f3633c36d6a3453793c6a30dd357e90a284048b49e73e5928af8c9bd"
     },
     {
       "path": "fr/blog/1140819.html",
-      "bytes": 7914,
-      "sha256": "9c5067198a1fd031234859192509d5575038391c3b17bb80b3610a94ce64b866"
+      "bytes": 8142,
+      "sha256": "eed3fd8f8819f631e5361f63312fc108f92039569c422da0d4786a30041f805d"
     },
     {
       "path": "fr/blog/1140823.html",
-      "bytes": 7512,
-      "sha256": "d06ec3670b240d7a347157a52f36a3d22324aebb75d4db32b9694656076227ff"
+      "bytes": 7740,
+      "sha256": "10949af4a04e15bb71e8c0e1f7c64dcca13184c1efba624fc7e4d721ff0bac8d"
     },
     {
       "path": "fr/blog/1140826.html",
-      "bytes": 7607,
-      "sha256": "8acff4b8ddefd23370510579b444cf644145b219c7439f63b670dfb0c09b8d6a"
+      "bytes": 7835,
+      "sha256": "5bad92613faa182ddb30d4c7c8f2dcfc0883b35286f24c09eedb3931cb265566"
     },
     {
       "path": "fr/blog/1140902-diy.html",
-      "bytes": 7871,
-      "sha256": "9a1ee7791353df892c39c2a5398441a1d03d2450293ca5eb035cf4336148fb55"
+      "bytes": 8099,
+      "sha256": "225942fdb525cd2994404f695615576bd6441ff4b89e2ea1c4c78af9e4b5452c"
     },
     {
       "path": "fr/blog/1140920.html",
-      "bytes": 7208,
-      "sha256": "a44abf3b3f537453728267c04dc00a7cf672b5a74a413f6ebe98e88e1331dea6"
+      "bytes": 7436,
+      "sha256": "42434b17e1bb86b44b59bde534cfddeb75d0719d4b84a4950fc7e11bc4cec031"
     },
     {
       "path": "fr/blog/2026.html",
-      "bytes": 6642,
-      "sha256": "74c376048b43473410acad4930c4e03f421bb2589fe4ff92acebe0dd4002c9f6"
+      "bytes": 6870,
+      "sha256": "a852431f0fafadc8273695dfe91f7dc8e4f293b72b29a9b2bb39cd5b18ffec98"
     },
     {
       "path": "fr/blog/20478397518.html",
-      "bytes": 5795,
-      "sha256": "0761c65c558a82bd6dc64f972e5df8a065d424579308bb0e39b1c84d1ab98d95"
+      "bytes": 6023,
+      "sha256": "ca3cb1647ee3c8d6126e405e1939e88a76ea22a3bf3e419a3bad171607bbd9d5"
     },
     {
       "path": "fr/blog/33cb605cf06.html",
-      "bytes": 10132,
-      "sha256": "dfb5b632b0f45821b9f216bfef6337aa6aa96e19116db0cf4aa8fae38d77f47b"
+      "bytes": 10360,
+      "sha256": "d11c9c1ad44e2bd3c1835e6662337491db439b8df7fe31217c574fe5e3e932cc"
     },
     {
       "path": "fr/blog/445cc624575.html",
-      "bytes": 6779,
-      "sha256": "d2749955fc518cd0b99b6dd9c7ab830e09fbe471a4e1af9b91bf5a69a8800b5a"
+      "bytes": 7007,
+      "sha256": "b5ab0ba81eb74cab276448885ad931a8940f843e6b23504b6b8452416c220737"
     },
     {
       "path": "fr/blog/4f9ab696101.html",
-      "bytes": 5795,
-      "sha256": "407330f79ef0bb4fcdbbe650da08cb21de86cf6a8e34a3b424bc0538c48725b6"
+      "bytes": 6023,
+      "sha256": "5ac97649a9e19750a15760698f388059d9e16e4fedf286b4defbd2a6dbc9230e"
     },
     {
       "path": "fr/blog/7ce89166493.html",
-      "bytes": 6709,
-      "sha256": "2d009886fdecc776b99599c9c0c07144acd11ef6b66facac94c418cd53b0a36d"
+      "bytes": 6937,
+      "sha256": "18d86e501fe1c41a7e7bce3407babc7fb460e331fd73b9f311cb38917cb4ba3b"
     },
     {
       "path": "fr/blog/8494322ddbf.html",
-      "bytes": 7452,
-      "sha256": "e36807b6cdec45ae4cc907e85bf30fbff638cefdc2af5b3112ea68df6afe9177"
+      "bytes": 7680,
+      "sha256": "a207d24f2ca189deb5364d5ddd9ab2e72444f5fd0749b7a048c87a8c7e9842a7"
     },
     {
       "path": "fr/blog/a63f966cedc.html",
-      "bytes": 6942,
-      "sha256": "420eb2d70288414e224f6dfdfe026bcedf5154e9072e2fdf63d1035c6f7b3390"
+      "bytes": 7170,
+      "sha256": "7e9bb4c343a3d5bcffcfd4b3940f4ec65ca2eb09dc6b92b0ced9e6354ef0268c"
     },
     {
       "path": "fr/blog/activity-114-02-20-part3.html",
-      "bytes": 6138,
-      "sha256": "21343393239dc00bffd8515b8d18a7eab20bc20650e9213597aa8becca763639"
+      "bytes": 6366,
+      "sha256": "5015065aaad59f22940d7d913d45072558a6743f55a6eb1149f2f5ec33be0c5a"
     },
     {
       "path": "fr/blog/activity-1140215.html",
-      "bytes": 6454,
-      "sha256": "abbd49d8821ad51b9430ed6a117d862abfe39a028f95363b8d49ebde3f0653f9"
+      "bytes": 6682,
+      "sha256": "33600156a98358f66804b7788722239ab6a4df393099d6d4735ded4cb0962a78"
     },
     {
       "path": "fr/blog/activity-1140308.html",
-      "bytes": 6084,
-      "sha256": "b35c2f03feab301b46a8a334c8fc835e93d883d8214420cf99ace65e299e6a39"
+      "bytes": 6312,
+      "sha256": "026d1c6b8076a4f1544112178cd4c4a4810844f622b997ea869b665e6959182d"
     },
     {
       "path": "fr/blog/activity-1140315.html",
-      "bytes": 6253,
-      "sha256": "2da6ee357ca192d0519bc27616b650019ea84f14b97f7bd67eec4dc756a71338"
+      "bytes": 6481,
+      "sha256": "7ea433b9b3e114add795c199cff37e8bae0968ac8bf41bad1a724b6e05eb75e0"
     },
     {
       "path": "fr/blog/activity-1140412.html",
-      "bytes": 6220,
-      "sha256": "1ab46a5def0c0f68f4eecd568472b27cf177fb9a19e25c8716750ebb1d2bc110"
+      "bytes": 6448,
+      "sha256": "1aff3f431c31e7ea136e09d8576d6148b2149670657d0c0d6abba21038663200"
     },
     {
       "path": "fr/blog/activity-1140508.html",
-      "bytes": 6073,
-      "sha256": "838566edcf36620584fad959730704d728cb8ffb36347a5f0fbbcf6128d872f7"
+      "bytes": 6301,
+      "sha256": "b2aee99c861ce8431d137584bcb0edb44419cbb98425ba588948cf9a6cf30b76"
     },
     {
       "path": "fr/blog/activity-1140527.html",
-      "bytes": 6252,
-      "sha256": "3061a062d39ef58c202091448fbeac5a1afae427062b9bfbf9c21a15f7edc67b"
+      "bytes": 6480,
+      "sha256": "c69ecde830683d8b12efe0f6d5b81f3f5532d04e1a84f16fad024c099860a9da"
     },
     {
       "path": "fr/blog/activity-1140529.html",
-      "bytes": 5959,
-      "sha256": "df6a3cc3c02538b02525579dd287457e61e1a16c3ee9b6c1606a4f1b8c7203fb"
+      "bytes": 6187,
+      "sha256": "845e92932d36983941e30e42c365175a24ae6de24f810700ed4dc7365c69681f"
     },
     {
       "path": "fr/blog/activity-1140607.html",
-      "bytes": 6194,
-      "sha256": "55554d48e7b7f38262f1b2b1a5ab78430a76ae601e36f0dbfd784f2e932725e2"
+      "bytes": 6422,
+      "sha256": "663660b48b7119a891542407c2d33a5d84803ae39a6f163aec04d29ba3b22baf"
     },
     {
       "path": "fr/blog/activity-1140705.html",
-      "bytes": 12791,
-      "sha256": "3ad15bdfc467e12b7aca33614e4384adab51b548a3ba01a780d84f3f151a640d"
+      "bytes": 13019,
+      "sha256": "365b41b0b8e3760a3bfd4a0524033dee874b228c742cb24402b1fc0d3b6eadf7"
     },
     {
       "path": "fr/blog/activity-466f10c3451.html",
-      "bytes": 6157,
-      "sha256": "ee4c66bc6b0e64422c1ec6da466c3078bfdf9ceb4f65c13dfff107838ccb059b"
+      "bytes": 6385,
+      "sha256": "b27cbfcbf133bc10f4e4ca81918c9e8237c3cbc87fd345dfd7605b6f7ac5cae1"
     },
     {
       "path": "fr/blog/activity-6.html",
-      "bytes": 5930,
-      "sha256": "df11a02b66403cce72a0b7e44fe19e5e88a79606c97e12a7c0cb134c566be1cd"
+      "bytes": 6158,
+      "sha256": "7ffc437e9add70b200c389646e6876e4d97d87e007a476e476f72690c9a468f2"
     },
     {
       "path": "fr/blog/b127aee8859.html",
-      "bytes": 5795,
-      "sha256": "9d3d19f8ba1817b6c1758cfc5ac8ce4e17f0b4cebc01f78d52c7bfa970480e65"
+      "bytes": 6023,
+      "sha256": "6c986800a7b011f5191d1819be8190a7b26be56da67cc4e4977a7b9de2ed77e0"
     },
     {
       "path": "fr/blog/dc2c10fc11a.html",
-      "bytes": 6555,
-      "sha256": "299387b8bff9eecc120e10771e837d697edba4465db71d5ec9b338b85a014331"
+      "bytes": 6783,
+      "sha256": "2df0aff2c303b96ab44739f32476d092b60bfeffc9c29f2362a507588daf1e17"
     },
     {
       "path": "fr/blog/index.html",
-      "bytes": 33092,
-      "sha256": "95b34167aad54ac305dff010e9591ab7acd195a0dbc7b5fb83f30da47717b9ad"
+      "bytes": 33320,
+      "sha256": "38788e4e6aee1dcd655cb94d3f2cb3cca33053aae307100cdada428bae9356bc"
     },
     {
       "path": "fr/blog/parkinson-0fa1925b25d.html",
-      "bytes": 6671,
-      "sha256": "c9da0c490405b9c5c2772ae10084c5a94d12e93180de06e70c12832210ce6ee2"
+      "bytes": 6899,
+      "sha256": "82a2ae49d2edc3fb24cc4255aafc29889b7d612f6eb95df3402c8b3d8d898292"
     },
     {
       "path": "fr/blog/parkinson-2024-2025.html",
-      "bytes": 6145,
-      "sha256": "247583955a6812083020ae980b5159d80a6aea7fa29571b905448461639b472d"
+      "bytes": 6373,
+      "sha256": "7f586609611b1a7f8cb9102ec645fee46b332fbae657352dbde5d14ee40be183"
     },
     {
       "path": "fr/blog/parkinson-2b4a029033f.html",
-      "bytes": 7058,
-      "sha256": "7e27aa3a37a97594c0e62f14bba2e311e04240b6e656d5116bee31d71372e7c0"
+      "bytes": 7286,
+      "sha256": "dc057a0696f13b33af48721b4c571041410071813468e8778e3642201a9718a0"
     },
     {
       "path": "fr/blog/parkinson-362f7dfda29.html",
-      "bytes": 6270,
-      "sha256": "6c92d00be37a6f0d4ebcfdea374041328eb50e613ef93ae11e6d4c430f1e4117"
+      "bytes": 6498,
+      "sha256": "ef756608e92735029616672d8b364ec670de2a7582a92bcd810c97a83fae4e05"
     },
     {
       "path": "fr/blog/parkinson-38a7a983588.html",
-      "bytes": 7076,
-      "sha256": "7bc2541e913d85ce1571b1324bd0668e8abe7a817d5d0639a7f577c772cef6c4"
+      "bytes": 7304,
+      "sha256": "efc522ad9b4251e0955daca001cae6c13472a3542f66ba61ae2a564b252aa843"
     },
     {
       "path": "fr/blog/parkinson-97a2b32d43c.html",
-      "bytes": 8367,
-      "sha256": "47b3488dca02cfe14db6de30d8706411dcea8a3f34404bdf754ddbe8613f199e"
+      "bytes": 8595,
+      "sha256": "6b960b2245201c1626585c8db1a59966e35f6c7538286f4851d4202b7a234f2b"
     },
     {
       "path": "fr/blog/parkinson-a92e4e924f9.html",
-      "bytes": 6420,
-      "sha256": "ffa3d3ea70a379997b1ff2280782e7dedc8f25c716b466a47164d9f95614bca7"
+      "bytes": 6648,
+      "sha256": "3e6af8239d4ea955eeabb3fc3d328daf34baca22d38ddb19f5d917bcfddc5bf1"
     },
     {
       "path": "fr/blog/parkinson-app-a907c769-defb-4568-a4c3-90004c48a842.html",
-      "bytes": 7811,
-      "sha256": "5e405231452ddea6276b60f6c75720034b2dcda5d996909753c5ab2ccd84e587"
+      "bytes": 8039,
+      "sha256": "90f01dd5895aa0513d74aea5eebf915dc126f68b772d5debe9f1fc73cef2024b"
     },
     {
       "path": "fr/blog/parkinson-app.html",
-      "bytes": 5898,
-      "sha256": "13266109bbc7eb78e9d7b124de3053f33d7c6988753d1ea6be46328d23f5b25d"
+      "bytes": 6126,
+      "sha256": "455e1fb6cb2ded11878f35401d1bb1baf954144630490bc0b1067ec1a0848dcc"
     },
     {
       "path": "fr/blog/parkinson-bd084d246b1.html",
-      "bytes": 6267,
-      "sha256": "4de64b8b0dcaf87d23937276cbb26a0b6e583e9aa4f7c4fb6eff54b39d04aeb7"
+      "bytes": 6495,
+      "sha256": "e8326b60b90438628046ca0806266b4b94c2651506a67e5b3091ea03e3578114"
     },
     {
       "path": "fr/blog/parkinson-drug-induced-parkinsonism-movement-disorders.html",
-      "bytes": 6629,
-      "sha256": "fb131e58cf229f310c3beeee7d31d0317200e132c1b2027187dd3d739507af73"
+      "bytes": 6857,
+      "sha256": "57d09399130942ff7f9a0f7534bf3f6d02d195722bb1058d1a447befa1b8e877"
     },
     {
       "path": "fr/blog/parkinson-pd.html",
-      "bytes": 6489,
-      "sha256": "be8f5072848a2e52572fabef72084e07534d39687b98b8e9cdc6a680aea87b44"
+      "bytes": 6717,
+      "sha256": "a3489a187efea0d579dd12a852591f6e1cfdd85fd6bbc5078a64ec3143efce2a"
     },
     {
       "path": "fr/blog/parkinson-qr-code.html",
-      "bytes": 6640,
-      "sha256": "d13a205f662eba614755a0b1495debb2cf82a96e078dcc320bebf76d7f0a75e8"
+      "bytes": 6868,
+      "sha256": "8fb06d108d71826cda8ccbf5406d955cb1c6b04d77e8bb68689ead5987d04832"
     },
     {
       "path": "fr/downloads.html",
-      "bytes": 5453,
-      "sha256": "5df4e0bb0f32f84e94162fbbe0ee4f0a6c756aa1de153817aa36277ebeecb594"
+      "bytes": 5681,
+      "sha256": "07c9e07332e14d5321cbe377a93668b7469df0693f246aabcd329cfdd5324108"
     },
     {
       "path": "fr/index.html",
-      "bytes": 16158,
-      "sha256": "8693051dbacf73dda2f91e21cb81be122cd3da77253d504f9a2b057b8d128be2"
+      "bytes": 16386,
+      "sha256": "d5f3218a6f76617413dfb7f2446f6a177a0f604d4bedf54d463ae04120c0bbb4"
     },
     {
       "path": "fr/parkinson.html",
-      "bytes": 169691,
-      "sha256": "2ba4bd5b582d10fa4b6ad0981ca380131db626be759f902faa0950cf39608814"
+      "bytes": 169919,
+      "sha256": "c503337ab1b44d16a06dfd49b1bd9b17e082fd2273b80ea2211e66db2a4be091"
     },
     {
       "path": "fr/resources.html",
-      "bytes": 35539,
-      "sha256": "eb3302845b7a32728503ab698eebd22d82e8e80d361123bc420d848bdec05fa7"
+      "bytes": 35767,
+      "sha256": "cc3c176c40aaefd372dc788d9252d0f67f7fcf8041e02d53c89415f9318ec958"
     },
     {
       "path": "fr/播放說明.html",
-      "bytes": 8257,
-      "sha256": "955de7923ae3924ce290d4b9db18e5778e6aad2822c11421dc12a9ba4b8f87af"
+      "bytes": 8485,
+      "sha256": "7192aa00f0ee622c5f8d8a8d1272f2f56cba256f73041f08249cde8f05437e5f"
     },
     {
       "path": "fr/社團法人高雄市聰動成長協會.html",
-      "bytes": 189785,
-      "sha256": "4385dc49b81d9cec16ee5bbcaf17e4b0210ce1671c8c8807b2e76388e6d3423a"
+      "bytes": 190013,
+      "sha256": "f999810dd95d2cc2b53a03a7353275a855a4af1aed5c8ef5078a3e6861687e6a"
     },
     {
       "path": "hi/index.html",
-      "bytes": 18638,
-      "sha256": "5320c538a735a8b95a86a008edff41b15a30dc54ff05e177508ff41ea89be1f9"
+      "bytes": 18866,
+      "sha256": "8e103de8cb01167e0ce1739868660645ef217eadc5c7d63b2a9518fdc28ed1b2"
     },
     {
       "path": "id/index.html",
-      "bytes": 15820,
-      "sha256": "a1692886b204c32d84f4c3c95ba80e96f1cc87345b9cd8fc75d0011a9e4c15dd"
+      "bytes": 16048,
+      "sha256": "7a19574944ba670e4b116ed82bc0fcdc7a93351baad3c283cd946d5a1f66765e"
     },
     {
       "path": "index.html",
-      "bytes": 15522,
-      "sha256": "23ef92ea90c278ac34ce8633ec78f594edb56bd232668aacbb81a804b516d63f"
+      "bytes": 15750,
+      "sha256": "ffb4f9db27e68396314c72187410ceb43d39498723bb36b5e4bd8a3f9e82c7de"
     },
     {
       "path": "it/index.html",
-      "bytes": 15842,
-      "sha256": "90551be1670cc174526d9194fb6d3658ce297dcb9c4e0583aca398eb918daf65"
+      "bytes": 16070,
+      "sha256": "9bbeb534d413c2df20836533131bce4f93505eb62549a8d98ffb35da81033e25"
     },
     {
       "path": "ja/blog/081e9814498.html",
-      "bytes": 6606,
-      "sha256": "fbb9120ee69ad707c1d5f21fdd58e46f8394069f9f5f975a0bb881f9fa8a8a9b"
+      "bytes": 6834,
+      "sha256": "5eaeb933320645a7bf2902e6b596b6de79136d57dbc01b2a449694e79a0344a2"
     },
     {
       "path": "ja/blog/0de305e00f7.html",
-      "bytes": 6940,
-      "sha256": "13f26fc2ebff13bd5df03add4d5fb2c448cc83e578972cc3d6dc993e353e13a1"
+      "bytes": 7168,
+      "sha256": "03078bbc4db3723c8ecf0cbdb7679a62bb7e478718e8e9a83811806f44797317"
     },
     {
       "path": "ja/blog/1140508.html",
-      "bytes": 6997,
-      "sha256": "964f532f3a50689739bb909195e3e314254fa3154acffed3186e07c0fdd25304"
+      "bytes": 7225,
+      "sha256": "362cb25eb391095f2a397980aff2baf376c6528ab96df97edfe0fb5275dce4d5"
     },
     {
       "path": "ja/blog/1140527.html",
-      "bytes": 6927,
-      "sha256": "83cc16cacd581d1928c3e56b7cb662975960e8c9b84f59397f3c83fce9898208"
+      "bytes": 7155,
+      "sha256": "1b0d7dda455e2744565b04311fd39c2337c53e2118737cac6de3e274dc76c9f8"
     },
     {
       "path": "ja/blog/1140607.html",
-      "bytes": 7296,
-      "sha256": "acded03f5a049b62385a2eb0616ae3aaf6e6a4737dc21b3c25481ca61bb7c9f0"
+      "bytes": 7524,
+      "sha256": "7608a8ffc94c0526b834c892d2c327904ab6dd151974c6f08a89d115fea65c50"
     },
     {
       "path": "ja/blog/1140705.html",
-      "bytes": 7065,
-      "sha256": "5e3387194d697b61b467688f128d7e134f2177eb8f049d4383ac3930a1940fa9"
+      "bytes": 7293,
+      "sha256": "baad23aeddfb8bbf030a442140bffb670500558c229f9393cbf973841633eea7"
     },
     {
       "path": "ja/blog/1140722.html",
-      "bytes": 7029,
-      "sha256": "853c217a0da9f6b10ef0f0f6fd4f8bda9641eff90947e104df662d5252ca86e0"
+      "bytes": 7257,
+      "sha256": "93d847acb6cd8ceb8f7033cf21bd7406915d0ebde8ed6c76b41b7940fda831fb"
     },
     {
       "path": "ja/blog/1140809.html",
-      "bytes": 6815,
-      "sha256": "7968b2173c64e12aff6312b4443ae6235b5cef2c4ec8015300fca9f0cea3e70a"
+      "bytes": 7043,
+      "sha256": "934e20de37432008b01f5cc107d0074bc9d208a6c527293c3a1e1692feab462e"
     },
     {
       "path": "ja/blog/1140819.html",
-      "bytes": 7116,
-      "sha256": "c0e1dd15c2304d958d4cbb45030af30af787fa079216db94eb60ccd884bf962b"
+      "bytes": 7344,
+      "sha256": "d083d67e22b54de76a9a755f4b4e556cd1b95c3cc21f6aa9fe5c7a3624f0d989"
     },
     {
       "path": "ja/blog/1140823.html",
-      "bytes": 6846,
-      "sha256": "487ee58aa524b905a5a72259ab994ce1dd654815ad5e6538816c900400413c3d"
+      "bytes": 7074,
+      "sha256": "73cc34e3ff1242c85f72226fd8946601d5203f984a6ccb07db7c97a93c77393b"
     },
     {
       "path": "ja/blog/1140826.html",
-      "bytes": 7008,
-      "sha256": "9f006b82537c1a7d6460d3816eb392083887efaa02452fae9f3f9513e87ea52d"
+      "bytes": 7236,
+      "sha256": "ec62f114764356c4fb28ec5fc27d94ec0ceb2c00e7672cf9f03742d9f668ac8a"
     },
     {
       "path": "ja/blog/1140902-diy.html",
-      "bytes": 7049,
-      "sha256": "0c14d220b754111237d9a2e0119f7c2a267bc09961b0e5cf14d8ac12f45ff2e3"
+      "bytes": 7277,
+      "sha256": "842a35d4aafb7d5b8eace2951ca57522de41a48f152047b0c0d2c6f0cf00f150"
     },
     {
       "path": "ja/blog/1140920.html",
-      "bytes": 6737,
-      "sha256": "482133258e984370fdf8a7d8f84e6e02910b2cbafc55b33e2af590ef05e55270"
+      "bytes": 6965,
+      "sha256": "7d5e65059e825a463b6ed60d7a7818b3cb87d57f199b69e1f6d40741b9025b3f"
     },
     {
       "path": "ja/blog/2026.html",
-      "bytes": 6206,
-      "sha256": "b50edd250cfdb78bece2c7e95e2393b596a93626feb206478cce9777596681d8"
+      "bytes": 6434,
+      "sha256": "911b7e5b7288ae816c633dc839cdc72de1cb9704a1c9eac28a9221d9950103ef"
     },
     {
       "path": "ja/blog/20478397518.html",
-      "bytes": 5583,
-      "sha256": "89e1578b2bf635add69b19d0ed0e9207e34aab880f8ff136e73b7b600a862eb4"
+      "bytes": 5811,
+      "sha256": "b4cf4a36809ccf97cd4521d4385148eddba369745f58227530357a2270aa1cdc"
     },
     {
       "path": "ja/blog/33cb605cf06.html",
-      "bytes": 9684,
-      "sha256": "bdc592d970d4444b954ffd115c70c2aee881841e98470996d2266b22b8a560b0"
+      "bytes": 9912,
+      "sha256": "5caa8490558815189c8b26a8d56a97771fb85df511b213b50180f445acb90858"
     },
     {
       "path": "ja/blog/445cc624575.html",
-      "bytes": 6546,
-      "sha256": "aa19531a3c153d4a55a76b8fa156549d84ce835c1aa65a7a31fb09759689763c"
+      "bytes": 6774,
+      "sha256": "3530656be922d933be4c02019826554e3260241b39f04f53aa22ab3ac94a350b"
     },
     {
       "path": "ja/blog/4f9ab696101.html",
-      "bytes": 5583,
-      "sha256": "dab692b8ac9d19c5374b5e5e1c5278f9f95cba0ad57b11146c7f74cb25351787"
+      "bytes": 5811,
+      "sha256": "3ac8060d873b1365f84443a6acf9aa9298e1ca1ddc6e29b123459492ff280005"
     },
     {
       "path": "ja/blog/7ce89166493.html",
-      "bytes": 6472,
-      "sha256": "697396541e03ee5b7c604da00cd1220b5fad66e3c7ba0babf0f6f8d87ab0bf3a"
+      "bytes": 6700,
+      "sha256": "fa3e675e461123ee84866da37b9317b6eb363f2bd8649000c781521d93924d35"
     },
     {
       "path": "ja/blog/8494322ddbf.html",
-      "bytes": 6858,
-      "sha256": "bc16f9542cd8f1b35f5979623ddd18cf01c3cda23fbc5234757b1d028627b597"
+      "bytes": 7086,
+      "sha256": "b23d67bbb2948c44f3f33ffb2be017078cd4ab12fd384d0036a5f9a374405f37"
     },
     {
       "path": "ja/blog/a63f966cedc.html",
-      "bytes": 6635,
-      "sha256": "e3cdfdb272287b58d1ba58b8f7ae0c55532f93323beacb2d486b3d385b6cf557"
+      "bytes": 6863,
+      "sha256": "7afbe43e96f20f44030cf4cf7fa919f5971e01e3541b5a139b67d7226a3089ad"
     },
     {
       "path": "ja/blog/activity-114-02-20-part3.html",
-      "bytes": 5918,
-      "sha256": "1cdacf4956db1afabc728cfb8838dc4cf74171afa7db8dca8daf532432597edc"
+      "bytes": 6146,
+      "sha256": "1527ea503e859487f1a462edea892ac7f643cb2db6ad48bba979c7fe947f6435"
     },
     {
       "path": "ja/blog/activity-1140215.html",
-      "bytes": 6247,
-      "sha256": "258e739f6bb14785f017d605062508ab300e6c675f37281e57da342390a76932"
+      "bytes": 6475,
+      "sha256": "4f5386487cc3b09745e954e5adbf3b54ae003221e01eace182dd1cbe4df1737a"
     },
     {
       "path": "ja/blog/activity-1140308.html",
-      "bytes": 5893,
-      "sha256": "30eebe0c3c6e5f3cecccb0caf0a9ecad2b1030e60eac00d89710598aa5eb2236"
+      "bytes": 6121,
+      "sha256": "f6e010c9a3b33565caba00c0116c224190a69fedeeda7b5e076b1f067b765314"
     },
     {
       "path": "ja/blog/activity-1140315.html",
-      "bytes": 6064,
-      "sha256": "6f200692e3612fc2e543135e7065f319289e62dafecf8a3c3cd0830f9a1d6b34"
+      "bytes": 6292,
+      "sha256": "e24978539c03c70c166e942283d8b54453fc9d63688eebc56b621a3bba04d869"
     },
     {
       "path": "ja/blog/activity-1140412.html",
-      "bytes": 6052,
-      "sha256": "edf9d8b7d1c9cb6b2069ce4c340019b28d0ad9f162c48f952500cab16c31d597"
+      "bytes": 6280,
+      "sha256": "7b4b5201861fd3d7816be58f5b682c91cfa6a3f5f495cf3a9a5c72c4f16a82e0"
     },
     {
       "path": "ja/blog/activity-1140508.html",
-      "bytes": 5860,
-      "sha256": "75c892442e62cce32a28e77f0cfb1ccc46c5d05ee209052d07a7407ce3bb5f5a"
+      "bytes": 6088,
+      "sha256": "66c579f5ca609b4bc4b587c7d7b6a5108cd1ced7c4be5f312552821f75bf4918"
     },
     {
       "path": "ja/blog/activity-1140527.html",
-      "bytes": 5944,
-      "sha256": "09f3c7f9b72795a7ea73e9a352bfc50d064cad4a8278f2c75f12f298a8a4c854"
+      "bytes": 6172,
+      "sha256": "fe1b441f663c44224a55b4cc1dc9767f13d646eb48ef09d55132a48a5fbf30ba"
     },
     {
       "path": "ja/blog/activity-1140529.html",
-      "bytes": 5716,
-      "sha256": "c57ad66f1491929c5be4ab71d19b383434e37f9e53d028b2842e54b4c7c2a72f"
+      "bytes": 5944,
+      "sha256": "9cc4a62b0ca8ee0596dd2b22fd973ebdfd853c1dffa4e50e48d0a855a16410d1"
     },
     {
       "path": "ja/blog/activity-1140607.html",
-      "bytes": 5980,
-      "sha256": "8f74211d708011ff8fa890ef2f100ab9ad5cc8b9b4ff9f9f4f37bb7d8ff8205f"
+      "bytes": 6208,
+      "sha256": "07029a26c8e3701fbf5ae2de87bff352912691c0e79603446044ba1969f1c077"
     },
     {
       "path": "ja/blog/activity-1140705.html",
-      "bytes": 12202,
-      "sha256": "b3b04fbc8f27e9c9bb7a6fd5f3bbecb81da70c9a18e3160c6b80dfc7d94465fc"
+      "bytes": 12430,
+      "sha256": "c569be228403ed44f1e06d1c4d90f421d2436b669926738ccd64046abdca6d9e"
     },
     {
       "path": "ja/blog/activity-466f10c3451.html",
-      "bytes": 5901,
-      "sha256": "4c006130c48b2a14a85f86247bdd79e3b25ba4cf4c5c3e02c3b7b07b11a3db9c"
+      "bytes": 6129,
+      "sha256": "3aecf80ebc1afd905fa0557d781b2a8d72e2a7a6393ee006a4586b48fc99020f"
     },
     {
       "path": "ja/blog/activity-6.html",
-      "bytes": 5667,
-      "sha256": "3885730d2b18624af65d764e3f6a63923dd0730c5afc33b91e0f0034c019fcd1"
+      "bytes": 5895,
+      "sha256": "88d96be55c82152da29e5d8c846a9b59aef2d2dace9727b523b316d20bf7f192"
     },
     {
       "path": "ja/blog/b127aee8859.html",
-      "bytes": 5583,
-      "sha256": "c7939182fe2e491f036fd619db1ee64b050d9bc329a9ae1ca11af06225b1e283"
+      "bytes": 5811,
+      "sha256": "7247e0fa5f5d636028a2c8b9ada273bbc811f2712372563d4fe315a0fce7c862"
     },
     {
       "path": "ja/blog/dc2c10fc11a.html",
-      "bytes": 6345,
-      "sha256": "94abed077890fd87c60a14ee10ad590b3d4228318108d5d673bf3bd50198b0a1"
+      "bytes": 6573,
+      "sha256": "064eb90f6c8267a7c19a4e1eafcf3b2f5799a6ebe67bc20c2eec8c1a7a1dcb77"
     },
     {
       "path": "ja/blog/index.html",
-      "bytes": 31746,
-      "sha256": "5a5c21fd4766c6e9a35eb1178c4d9e044e430dce142465fb6dd6cf0ec4a5927f"
+      "bytes": 31974,
+      "sha256": "671ee4782c3c642eb1e2cde4d142c5c2a8c3f8e09f2607598e4f6b46285dcf72"
     },
     {
       "path": "ja/blog/parkinson-0fa1925b25d.html",
-      "bytes": 6293,
-      "sha256": "a7795eac9856192a35759a0b53fc01b3262340948a8201425b27814c7c933a38"
+      "bytes": 6521,
+      "sha256": "26a92ca33edcafbe4dfe3a0866ea31320de5a40eef5e6764f8f8c709eb6bbec4"
     },
     {
       "path": "ja/blog/parkinson-2024-2025.html",
-      "bytes": 5934,
-      "sha256": "c1285fc35d3812fca037909a39cb1935198e3273ef063b77d6c9a080ebe6a5b3"
+      "bytes": 6162,
+      "sha256": "d237513386c7b60a55cde1fe6e0b2ef60742be589efdf193f1b269dfda033d40"
     },
     {
       "path": "ja/blog/parkinson-2b4a029033f.html",
-      "bytes": 6834,
-      "sha256": "ead6d5507de82161cf754eede89be537c01e50fa8dbcb3d6bbf77916e5797ccb"
+      "bytes": 7062,
+      "sha256": "d0ca3966944d5eb634fe91464664d0871e5d880b12557c47f78aa5881209a872"
     },
     {
       "path": "ja/blog/parkinson-362f7dfda29.html",
-      "bytes": 6062,
-      "sha256": "d37213362b0cea92fafdd08c2e51208ec7453ac614fcf0dcbe31ecb7210a92c0"
+      "bytes": 6290,
+      "sha256": "b8b9bbd876bd85c98ecc822e66bc5316607cec746605815b0d7e474c7d1dd0b3"
     },
     {
       "path": "ja/blog/parkinson-38a7a983588.html",
-      "bytes": 6890,
-      "sha256": "5942d6fb06c39b0c2563ca8c6e2f8c4e86ff9d986823c5bb7e7e091657fe269b"
+      "bytes": 7118,
+      "sha256": "ad4793a13f3b8fe626aec6a51547a58d392e5ee5b5e5c86851dffffcbd8c94ed"
     },
     {
       "path": "ja/blog/parkinson-97a2b32d43c.html",
-      "bytes": 7615,
-      "sha256": "4ab55c1c3c5cbe494bfddaafd7e1eaec9584e2388170dce481a7493cf5d85a9c"
+      "bytes": 7843,
+      "sha256": "74f36ffbc97f868420d9cd0469b477945706c9aa32bb6b9e726fb7819c9ad9a7"
     },
     {
       "path": "ja/blog/parkinson-a92e4e924f9.html",
-      "bytes": 6112,
-      "sha256": "09c78b675caf8297effec822861df0f6571186351b4bbcd6b3469c3e08ffb46b"
+      "bytes": 6340,
+      "sha256": "63dd871d7968c458d9cc957dce1a3743aaae41d41fd0c941fcf5cdbfc694d74d"
     },
     {
       "path": "ja/blog/parkinson-app-a907c769-defb-4568-a4c3-90004c48a842.html",
-      "bytes": 7611,
-      "sha256": "2c71e69423fe3441fed22d31d7abece6a8a6a606b8eaa99f2364baa59c83979e"
+      "bytes": 7839,
+      "sha256": "f109121abddc276f24655e76d1a184a2aff40e8a22ebf41252622c477c93843a"
     },
     {
       "path": "ja/blog/parkinson-app.html",
-      "bytes": 5749,
-      "sha256": "eb0e39e20b97700d9a541b86903a2b428cdd5b1eb0b97de80b05cb3ed1d5a046"
+      "bytes": 5977,
+      "sha256": "c4b73f93483d07813d7fa3ad9aa6941787faab94145fd9ce425b6837d2a83c09"
     },
     {
       "path": "ja/blog/parkinson-bd084d246b1.html",
-      "bytes": 5904,
-      "sha256": "ca316435b68adb2f346efb2e239b0b37352c180474aebbc8a8902d50069452b2"
+      "bytes": 6132,
+      "sha256": "77bdb52613c1fa9b45dc57171d319ced3c51f1a7ff7149d659d8856c163e7ab4"
     },
     {
       "path": "ja/blog/parkinson-drug-induced-parkinsonism-movement-disorders.html",
-      "bytes": 6430,
-      "sha256": "abd2e141ef9130e1e863c108e81afb5e98c3c4dbe25b43439017ee2a240902b1"
+      "bytes": 6658,
+      "sha256": "4a0b1fca050839decbd126483d97ea412102abaef8766dae198a5cee08531d4c"
     },
     {
       "path": "ja/blog/parkinson-pd.html",
-      "bytes": 6331,
-      "sha256": "573cc3cdb60bf8d4922b9e196741ebe1d932276f9403f3a126de55efa039f005"
+      "bytes": 6559,
+      "sha256": "c5376b0aa876916d5754852a788946c60d75ee33ab8497b3dab9bafff9b14586"
     },
     {
       "path": "ja/blog/parkinson-qr-code.html",
-      "bytes": 6473,
-      "sha256": "c215d9cf7b5677acaea6b50edd616e9475a2eb63b446f7143be2241074169632"
+      "bytes": 6701,
+      "sha256": "8c1b34a43cf89bff8f04d343ec2943def587c34a2575011829d7a34e231f3045"
     },
     {
       "path": "ja/downloads.html",
-      "bytes": 5353,
-      "sha256": "2cec567855d060a3ab3e0070da8ec8ba044c34b197652e5c0b31cdd4e7a271e5"
+      "bytes": 5581,
+      "sha256": "96f09ee7c4f1dc2da2965a9fdbe35fdf8f5e18209614d798d5b3d69fd33dcc23"
     },
     {
       "path": "ja/index.html",
-      "bytes": 16054,
-      "sha256": "edf6e4d73cb75547bb74966dff4a9f26b1377bf89e0a1c6f64598fe9ff2c42ce"
+      "bytes": 16282,
+      "sha256": "e3ab020ae98b3020e8e041545d93137dc7a653640b5b99ca98c29bbf245fe090"
     },
     {
       "path": "ja/parkinson.html",
-      "bytes": 169127,
-      "sha256": "a90a5f3d0039d319d6bbfe1eb6940798298177385dd396a0ef6e77c6022c368a"
+      "bytes": 169355,
+      "sha256": "088e226a9fe9e039d35f7c760c411a0ecf9e869f4ea447917d3e27b91040bad7"
     },
     {
       "path": "ja/resources.html",
-      "bytes": 35054,
-      "sha256": "954c88313aabd86583e3cbdf24e9b4197028064dd1f8d6dd205562320f51805b"
+      "bytes": 35282,
+      "sha256": "ef295ecf9328d63137bf351e3ba3a2961b5fa0ebbd5fe3f015ac8356d6a6e503"
     },
     {
       "path": "ja/播放說明.html",
-      "bytes": 8574,
-      "sha256": "488eb072d30381be88d4c03878472fa75ad9624c5d050200c9ed154ad8efec38"
+      "bytes": 8802,
+      "sha256": "824bac0f36e7cf2b6c39f3db3d58fce67dbe4ff165cf1dd4fee0186731b78b8a"
     },
     {
       "path": "ja/社團法人高雄市聰動成長協會.html",
-      "bytes": 185688,
-      "sha256": "d5f55baa4598123d2ae1b5b07ca00022bdb10b6734fd93c590610114d0e6a142"
+      "bytes": 185916,
+      "sha256": "77ef84c6ed6d42ed684f1b733da211a2a30eaed8bd5bf2e9b8db0d6e37e110a2"
     },
     {
       "path": "knowledge.html",
-      "bytes": 11862,
-      "sha256": "b8019b16375632f5d2cd2db49360e3b5fe6c31546734f60c430d1bdb864a59f3"
+      "bytes": 12090,
+      "sha256": "4f846f2635899a9333535cf0835bc4a0166e0d64a20c4682629af4fc8bbe1d30"
     },
     {
       "path": "ko/index.html",
-      "bytes": 15935,
-      "sha256": "029f1753c1f77874112db635677cd7b8573e5ffff084cd2271011f699db69e41"
+      "bytes": 16163,
+      "sha256": "4c6ceb6fe62e232d9fdd9e932710b309c68451412d09db249108f9120a1d6d6f"
     },
     {
       "path": "l/ar/index.html",
-      "bytes": 11284,
-      "sha256": "4322edc76b0c90a41f24699328784ed170e732eec957e8a0dec06d4b6fade122"
+      "bytes": 11512,
+      "sha256": "6da83075ca47bfcad4e508dc033ecd786c93505e184bd140b342e4935f55ecc9"
     },
     {
       "path": "l/az/index.html",
-      "bytes": 11289,
-      "sha256": "e59ff298b09414c0bf163dba6d9acd5fd462cfda452c11a09bd3f79d29ae2d01"
+      "bytes": 11517,
+      "sha256": "730eb0787c8fdfa43df8f1371ddcde1d21d21c6e5df31d678b61aec25f1214b8"
     },
     {
       "path": "l/be/index.html",
-      "bytes": 11631,
-      "sha256": "fe5f5413adf11ab7f62c48cfb8fd13b295a4ee70e6bd8f74a791baf70a4216bb"
+      "bytes": 11859,
+      "sha256": "2d1510c9bf7f16b4a2909bcd0a72387d9061cab204ae0681338c7feb09351289"
     },
     {
       "path": "l/bg/index.html",
-      "bytes": 11538,
-      "sha256": "035d971519785f7e86c93c628719eeae18818a663818b5dd6ff18087a1396da1"
+      "bytes": 11766,
+      "sha256": "c3d0129f49d4c3de585974bd03c64cbd8757d8c5db83c671170e915c6c0dd189"
     },
     {
       "path": "l/bn/index.html",
-      "bytes": 12185,
-      "sha256": "a8d1b9eb114be0112a9f0439a115189eb11deb1c5a5df3cf7fdbfaa637a85474"
+      "bytes": 12413,
+      "sha256": "bbdd813d7f09eab3fede1066b9a2d677ef26a6593c94a2b18d2a5dc68e116143"
     },
     {
       "path": "l/bo/index.html",
-      "bytes": 12235,
-      "sha256": "91b9b47dd85cbe494ae8bb31007029a7e879165c92c2d81661da3fc1ec6ba229"
+      "bytes": 12463,
+      "sha256": "2086b7b1a633e5a4a02ab1a83143f0a4c42a26c89b4820accd3dfef5dfb3828c"
     },
     {
       "path": "l/bs/index.html",
-      "bytes": 11282,
-      "sha256": "516e1c1d05020fe0b55dd775b019bc028e5b641a1a2367fa904930cdc2394641"
+      "bytes": 11510,
+      "sha256": "85650138610979627133b6d965381d7ca9d13bae1083df1f5cee5f957f6ea0f4"
     },
     {
       "path": "l/ca/index.html",
-      "bytes": 11354,
-      "sha256": "a3d90065fb6661b537362a3c9106426aafba1b0cdd49cf5f60c266fe95b1c5af"
+      "bytes": 11582,
+      "sha256": "d32e41b01905f9bc2d322a76b04927c5702070bab6ab0b3e277a719fc1289266"
     },
     {
       "path": "l/cs/index.html",
-      "bytes": 11142,
-      "sha256": "212c3c778728493b1c0b5f78fc818ae323d50f558861a7682bc0840b05fac0a3"
+      "bytes": 11370,
+      "sha256": "a2a378c833218c5b5adbd36dc280301aa03a8e9c0bd2620049520d8112d9472f"
     },
     {
       "path": "l/cy/index.html",
-      "bytes": 11255,
-      "sha256": "0e4e6462a05f4bf7a01de4290a252332c4a62e40bb37513b0233cca10ae6827e"
+      "bytes": 11483,
+      "sha256": "df7a538632ea58688c5db8695a375b2d21a98e34d601602fa7a6f9e09b6f582b"
     },
     {
       "path": "l/da/index.html",
-      "bytes": 11123,
-      "sha256": "6a87abb104fed7caab6d98a2286a1786af23b5b196385dee822f0f5662986901"
+      "bytes": 11351,
+      "sha256": "cbe12bba38c5e4cf986a4edd8d32fe357981f3698db4b8531c76e870618c8ff6"
     },
     {
       "path": "l/de/index.html",
-      "bytes": 11163,
-      "sha256": "d70d81f00396c07e9873682082c8701ee95b70c5abd40f2d0b9f6665131b2b0f"
+      "bytes": 11391,
+      "sha256": "002b134aae44179df19a33f533eb8ab668ed5360e5ad45d5a809867b54b6bde2"
     },
     {
       "path": "l/dz/index.html",
-      "bytes": 12253,
-      "sha256": "11d42ea7f667267c487fd163483733ee52785dc5d094c24ca49682111f95a285"
+      "bytes": 12481,
+      "sha256": "832b16bad8b3ec7bbbeae647165939dd4063702c02a6dc9cdb15645424401bfd"
     },
     {
       "path": "l/el/index.html",
-      "bytes": 11640,
-      "sha256": "6ce51744a240efae5bdb04a5ae0e204c588c87c108a0d852a70787f87d3364ea"
+      "bytes": 11868,
+      "sha256": "3ba34c39073ddffe08e158e49c641990c458a05ae40ee338cee98fde40083e1a"
     },
     {
       "path": "l/en/index.html",
-      "bytes": 11065,
-      "sha256": "0a7dfda4eeb0f178d53ff20ecda6dacb74b7ab9b217a664649e9faff9be32a2f"
+      "bytes": 11293,
+      "sha256": "6eb3d72cefd6a8ea6f1687a90c8dd9f2646188771baf13101faee04daa4154c7"
     },
     {
       "path": "l/es/index.html",
-      "bytes": 11177,
-      "sha256": "0fe021c21dbcd0bb60639b07821628e9c6db82a962fbe6c41d1f9b069e665750"
+      "bytes": 11405,
+      "sha256": "89de7bc72224218525ce0850984ce1e33941b747cdb9585877bab04e0b482576"
     },
     {
       "path": "l/et/index.html",
-      "bytes": 11143,
-      "sha256": "6f5534085bce55ee5aff16fa14096a256f0b34856b7445c89903c2ab6236baf9"
+      "bytes": 11371,
+      "sha256": "404a8a53c462954f64c0d4971c91690cda7c89f1d50cc5e42a94281d582917af"
     },
     {
       "path": "l/eu/index.html",
-      "bytes": 11370,
-      "sha256": "1c0b750a539678d496c9ddaafa03633dcbc88009c0a9c802fce4370a0354f823"
+      "bytes": 11598,
+      "sha256": "8e58f3c277f467091121f8db31375d917dd053c24bf8131f034a167fe68be206"
     },
     {
       "path": "l/fa/index.html",
-      "bytes": 11383,
-      "sha256": "1676a0943851ae6cdf606e9573bff08d7b5134a26f4bbee5802120c8117712da"
+      "bytes": 11611,
+      "sha256": "9c4f7da12434013d2214ef31d2a57d52b1091a6b1e09468e5a8f8a5d1deb666c"
     },
     {
       "path": "l/fi/index.html",
-      "bytes": 11141,
-      "sha256": "548aaca5dcbfd1bdd427d4c6aed0f5caa3852545a0170c108406d4d59e9df343"
+      "bytes": 11369,
+      "sha256": "4ab6e4d74821c68a5a645f9644d74a25b190e6ed4078b73c26527dd45252d9e1"
     },
     {
       "path": "l/fil/index.html",
-      "bytes": 11231,
-      "sha256": "514a9f7a7995a04a7dac942f18d00a9d8870c68ff7d499307a6ef7842250010c"
+      "bytes": 11459,
+      "sha256": "e50efb5e9c5ab8daf0cd89fdf37778960fdfa17f6cdcaa020eb4258555446212"
     },
     {
       "path": "l/fr/index.html",
-      "bytes": 11268,
-      "sha256": "b5fc8651731842748e28c43eefe73a893b851bccedb6ed941aa322622b1aa630"
+      "bytes": 11496,
+      "sha256": "36a2694c3d764dd80acd076909d6ecc4d6a807344048027d8e03978caca04184"
     },
     {
       "path": "l/ga/index.html",
-      "bytes": 11345,
-      "sha256": "df2517b8cbda494d5c78001fac7be7aef45516bd584461056260bb9f598093ca"
+      "bytes": 11573,
+      "sha256": "a5c979c78866f0c28d477634dd3b48fcb875b52699f2d058ee5f81a32d82df34"
     },
     {
       "path": "l/gl/index.html",
-      "bytes": 11353,
-      "sha256": "3db63afee696bf0d7ad44f193fb9db8d664ca7e83597529fbe3a25f9d59043c7"
+      "bytes": 11581,
+      "sha256": "7c95455f67707326081c0929615c0b81f3bbaa9c82837b7a17614f7b0ba1d159"
     },
     {
       "path": "l/gu/index.html",
-      "bytes": 12079,
-      "sha256": "0ea7fe7ed8adeb9a13172a11f2ca2cf0c68f5c1a3e19f40558bc19f62ca64d18"
+      "bytes": 12307,
+      "sha256": "0b9d8c714b34142a48ee3150467198ebe7150e26f35d55652e8763cfb8526357"
     },
     {
       "path": "l/he/index.html",
-      "bytes": 11287,
-      "sha256": "6f90ee035ca4cf4d62104ca012479e63b64f4702c53fc331fc7804eb7b319f0b"
+      "bytes": 11515,
+      "sha256": "6435832515666055e97d2b96b1e25eb01f61e37e26e0609df845f7b6c51ffa64"
     },
     {
       "path": "l/hi/index.html",
-      "bytes": 11833,
-      "sha256": "b283570112cb58f613c0a4b1390761c3ec4a00ad6a1dc0197a5245581ce939cf"
+      "bytes": 12061,
+      "sha256": "f793e6080c66fdc16ab34668b270fb738f2b18eb3c071aba2b60f1c52cc34a44"
     },
     {
       "path": "l/hr/index.html",
-      "bytes": 11143,
-      "sha256": "9970e91a4d1ec5b2e483eb48a8d4787a2895f3ac9a8ea2b1a2b6f7a8876ad4fb"
+      "bytes": 11371,
+      "sha256": "9c514d6dc7e2e01e6624ec998b27857600cc83e14fca9e0952422f10dccc7eb2"
     },
     {
       "path": "l/hu/index.html",
-      "bytes": 11159,
-      "sha256": "632b65c2a6e825f06f4cd2893eda0ae37f0963bf12410ac29ecf5b76fa216997"
+      "bytes": 11387,
+      "sha256": "acaa4daa9e938dca8bd8dc4dff778737eeb11e30938669c1a920fdcd8ed39a3c"
     },
     {
       "path": "l/hy/index.html",
-      "bytes": 11848,
-      "sha256": "0c93d9c859ab04fc07321aa26e23d45edd30783cf73d3ff3ecbfab98b3906268"
+      "bytes": 12076,
+      "sha256": "1675cf720dd39ff458099b29bc25fa496e0854d6205f5ec4514dd38fb0369545"
     },
     {
       "path": "l/id/index.html",
-      "bytes": 11094,
-      "sha256": "76c6bc79cb3c2f823e1d00ff596f156688e049f8e4706608ad62c3c4cdaa42a0"
+      "bytes": 11322,
+      "sha256": "ba1b9de34482401e5030af65d4536b48d3ea5725afb24b774b64226adbfc5787"
     },
     {
       "path": "l/is/index.html",
-      "bytes": 11195,
-      "sha256": "41f1b5bd4eb7b285627686c3df4058ff2ad1bc29d027317b44b180466d53c924"
+      "bytes": 11423,
+      "sha256": "dd4c9ab7691c9f31bf29f866f1f8a9dcb2e4a4f80d8e215dcf1b47f03c39509b"
     },
     {
       "path": "l/it/index.html",
-      "bytes": 11193,
-      "sha256": "8fbac0f04df6b6f64bea3562b12b5ec4eb5e89da33bf771b98ab228907fbc14a"
+      "bytes": 11421,
+      "sha256": "ecd5d27cbdf2d84557cc2db138905ac715a9e85ac8ddd6e3e84039c736064dde"
     },
     {
       "path": "l/ja/index.html",
-      "bytes": 11318,
-      "sha256": "cadb49dfb18e697d12f8197089ab6357aa4bf885c0f08db90e292d4a00835e58"
+      "bytes": 11546,
+      "sha256": "87b0aaa4eba38b605702fb36b009d269a525b16e9f8abb239adb16ab091276b3"
     },
     {
       "path": "l/jv/index.html",
-      "bytes": 11242,
-      "sha256": "72af95dac5ba9972a6669285574dfb0439c3511c62260e02bd6ef60180f479ed"
+      "bytes": 11470,
+      "sha256": "b1255603f6f799aacc00308e82c94dfadf68cbf282cfcde5413fb036e25b39c2"
     },
     {
       "path": "l/ka/index.html",
-      "bytes": 12506,
-      "sha256": "db03d64a0da3a6ce43e77738396a4bb0fd0667c68ebb2ea11dbfcacf8d8f77df"
+      "bytes": 12734,
+      "sha256": "7d3b6c47b29fbb04f287c0cab525597a76511e08a25f220fb5f77604dd5163da"
     },
     {
       "path": "l/kk/index.html",
-      "bytes": 11784,
-      "sha256": "2c9d6187a5f502008a6de3135e9478ee9daf010b6b5c248a101d3ac493cd650c"
+      "bytes": 12012,
+      "sha256": "821c36fcd9925c58e5928cb810bda8edce68dbfa3bf1854011a0e04015b15e37"
     },
     {
       "path": "l/km/index.html",
-      "bytes": 12261,
-      "sha256": "338822af9cdd52173f818ecded5c412055e5805875e31fc30e87a4d43e1843b9"
+      "bytes": 12489,
+      "sha256": "4d0ae1ccc3ad0a82e0da7480170c0acd18c7ed4c2348d44c271f7a01329c974a"
     },
     {
       "path": "l/ko/index.html",
-      "bytes": 11134,
-      "sha256": "b6657f18d58c2c282a5cf6dc9d853c81f607831dd681f252664cf2d409162e0b"
+      "bytes": 11362,
+      "sha256": "435f0d92df94072c2ec28da22dc3a7e35f1b7b3631d98c1255a172d808a95b84"
     },
     {
       "path": "l/ku/index.html",
-      "bytes": 11780,
-      "sha256": "a65c7c8fe5aabc0ffd3e10fb0dd79f922a1d2e25d60b1453bc96621670127ea3"
+      "bytes": 12008,
+      "sha256": "7c8fb0916baa3a9c4e51edfe1c47907cb620bd3bc23adfd9cb7dfb381a6ac529"
     },
     {
       "path": "l/ky/index.html",
-      "bytes": 11738,
-      "sha256": "0d5ca1e04dcc71cb0cecf6abc8a3fbc1f153728f37baf74f9de06fc507000029"
+      "bytes": 11966,
+      "sha256": "a2f1658026bee3c49226993d856ad64ba6c6441e7e7d3e254618e9e1bf56e9fd"
     },
     {
       "path": "l/lo/index.html",
-      "bytes": 11987,
-      "sha256": "3f3fe5376d22527384a83e2e3b4349a3960658273855757bb154af69b6d53965"
+      "bytes": 12215,
+      "sha256": "896a3df7a80919e4bd0ce17261e5a41b3139a8d747b085bc867112adcf61844f"
     },
     {
       "path": "l/lt/index.html",
-      "bytes": 11197,
-      "sha256": "fcd7defe25fcc8a9e6157d30fc3ee5cc3d59fd8691ec8131e1e3d9c5cf28ed41"
+      "bytes": 11425,
+      "sha256": "c7420d6d06282aebeed348c74cf9c3687c5de9f967530ede9bce663ff28ab10d"
     },
     {
       "path": "l/lv/index.html",
-      "bytes": 11109,
-      "sha256": "5ea2706c3fe7cf75334ff7dea407d739c5c3f0e1ee1cc1cf8121addb227eceed"
+      "bytes": 11337,
+      "sha256": "3c3f60fa455fee78a328eb3d86c2b10e64bcc755d14f3bdfcfc199badcb794ed"
     },
     {
       "path": "l/mk/index.html",
-      "bytes": 11910,
-      "sha256": "6ae827f7747c9d1a96753447124dbdba147d3511d0773299c97ab29935e55ffc"
+      "bytes": 12138,
+      "sha256": "3d76156d284f474b9ea1eb7b5fb21db556c6d61729a5d3b0ff263cf2f292cdaf"
     },
     {
       "path": "l/ml/index.html",
-      "bytes": 12121,
-      "sha256": "cc5e33949afaff563ed13c9416525d6beb69dc1ee01144f2b18bb925ee708c51"
+      "bytes": 12349,
+      "sha256": "eb4fdb1fc4aee46ef9d3d8b9788d1d2361e5f9f0f29b4266f5bd12aba7e4890c"
     },
     {
       "path": "l/mn/index.html",
-      "bytes": 11788,
-      "sha256": "3cc2db206630b10d09db1361d43312a747ee8b053fe0300b10390fb7f8ac0d76"
+      "bytes": 12016,
+      "sha256": "d4a89f9419a439d7bd768ce4419864ffbd5399aa9bec1976ffc7eb92ec8584bf"
     },
     {
       "path": "l/mr/index.html",
-      "bytes": 12095,
-      "sha256": "207930a3ea1846244a646b949a5366e09c17d4ee2fe1aa60eb1f871ded08ac2e"
+      "bytes": 12323,
+      "sha256": "2e93bdeece45a1519589ebfe74a6ab63eb57c1cbbfce94cbb5c23aaa886895c7"
     },
     {
       "path": "l/ms/index.html",
-      "bytes": 11074,
-      "sha256": "49dd8ac37f3951ccf91d9bb849e8599b0ca85c2183934721f8bfaba761773f20"
+      "bytes": 11302,
+      "sha256": "efca84b66c884b479cb75b1d61952a92f69dd462ca523aab4220289db93cae24"
     },
     {
       "path": "l/mt/index.html",
-      "bytes": 11347,
-      "sha256": "2dffeffb45f24549658452c5dc7a4d6f6a4f61a422bbbbd80bb5333c70243aae"
+      "bytes": 11575,
+      "sha256": "e88f5b9467ce6f38f1d56b5c3ff6142d13d1fd2203d55dfd8bd5178c50037959"
     },
     {
       "path": "l/my/index.html",
-      "bytes": 13048,
-      "sha256": "f82acdf5647021ce0f80b0e3be9acd1da787f4a2f59ba1025b35016b770c6094"
+      "bytes": 13276,
+      "sha256": "fb3d58ac44c28a11dab9ba9edf20630a2f037ca3eb23e06c1f265ea6be91ecb6"
     },
     {
       "path": "l/nb/index.html",
-      "bytes": 11107,
-      "sha256": "0e29ae316f958a52957e6e9543375e19512237bb6734156b054c4fc3316a8c56"
+      "bytes": 11335,
+      "sha256": "f226443e9c510c8168595bbbf958b566f3d7dc8cc58e11646da99476c85c9427"
     },
     {
       "path": "l/ne/index.html",
-      "bytes": 12209,
-      "sha256": "ffcea2390d877f3894144e92c142ea716503016111647ca58b900ee17c8b84d8"
+      "bytes": 12437,
+      "sha256": "5b6cd6be5823d35285cc8f865cfeea8aef3ff5a9ddfdae54ace694584eace956"
     },
     {
       "path": "l/nl/index.html",
-      "bytes": 11110,
-      "sha256": "2fdb82f8e5dae5d24334eb1116216e9edda794008dc1f6bb8ebc371970f5ebd8"
+      "bytes": 11338,
+      "sha256": "28905a3753a3dae21a7e24c43795b303190ecd0b0df57b1fb452f4032b9df7a1"
     },
     {
       "path": "l/pa/index.html",
-      "bytes": 11964,
-      "sha256": "ad6cf39490f4dadbd977ccee25afae66d3d49c509d312c46ac57c3ce93aad947"
+      "bytes": 12192,
+      "sha256": "776e5c3a43d000d16389583236f198fbb0d957665f6c652a8624c7c093c07d74"
     },
     {
       "path": "l/pl/index.html",
-      "bytes": 11178,
-      "sha256": "a49b6de6ff6d2aa5c89edaa2f2e321afe28423e8ad84147b3106e104c549af47"
+      "bytes": 11406,
+      "sha256": "62cef7ac507c3785682d19f08362e147cd91c5d65423176a31060332406c4c95"
     },
     {
       "path": "l/ps/index.html",
-      "bytes": 11548,
-      "sha256": "87c52c9ff8f1402889d76258dc49b4fb10ba573ea2f2c17133074f5cc2253da7"
+      "bytes": 11776,
+      "sha256": "95363671032df73c14ef90acc70aaecbd811c512446ac5c91f0ea431ec7b0a94"
     },
     {
       "path": "l/pt/index.html",
-      "bytes": 11163,
-      "sha256": "45bf820863edc5382eecc8e4efb068127c4abae86b4a9277e3dd6fdf6a7ef8c9"
+      "bytes": 11391,
+      "sha256": "85e3c5268c4481f5e097ff08c4dc58c54feb4448d3acb0fc7a2b3fb5252d5d01"
     },
     {
       "path": "l/ro/index.html",
-      "bytes": 11220,
-      "sha256": "625f0e4ac9169d330917f3e1bb0ec7732c262e2190d05b10a174cfa80d5de100"
+      "bytes": 11448,
+      "sha256": "6f15e4b4a706e9c00a7953bbc69722db50246376655b231eb45dfcdcbe8da163"
     },
     {
       "path": "l/ru/index.html",
-      "bytes": 11600,
-      "sha256": "0eaf67d2f8331d13eafb3512097aaeb739b06003ff1406b5a113d1fe1ee1a2af"
+      "bytes": 11828,
+      "sha256": "35ecaaef48f92b0eb37e4b9826212f9795247f6e7260219afe9ed06f8b0e0f87"
     },
     {
       "path": "l/si/index.html",
-      "bytes": 12121,
-      "sha256": "a7deab3ee4e342e7b295834c87ab3ba4e75bfcf99286de27fe38710bfb1fd624"
+      "bytes": 12349,
+      "sha256": "e5eb14fa1bf0983a53266a6dcd0d5cf1a578e5e96b1fce00445411c52a5f932b"
     },
     {
       "path": "l/sk/index.html",
-      "bytes": 11184,
-      "sha256": "b3b1355309566cabdba99030962838b66c15925f9604fb546ac6240be09de9b3"
+      "bytes": 11412,
+      "sha256": "4067f0c74e5095e91228e31a12a17b2b4649e2329df7d1670dae760d218e7d09"
     },
     {
       "path": "l/sl/index.html",
-      "bytes": 11133,
-      "sha256": "5596a99a3a0d8988e7affedc35a023338d71ca519866a9d8d62d548f72ba5785"
+      "bytes": 11361,
+      "sha256": "c138f39d14b7695e96a922e0072576930a305e53221d4072d4bcb1ea442f58d1"
     },
     {
       "path": "l/sq/index.html",
-      "bytes": 11332,
-      "sha256": "598e59cce5245140c71e8ff04e7daa7b65f475c76312c856a501b2cb1fb2f087"
+      "bytes": 11560,
+      "sha256": "f82d73e61cc1bf0392b21cc7ea7d6c41785f34a9f76f9b9edd579ce267be8e42"
     },
     {
       "path": "l/sr/index.html",
-      "bytes": 11571,
-      "sha256": "db8832e446c9d46995772f22d38e1e7985ffa88c36a540092af27e86d7a97e20"
+      "bytes": 11799,
+      "sha256": "bc0232bf8113f23f762d0b4aa4dcd16ed24b815af1c4c317b155d3a0e99e18ae"
     },
     {
       "path": "l/su/index.html",
-      "bytes": 11300,
-      "sha256": "026c4aa86c753cfea1c3e2690037f5b84a2d56edbbefc4ad058d47c9da793149"
+      "bytes": 11528,
+      "sha256": "db0fd5feb3da27d2392bdd6d6b99452ac50751f0ed4d1b1a30f16dcb63110507"
     },
     {
       "path": "l/sv/index.html",
-      "bytes": 11094,
-      "sha256": "0e891b26fef257ef970aeddc7c22a49b68039ab7479b8ae920d1cde4fb9a2ae5"
+      "bytes": 11322,
+      "sha256": "38e2f7b424603c92efcf06afcc595963c8e256d8e13680b1992115d65f366980"
     },
     {
       "path": "l/ta/index.html",
-      "bytes": 12448,
-      "sha256": "765098cdd03be3d2d7d8100f087efd0214de58c9216c9496034eab6604260dbe"
+      "bytes": 12676,
+      "sha256": "2663319e05c39a0e5db29d4a6acacaf12cc6733c77c9a1fdf03f8a5a8d5acd1e"
     },
     {
       "path": "l/te/index.html",
-      "bytes": 12300,
-      "sha256": "797d240fbe2b78cd05d26dbbd5ad7c959c647d56b75d1624b1e844a3cb73ce5e"
+      "bytes": 12528,
+      "sha256": "763a291f7a82824e1e06b701f8e930f9ca0ce38d11d9ae14421a532971cd9c27"
     },
     {
       "path": "l/tg/index.html",
-      "bytes": 11744,
-      "sha256": "343ab9d8d6b40dbdc2f2ee51820d4d29ffa25af7a1ecdde1758b3fc09fa7a294"
+      "bytes": 11972,
+      "sha256": "e4b2a102b98a381a893702e167bc96625d1a387c932576a7b318431dff7ea2e9"
     },
     {
       "path": "l/th/index.html",
-      "bytes": 11942,
-      "sha256": "645b5b0334c586caef444a0f5aacd5e5a52a4076a167cc433ee9ca84634d871d"
+      "bytes": 12170,
+      "sha256": "9a5267c26f7809d3ea3291e974d606a50c84acaaea52ae104c4e3876e7b9241b"
     },
     {
       "path": "l/tr/index.html",
-      "bytes": 11129,
-      "sha256": "2d9907fd6a6447670f17721ec400f4ef23bf7b5847ee973eb6cf9333cf3b5d9e"
+      "bytes": 11357,
+      "sha256": "64cf4fa70b2d3737f4550314064ebbc078155f615204c5341c73ae6a669dba09"
     },
     {
       "path": "l/uk/index.html",
-      "bytes": 11620,
-      "sha256": "8a43fd0cb7b08c37c9d52bf1f6f53996423d17251e7dd2e309755bfb7b4aa012"
+      "bytes": 11848,
+      "sha256": "7666da839f1737533cbda786d573bc1dae859008fee5521cce1b934423d1bff8"
     },
     {
       "path": "l/ur/index.html",
-      "bytes": 11374,
-      "sha256": "dde47e9e5a8dc4af9af68afd8b4f35978fe026b5415477bb1ea033d950053a77"
+      "bytes": 11602,
+      "sha256": "b24744426c220d5a57ad3c3e7f8971c82bf212570758ba2b93b58a466124c81d"
     },
     {
       "path": "l/uz/index.html",
-      "bytes": 11284,
-      "sha256": "a9cb39ad3a1870eb23a69c517e7edef2f8f15b052a7ce45851d37ac0c195d0e4"
+      "bytes": 11512,
+      "sha256": "36ba7ec47adc3e0a01043ef2ec95d5ff0670152b1b37632482b71aff7f8d9e86"
     },
     {
       "path": "l/vi/index.html",
-      "bytes": 11264,
-      "sha256": "3c1dc2ebd1711feb8c06897e29d8447771a954be073790f3d3016872fb9282cb"
+      "bytes": 11492,
+      "sha256": "0518f1141eb920c8e5bb5b27285b09fa5b8c0e1bfe2e7c66ee81a59dd87cc7c5"
     },
     {
       "path": "l/zh-CN/index.html",
-      "bytes": 10980,
-      "sha256": "fd397ab7f1d73fa744514a616ba6c72cbf540628342525610b108c2774f6dee5"
+      "bytes": 11208,
+      "sha256": "f0b899431d69d125ac744c8b09676bb4f77a0f3ba438b374468906fb08892b41"
     },
     {
       "path": "l/zh-TW/index.html",
-      "bytes": 10980,
-      "sha256": "4f0ba48732abf789eca82deac4c7514ccc4d51121d41b68ccd14edf1e0442973"
+      "bytes": 11208,
+      "sha256": "e5ff9e1737ee2d2c71e989499c132bde4d0cd341ddb5b5e0d3ce78a4df89d329"
     },
     {
       "path": "llms.txt",
@@ -2123,8 +2123,8 @@
     },
     {
       "path": "market/README.html",
-      "bytes": 10995,
-      "sha256": "0b06e997bd36e5bc0e0c1fe55655eadd3795e1a8983319c2dde12dbfb9cfc806"
+      "bytes": 11223,
+      "sha256": "ac9120613290283ef84c0a03f46024a7eb2f2f7770324aeb5ea3b065f7e85a42"
     },
     {
       "path": "market/analysis.js",
@@ -2163,8 +2163,8 @@
     },
     {
       "path": "market/index.html",
-      "bytes": 8574,
-      "sha256": "5e9641e2665cdc1574ced412f57661134ef55e70d0430e20cc6ef5b82dc6da0e"
+      "bytes": 8802,
+      "sha256": "228186a2469b885a0078a4580e6c2c8d8b1db748419ebeb6eefe193fc859a888"
     },
     {
       "path": "market/styles.css",
@@ -2198,23 +2198,23 @@
     },
     {
       "path": "ms/index.html",
-      "bytes": 15848,
-      "sha256": "d0ae06bc70b5e36fd692c055d9bcc6d635cc321e85685232f0db765b7258fe55"
+      "bytes": 16076,
+      "sha256": "7f024f31dc1e12825ee842876006f5589d30dee12c6ae77019dc82dcf74caba7"
     },
     {
       "path": "parkinson.html",
-      "bytes": 166628,
-      "sha256": "229edfda9c4712425880684f6527fc827e0883cc98d347f938467033c57002bc"
+      "bytes": 166856,
+      "sha256": "9ce81ffd5f126b4744628fa03abd7918c3a56e2dd29a34f0d25482e37c6f5c37"
     },
     {
       "path": "pl/index.html",
-      "bytes": 15855,
-      "sha256": "10b6d29043047159b67adf46257454331f574f174b848ac798fb554b15354a4e"
+      "bytes": 16083,
+      "sha256": "29df2d8606a9ea9df85776259f9089772e710985d15982d77786d9cca6e1df7a"
     },
     {
       "path": "play/index.html",
-      "bytes": 8507,
-      "sha256": "41892365dc5139887eadb09555b3ef7a59e3ce98d65189d8b9cb330feec3f3f2"
+      "bytes": 8735,
+      "sha256": "ad308ef39f7e946f61f8a5d181509eb386d297dca3324c45b302cf441504cf79"
     },
     {
       "path": "play/page-language.js",
@@ -2223,28 +2223,28 @@
     },
     {
       "path": "privacy.html",
-      "bytes": 3839,
-      "sha256": "fe19de371358b73e8cbbe15dc6e7f978a780f9982469662de399ff3869586a31"
+      "bytes": 4067,
+      "sha256": "ff418b50145529345243aa5fa989cb0f3256cf506b9d0dcafe3db84ed1432124"
     },
     {
       "path": "pt/index.html",
-      "bytes": 15998,
-      "sha256": "67834951ce92ff141cb48c610e24f9c4da73958ea31eba55a4a1852b72e1d8b3"
+      "bytes": 16226,
+      "sha256": "d00f97b5aee5f0450dc9f0cf5f5701b3e999390fd1a495b996c71843264cf677"
     },
     {
       "path": "question-bank.html",
-      "bytes": 90594,
-      "sha256": "433af61aeab6296d131897b58729d4d473ea7e42e4601298fdf6ec0e9fffecab"
+      "bytes": 90822,
+      "sha256": "1fb0a4e758226aa1587382fa1d8772e784205d7e399ea9a4ead871f532f23f6a"
     },
     {
       "path": "quiz.html",
-      "bytes": 9798,
-      "sha256": "ed537ada6980af49365a2af46419bc0dd55e92c39e30227a2f0210505aa9bef3"
+      "bytes": 10026,
+      "sha256": "8ae00ee5c07744523d45de3b436428afcf50ceae8fc4396c5b32dc2eff20cf51"
     },
     {
       "path": "resources.html",
-      "bytes": 40024,
-      "sha256": "4a09f16abe1247e80b4cf5ad9b9e99604dc9ce03ae4e5d42b7e1cb4ce05dbeca"
+      "bytes": 40252,
+      "sha256": "375b01317d17218e2544cf7123f127463c618730d59e852b879338741d8b728b"
     },
     {
       "path": "robots.txt",
@@ -2253,8 +2253,8 @@
     },
     {
       "path": "ru/index.html",
-      "bytes": 17432,
-      "sha256": "f960eb9481b6c81d0b70c5880d72b3bf15069345f1b125e00fcfd7f85bcef599"
+      "bytes": 17660,
+      "sha256": "c70f122a834ee4a22a4a911db45cea8c9dec6c4c0019fe1e447416ee729313ea"
     },
     {
       "path": "scripts/build_portal.py",
@@ -2278,8 +2278,8 @@
     },
     {
       "path": "sv/index.html",
-      "bytes": 15906,
-      "sha256": "795757be8e2ea74e15a3d87f4d4688c3b882d2d3c3e7a569c349a5c826850fd2"
+      "bytes": 16134,
+      "sha256": "587ac89fb313c28307841ebc75d3c00b2a8913eba6f1222d28c55fba4b433d18"
     },
     {
       "path": "tests/artifacts/SmartAction-wishlist.json",
@@ -2358,8 +2358,8 @@
     },
     {
       "path": "th/index.html",
-      "bytes": 18731,
-      "sha256": "b4fa0c6a8985e0dd687755c92a93c5babaa1856cf1afc2fa2173b551c50813b1"
+      "bytes": 18959,
+      "sha256": "5a1811540611fd8f4ead3d3a6b112745b2623203e4545a3cb0165f8a3ea21058"
     },
     {
       "path": "tools/QA.txt",
@@ -2378,8 +2378,8 @@
     },
     {
       "path": "tools/index.html",
-      "bytes": 12608,
-      "sha256": "9c9173057b7cc55c77a3049af21e72cb3a10a7c226806f11da426b8a6eb356ed"
+      "bytes": 12836,
+      "sha256": "80a38b398eef99e78458a6bf7ca6e7434454a56655e61803efe2fc4cbe64228a"
     },
     {
       "path": "tools/styles.css",
@@ -2393,288 +2393,288 @@
     },
     {
       "path": "vi/index.html",
-      "bytes": 16341,
-      "sha256": "0cb1564519da9464846486d17b01bc96d571ef2f83db306f0a43499360170fbe"
+      "bytes": 16569,
+      "sha256": "ddd416de0278639276447220fa88878ab71d0a59d837df7d54faf0ac7696d83d"
     },
     {
       "path": "videos.html",
-      "bytes": 4632,
-      "sha256": "2a2812ebd4ceaeb6e142cf1f4119759d3e849775e7741323d84250eb685adffc"
+      "bytes": 4860,
+      "sha256": "35852de473de98100f50597ef26acc20915279c5c55ed69795120dd7dcd76a41"
     },
     {
       "path": "zh-CN/blog/081e9814498.html",
-      "bytes": 6134,
-      "sha256": "9336af64c50d0a2bfa932619b598e04eb640cfacfa73f73e0b2b30f35ee026ae"
+      "bytes": 6362,
+      "sha256": "c3fd13c3868ad4bffa194b26d324d2838b7d193584610e06617da8c653122d65"
     },
     {
       "path": "zh-CN/blog/0de305e00f7.html",
-      "bytes": 6541,
-      "sha256": "d09488ea9f4868adf9e87ffa6bcc181d3e8786c2c628052409574e700b68ee36"
+      "bytes": 6769,
+      "sha256": "38149b369c4953c9129ce1b61201af1df7d12b1f06fab9144ecf2c60f2683714"
     },
     {
       "path": "zh-CN/blog/1140508.html",
-      "bytes": 6638,
-      "sha256": "9775591003e50290f56a3e949a391f7b3f0ad20dffd70cbf2e168544f5bfc5a4"
+      "bytes": 6866,
+      "sha256": "ca1610280fb554ea3d6cb2e3f56699dec583be44e46d8154710146169ce78c40"
     },
     {
       "path": "zh-CN/blog/1140527.html",
-      "bytes": 6395,
-      "sha256": "d3c601e8c6abf8d7801f3f792de7cba6fb0956e8b416652e1cbc6f1b2525ad25"
+      "bytes": 6623,
+      "sha256": "85c2c2450d66e36f589e1934fb125d66fa07007d8b481bcb28aff93e08d0d391"
     },
     {
       "path": "zh-CN/blog/1140607.html",
-      "bytes": 6829,
-      "sha256": "f86fdb8f7e4d255b55e4944ef40361204c62d645e84db7c4e8064746037d5132"
+      "bytes": 7057,
+      "sha256": "46e419374f35a371c1e3d483cf0355054fbef5d27570847c72a4abb1451c2df1"
     },
     {
       "path": "zh-CN/blog/1140705.html",
-      "bytes": 6556,
-      "sha256": "b4009f4b4b32148933cfd947d08aea54e9ee25552ea76166ae071448075c02d9"
+      "bytes": 6784,
+      "sha256": "1cc9c5c21f02d5871cbf538b739a0a192f440137d5d707a755652148ff1c1dc5"
     },
     {
       "path": "zh-CN/blog/1140722.html",
-      "bytes": 6610,
-      "sha256": "763f6414606d48c5a83f21dac8987c2a4fc2a12f815d92bbaa44e83359dafc25"
+      "bytes": 6838,
+      "sha256": "56eed560182bdbbf96765308050ed6a38d9c8019c53da44900afd906e804e267"
     },
     {
       "path": "zh-CN/blog/1140809.html",
-      "bytes": 6450,
-      "sha256": "aced70f9921b748393e7c0ef5abcf1937ab7b6ebdfa29a51df44a11f3af56368"
+      "bytes": 6678,
+      "sha256": "fd7a02fcc67f354d2f07c5c6f7231430856b09e205e16c2987901952484f5388"
     },
     {
       "path": "zh-CN/blog/1140819.html",
-      "bytes": 6669,
-      "sha256": "a07b46041801bf940e28aa5f5191651b72c2f8d050ec6d74c688139a356e17b2"
+      "bytes": 6897,
+      "sha256": "64e7b8ad70bbbf520259735f1dd07fe63c2f6cc5f81913e6b2bf1b353abcf127"
     },
     {
       "path": "zh-CN/blog/1140823.html",
-      "bytes": 6562,
-      "sha256": "3feeb05820b95f201349278c5e5617d2b5d48caf22fe8939d474a90cf429ee3d"
+      "bytes": 6790,
+      "sha256": "92326f9f46dd59cd962f944510c39e0294b82da661fe2488395b3a44fc7d2472"
     },
     {
       "path": "zh-CN/blog/1140826.html",
-      "bytes": 6553,
-      "sha256": "c6de78d55291220b92784d6f105e7ce73d01711bfc5680fed82df6684cef4161"
+      "bytes": 6781,
+      "sha256": "45b7d1024749ff96bddd5e4652bfd56206f7764210f5750cf3b98bf167380d76"
     },
     {
       "path": "zh-CN/blog/1140902-diy.html",
-      "bytes": 6684,
-      "sha256": "33625552487ae2fe6c28b326924a9ed05f14b49b68265e635d4c10e1326caa9c"
+      "bytes": 6912,
+      "sha256": "13a92b4257e9e7f1a8374c558df415f156f42ca72f1f511c1476e9824192b1b6"
     },
     {
       "path": "zh-CN/blog/1140920.html",
-      "bytes": 6367,
-      "sha256": "ee1f1fa15e0bd0a28138b1adc4f9f93dbc63131b10130003b23afd35c4d36835"
+      "bytes": 6595,
+      "sha256": "5a7d30e39f9c91b50c2d11a6af78fe231afa076d41024fb3c3a18387d540b00c"
     },
     {
       "path": "zh-CN/blog/2026.html",
-      "bytes": 5859,
-      "sha256": "63596cf67c0d18ba9e72916b049a0c92b7cadfb1f778149ad54d8a72b535deaa"
+      "bytes": 6087,
+      "sha256": "fc71b11765deebd7c559c6ab53936bda0ab53e2bc87b17fd4f31e7cd4c19ef93"
     },
     {
       "path": "zh-CN/blog/20478397518.html",
-      "bytes": 5373,
-      "sha256": "2ea657cd7969b62dbf43f2c31d79d3b07926d518e319cf102139f7cc5bbbaa18"
+      "bytes": 5601,
+      "sha256": "ea15756836762c720c2f31c7a708ed013f94a99a835c3b6ade741468970c410b"
     },
     {
       "path": "zh-CN/blog/33cb605cf06.html",
-      "bytes": 8872,
-      "sha256": "a70a126ea4d7ddd186683d6752ee683c85b541da5d318f2a86ac3fb5eccc41b2"
+      "bytes": 9100,
+      "sha256": "2d16172dc7cd0b3c38f5a33b656f3ec52ceb39f1a61d8217de6227f2b36a761b"
     },
     {
       "path": "zh-CN/blog/445cc624575.html",
-      "bytes": 6207,
-      "sha256": "7b4b68bcb1ab50b450c7d28cc7a0046e809249cbf671b78ab37fba3b2ecdc575"
+      "bytes": 6435,
+      "sha256": "b9fd32ac09cca8cc45134dc651c3f7da7bfbd52fb37c11dc5ab7433632519a2d"
     },
     {
       "path": "zh-CN/blog/4f9ab696101.html",
-      "bytes": 5373,
-      "sha256": "96ee9fc5b5349f9d78774bffeb44c086be98bc828f2eb491bdcae4b84eb26667"
+      "bytes": 5601,
+      "sha256": "695d7d12413ebc1736ec517c4df5e0fe06fee523a93aa97f862a000efa7ac642"
     },
     {
       "path": "zh-CN/blog/7ce89166493.html",
-      "bytes": 6001,
-      "sha256": "991a0949b03eb290df342ae44ac6c1211b5afd5c50153276d20b0dc11a102912"
+      "bytes": 6229,
+      "sha256": "87ca7c1bcca2c246a27ed5c11675030a75082bbd7db6ff3bebe940bc70dfc55a"
     },
     {
       "path": "zh-CN/blog/8494322ddbf.html",
-      "bytes": 6473,
-      "sha256": "0cfef8a4c14799e739f52d0b6ed13187f3b80510b236949a4db3b787dd29062c"
+      "bytes": 6701,
+      "sha256": "51646c56200cc4ccada4fd252ad263729e847d61717b9a8f9e42f49833dd2ebf"
     },
     {
       "path": "zh-CN/blog/a63f966cedc.html",
-      "bytes": 6264,
-      "sha256": "f175c1384baa9dc5743aaee176e11d940d11a3344216070c64db2d3df1803481"
+      "bytes": 6492,
+      "sha256": "19ba1255afbc728a0bef28de781d0288c425f2459873153a4b5536bcdd21529d"
     },
     {
       "path": "zh-CN/blog/activity-114-02-20-part3.html",
-      "bytes": 5720,
-      "sha256": "d2b3c0a1434b751ad9a37d14c2e9ad4317f1c9a2a1b9f0c9a6e1e9e230dcb995"
+      "bytes": 5948,
+      "sha256": "5bead4fdd5c496c40526e4301760952da5c1441462ef4faf04e8e69420b2d35d"
     },
     {
       "path": "zh-CN/blog/activity-1140215.html",
-      "bytes": 5941,
-      "sha256": "d60efa0dd02a6029cf433ac9b56c7dc7684cb8d10d8b0dc6ce475ec2a07a274a"
+      "bytes": 6169,
+      "sha256": "73a24f6e070733dc20d91ea3f160ef49cdc5c4a19f5ad2d2a54fba1c4afcc894"
     },
     {
       "path": "zh-CN/blog/activity-1140308.html",
-      "bytes": 5647,
-      "sha256": "a3c3e9894feda254cb0d54aa393aa6a0ed6572f693ffdfbb4af2280220c65f29"
+      "bytes": 5875,
+      "sha256": "f74e6be977ae911a593989bd6920a9dbe6268b835f3119a8083e80c9b1fd7ac5"
     },
     {
       "path": "zh-CN/blog/activity-1140315.html",
-      "bytes": 5710,
-      "sha256": "100dae4985cb2dbd965995c1fbb5ffb9ebd581d64fbe92c87ae40812af03ab34"
+      "bytes": 5938,
+      "sha256": "553ef4bdf299f0d212b872cc484b00196a644d16cf4752f56c594295afeff43e"
     },
     {
       "path": "zh-CN/blog/activity-1140412.html",
-      "bytes": 5738,
-      "sha256": "6321a05d230ffb32cca5e8f5571d2afe1683791a4bc395d25db8b72f7b6df2b9"
+      "bytes": 5966,
+      "sha256": "670ae6636bb8062768d5ae8beea61e43014b345c2a1362bb87332e9af646afa2"
     },
     {
       "path": "zh-CN/blog/activity-1140508.html",
-      "bytes": 5626,
-      "sha256": "2c07354470e7ad8ed97e6b02b23d05ec45a8515ee06ea372cf857f203ec338f5"
+      "bytes": 5854,
+      "sha256": "2787c735b68f3e6318f59535dc2b8de407065e03606b73543624fbe9100650fb"
     },
     {
       "path": "zh-CN/blog/activity-1140527.html",
-      "bytes": 5626,
-      "sha256": "6ffd6110d98f4e15e193e4e575e0726e65a1581f2cfad40e41fc6fdbd4d66276"
+      "bytes": 5854,
+      "sha256": "0be2f74b11ae44fceb17795905c005aeec1434281df70ae3ba6596b2d9553fe4"
     },
     {
       "path": "zh-CN/blog/activity-1140529.html",
-      "bytes": 5479,
-      "sha256": "f235b99d5a5b370ff8ae4a1f671c6ba414c199ece4e9acbe17cb264042edb6f7"
+      "bytes": 5707,
+      "sha256": "03e232b7405ee4596c6326f6c60f7eb0f560b3b1337109337b7205b023b6ae84"
     },
     {
       "path": "zh-CN/blog/activity-1140607.html",
-      "bytes": 5710,
-      "sha256": "1c0100a7a330d3b37cd3585093725b0806aa5c197b0fff815af5ad714d3387bf"
+      "bytes": 5938,
+      "sha256": "5721b1e8794774c7733f6f5537e0c306ca8fa7619f2b6160081f4996b0186ab3"
     },
     {
       "path": "zh-CN/blog/activity-1140705.html",
-      "bytes": 10853,
-      "sha256": "ca9953a17977e72c50e7bc7d2d07f5c92e07fe0c6f7e289dc5ecbd4fc0b579ac"
+      "bytes": 11081,
+      "sha256": "70854bd3935224dc2e6cc5ec202e2704d64644e9986df21a1983eccb3eb797e8"
     },
     {
       "path": "zh-CN/blog/activity-466f10c3451.html",
-      "bytes": 5631,
-      "sha256": "8c211bb9e6c911edd0eb1e326596b192b8282525bda13f8c54d1738c1162cfa5"
+      "bytes": 5859,
+      "sha256": "c238b3d785a1ba0b42f57eab9c0b7508df45657fb6233fdd6d02a9e0c79d60d4"
     },
     {
       "path": "zh-CN/blog/activity-6.html",
-      "bytes": 5445,
-      "sha256": "f232167659dffc662871b67f029456cc5ccadcd4b56232994e4b94ad27596d5b"
+      "bytes": 5673,
+      "sha256": "a4bc047a732dabca4c11107dc81067ad8a864f9baf974acbc0dc18c5778c1ffb"
     },
     {
       "path": "zh-CN/blog/b127aee8859.html",
-      "bytes": 5373,
-      "sha256": "4d679c41a31a1cb578be62a7dfa17b145b1028f68a77b26f464c07c5f371b058"
+      "bytes": 5601,
+      "sha256": "5b598a9254374cfbaa949464304e09aabcad7492ac695d1300da90b9126abf18"
     },
     {
       "path": "zh-CN/blog/dc2c10fc11a.html",
-      "bytes": 5975,
-      "sha256": "8c0cc8d379a3d38996d5836904ab1047cc94b6f02dd1807dc70829248761e043"
+      "bytes": 6203,
+      "sha256": "aaa112adc1346164251fcf3826404f47b38f4e1a59153d9bbae78614625faf6e"
     },
     {
       "path": "zh-CN/blog/index.html",
-      "bytes": 30141,
-      "sha256": "66dcefea0b46864454a402ca0077a32f24b132cc9fdbb3cb0376b0ff799c1ccc"
+      "bytes": 30369,
+      "sha256": "d1f6aecb818fefaf9098f5249f225736df15908608d600c801f4b35ee9052163"
     },
     {
       "path": "zh-CN/blog/parkinson-0fa1925b25d.html",
-      "bytes": 5902,
-      "sha256": "0b96d6bde76e43d5a18656d50b0afa857135f8d5ed524104b278c4851b326b48"
+      "bytes": 6130,
+      "sha256": "edec63d9ae64d599eab0cab4a4894d7518312cd0513aa7f17e876f64e01403fb"
     },
     {
       "path": "zh-CN/blog/parkinson-2024-2025.html",
-      "bytes": 5656,
-      "sha256": "c06c3666029546549d0d71fb7e3d358b20a0673eeda675d96d6ac445242a8e7b"
+      "bytes": 5884,
+      "sha256": "9253e8923ee8654391921118a3c7007bdf117ee2fa8d34fcd07b49cdc70dbdfd"
     },
     {
       "path": "zh-CN/blog/parkinson-2b4a029033f.html",
-      "bytes": 6265,
-      "sha256": "0a5724ece0f2047872c1238ad15244596d45925263f4fdd4a99ed1993ddf1f0a"
+      "bytes": 6493,
+      "sha256": "c324dbf522328ae86ea34bdae5b4ca961474f08781907c3e3dead1e0abaaf75e"
     },
     {
       "path": "zh-CN/blog/parkinson-362f7dfda29.html",
-      "bytes": 5686,
-      "sha256": "63934cffef82731ec95e3d21a97175984e0117f7eb09e250ac05a78e98f155f2"
+      "bytes": 5914,
+      "sha256": "0f32efe9d380a2d3658f396307dcea3c53de2e859b0291f074e99ce41fcd33d6"
     },
     {
       "path": "zh-CN/blog/parkinson-38a7a983588.html",
-      "bytes": 6351,
-      "sha256": "0418f07a22793710dec217676c713ff3bc0798db608cf4a8d85e66c0ac3fca92"
+      "bytes": 6579,
+      "sha256": "e99e3da8df99b723220525339e0c8619c372964502011512f9e00c7202e3f133"
     },
     {
       "path": "zh-CN/blog/parkinson-97a2b32d43c.html",
-      "bytes": 7037,
-      "sha256": "19547d40d022685056371dc7d922f2d902c5bbbc5f4f6a9f1e49500e0f0c14bf"
+      "bytes": 7265,
+      "sha256": "e6b32aa00cfd1a9d7537df70c9b361a2f6382c12b52a8a98ccc3b0f1ee5dd765"
     },
     {
       "path": "zh-CN/blog/parkinson-a92e4e924f9.html",
-      "bytes": 5919,
-      "sha256": "a7c4d30f7b8849631dbb86807b2e207d72f16f831a48e5c94172a2d0762e1388"
+      "bytes": 6147,
+      "sha256": "36eb57f433f410d7319925eacac9b351e20fcef0e0397a7b949e81b545e0201a"
     },
     {
       "path": "zh-CN/blog/parkinson-app-a907c769-defb-4568-a4c3-90004c48a842.html",
-      "bytes": 6941,
-      "sha256": "89fe0f425e1bbca1aeb7f64105512fe413f99320ffb64ede8ccf25b5f8951f3d"
+      "bytes": 7169,
+      "sha256": "2af77f12310b8e990728463f7ad4bac881aee3e0eb2c0045c1aec730cdd9bada"
     },
     {
       "path": "zh-CN/blog/parkinson-app.html",
-      "bytes": 5503,
-      "sha256": "7aeb373687c634ac28814f5931bc8baa5c2d73a06697d21b74a5a7d2287e833f"
+      "bytes": 5731,
+      "sha256": "397732fdefaf5ef5fba8a099dc6b6f5660d1537e7b2ff712dca63b3d34fbc91f"
     },
     {
       "path": "zh-CN/blog/parkinson-bd084d246b1.html",
-      "bytes": 5613,
-      "sha256": "78a79cef54b1a6b59833da9188fdedefa833ac205c1122c8b3ed87f086606dc5"
+      "bytes": 5841,
+      "sha256": "82b522eee056235006434843d1dee882d95f5e72dfa801bd29d288d8999a0a91"
     },
     {
       "path": "zh-CN/blog/parkinson-drug-induced-parkinsonism-movement-disorders.html",
-      "bytes": 6245,
-      "sha256": "2c89caa81f44764acffa6c83ad0f36dc6a9527e2ecc6322e0c541d65f29d1643"
+      "bytes": 6473,
+      "sha256": "b96c58ee55b156c4730c137fd18a3b614fa661a2baa3901296b28a2091c21934"
     },
     {
       "path": "zh-CN/blog/parkinson-pd.html",
-      "bytes": 5885,
-      "sha256": "a56f82e3f6348d1b8ec18a6d80345438397c9033aa127e59c5c86a824032be15"
+      "bytes": 6113,
+      "sha256": "c6723e8fae7e3566eee3876314c4d9b42ad839247f1da825b6ca1a6526576f64"
     },
     {
       "path": "zh-CN/blog/parkinson-qr-code.html",
-      "bytes": 6122,
-      "sha256": "6ed81924f2ea142e5943a7a59066c14f0c4819321708f3a0fda5b76e9b8d70ba"
+      "bytes": 6350,
+      "sha256": "52ff136e5d40d90002588ca642ea800167e65c080e71de4a3fefc6cdeb48564f"
     },
     {
       "path": "zh-CN/downloads.html",
-      "bytes": 5158,
-      "sha256": "f55cbc0361803460c32beaca997a3792ed90c5bcfb9ed62aedddf016e7e41f8a"
+      "bytes": 5386,
+      "sha256": "a405edd358757421647590300e4d3a207b64ed205db15a17cfa4d363e99441ee"
     },
     {
       "path": "zh-CN/index.html",
-      "bytes": 15575,
-      "sha256": "3fdf8ee3206edd854b4a81a68ee5f610134e67f2ab6b4a88d7f136287686b20b"
+      "bytes": 15803,
+      "sha256": "4ffd80b2bdb6f2343507e5b555a3375066799b9bdc5b750f867a1d1aee549745"
     },
     {
       "path": "zh-CN/parkinson.html",
-      "bytes": 166807,
-      "sha256": "95caae0031f7e3c796067320c33480efa3d8d819a296cca300d7e76fe3ab2acd"
+      "bytes": 167035,
+      "sha256": "e1dde8b13d729b2ea0b5222f412f2d3810c91d7ecdf39aa6adea944888e525df"
     },
     {
       "path": "zh-CN/resources.html",
-      "bytes": 32550,
-      "sha256": "69d0d8b189a4fac9c6d102d6ccc7bcf4cd6f3555caf90524eaf8db678ade920b"
+      "bytes": 32778,
+      "sha256": "fb033f61582b009bf6dcd8042b6e905c6594075eb2b7a1ee4f1a7633460cccfc"
     },
     {
       "path": "zh-CN/播放說明.html",
-      "bytes": 7355,
-      "sha256": "1e839350205e0f0be4af74c82f349bb35db834fd3fccc150ebbd06f33a4d7afc"
+      "bytes": 7583,
+      "sha256": "4f35eec593bc0f34700c4bc9bde2cf845f3ccb915492a4fca6e283291d57c2d9"
     },
     {
       "path": "zh-CN/社團法人高雄市聰動成長協會.html",
-      "bytes": 182102,
-      "sha256": "02a8b4028206526d31981f297ee0689029e8757892447033a2e3f9b7ac933094"
+      "bytes": 182330,
+      "sha256": "9822d5728db307602efcc4d432f2ae3398cc0a1c176c49626192f51ca92e2647"
     },
     {
       "path": "動動腦/AI由圖片生成影片/README.md",
@@ -2688,8 +2688,8 @@
     },
     {
       "path": "動動腦/AI由圖片生成影片/index.html",
-      "bytes": 18179,
-      "sha256": "3361879abf5359b1c4c37b82e93f37a2ac59c89aee30a0dfec99581d98a2e00e"
+      "bytes": 18407,
+      "sha256": "a0fcc29d423d7ecd9ba9171fd3a1ef944e5aae56b0ba327c096f248cac3eb38b"
     },
     {
       "path": "動動腦/AI由圖片生成影片/media-core.mjs",
@@ -2708,8 +2708,8 @@
     },
     {
       "path": "動動腦/index.html",
-      "bytes": 12391,
-      "sha256": "287253be9fcf7458c6cb73b4431d5587bafa237013c80c980aeef1d27a4a5c31"
+      "bytes": 12619,
+      "sha256": "8e3069cb42a844cb5d162bb8eaa0c11e31324ff433973342f68b07f9112c554e"
     },
     {
       "path": "動動腦/無人機模擬操控/README.md",
@@ -2718,8 +2718,8 @@
     },
     {
       "path": "動動腦/無人機模擬操控/index.html",
-      "bytes": 14277,
-      "sha256": "24a6b66984ff7d33bf7ec9f1d5c9f8baac628a72db7ad7f8b100f3a99639cc36"
+      "bytes": 14505,
+      "sha256": "2798a21c54b87eda95322bec117eb425f1b1f8578ad9183c1dac60d16e4d9ddb"
     },
     {
       "path": "動動腦/無人機模擬操控/simulator.js",
@@ -2798,13 +2798,13 @@
     },
     {
       "path": "播放說明.html",
-      "bytes": 7311,
-      "sha256": "c91f28f0617a3ae69e7987a13f72fb5965fc799c0e7194703a296b3d5c635a5c"
+      "bytes": 7539,
+      "sha256": "283229362937700cd566305611cf75e1a2c7c728d0f3dc4dae897b578c90d985"
     },
     {
       "path": "社團法人高雄市聰動成長協會.html",
-      "bytes": 15522,
-      "sha256": "23ef92ea90c278ac34ce8633ec78f594edb56bd232668aacbb81a804b516d63f"
+      "bytes": 15750,
+      "sha256": "ffb4f9db27e68396314c72187410ceb43d39498723bb36b5e4bd8a3f9e82c7de"
     },
     {
       "path": "社團法人高雄市聰動成長協會_files/07e6c80f22-maxresdefault.jpg",
